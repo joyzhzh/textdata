@@ -1,3 +1,5 @@
+The current documentation is in [06-gioia-methodology](../06-gioia-methodology/README.md). This earlier path is retained for existing links.
+
 # Gioia Methodology
 
 [Webpage](https://textdata.info/toolkit/gioia-methodology/) · [All components](../README.md)

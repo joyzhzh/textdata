@@ -1,3 +1,5 @@
+The current documentation is in [07-eisenhardt-case-methodology](../07-eisenhardt-case-methodology/README.md). This earlier path is retained for existing links.
+
 # Eisenhardt Case Methodology
 
 [Webpage](https://textdata.info/toolkit/eisenhardt-case-methodology/) · [All components](../README.md)
