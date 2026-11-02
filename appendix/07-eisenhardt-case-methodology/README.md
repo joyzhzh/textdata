@@ -1,32 +1,41 @@
 # Eisenhardt Case Methodology
 
-[Webpage](https://textdata.info/toolkit/eisenhardt-case-methodology/) · [All components](../README.md)
+[Explore the webpage](https://textdata.info/toolkit/eisenhardt-case-methodology/) · [Use with an AI assistant](AI-PROMPT.md) · [All components](../README.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+A method map, a reference collection and a working maintenance skill support preparation for case-based theory building. The software preserved research materials during a documented reorganization. Case analysis remains proposed.
 
-## Purpose and scope
+## Explore the work
 
-The current toolkit supports preparation for Eisenhardt case-method research (Eisenhardt 1989, 2021). It gives researchers a methodological reference map and tools for maintaining the materials from which case-based explanations can be developed.
+- **Method map:** [METHOD_MAP.md](docs/METHOD_MAP.md) explains eight phases, from defining a puzzle to communicating a theory, with source notes and material qualifications. For example, theoretically useful similarities support replication across cases; differences can challenge an emerging explanation.
+- **Reference collection:** [data/r12/](data/r12/) contains 22,856 candidate-reference records in CSV and JSONL, plus 20,732 unique DOIs. Records are not distinct papers; duplicates or versions may remain. [Field definitions](docs/data-fields.md) explain screening labels and metadata qualifications.
+- **Maintenance prototype:** [tool/SKILL.md](tool/SKILL.md) and four scripts inventory, plan, apply and verify workspace changes, and export the reference collection. The analytical steps of case selection, within-case analysis, cross-case analysis and theory development are not implemented.
 
-## Design and components
+## Run the illustrative example
 
-The package brings together a literature collection, methodological synthesis, agent instructions and software for organizing, checking and exporting research materials. The methodological map describes case selection, within-case analysis, cross-case comparison and theory development; the implemented software currently handles preparation and collection management.
+Python 3.9 or newer; standard library only. No network or model is needed. From this folder:
 
-The reference map connects the logic of building theory from cases with the tasks needed to prepare an inquiry. Candidate references remain qualified records, rather than automatic evidence that a study followed the method. The collection-management tools maintain the materials and their history so that future analytical choices can be linked to a stable research base.
+```bash
+python3 example/run_example.py
+```
 
-## Use and outputs
+The example copies two synthetic packages into a temporary workspace, seals a move plan with a checksum, applies the approved plan and verifies the result. Expected output: `all_as_expected: true`, two renames, two relative links, zero copies and zero deletions. It refuses missing or incorrect approval, a changed plan, added-file drift and re-application.
 
-The method map gives a researcher preparing a case study a reason to choose one case over another. It asks what similarity should produce a replication and what difference should challenge the emerging explanation. For within-case work it calls for a chronology tied to sources. For cross-case work it asks what would count against the proposed relationship. The map connects these choices to methodological readings. The accompanying collection identifies studies for further reading, with a screening judgment and a stable link where available. A screening label alone does not establish that a study used the method.
+Inspect the retained [summary](example/output/SUMMARY.json) and [refusals](example/output/04-refusals.json), or follow the [AI prompt](AI-PROMPT.md) to explore them. This is an executable preparation example, not a demonstration of theory building.
 
-## Evidence and limitations
+```bash
+python3 checks/run_checks.py
+```
 
-The bounded review of six public artifacts did not establish a validated end-to-end implementation of case-based theory building. Some artifacts provide connected methodological instructions; their presence is distinct from demonstrated analytical performance. The toolkit’s own software currently maintains and exports the research materials needed to prepare a study. In a documented reorganization of the project workspace it preserved the research files, and in a synthetic exercise it refused a plan after the underlying materials changed. This demonstrates a preparation task. Case selection, case analysis and theory development remain proposed. The underlying methodological review was bounded and has not been independently assessed.
+Expected: `all_pass: true`. The offline checks cover the collection's counts and hashes, the 19 software tests, example replay, method-map rendering and the folder manifest.
 
-## Proposed development
+## Material limits
 
-We will extend the toolkit to case selection, within-case and cross-case analysis, and theory development.
+The map is a bounded interpretation, not a systematic review. Collection labels are screening judgments, not proof that a paper follows the method. The exporter requires a private source ledger; the shipped collection can be checked but cannot be regenerated here.
 
-## References
+Moves are sequential, not transactional. A partial failure requires inspection before recovery. Aggregate snapshots and selected hashes can miss same-size changes; the workspace must not change during application. Tests and one real maintenance use do not validate research quality or general agent control.
 
-- [Eisenhardt KM (1989) Building theories from case study research. Academy of Management Review 14(4):532–550.](https://doi.org/10.5465/amr.1989.4308385)
-- [Eisenhardt KM (2021) What is the Eisenhardt Method, really? Strategic Organization 19(1):147–160.](https://doi.org/10.1177/1476127020982866)
+## Sources and licences
+
+The method builds on [Eisenhardt (1989)](https://doi.org/10.5465/amr.1989.4308385) and [Eisenhardt (2021)](https://doi.org/10.1177/1476127020982866). Cited works are not included.
+
+Project code is Apache-2.0; project-authored documentation, annotations and compilation are CC BY 4.0. Third-party metadata retains its source terms. Field-level provider provenance is incomplete; this is not proof that each unmatched title or link is restricted. See [NOTICE.md](NOTICE.md) for source credit and the remaining API-terms qualification.

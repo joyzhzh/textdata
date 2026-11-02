@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gioia Methodology"
+  short_description: "Trace Gioia concepts and maintain reference provenance"
+  default_prompt: "Use $gioia-methodology to examine my supplied excerpts, propose concepts with rivals, and keep my decisions separate from suggestions."

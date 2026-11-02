@@ -1,28 +1,40 @@
 # Deep-research engine
 
-[Webpage](https://textdata.info/engine/) · [All components](../README.md)
+[Working demonstration](https://textdata.info/engine/) · [AI prompt](AI-PROMPT.md) · [All components](../README.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+The deep-research engine connects a researcher’s question to source-supported findings and decisions about research tools. The working prototype includes a reusable scout skill, an offline validator, and an evidence map whose claims can be followed back to the exact source passage.
 
-## Purpose and scope
+## Try the prototype
 
-The deep-research engine investigates methods, evidence and technical approaches to support the development of research tools, workflows and resources. It enables a researcher’s question to guide successive inquiry and capability development, extending the textual research that the scholar can undertake.
+[Explore the evidence map](https://textdata.info/engine/), or follow [the worked example](example/README.md): Langley’s article on theorizing from process data → two claims bounded to the publisher abstract → their use in the synthesis.
 
-## Design and components
+The example contains **77 works, 101 inspected versions and 141 located claims** about theory-building methods and software. Its [findings](example/campaign/FINDINGS.md) and [synthesis](example/campaign/SYNTHESIS.md) support a modular design: select the mode of theorizing first, preserve the sources of each claim, and treat theory quality as several criteria rather than one score.
 
-Research agents search, read and compare sources under the researcher’s direction. Development agents use the resulting evidence and decisions to build tools. The retained work spans three implementations. A July scouting exercise used a separate search protocol, the September methods inquiry used version 2 of the evidence protocol, and the current version 3 helper has been tested on synthetic inputs only.
+To check the supplied example, use Python 3.9 or later from this folder. No network, model or package installation is required:
 
-The research process connects questions, evidence and development. Findings can change the next search, identify a method to examine more closely or establish requirements for a tool. Retaining the evidence and the reasoning behind these choices supports later revision as the research problem changes or new technical capabilities become available.
+```sh
+python3 checks/verify_campaign.py
+python3 tool/scout/scripts/validate_lean_bundle.py example/campaign
+python3 checks/verify_manifest.py
+```
 
-## Use and outputs
+Expected: `19/19 checks passed`, validator artifact and claim-ceiling gates `PASS`, and `0 failures` from the manifest check. These checks establish file and record consistency, not source accuracy or search completeness. [Tool instructions](tool/README.md) explain the included scout skill.
 
-In September 2026 the researcher commissioned a methods inquiry to establish which analytical decisions the Grounded Theory toolkit could justify from the literature. Under a protocol fixed before the search, one agent assembled source passages. A reviewer using another vendor’s model prescribed corrections, and a fresh session using that reviewer model checked the revised records against the sources. The resulting synthesis distinguished source-supported methods from inherited choices and the developers’ adaptations. The toolkit requires analysts to identify the lines supporting an incident, record what a comparison changed and explain how they handled a case that contradicted a category. Requests for further sampling remain proposals for the researcher to decide.
+## Completed contribution
 
-## Evidence and limitations
+A methods inquiry informed the Grounded Theory toolkit’s source and comparison checks: analysts identify the lines supporting an incident, record what a comparison changed, and explain responses to negative cases. Further sampling remains a proposal for the researcher. The [methods basis](docs/RESEARCH_TO_CAPABILITY.md) links to the toolkit and retains the qualifications behind these choices.
 
-The toolkit’s methods notes preserve a correction about the evidence for AI-assisted coding. The reviewer had concluded that a paper did not identify its evaluators as authors. A fresh reading of the author-contributions section established that all four evaluators were coauthors. The corrected qualification appears in the toolkit. The review admitted the evidence records. The subsequent synthesis remained provisional. Review was unblinded, model identities were self-reported, and no second search tested the completeness of the first. The public toolkit identifies the decision and its basis, while the underlying review files are private. Unattended operation and wide external adoption have yet to be demonstrated.
+## Limits and proposed development
 
-## Proposed development
+The evidence map is English-primary and public-access, observed through 28 July 2026. It is effort-bounded and not saturated; many claims rest on abstracts or software documentation. Candidate software was not run, and all claims have not been checked by a human against their sources.
 
-We will adapt the engine for TextData and use continuing inquiry into LLM capabilities and agent methods to extend its tools, workflows, resources and agents.
+The included validator runs offline; the scout skill is a procedure for a researcher or agent with source access. A shareable, integrated engine and its evaluation remain proposed. The successor helper is not included and has only synthetic-input evidence (42 unit tests); unattended operation and wide external adoption have not been demonstrated.
 
+## Files
+
+- `tool/`: scout instructions, search contract and validator.
+- `example/`: final evidence map, findings, synthesis and a short reading guide. Search and screening inputs are retained because the validator requires them.
+- `docs/RESEARCH_TO_CAPABILITY.md`: how the methods evidence informs the Grounded Theory toolkit.
+- `checks/` and `MANIFEST.json`: offline checks and file hashes.
+
+Project code is Apache-2.0; project-authored documents and records are CC BY 4.0. Third-party material retains its own terms. See [NOTICE.md](NOTICE.md).

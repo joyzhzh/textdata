@@ -1,0 +1,900 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78897-78904]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26787]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90546; File No. SR-DTC-2020-014]
+
+
+Self-Regulatory Organizations; The Depository Trust Company; 
+Notice of Filing and Immediate Effectiveness of a Proposed Rule Change, 
+as Modified by Amendment No. 1, To Amend the Guide to the DTC Fee 
+Schedule
+
+December 1, 2020.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(``Act'') \1\ and Rule 19b-4 thereunder,\2\ notice is hereby given that 
+on November 16, 2020, The Depository Trust Company (``DTC'') filed with 
+the Securities and Exchange Commission (``Commission'') the proposed 
+rule change. On November 30, 2020, DTC filed Amendment No. 1 to the 
+proposed rule change, which revised a portion of the rule text and 
+corresponding description in the notice relating to DTC's current 
+policy regarding the issuance of rebates to Participants. DTC filed the 
+proposed rule change, as modified by Amendment No. 1, pursuant to 
+Section 19(b)(3)(A) of the Act \3\ and Rule 19b-4(f)(2) thereunder.\4\ 
+The proposed rule change, as modified by Amendment No. 1, is described 
+in Items I, II, and III below, which Items have been prepared primarily 
+by DTC. The Commission is publishing this notice to solicit comments on 
+the proposed rule change, as modified by Amendment No. 1, from 
+interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ 15 U.S.C. 78s(b)(3)(A).
+    \4\ 17 CFR 240.19b-4(f)(2).
+---------------------------------------------------------------------------
+
+I. Clearing Agency's Statement of the Terms of Substance of the 
+Proposed Rule Change, as Modified by Amendment No. 1
+
+    The proposed rule change, as modified by Amendment No. 1,\5\
+
+[[Page 78898]]
+
+consists of amendments to the Guide to the DTC Fee Schedule \6\ (``Fee 
+Guide'') to (i) revise and/or consolidate certain Fees charged to 
+Participants for certain settlement services,\7\ (ii) modify the 
+existing Participants Fund Maintenance Fee (``Maintenance Fee'') and 
+(iii) include a description of DTC's current policy regarding the 
+issuance of rebates to Participants, as described below.
+---------------------------------------------------------------------------
+
+    \5\ Each capitalized term not otherwise defined herein has its 
+respective meaning as set forth the Rules, By-Laws and Organization 
+Certificate of DTC (the ``Rules''), available at <a href="http://www.dtcc.com/legal/rules-and-procedures.aspx">http://www.dtcc.com/legal/rules-and-procedures.aspx</a>.
+    \6\ Available at http://www.dtcc.com/~/media/Files/Downloads/
+legal/fee-guides/dtcfeeguide.pdf.
+    \7\ Pursuant to Rule 2, Section 1, each Participant shall pay to 
+DTC the compensation due it for services rendered to the Participant 
+based on DTC's fee schedules. See Rule 2, supra note 5.
+---------------------------------------------------------------------------
+
+II. Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change, as Modified by Amendment No. 1
+
+    In its filing with the Commission, the clearing agency included 
+statements concerning the purpose of and basis for the proposed rule 
+change, as modified by Amendment No. 1, and discussed any comments it 
+received on the proposed rule change, as modified by Amendment No. 1. 
+The text of these statements may be examined at the places specified in 
+Item IV below. The clearing agency has prepared summaries, set forth in 
+sections A, B, and C below, of the most significant aspects of such 
+statements.
+
+(A) Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change, as Modified by Amendment No. 1
+
+1. Purpose
+    The proposed rule change, as modified by Amendment No. 1, would 
+amend the Fee Guide to (i) revise and/or consolidate certain Fees 
+charged to Participants for certain settlement services, (ii) modify 
+the Maintenance Fee and (iii) include a description of DTC's policy 
+regarding the issuance of rebates to Participants, as described below.
+Overview
+    DTC is a central securities depository, and as such, provides a 
+central location in which Eligible Securities \8\ may be immobilized, 
+or through which Securities may be dematerialized, and interests, in 
+the form of Security Entitlements,\9\ in those Securities reflected in 
+Accounts maintained for Participants.\10\ DTC also provides for end-of-
+day net funds settlement relating to these Deliveries.\11\
+---------------------------------------------------------------------------
+
+    \8\ Pursuant to Rule 5, Section 1, an Eligible Security shall 
+only be a Security accepted by the Corporation, in its sole 
+discretion, as an Eligible Security. The Corporation shall accept a 
+Security as an Eligible Security only (a) upon a determination by 
+the Corporation that it has the operational capability and can 
+obtain information regarding the Security necessary to permit it to 
+provide its services to Participants and Pledgees when such Security 
+is Deposited and (b) upon such inquiry, or based upon such criteria, 
+as the Corporation may, in its sole discretion, determine from time 
+to time. See Rule 5, supra note 5. See also, DTC Operational 
+Arrangements Necessary for Securities to Become and Remain Eligible 
+for DTC Services (``OA''), available at http://www.dtcc.com/~/media/
+Files/Downloads/legal/issue-eligibility/eligibility/operational-
+arrangements.pdf.
+    \9\ Pursuant to Rule 1, the term ``Security Entitlement'' has 
+the meaning given to the term ``security entitlement'' in Section 8-
+102 of the New York Uniform Commercial Code. The interest of a 
+Participant or Pledgee in a Security credited to its Account is a 
+Security Entitlement. See Rule 1, supra note 5.
+    \10\ See also DTC Disclosure Framework for Covered Clearing 
+Agencies and Financial Market Infrastructures, available at <a href="https://www.dtcc.com/-/media/Files/Downloads/legal/policy-and-compliance/DTC_Disclosure_Framework.pdf">https://www.dtcc.com/-/media/Files/Downloads/legal/policy-and-compliance/DTC_Disclosure_Framework.pdf</a>, at 5.
+    \11\ See Rule 9(A), Rule 9(B), Rule 9(C) and Rule 9(D), supra 
+note 5, and Settlement Service Guide (``Settlement Guide''), 
+available at http://www.dtcc.com/~/media/Files/Downloads/legal/
+service-guides/Settlement.pdf, at 17-30.
+---------------------------------------------------------------------------
+
+    DTC operates a ``low cost'' pricing model and has in place 
+procedures to control costs and to regularly review pricing levels 
+against costs of operation. It reviews pricing levels against its costs 
+of operation typically during the annual budget process. The budget is 
+approved annually by the Board. DTC's fees are cost-based plus a 
+markup, as approved by the Board or management (pursuant to authority 
+delegated by the Board), as applicable. This markup of ``low margin'' 
+is applied to recover development costs and operating expenses, and to 
+accumulate capital sufficient to meet regulatory and economic 
+requirements.
+    After evaluation of DTC's short- and long-term financial position 
+in consideration of expected Participant activity, revenues, cost of 
+funding, market volatility, and the financial markets more broadly, DTC 
+has determined that it would be able to reduce the overall amount it 
+collects from Participants through fees relating to its settlement 
+services and still cover its costs and maintain the appropriate low 
+margin above costs. In this regard, the proposed rule change, as 
+modified by Amendment No. 1, would amend the Settlement Services 
+section \12\ of the Fee Guide to reduce and/or consolidate fees, as 
+described below.
+---------------------------------------------------------------------------
+
+    \12\ See Fee Guide, supra note 6, at 19-21.
+---------------------------------------------------------------------------
+
+    In addition, DTC proposes to (i) amend the Maintenance Fee \13\ and 
+(ii) add a description of DTC's current policy regarding the issuance 
+of fee rebates to Participants.
+---------------------------------------------------------------------------
+
+    \13\ DTC has provided confidential info to the Commission in 
+connection with this proposed rule change to support the proposed 
+fee changes.
+---------------------------------------------------------------------------
+
+Fee Revisions and Consolidations for Certain Settlement Services
+Fee Reduction for Deliver Orders and Consolidation of Reclaim Fees With 
+the Deliver Order Fees
+    A Participant may submit an instruction (``Deliver Order'') to DTC 
+to make a Delivery \14\ of Eligible Securities via book-entry to 
+another Participant's account.\15\ DTC reduces the Deliverer's \16\ 
+position and increases the Receiver's \17\ position without the need to 
+move physical certificates. Deliveries can be made Delivery Versus 
+Payment \18\ or as a Free Delivery,\19\ depending on the applicable 
+Participant's delivery instructions provided in the Deliver Order.
+---------------------------------------------------------------------------
+
+    \14\ Pursuant to Rule 1, the term Delivery, as used with respect 
+to a Security held in the form of a Security Entitlement on the 
+books of DTC, means debiting the Security from an Account of the 
+Deliverer and crediting the Security to an Account of the Receiver. 
+A Delivery may be a Delivery Versus Payment or a Free Delivery, or 
+both collectively, as the context may require. See Rule 1, supra 
+note 5.
+    \15\ See Rule 9(B), supra note 5.
+    \16\ Pursuant to Rule 1, the term ``Deliverer'', as used with 
+respect to a Delivery of a Security, means the Person which Delivers 
+the Security. See Rule 1, supra note 5.
+    \17\ Pursuant to Rule 1, the term ``Receiver'', as used with 
+respect to a Delivery of a Security, means the Person which receives 
+the Security. See id.
+    \18\ Pursuant to Rule 1, the term ``Delivery Versus Payment'' 
+means a Delivery against a settlement debit to the Account of the 
+Receiver, as provided in Rule 9(A) and Rule 9(B) and as specified in 
+the Procedures. See Rule 1, supra note 5.
+    \19\ Pursuant to Rule 1, the term ``Free Delivery'' means a 
+Delivery free of any payment by the Receiver through the facilities 
+of the Corporation, as provided in Rule 9(B) and as specified in the 
+Procedures. See id.
+---------------------------------------------------------------------------
+
+    A Participant is charged a fee, named in the Fee Guide as ``Day 
+Deliver Order (excluding stock loans),'' (``Day Deliver Order Fee'') of 
+45 cents for a Deliver Order, except the charge is 17 cents for Deliver 
+Orders submitted by the Participant for processing in the night 
+cycle.\20\ The latter fee, named the ``Night
+
+[[Page 78899]]
+
+Deliver Order'' fee \21\ (``Night Deliver Order Fee''), is lower than 
+the former because it is designed to encourage earlier submission of 
+transactions by Participants, which results in more efficient 
+settlement processing by increasing the volume of transactions 
+processed in the night-cycle, which, in turn, enhances intraday 
+settlement processing.\22\
+---------------------------------------------------------------------------
+
+    \20\ See Fee Guide, supra note 6, at 19. On the night before 
+settlement day (``S-1'') DTC commences ``night cycle'' processing. 
+During the night cycle, DTC operates a process (``Night Batch 
+Process'') that utilizes a settlement processing algorithm capable 
+of evaluating each Participant's transaction obligations, available 
+positions, transaction priorities and risk management controls. 
+Specifically, at approximately 8:30 p.m. on S-1, DTC subjects all 
+transactions eligible for processing to the Night Batch Process. The 
+Night Batch Process runs ``off-line'' (i.e., is not visible to 
+Participants), allowing DTC to run multiple processing scenarios 
+until the optimal processing scenario is identified. Once the 
+optimal scenario is identified, the results are incorporated back 
+into DTC's core processing environment on a transaction-by-
+transaction basis prior to the start of daytime processing. 
+Transactions that have satisfied DTC's risk controls will be staged 
+for settlement. However, as was the case prior to this change, if a 
+transaction cannot satisfy DTC's control functions initially, then 
+it will recycle throughout the day, continuously attempting to 
+satisfy the controls until approximately 3:10 p.m. for valued 
+transactions and until 6:35 p.m. for free transactions. See 
+Settlement Guide, supra note 11 at 5 and 68.
+    \21\ See id.
+    \22\ See Securities Exchange Act Release No. 84768 (December 10, 
+2018), 83 FR 64401 (December 14, 2018) (File No. SR-DTC-2018-011).
+---------------------------------------------------------------------------
+
+    The Receiver of the Delivery is charged 11 cents, regardless of 
+time, per receive. This fee is named in the Fee Guide as ``Receive, 
+regardless of time (excluding reclaims and stock loans and returns)'' 
+\23\ (``Receive Fee''). The Participant may reclaim a Delivery that it 
+receives, meaning it enters an instruction for the Delivered Security 
+to be returned to the original Deliverer. The Deliverer and Receiver of 
+a reclaim are each charged 26 cents, referred to in the Fee Guide under 
+the name ``Reclaims'' (``Reclaim Fee'').
+---------------------------------------------------------------------------
+
+    \23\ See Fee Guide, supra note 6, at 19.
+---------------------------------------------------------------------------
+
+    Pursuant to the proposed rule change, as modified by Amendment No. 
+1, DTC would reduce the Day Deliver Order Fee from 45 cents to 40 
+cents. The proposed fee reflects an amount that would facilitate DTC's 
+ability, as discussed above, to reduce the overall fees DTC collects 
+from Participants relating to its settlement services and still cover 
+its costs and maintain the appropriate low margin above costs.
+    In addition, DTC would eliminate the Reclaim Fee and consolidate 
+charges for reclaims into the Day Deliver Order Fee, Night Deliver 
+Order Fee and Receive Fee, as applicable for the given reclaim 
+activity. The fees as consolidated would replace the Reclaim Fee of 26 
+cents that, as mentioned above, is currently charged to the Deliverer 
+and Receiver of a reclaim. As such, a Participant submitting reclaim 
+instructions would incur the proposed Day Deliver Order Fee of 40 
+cents, except during the night cycle where it would incur the Night 
+Deliver Order Fee of 17 cents. All receives relating to reclaims would 
+cause the Receiver to be charged a Receive Fee of 11 cents per reclaim 
+received. The proposed consolidation of the Reclaim Fee with the other 
+fees relating to Deliver Orders and receives as described above, would 
+promote consistency and transparency within the Fee Guide by causing 
+Deliveries and receives to be charged for at one fee amount for each 
+Delivery and one fee amount for each receive, regardless of whether the 
+related Delivery was instructed as an original Deliver Order or as a 
+reclaim.
+    In light of the consolidation of the Reclaim Fee into the Day 
+Deliver Order Fee, Night Deliver Order Fee and Receive Fee, as 
+applicable for the given reclaim activity, the Fee Guide would be 
+revised such that the three latter fees would be renamed to reflect the 
+inclusion of reclaims and the Reclaim Fee would be removed.
+    As a result of the above described proposed changes, the Fee Guide 
+entries for the Day Deliver Order Fee, Night Deliver Order Fee and 
+Receive Fee would be revised and the Reclaim Fee would be deleted, as 
+follows (Bold, italicized text indicates additions, Bold, strikethrough 
+text indicates deletions):
+[GRAPHIC] [TIFF OMITTED] TN07DE20.025
+
+
+[[Page 78900]]
+
+
+    For clarity regarding the changes relating to the consolidation of 
+the Reclaim Fee into other fees as described above, the following chart 
+compares the charges Participants incur for a given reclaim pursuant to 
+the current Fee Guide and the charge that would be incurred pursuant to 
+the proposed rule change, as modified by Amendment No. 1.
+
+----------------------------------------------------------------------------------------------------------------
+                                                                         Proposed fee under
+            Reclaim               Current fee name     Current fee     which reclaim would be     Proposed fee
+                                                          amount         charged (proposed)          amount
+----------------------------------------------------------------------------------------------------------------
+Daytime Reclaim Delivery         Reclaims.........  26 cents.........  Day deliver order       40 cents.
+ Instruction.                                                           (including reclaims;
+                                                                        excluding stock
+                                                                        loans).
+Night Delivery Reclaim           Reclaims.........  26 cents.........  Night deliver order     17 cents.
+ Instruction.                                                           (including reclaims).
+Reclaim Receive (Regardless of   Reclaims.........  26 cents.........  Receive, regardless of  11 cents.
+ Time).                                                                 time (including
+                                                                        reclaims; excluding
+                                                                        stock loans and
+                                                                        returns).
+----------------------------------------------------------------------------------------------------------------
+
+    As a result of its review of pricing levels against costs of 
+operation, DTC believes that the proposed fee changes would enable DTC 
+to offset its cost and expense while generating a low margin.
+Fee Reduction for Deliveries and Receives of Securities to and From CNS 
+and Consolidation of Existing Fee for ACATS Deliveries and Receives 
+With the Reduced Fee
+    Another important use of DTC book-entry transfer services is the 
+interface of DTC with its affiliate National Securities Clearing 
+Corporation (``NSCC'') for the processing of trades that are cleared 
+and settled in the NSCC Continuous Net Settlement (``CNS'') system and 
+are processed as Free Deliveries at DTC.\24\ DTC also processes Free 
+Deliveries as instructed by NSCC to DTC relating to NSCC's Automated 
+Customer Account Transfer Service (``ACATS'').\25\
+---------------------------------------------------------------------------
+
+    \24\ See Settlement Guide, supra note 11, at 15-17.
+    \25\ See id. at 17.
+---------------------------------------------------------------------------
+
+    A Participant is charged 16 cents for the Delivery of a Security to 
+the NSCC CNS account at DTC (``CNS Account'') on the Participant's 
+behalf.\26\ Likewise, the receiving Participant of a Security from the 
+CNS Account is charged 16 cents for the Delivery of the Securities from 
+the CNS Account to its account.\27\ This fee is named in the Fee Guide 
+as ``Delivery to/from CNS.'' \28\
+---------------------------------------------------------------------------
+
+    \26\ See Fee Guide, supra note 6, at 19.
+    \27\ Id.
+    \28\ Id.
+---------------------------------------------------------------------------
+
+    Separately, a Participant is charged 12 cents if it is Delivering 
+or Receiving a Delivery from ACATS.\29\ This fee is named in the Fee 
+Guide as ``Delivery to/from CNS ACAT.'' This fee would be consolidated 
+into a modified Delivery to/from CNS ACAT fee, as described below.
+---------------------------------------------------------------------------
+
+    \29\ Id.
+---------------------------------------------------------------------------
+
+    Specifically, pursuant to the proposed rule change, as modified by 
+Amendment No. 1, DTC would reduce the Delivery to/from CNS fee from 16 
+cents to 7 cents. In addition, the Delivery to/from CNS ACAT fee would 
+be consolidated into the proposed reduced Delivery to/from CNS fee, and 
+thus would reduce the charge for ACATS-related deliveries and receives 
+from 12 cents to 7 cents. This proposed fee change reflects an amount 
+that would facilitate DTC's ability, as discussed above, to reduce the 
+overall fees DTC collects from Participants relating to its settlement 
+services and still cover its costs and maintain the appropriate low 
+margin above costs.
+    As a result of the above described proposed changes, the text of 
+the Fee Guide relating to these fees would be revised as follows (Bold, 
+italicized text indicates additions, Bold, strikethrough text indicates 
+deletions):
+[GRAPHIC] [TIFF OMITTED] TN07DE20.026
+
+    As a result of its review of pricing levels against costs of 
+operation, DTC believes that these proposed fee amounts would enable 
+DTC to offset its cost and expense while generating a low margin.
+Participants Fund Maintenance Fee
+    The Maintenance Fee was implemented in 2016 in order to (i) 
+diversify DTC's revenue sources, mitigating its dependence on revenues 
+driven by settlement volumes, and (ii) add a stable revenue source that 
+would contribute to DTC's operating margin by offsetting increasing 
+costs and expenses.\30\ The fee is charged to all Participants in 
+proportion to the Participant's Actual Participants Fund Deposit, as 
+described below.
+---------------------------------------------------------------------------
+
+    \30\ Securities Exchange Act Release No. 78530 (August 10, 
+2016), 81 FR 54639 (August 16, 2016) (SR-DTC-2016-006).
+---------------------------------------------------------------------------
+
+    The Maintenance Fee is calculated monthly, in arrears, as the 
+product of (A) 0.25 percent and (B) the average of the Participant's 
+Actual Participants Fund Deposit as of the end of each day, for the 
+month, multiplied by the number of days in that month and divided by 
+360. However, by its terms, the fee is waived if the monthly rate of 
+return on DTC's investment of the Participants Fund is less than 0.25 
+percent for the month (``Waiver Provision'').
+    The Waiver Provision was included for the benefit of Participants. 
+DTC believed that if its monthly rate of return on the investment of 
+the
+
+[[Page 78901]]
+
+Participants Fund was less than 0.25 percent, then Participants would 
+likely be experiencing similarly low interest income on their deposits, 
+including excess reserves, if applicable; in which case, DTC would 
+waive the fee. Although this approach exposed DTC to the risk of not 
+receiving revenue from the Maintenance Fee, DTC did not believe that 
+such an exposure would be common, significant, or long-term.
+Proposed Modification to the Maintenance Fee
+    Due to the coronavirus global pandemic and overall reaction by the 
+financial markets, the rate of return on DTC's investment of the 
+Participants Fund has fallen below 0.25 percent, triggering the Waiver 
+Provision. However, application of the Waiver Provision in this 
+instance has proven to be longer and more significant than what DTC 
+originally contemplated when drafting the provision, resulting in a 
+drop in DTC's revenues. If unaddressed, DTC's revenue could continue to 
+deteriorate and negatively impact DTC's long-term financial health.
+    To address this issue, DTC is removing the Waiver Provision so that 
+DTC will be able to generate revenue from the Maintenance Fee even if 
+DTC's monthly rate of return on the investment of the Participants Fund 
+is less than 0.25 percent. The ability to generate such revenue under 
+such circumstances is important in helping DTC offset its costs and 
+expenses in any economic environment. Additionally, the proposed change 
+would help provide consistent pricing between DTC and its affiliate 
+clearing agencies, NSCC and Fixed Income Clearing Corporation 
+(``FICC''),\31\ as both NSCC and FICC have filed proposed rule changes 
+concurrently with this filing that would result in the same calculation 
+of their respective Maintenance Fee.\32\
+---------------------------------------------------------------------------
+
+    \31\ The Depository Trust & Clearing Corporation is the parent 
+company of DTC, NSCC, and FICC. DTCC operates on a shared services 
+model for DTC, NSCC, and FICC. Most corporate functions are 
+established and managed on an enterprise-wide basis pursuant to 
+intercompany agreements under which it is generally DTCC that 
+provides a relevant service to DTC, NSCC, or FICC.
+    \32\ See NSCC File No. SR-NSCC-2020-018 and FICC File No. SR-
+FICC-2020-014 available at <a href="https://www.dtcc.com/legal/sec-rule-filings">https://www.dtcc.com/legal/sec-rule-filings</a>.
+---------------------------------------------------------------------------
+
+    To effectuate the proposed change described above, the Maintenance 
+Fee entry in the Settlement Services section of the DTC Fee Guide \33\ 
+would be updated to remove the Waiver Provision.
+---------------------------------------------------------------------------
+
+    \33\ See Fee Guide, supra note 6 at 21.
+---------------------------------------------------------------------------
+
+Rebate Policy
+    DTC is also proposing to amend the Fee Guide to include a 
+description of its current policy regarding the issuance of rebates to 
+Participants. DTC views its practice of providing a rebate to its 
+Participants as a corporate function, and not related to its operation 
+as a self-regulatory organization. A DTC rebate is essentially a return 
+of the revenue that DTC collects through the fees it charges 
+Participants for its services (as set forth in the Fee Guide). Rebates 
+are not related to the amounts Participants deposit with DTC as their 
+Participants Fund Deposit. The determination to provide a rebate is 
+made at the corporation-level, based on a number of factors and 
+considerations, as described below, and is not a separate determination 
+made for each individual Participant.
+    Following the financial recession of 2008, DTC ceased providing 
+such discounts in connection with the implementation of a financial 
+strategy to strengthen its financial position and health. As a result 
+of that strategy and improved financial markets, in 2019, DTC 
+determined to reinstitute its practice of discounting Participants' 
+invoices, in the form of a rebate, based on its financial performance. 
+In connection with this decision, DTC is proposing to include a 
+description of its current rebate practice in the Fee Guide. This 
+proposed change would not change DTC's rebate practice but would 
+provide Participants with transparency into this practice and the 
+governance around rebates.
+    First, the proposed language would describe that DTC may provide 
+Participants with a rebate of excess net income, and would define 
+excess net income as income of either DTC or income related to one 
+business line of DTC after application of expenses, capitalization 
+costs, and applicable regulatory requirements. The language would also 
+state that a rebate is discretionary, and DTC is not obligated to 
+provide a rebate.
+    Second, the proposed language would state that a rebate would be 
+approved by the Board. The proposed language would also state that, in 
+determining if a rebate is appropriate, the Board would consider, one 
+or more of the following, as appropriate: DTC's regulatory capital 
+requirements,\34\ anticipated expenses, investment needs, anticipated 
+future expenses with respect to improvement or maintenance of DTC's 
+operations, cash balances, financial projections, and appropriate level 
+of shareholders' equity.
+---------------------------------------------------------------------------
+
+    \34\ DTC manages its general business risk by holding sufficient 
+liquid net assets funded by equity to cover potential general 
+business losses so it can continue operations and services as going 
+concerns if those losses materialize, in compliance with the 
+requirements of Rule 17Ad-22(e)(15). 17 CFR 240.17Ad-22(e)(15). DTC 
+maintains a Clearing Agency Policy on Capital Requirements which 
+defines the amount of capital it must maintain for this purpose and 
+sets forth the manner in which this amount is calculated. See 
+Securities Exchange Act Release No. 89361 (July 21, 2020), 85 FR 
+45263 (July 27, 2020) (SR-DTC-2020-010) (amending original filing).
+---------------------------------------------------------------------------
+
+    Third, the proposed language would state that, if it determined to 
+issue a rebate, the Board would set a rebate period and a rebate 
+payment date, both of which are used to determine which Participants 
+are eligible for a rebate. The proposed language would state that 
+Participants that maintain their membership during all or a portion of 
+the rebate period and on the rebate payment date are eligible for a 
+rebate.
+    Finally, the proposed language would describe how rebates are 
+applied to the invoices of eligible Participants. The proposed language 
+would state that rebates are applied to all eligible Participants, on a 
+pro-rata basis, based on such Participants' gross fees paid to DTC 
+within the applicable rebate period, excluding pass-through fees and 
+interest earned on Participants Fund Deposits. The proposed language 
+would also state that rebates are applied to eligible Participants' 
+invoices on the rebate payment date as either a reduction in fees or, 
+if fees owed are lower than the allocated rebate amount, a payment of 
+such difference. The proposed language would also note that rebate 
+amounts may be adjusted for miscellaneous charges and discounts.
+Participant Impact
+    The proposed rule change, as modified by Amendment No. 1, is 
+expected to increase DTC's annual revenue by approximately $12.7 
+million.
+    In general, DTC anticipates that the proposal would result in fee 
+decreases for approximately 63% of impacted affiliated families of 
+Participants and fee increases for approximately 37% of impacted 
+affiliated families of Participants. Of the impacted affiliated 
+families of Participants that may have their fees decrease, 25% of 
+impacted affiliated families of Participants would have a decrease of 
+less than $1,000, 49% of impacted affiliated families of Participants 
+would have a decrease of between $1,000 and $100,000, and 26% of 
+impacted affiliated families of Participants would have a decrease 
+greater than $100,000.
+
+[[Page 78902]]
+
+Participant Outreach
+    DTC has conducted ongoing outreach to each Participant in order to 
+provide them with notice of the proposed changes and the anticipated 
+impact for the Participant. As of the date of this filing, no written 
+comments relating to the proposed changes have been received in 
+response to this outreach. The Commission will be notified of any 
+written comments received.
+Implementation Timeframe
+    DTC would implement this proposal on January 1, 2021. As proposed, 
+a legend would be added to the Fee Structure stating there are changes 
+that have become effective upon filing with the Commission but have not 
+yet been implemented. The proposed legend also would include a date on 
+which such changes would be implemented and the file number of this 
+proposal, and state that, once this proposal is implemented, the legend 
+would automatically be removed from the Fee Structure.
+2. Statutory Basis
+    DTC believes this proposal is consistent with the requirements of 
+the Act, and the rules and regulations thereunder applicable to a 
+registered clearing agency. Specifically, DTC believes the proposed 
+changes to modify certain settlement service fees and the Maintenance 
+Fee, as described above, are consistent with Section 17A(b)(3)(D) of 
+the Act,\35\ for the reasons described below. DTC believes that the 
+proposed change to include a description of DTC's current policy 
+regarding the issuance of rebates to Participants is consistent with 
+Rule 17Ad-22(e)(23)(ii),\36\ as promulgated under the Act, for the 
+reasons described below.
+---------------------------------------------------------------------------
+
+    \35\ 15 U.S.C. 78q-1(b)(3)(D).
+    \36\ 17 CFR.17Ad-22(e)(23)(ii).
+---------------------------------------------------------------------------
+
+    Section 17A(b)(3)(D) of the Act requires, inter alia, that the 
+Rules provide for the equitable allocation of reasonable dues, fees, 
+and other charges among participants.\37\ For the reasons set forth 
+below, DTC believes that each of the proposed rule changes, as modified 
+by Amendment No. 1, described above would provide for the equitable 
+allocation of reasonable dues, fees, and other charges among 
+Participants.
+---------------------------------------------------------------------------
+
+    \37\ 15 U.S.C. 78q-1(b)(3)(D).
+---------------------------------------------------------------------------
+
+    DTC believes the proposed rule change to (i) reduce the Day Deliver 
+Order Fee and consolidate the Reclaim Fee into the Day Deliver Order 
+Fee, Night Deliver Order Fee and Receive Fee, as applicable, and (ii) 
+reduce the Delivery to/from CNS fee and consolidate the CNS ACAT-
+related fee into the Delivery to/from CNS fee as described above, would 
+provide for the equitable allocation of reasonable fees. Because the 
+proposed change would not alter how these fees are charged to 
+Participants, DTC believes that the fees would continue to be equitably 
+allocated because they would continue to be charged based on volume of 
+transaction activity for a given Participant. More specifically, as 
+mentioned above, the Day Deliver Order Fee and the Night Deliver Order 
+Fee are charged based on a Participant's volume of Deliveries during 
+the applicable timeframes, as described above. As such, and as is 
+currently the case, Participants that provide a greater number of 
+Delivery instructions, or receive a greater number of Deliveries, would 
+generally be subject to a higher overall charge for Deliveries and/or 
+Receives, as applicable, based on volume of related transactions. 
+Conversely, Participants that make fewer Deliveries and or receive few 
+Deliveries would generally be a smaller overall charge for Deliveries 
+and receives based on volume.
+    Similarly, DTC believes that the Day Deliver Order Fee, Night 
+Deliver Order Fee, Receive Fee, and the Delivery to/from CNS fee would 
+continue to be reasonable fees under the proposed change described 
+above. As described above, the fee amounts as proposed reflect an 
+amount that would facilitate DTC's ability, as discussed above, to 
+reduce the overall fees DTC collects from Participants relating to its 
+settlement services and still cover its costs and maintain an 
+appropriate low margin above costs. For this reason, DTC believes that 
+the proposed rule change to (i) reduce the Day Deliver Order Fee and 
+consolidate the Reclaim Fee into the Day Deliver Order Fee, Night 
+Deliver Order Fee and Receive Fee as applicable, and (ii) reduce the 
+Delivery to/from CNS fee and consolidate the ACATS-related fee into the 
+Delivery to/from CNS fee, as described above, would be reasonable fees 
+charged by DTC for these services and is consistent with Section 
+17A(b)(3)(D) of the Act.\38\
+---------------------------------------------------------------------------
+
+    \38\ Id.
+---------------------------------------------------------------------------
+
+    DTC believes that the proposed change to the Maintenance Fee is 
+consistent with this provision of the Act.\39\
+---------------------------------------------------------------------------
+
+    \39\ Id.
+---------------------------------------------------------------------------
+
+    As described above, the proposal would modify the Maintenance Fee 
+to remove the Waiver Provision. Because the proposed change would not 
+alter how the Maintenance Fee is currently allocated (i.e., charged) to 
+Participants, DTC believes the fee would continue to be equitably 
+allocated. More specifically, as mentioned above, the Maintenance Fee 
+is and would continue to be charged to all Participants in proportion 
+to the Participant's average monthly Actual Participants Fund Deposits. 
+As such, and as is currently the case, Participants that make greater 
+use of DTC's services would generally be subject to a larger 
+Maintenance Fee because such Participants would typically be required 
+to maintain larger Participants Fund deposits pursuant to the 
+Rules.\40\ Conversely, Participants that use DTC's services less would 
+generally be subject to a smaller Maintenance Fee because such 
+Participants would typically be required to maintain smaller 
+Participants Fund deposits pursuant to the Rules.\41\ The described 
+change would not adjust that allocation. For this reason, DTC believes 
+the Maintenance Fee would continue to be equitably allocated among 
+Participants.
+---------------------------------------------------------------------------
+
+    \40\ See Rule 4, Rules, supra note 5.
+    \41\ Id.
+---------------------------------------------------------------------------
+
+    Similarly, DTC believes that the Maintenance Fee would continue to 
+be a reasonable fee under the proposed change described above. Although 
+removal of the Waiver Provision means that Participants could be 
+assessed a Maintenance Fee at times when they may not otherwise have 
+been assessed the fee, the removal of the provision would enable DTC to 
+collect needed revenue from the fee even in a difficult economic 
+environment. Additionally, the proposed change would help establish 
+consistent pricing between DTC and its affiliates, NSCC and FICC, 
+regarding each of their respective Maintenance Fees, as concurrent 
+proposals by NSCC and FICC would result in the same calculation.\42\ 
+For this reason, DTC believes the Maintenance Fee would continue to be 
+reasonable.
+---------------------------------------------------------------------------
+
+    \42\ See supra note 32.
+---------------------------------------------------------------------------
+
+    Based on the forgoing, DTC believes the proposed rule change 
+relating to the modification of certain settlement service fees and the 
+Maintenance Fee, as described above, is consistent with Section 
+17A(b)(3)(D).\43\
+---------------------------------------------------------------------------
+
+    \43\ 15 U.S.C. 78q-1(b)(3)(D).
+---------------------------------------------------------------------------
+
+    Rule 17Ad-22(e)(23)(ii) under the Act requires that DTC establish, 
+implement, maintain and enforce written policies and procedures 
+reasonably designed to provide sufficient information to enable 
+participants to identify and evaluate the risks, fees, and other 
+material costs they incur by participating in the covered clearing 
+agency.\44\ The proposed change would add to the Fee Guide a
+
+[[Page 78903]]
+
+description of DTC's current rebate practice, which, when applicable, 
+results in a reduction to the amount of fees a Participant owes to DTC. 
+By updating the Fee Guide with a transparent description of DTC's 
+rebate practice, the proposed change would provide Participants with 
+sufficient information to evaluate the fees they may incur by 
+participating in DTC. Therefore, DTC believes the proposed change would 
+be consistent with the requirements of Rule 17Ad-22(e)(23)(ii).\45\
+---------------------------------------------------------------------------
+
+    \44\ 17 CFR 240.17Ad-22(e)(23)(ii).
+    \45\ Id.
+---------------------------------------------------------------------------
+
+(B) Clearing Agency's Statement on Burden on Competition Fee Revisions 
+and Consolidations for Certain Settlement Services
+
+    DTC believes that the proposed rule change to reduce the Day 
+Deliver Order Fees and the Delivery to/from CNS fee may promote 
+competition among its Participants because the effect of the 
+consolidations, as proposed, would result in a reduction of the 
+applicable fees, as described above.
+    The consolidation of fees, as described above, except for the 
+consolidation of the Reclaim Fee into the Day Deliver order fee for 
+applicable activity (reclaims that do not occur in the night cycle), 
+may promote competition among Participants because the effect of the 
+consolidations, as proposed, would result in a reduction of the 
+applicable fees, as described above.
+    The proposed change to consolidate the Reclaim Fee into the Day 
+Deliver Order Fee for applicable activity (reclaims that do not occur 
+in the night cycle) may present a competitive burden among Participants 
+because this change could increase the fees of those Participants that 
+instruct a reclaim in that a Reclaim that would be charged at the 
+amount of 26 cents under the current Fee Schedule would be charged at 
+40 cents per reclaim under the proposal. DTC does not believe the 
+proposed change in and of itself would mean that the burden on 
+competition among Participants is significant. This is because even 
+though the amount of the fee increase may seem significant, DTC 
+believes the increase in fees would similarly affect all Participants 
+that utilize DTC's services and be reflective of each Participant's 
+individual activity at DTC, and therefore the burden on competition 
+would not be significant. Regardless of whether the burden on 
+competition is deemed significant, DTC believes any burden that is 
+created by the proposed change would be necessary and appropriate in 
+furtherance of the purposes of the Act, as permitted by Section 
+17A(b)(3)(I) of the Act.\46\
+---------------------------------------------------------------------------
+
+    \46\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    The burden would be necessary because a Reclaim is a functional 
+equivalent of a Deliver Order except that it represents a Delivery to 
+return Securities rather than representing the original Delivery of 
+Securities, and therefore should be charged at the same rate as a 
+Deliver Order. The burden would be appropriate because a reclaim is the 
+functional equivalent of a Delivery and DTC believes a reclaim should 
+now be priced the same as other Deliveries given the capability of a 
+Receiver via the Receiver Authorized Delivery (``RAD'') functionality 
+to return Deliveries prior to processing and a reduced need for 
+Receivers to rely on reclaims to return Deliveries to its Account, as 
+described below. In this regard, RAD enables a Receiver of valued 
+deliveries of securities to manage which deliveries to accept, or to 
+reject, prior to further processing by DTC.\47\ Specifically, whereas 
+prior to a series of earlier rule changes, transactions below an 
+established dollar value could bypass the RAD control, today all valued 
+transactions are subject to RAD, whereby a Participant can prevent any 
+such Deliveries to its account.\48\ Therefore, a Receiver is able to 
+approve all Deliveries to its account through RAD and there is less 
+likelihood that a Participant would need to rely on reclaims to remedy 
+an errant instruction by a counterparty to make a Delivery to its 
+account.
+---------------------------------------------------------------------------
+
+    \47\ See Settlement Guide, supra note 11 at 5 and 54.
+    \48\ See Securities Exchange Act Release Nos. 72576 (July 9, 
+2014), 79 FR 41355 (July 15, 2014) (SR-DTC-2014-06); and 73804 
+(December 10, 2014), 79 FR 74796 (December 16, 2014) (SR-DTC-2014-
+010).
+---------------------------------------------------------------------------
+
+Maintenance Fee
+    DTC does not believe that the proposed change to the Maintenance 
+Fee would have an impact on competition among its Participants. As 
+described above, the Maintenance Fee is charged ratably based on 
+Participants' use of DTC's services, as reflected in Participants' 
+Actual Participant Fund Deposits. Thus, the fee is designed to be 
+reflective of each Participant's individual activity at DTC. 
+Nevertheless, if removal of the Waiver Position, and the resulting 
+imposition of the Maintenance Fee at a time when a Participant would 
+not have otherwise been assessed the fee, would create a competitive 
+burden for a Participant, DTC believes such a burden would not be 
+significant, given that the amount assessed would be the same but for 
+application of the Waiver Provision. Moreover, DTC believes that any 
+such burden would be necessary and appropriate in furtherance of the 
+purposes of the Act, as permitted by Section 17A(b)(3)(I) of the 
+Act.\49\
+---------------------------------------------------------------------------
+
+    \49\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    The burden would be necessary because it is essential that DTC 
+offset some of its costs and expenses with stable revenue generated 
+from the Maintenance Fee, regardless of the economic environment. As 
+described above, not doing so could adversely affect DTC's financial 
+health. The burden would be appropriate because, as described above, 
+the Maintenance Fee is calculated, using a balanced formula, to assess 
+a fee that is reflective of the Participant's use of DTC's services, so 
+that DTC can defray some of its costs and expenses in providing those 
+services.
+Rebate Policy
+    DTC does not believe the proposed change to describe its current 
+rebate practice would have any impact, or impose any burden, on 
+competition among its Participants. As described above, this proposed 
+rule change, as modified by Amendment No. 1, would include a 
+description of DTC's current rebate practice in the Fee Guide. As 
+described in the proposed language, under its current practice, rebates 
+are allocated to eligible Participants pro-rata based on such 
+Participants' gross fees paid to DTC within the applicable rebate 
+period. Therefore, the current practice is applied equally to all 
+eligible Participants. The proposed change to provide Participants with 
+transparency into this practice would not cause any increase or 
+decrease in the rebates Participants may receive. Therefore, this 
+proposed rule change, as modified by Amendment No. 1, would not have 
+any impact, or impose any burden, on competition among Participants.
+
+(C) Clearing Agency's Statement on Comments on the Proposed Rule 
+Change, as Modified by Amendment No. 1, Received From Members, 
+Participants, or Others
+
+    Written comments relating to this proposed rule change as modified 
+by Amendment No. 1, have not been solicited or received. DTC will 
+notify the Commission of any written comments received by DTC.
+
+[[Page 78904]]
+
+III. Date of Effectiveness of the Proposed Rule Change, as Modified by 
+Amendment No. 1, and Timing for Commission Action
+
+    The foregoing rule change has become effective pursuant to Section 
+19(b)(3)(A) \50\ of the Act and paragraph (f) \51\ of Rule 19b-4 
+thereunder. At any time within 60 days of the filing of the proposed 
+rule change, as modified by Amendment No. 1, the Commission summarily 
+may temporarily suspend such rule change if it appears to the 
+Commission that such action is necessary or appropriate in the public 
+interest, for the protection of investors, or otherwise in furtherance 
+of the purposes of the Act.
+---------------------------------------------------------------------------
+
+    \50\ 15 U.S.C. 78s(b)(3)(A).
+    \51\ 17 CFR 240.19b-4(f).
+---------------------------------------------------------------------------
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule 
+change, as modified by Amendment No. 1, is consistent with the Act. 
+Comments may be submitted by any of the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to [email redacted]. Please include 
+File Number SR-DTC-2020-014 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+All submissions should refer to File Number SR-DTC-2020-014. This file 
+number should be included on the subject line if email is used. To help 
+the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change, as modified by 
+Amendment No. 1, that are filed with the Commission, and all written 
+communications relating to the proposed rule change, as modified by 
+Amendment No. 1, between the Commission and any person, other than 
+those that may be withheld from the public in accordance with the 
+provisions of 5 U.S.C. 552, will be available for website viewing and 
+printing in the Commission's Public Reference Room, 100 F Street NE, 
+Washington, DC 20549 on official business days between the hours of 
+10:00 a.m. and 3:00 p.m. Copies of the filing also will be available 
+for inspection and copying at the principal office of DTC and on DTCC's 
+website (<a href="http://dtcc.com/legal/sec-rule-filings.aspx">http://dtcc.com/legal/sec-rule-filings.aspx</a>). All comments 
+received will be posted without change. Persons submitting comments are 
+cautioned that we do not redact or edit personal identifying 
+information from comment submissions. You should submit only 
+information that you wish to make available publicly. All submissions 
+should refer to File Number SR-DTC-2020-014 and should be submitted on 
+or before December 28, 2020.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\52\
+---------------------------------------------------------------------------
+
+    \52\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26787 Filed 12-4-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

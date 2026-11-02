@@ -1,0 +1,33 @@
+{
+  "operation": "deterministic validation and candidate export",
+  "executed_at": "2026-10-29T06:46:05.538487+00:00",
+  "adapter_sha256": "0593f738cbc2d5ead52f582c720c792eb25d7288d031fe6522da629f6ac7f7aa",
+  "input_manifest_sha256": "08a5796b655672ee5ce58609a967d9ad959d6c5f4414b4b07a75c44d8fc6ca72",
+  "response_sha256": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463",
+  "producer_receipt_sha256": "c15162a403641a30a7cd465f2c814f34432e814475f8edc091ebef2df6ac3fe7",
+  "output_sha256": {
+    "annotations.jsonl": "e9f8800888384afdce1565281b39cce136b5469b2422b613d962030263bc8b3b",
+    "features.csv": "5552fdc15dff1bd71ba338d3cc11180a680e89092baf06940967b2f87b7df524",
+    "producer_receipt.json": "c15162a403641a30a7cd465f2c814f34432e814475f8edc091ebef2df6ac3fe7",
+    "reference_template.jsonl": "b300f48d32d1e782bfac3ada65c4373e3961ad1791e3910fd4f8980b5ac426f0",
+    "response.jsonl": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463",
+    "summary.json": "f47bc087ba35b61bea13f4a76e3fe696a128d31b08b2801195feb051561c6422"
+  },
+  "checks": [
+    "frozen input hashes",
+    "source-contained units",
+    "response byte identity",
+    "unit identity and unique response",
+    "typed status/modality",
+    "exact unique source spans",
+    "no duplicate relations",
+    "explicit missingness",
+    "candidate provenance"
+  ],
+  "limits": [
+    "No semantic entailment check",
+    "No independent reference coding",
+    "No omission/recall estimate",
+    "No model API called by this adapter"
+  ]
+}

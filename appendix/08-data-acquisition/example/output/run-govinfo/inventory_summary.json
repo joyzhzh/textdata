@@ -1,0 +1,14 @@
+{
+  "documents": 191,
+  "with_text": 191,
+  "pdf_only": 0,
+  "raw_bytes": 2932989,
+  "documents_with_image_placeholders": 7,
+  "documents_with_hidden_emails": 0,
+  "by_source_site": {
+    "govinfo.gov": 191
+  },
+  "problems": 0,
+  "inventoried_at": "2026-11-02T04:36:21Z",
+  "evidence_basis": "email-redacted release copies; historical original-file results are in example/historical/"
+}

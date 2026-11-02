@@ -1,0 +1,2 @@
+STRUCTURE OK: 1 card(s); source support and rights require independent review.
+exit status: 0

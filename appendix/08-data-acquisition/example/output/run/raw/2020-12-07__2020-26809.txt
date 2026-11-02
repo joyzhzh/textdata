@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Page 78935]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26809]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF THE TREASURY
+
+Office of Foreign Assets Control
+
+
+Notice of OFAC Sanctions Actions
+
+AGENCY: Office of Foreign Assets Control, Department of the Treasury.
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Department of the Treasury's Office of Foreign Assets 
+Control (OFAC) is publishing updates to the identifying information of 
+one individual and one entity currently included on OFAC's list of 
+Specially Designated Nationals and Blocked Persons.
+
+DATES:  See SUPPLEMENTARY INFORMATION section for the date on which the 
+updates become effective.
+
+FOR FURTHER INFORMATION CONTACT: 
+    OFAC: Associate Director for Global Targeting, tel.: 202-622-2420; 
+Assistant Director for Licensing, tel.: 202-622-2480; Assistant 
+Director for Regulatory Affairs, tel.: 202-622-4855; or Assistant 
+Director for Sanctions Compliance & Evaluation, tel.: 202-622-2490.
+
+SUPPLEMENTARY INFORMATION:
+
+Electronic Availability
+
+    The Specially Designated Nationals and Blocked Persons List (SDN 
+List) and additional information concerning OFAC sanctions programs are 
+available on OFAC's website (<a href="https://www.treasury.gov/ofac">https://www.treasury.gov/ofac</a>).
+
+Notice of OFAC Actions
+
+    On December 1, 2020, OFAC updated the SDN List for the following 
+individual and entity, whose property and interests in property 
+continue to be blocked under the Foreign Narcotics Kingpin Designation 
+Act.
+
+Individual
+
+    1. USUGA DAVID, Dairo Antonio, Colombia; DOB 15 Sep 1971; POB 
+Colombia; nationality Colombia; citizen Colombia; Cedula No. 71980054 
+(Colombia) (individual) [SDNTK].
+    The listing for this individual now appears as follows:
+    1. USUGA DAVID, Dairo Antonio (a.k.a. ``OTONIEL''), Colombia; DOB 
+15 Sep 1971; POB Necocli, Antioquia, Colombia; nationality Colombia; 
+citizen Colombia; Gender Male; Cedula No. 71980054 (Colombia) 
+(individual) [SDNTK].
+
+Entity
+
+    1. LOS URABENOS (Latin: LOS URABE[Ntilde]OS) (a.k.a., BANDA 
+CRIMINAL DE URABA; a.k.a., CLAN USUGA; a.k.a., LOS AUTODEFENSAS 
+GAITANISTAS DE COLOMBIA;), Colombia; Honduras; Panama [SDNTK].
+    The listing for this entity now appears as follows:
+    1. CLAN DEL GOLFO (a.k.a., BANDA CRIMINAL DE URABA; a.k.a. CLAN 
+USUGA; a.k.a., GULF CLAN; a.k.a. LOS AUTODEFENSAS GAITANISTAS DE 
+COLOMBIA; a.k.a., LOS URABENOS (Latin: LOS URABE[Ntilde]OS)), Colombia; 
+Honduras; Panama [SDNTK].
+
+    Dated: December 1, 2020.
+Gregory T. Gatjanis,
+Associate Director, Office of Global Targeting.
+[FR Doc. 2020-26809 Filed 12-4-20; 8:45 am]
+BILLING CODE 4810-AL-P
+
+
+</pre></body>
+</html>

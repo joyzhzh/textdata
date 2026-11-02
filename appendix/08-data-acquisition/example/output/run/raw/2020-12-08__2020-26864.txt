@@ -1,0 +1,384 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79042-79044]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26864]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+NUCLEAR REGULATORY COMMISSION
+
+[NRC-2020-0262]
+
+
+Proposed Evaluation Policy Statement
+
+AGENCY: Nuclear Regulatory Commission.
+
+ACTION: Request for comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Nuclear Regulatory Commission (NRC) is requesting 
+public comment on this proposed Evaluation Policy Statement that 
+presents the standards that will govern the NRC's planning, conduct, 
+and use of program evaluations. The policy statement is intended to 
+provide agency personnel and stakeholders with a clear understanding of 
+the expectations related to the NRC's evaluation standards that include 
+rigor, relevance and utility, transparency, collaboration, independence 
+and objectivity, and ethics.
+
+DATES: Submit comments by January 7, 2021. Comments received after this 
+date will be considered if it is practical to do so, but the Commission 
+is able to ensure consideration only for comments received before this 
+date.
+
+ADDRESSES: You may submit comments by any of the following methods:
+    <bullet> Federal Rulemaking Website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2020-0262. Address 
+questions about NRC dockets to Dawn Forder; telephone: 301-415-3407; 
+email: [email redacted]. For technical questions contact the 
+individual listed in the FOR FURTHER INFORMATION CONTACT section of 
+this document.
+    <bullet> Email comments to: [email redacted]. If you do 
+not receive an automatic email reply confirming receipt, then contact 
+us at 301-415-1677.
+    <bullet> Mail comments to: Secretary, U.S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001, ATTN: Rulemakings and 
+Adjudications Staff.
+    For additional direction on obtaining information and submitting 
+comments, see ``Obtaining Information and Submitting Comments'' in the 
+SUPPLEMENTARY INFORMATION section of this document.
+
+FOR FURTHER INFORMATION CONTACT: Matthew Meyer, Office of the Executive 
+Director for Operations, U.S. Nuclear Regulatory Commission, Washington 
+DC 20555-0001, telephone: 301-415-6198, email: [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Obtaining Information and Submitting Comments
+
+A. Obtaining Information
+
+    Please refer to Docket ID NRC-2020-0262 when contacting the NRC 
+about the availability of information for this action. You may obtain 
+publicly-available information related to this action by any of the 
+following methods:
+    <bullet> Federal Rulemaking Website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2020-0262.
+    <bullet> NRC's Agencywide Documents Access and Management System 
+(ADAMS): You may obtain publicly-available documents online in the 
+ADAMS Public Documents collection at <a href="https://www.nrc.gov/reading-rm/adams.html">https://www.nrc.gov/reading-rm/adams.html</a>. To begin the search, select ``Begin Web-based ADAMS 
+Search.'' For problems with ADAMS, please contact the NRC's Public 
+Document Room (PDR) reference staff at 1-800-397-4209, at 301-415-4737, 
+or by email to [email redacted]. The proposed Evaluation Policy 
+Statement is available in ADAMS under Accession number ML20268A811.
+    <bullet> Attention: The Public Document Room (PDR), where you may 
+examine and order copies of public documents is currently closed. You 
+may submit your request to the PDR via email at [email redacted] or 
+call 1-800-397-4209 between 8:00 a.m. and 4:00 p.m. (EST), Monday 
+through Friday, except Federal holidays.
+
+B. Submitting Comments
+
+    Please include Docket ID NRC-2020-0262 in your comment submission.
+    The NRC cautions you not to include identifying or contact 
+information that you do not want to be publicly disclosed in your 
+comment submission. The NRC will post all comment submissions at 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> as well as enter the comment submissions 
+into ADAMS. The NRC does not routinely edit comment submissions to 
+remove identifying or contact information.
+    If you are requesting or aggregating comments from other persons 
+for submission to the NRC, you should inform those persons not to 
+include identifying or contact information that they do not want to be 
+publicly disclosed in their comment submission. Your request should 
+state that the NRC does not routinely edit comment submissions to 
+remove such information before making the comment submissions available 
+to the public or entering the comment into ADAMS.
+
+[[Page 79043]]
+
+II. Background
+
+    The Foundations for Evidence-Based Policymaking Act of 2018 
+(``Evidence Act'') became law on January 14, 2019 (Pub. L. 115-435), to 
+enhance evidence-building activities, make data more accessible, and 
+strengthen privacy protections.\1\ The Evidence Act requires each 
+agency to name an Evaluation Officer. At the NRC the Director of the 
+Office of Nuclear Regulatory Research holds this position and must 
+``establish and implement an agency evaluation policy'' to fulfill a 
+primary function of this position.\2\ The agency evaluation policy 
+``should guide the agency's activities throughout the evaluation 
+lifecycle.'' \3\ Evaluation activities include ``developing and 
+coordinating multi-year Learning Agendas, establishing Annual 
+Evaluation Plans, planning and managing or conducting specific 
+evaluations, summarizing evaluation findings for particular programs or 
+policies, supporting other offices within an agency to interpret 
+evaluation findings, and bringing evaluation-related evidence to bear 
+in decision-making.'' \4\ In directing these activities, ``the Evidence 
+Act creates a new paradigm by calling on agencies to significantly 
+rethink how they currently plan and organize evidence building, data 
+management, and data access functions to ensure an integrated and 
+direct connection to data and evidence needs.'' \5\
+---------------------------------------------------------------------------
+
+    \1\ Public Law 115-435, 132 Stat 5529 (2019).
+    \2\ 5 U.S.C. 313(d)(3).
+    \3\ Office of Management and Budget, M-20-12, ``Phase 4 
+Implementation of the Foundations for Evidence-Based Policymaking 
+Act of 2018: Program Evaluation Standards and Practices,'' Appendix 
+C (March 10, 2020) (M-20-12).
+    \4\ Id. at Appendix A.
+    \5\ Office of Management and Budget, M-19-23, ``Phase 1 
+Implementation of the Foundations for Evidence-Based Policymaking 
+Act of 2018: Learning Agendas, Personnel, and Planning Guidance,'' 2 
+(July 10, 2019).
+---------------------------------------------------------------------------
+
+    The Office of Management and Budget (OMB) has provided guidance to 
+agencies on establishing an agency evaluation policy based on 
+``approaches that Federal agencies have found useful.'' \6\ This 
+guidance includes ``[e]nsuring that the agency evaluation policy 
+incorporates the evaluation standards'' recommended by OMB.\7\ OMB 
+developed these evaluation standards through an interagency council 
+that ``reviewed an extensive list of source documents to identify 
+widely accepted standards for evaluation.'' \8\ The interagency council 
+identified the following evaluation standards: relevance and utility, 
+rigor, independence and objectivity, transparency, and ethics.\9\
+---------------------------------------------------------------------------
+
+    \6\ M-20-12, Appendix C.
+    \7\ Id.
+    \8\ Id. at 2.
+    \9\ Id. at 3-5.
+---------------------------------------------------------------------------
+
+    Historically, the NRC has relied on high-quality evidence for its 
+environmental and safety evaluations of civilian applications to 
+utilize nuclear technologies.\10\ Frequently, the agency has obtained 
+such evidence from external entities or through its own capacity, 
+largely centered in the Office of Nuclear Regulatory Research.\11\ In 
+undertaking these activities, the NRC has been guided by its own 
+Principles of Good Regulation: Independence, efficiency, clarity, 
+reliability, and openness.\12\
+---------------------------------------------------------------------------
+
+    \10\ Nuclear Regulatory Commission, NUREG-1350, 2019-2020 
+Information Digest, at 4-5 (August, 2019).
+    \11\ Id. at 10.
+    \12\ Id. at 3.
+---------------------------------------------------------------------------
+
+    In recent years the agency has begun evidence-building activities 
+to support licensing new or novel nuclear technologies, including 
+advanced, non-light water reactor designs; accident tolerant nuclear 
+fuel; and digital instrumentation and controls.\13\ Additionally, the 
+NRC has increasingly sought to rely on evidence-based metrics to 
+improve internal agency performance including budgeting and financial 
+management.\14\ To develop the following evaluation policy statement, 
+the NRC sought to enhance its existing evidence-building activities 
+through the activities directed in the Evidence Act. The NRC envisions 
+that this approach will strengthen the agency's oversight of existing 
+uses of nuclear technology, enhance the agency's readiness to license 
+and regulate new and novel nuclear technologies, and further the NRC's 
+ongoing efforts to improve its internal processes.
+---------------------------------------------------------------------------
+
+    \13\ Id. at 4.
+    \14\ Id. at 7.
+---------------------------------------------------------------------------
+
+III. Proposed Evaluation Policy Statement
+
+    The purpose of this Evaluation Policy Statement is to present the 
+standards that will govern the NRC's planning and conduct of program 
+evaluations \15\ (evaluations). This policy statement is required by 
+the Foundations for Evidence-Based Policymaking Act of 2018 and is a 
+commitment to using evidence and scientific methods when conducting 
+evaluations to make informed decisions. The NRC is a learning and 
+evidence-based organization, with a culture of continuous improvement. 
+The NRC's evaluations are used to make informed decisions, are based on 
+objective, technical assessments of available information and 
+documented with an explicitly stated rationale. Furthermore, the NRC 
+commits to implementing evaluation standards of rigor; relevance and 
+utility; transparency; collaboration; independence and objectivity; and 
+ethics in the conduct of its evaluations. This policy statement 
+presents the NRC's evaluation standards.
+---------------------------------------------------------------------------
+
+    \15\ The Evidence Act defines ``evaluation'' as ``an assessment 
+using systematic data collection and analysis of one or more 
+programs, policies, and organizations intended to assess their 
+effectiveness and efficiency'' (5 U.S.C. 311(3)). Evaluation can 
+look beyond the program, policy, or organizational level to include 
+assessment of projects or interventions within a program.
+---------------------------------------------------------------------------
+
+    The Commission, as a collegial body, formulates policies, develops 
+regulations governing nuclear reactor and nuclear material safety, 
+issues orders to licensees, and adjudicates legal matters. The 
+collegial decision-making process results in actions reflecting the 
+collective judgment of a group rather than an individual, aided by 
+professional and administrative staff and advisory committees, such as 
+the Advisory Committee on Reactor Safeguards. Strict requirements 
+govern the admission and consideration of ``evidence'' when the 
+Commission acts in its adjudicatory capacity. This policy is intended 
+to apply to the NRC's non-adjudicatory functions.\16\
+---------------------------------------------------------------------------
+
+    \16\ This policy does not apply to the admission and 
+consideration of evidence when the Commission acts in its 
+adjudicatory capacity. The NRC's rules of practice and procedure in 
+10 CFR part 2 govern that process.
+---------------------------------------------------------------------------
+
+    The NRC's Principles of Good Regulation, which include 
+independence, efficiency, clarity, reliability, and openness, have 
+guided the agency's regulatory activities and decisions using evidence 
+and scientific methods. The principles focus on meeting the agency's 
+important safety and security mission while appropriately considering 
+the interests of stakeholders, including licensees; State, local, and 
+Tribal governments; nongovernmental organizations; and the public. The 
+agency's openness principle explicitly recognizes that the public must 
+be informed about and have an opportunity to participate in the 
+regulatory process.
+    Evidence building and evaluation are used to inform agency 
+activities and actions, such as licensing, oversight, budgeting, 
+program improvement, accountability, management, rulemaking, guidance 
+development, and policy development. The emphasis on evidence is meant 
+to support innovation, improvement, and learning. The NRC uses many 
+types of evidence, including evaluations. Other evidence types include, 
+but are not limited to, descriptive studies, performance
+
+[[Page 79044]]
+
+measurements, financial and cost data, and program administrative data. 
+The NRC carries out evidence-building and evaluation activities to (1) 
+identify, evaluate, and resolve safety issues; (2) ensure that an 
+independent technical basis exists to review licensee submittals; (3) 
+evaluate operating experience and results of risk assessments for 
+safety implications; and (4) support the development and use of risk-
+informed regulatory approaches.
+
+Evaluation Standards
+
+    The NRC staff will use the following evaluation standards when 
+conducting evaluations.
+    1. Rigor--The NRC is committed to using rigorous evaluation methods 
+by qualified evaluators with relevant education, skills, and experience 
+to ensure evaluations are appropriate and feasible within statutory, 
+budgetary, and other constraints.
+    Rigorous evaluations require inferences about cause and effect to 
+be well founded (internal validity); clarity about the populations, 
+settings, or circumstances to which results can be generalized 
+(external validity); and the use of measures that accurately capture 
+the intended information (measurement reliability and validity). The 
+NRC's evaluations are conducted by qualified staff with relevant 
+education, skills, and experience for the methods undertaken. The NRC's 
+evaluations use appropriate designs and methods that adhere to widely 
+accepted scientific principles to answer key questions while balancing 
+goals, scale, timeline, feasibility, and available resources. 
+Additionally, the NRC's Information Quality Program \17\ ensures that 
+all information relied on by the NRC is subject to rigorous quality 
+standards.
+---------------------------------------------------------------------------
+
+    \17\ Management Directive 3.17, ``Information Quality Program,'' 
+ensures that peer review is conducted on all influential scientific 
+information and highly influential scientific assessment that the 
+agency intends to disseminate.
+---------------------------------------------------------------------------
+
+    2. Relevance and Utility--The NRC will ensure that evaluations are 
+relevant and provide useful findings to inform agency activities and 
+actions and stakeholders.
+    The NRC performs evaluations to examine questions of importance and 
+serve the information needs of stakeholders. The NRC's evaluations 
+present findings that are clear, concise, actionable, and available 
+within a timeline that is appropriate to the questions under 
+consideration. The NRC's evaluation priorities consider legislative 
+requirements; the NRC's strategic safety and security goals, 
+objectives, and strategies; and the interests and views of 
+stakeholders.
+    3. Transparency--The NRC is committed to conducting evaluations in 
+an open and transparent manner, which keeps stakeholders informed of 
+the agency's evaluation activities.
+    NRC activities will be conducted openly and the public must be 
+informed about and have an opportunity to participate in the NRC's 
+regulatory process. As a regulator, the NRC will listen to, respect, 
+and analyze different views from stakeholders. The NRC will also ensure 
+open channels of communication are maintained between the NRC and 
+stakeholders, including Congress, other government agencies, licensees, 
+nongovernmental organizations, individual members of the public, and 
+international and domestic nuclear communities. The NRC takes 
+reasonable efforts to make all information, including information about 
+the NRC's evaluations (including their purpose, objectives, design, 
+findings, and evaluation methods), broadly available and accessible. 
+The NRC releases public evaluation findings in a timely manner and 
+archives the evaluation data for secondary use by stakeholders, as 
+appropriate.
+    4. Collaboration--The NRC is committed to working collaboratively 
+when conducting evaluations and draws on the expertise of subject 
+matter experts to ensure diversity in perspectives.
+    The NRC fosters a collaborative work environment that encourages 
+diverse views, alternative approaches, critical thinking, creative 
+problem solving, unbiased evaluations, and honest feedback. The NRC 
+emphasizes trust, respect, and open communication to promote a positive 
+work environment that maximizes the potential of all individuals, which 
+improves evidence building and evaluation activities. A collaborative 
+environment leverages expertise from subject matter experts and enables 
+peer reviews to ensure rigorous evaluations. The NRC also conducts 
+research and collaborates with organizations that develop consensus 
+standards to improve data and methods used in risk analysis. The NRC 
+collaborates with national laboratories, other Federal agencies, 
+universities, and international organizations.
+    5. Independence and Objectivity--As an independent Federal agency, 
+the NRC is committed to conducting evaluations that are independent and 
+based on objective assessments of all relevant information.
+    The NRC was established as an independent agency to regulate 
+civilian uses of radioactive material. The NRC's evaluations will be 
+independent and objective to maintain credibility. The implementation 
+of evaluation activities, including the selection and function of the 
+evaluators, should be appropriately insulated from factors that may 
+affect their objectivity, impartiality, and professional judgment. 
+Evaluations are inclusive and seek diverse participation from 
+stakeholders in setting evaluation priorities, identifying evaluation 
+questions, and assessing the implications of findings. The NRC strives 
+for objectivity in the planning and conduct of evaluations.
+    6. Ethics--The NRC is committed to conducting evaluations that 
+adhere to Government-wide ethics standards to protect the public and 
+maintain public trust.
+    The NRC's evaluations comply with relevant legal requirements and 
+are conducted in a manner that is free from conflicts of interest, 
+undue influence, and the appearance of bias and that safeguards the 
+dignity, rights, safety, and privacy of participants. The NRC complies 
+with Governmentwide ethics standards contained in Federal statutes and 
+regulations, which are intended to ensure that every citizen can have 
+confidence in the integrity of the Federal Government.
+
+IV. Specific Request for Comments
+
+    The NRC is interested in obtaining feedback from stakeholders on 
+the proposed Evaluation Policy Statement. The focus of this request is 
+to gather information that will permit the NRC staff to develop the 
+final Evaluation Policy Statement. The NRC is particularly interested 
+in comments that address the extent to which the proposed Evaluation 
+Policy Statement will facilitate the agency's review of new and novel 
+technologies and the agency's efforts to improve internal performance.
+
+    Dated: December 2, 2020.
+
+    For the Nuclear Regulatory Commission.
+Annette L. Vietti-Cook,
+Secretary of the Commission.
+[FR Doc. 2020-26864 Filed 12-7-20; 8:45 am]
+BILLING CODE 7590-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

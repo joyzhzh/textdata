@@ -1,0 +1,18 @@
+{
+  "adapter": "federal_register",
+  "window_start": "2020-12-07",
+  "window_end": "2020-12-08",
+  "identity": "publication date + document number",
+  "filters": "none: every document the index lists",
+  "site_order": [
+    "govinfo",
+    "federalregister"
+  ],
+  "delay_seconds": 1.0,
+  "tries": 4,
+  "timeout_seconds": 60.0,
+  "collection_pass": "email_redacted_release_govinfo",
+  "defined_at": "2026-10-31T16:09:52Z",
+  "user_agent": "textdata-data-acquisition/0.1 (research toolkit; standard-library urllib)",
+  "release_edition": "The frame and retrieval attempts are historical; text files are email-redacted release copies. This is not a new live retrieval."
+}

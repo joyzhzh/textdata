@@ -1,0 +1,13 @@
+{
+  "documents": 191,
+  "with_text": 191,
+  "pdf_only": 0,
+  "raw_bytes": 2988908,
+  "documents_with_image_placeholders": 7,
+  "documents_with_hidden_emails": 130,
+  "by_source_site": {
+    "federalregister.gov": 191
+  },
+  "problems": 0,
+  "inventoried_at": "2026-10-31T16:08:23Z"
+}

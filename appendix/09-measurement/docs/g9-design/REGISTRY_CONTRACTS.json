@@ -1,0 +1,154 @@
+{
+  "status": "future_production_schema_not_empirical_data",
+  "common_fields": [
+    "record_id",
+    "source_work_id",
+    "source_manifestation",
+    "source_locator",
+    "observed_date",
+    "inspection_depth",
+    "evidence_state",
+    "unknown_fields"
+  ],
+  "registries": [
+    {
+      "registry_id": "glossary",
+      "owner_lane": "G9-L01",
+      "contributors": [
+        "G9-L49"
+      ],
+      "fields": [
+        "english_term",
+        "chinese_term",
+        "original_language_term",
+        "construct_definition",
+        "non_equivalence",
+        "application",
+        "translation_basis"
+      ]
+    },
+    {
+      "registry_id": "measure_genealogy",
+      "owner_lane": "G9-L50",
+      "contributors": [
+        "G9-L34",
+        "G9-L35",
+        "G9-L36",
+        "G9-L37",
+        "G9-L38",
+        "G9-L39",
+        "G9-L40",
+        "G9-L41",
+        "G9-L42",
+        "G9-L43",
+        "G9-L56"
+      ],
+      "fields": [
+        "measure_id",
+        "version_date",
+        "predecessor_measure_ids",
+        "relationship",
+        "inherited_components",
+        "changed_components",
+        "validation_scope_change"
+      ]
+    },
+    {
+      "registry_id": "datasets_benchmarks",
+      "owner_lane": "G9-L52",
+      "contributors": [
+        "G9-L44"
+      ],
+      "fields": [
+        "name",
+        "version",
+        "task",
+        "object",
+        "reference_universe",
+        "label_definition",
+        "rater_population",
+        "size",
+        "size_denominator",
+        "split",
+        "license_source",
+        "access_route",
+        "availability",
+        "contamination_risk",
+        "dependence_cluster"
+      ]
+    },
+    {
+      "registry_id": "tools_platforms",
+      "owner_lane": "G9-L43",
+      "contributors": [
+        "G9-L34",
+        "G9-L35",
+        "G9-L36",
+        "G9-L37",
+        "G9-L38",
+        "G9-L39",
+        "G9-L40",
+        "G9-L41",
+        "G9-L42",
+        "G9-L43",
+        "G9-L56"
+      ],
+      "fields": [
+        "name",
+        "version",
+        "provider",
+        "official_url",
+        "task",
+        "inputs",
+        "scoring_method",
+        "access_conditions",
+        "license_source",
+        "validation_refs",
+        "reported_cost_latency",
+        "active_or_discontinued"
+      ]
+    },
+    {
+      "registry_id": "prompts_rubrics",
+      "owner_lane": "G9-L39",
+      "contributors": [
+        "G9-L40",
+        "G9-L41",
+        "G9-L42",
+        "G9-L43"
+      ],
+      "fields": [
+        "prompt_id",
+        "prompt_version",
+        "model_version",
+        "task",
+        "rubric",
+        "scale_anchors",
+        "prompt_text_or_permitted_locator",
+        "examples",
+        "decoding",
+        "aggregation",
+        "rights",
+        "validation_refs"
+      ]
+    },
+    {
+      "registry_id": "evaluator_model_cutoffs",
+      "owner_lane": "G9-L46",
+      "contributors": [
+        "G9-L55",
+        "G9-L56"
+      ],
+      "fields": [
+        "provider",
+        "model_id",
+        "model_version",
+        "disclosed_cutoff",
+        "disclosure_status",
+        "official_disclosure_url",
+        "contamination_evidence",
+        "knowledge_boundary_uncertainty"
+      ]
+    }
+  ]
+}

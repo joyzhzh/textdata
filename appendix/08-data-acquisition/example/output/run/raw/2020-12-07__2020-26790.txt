@@ -1,0 +1,530 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78914-78918]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26790]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Highway Administration
+
+[FHWA Docket No. FHWA-2020-0014]
+
+
+Surface Transportation Project Delivery Program; Alaska 
+Department of Transportation Third Audit Report
+
+AGENCY: Federal Highway Administration (FHWA), U.S. Department of 
+Transportation (DOT).
+
+ACTION: Notice; Request for comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Moving Ahead for Progress in the 21st Century Act (MAP-21) 
+established the Surface Transportation Project Delivery Program that 
+allows a State to assume FHWA's environmental responsibilities for 
+environmental review, consultation, and compliance under the National 
+Environmental Policy Act (NEPA) for Federal highway projects. When a 
+State assumes these Federal responsibilities, the State becomes solely 
+responsible and liable for carrying out the responsibilities it has 
+assumed, in lieu of FHWA. This program mandates annual audits during 
+each of the first 4 years of State participation to ensure compliance 
+with program requirements. This notice announces and solicits comments 
+on the third audit report for the Alaska Department of Transportation 
+and Public Facilities (DOT&PF).
+
+DATES: Comments must be received on or before January 6, 2021.
+
+ADDRESSES: Mail or hand deliver comments to Docket Management Facility: 
+U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W12-
+140, Washington, DC 20590. You may also submit comments electronically 
+at <a href="http://www.regulations.gov">www.regulations.gov</a>. All comments should include the docket number 
+that appears in the heading of this document. All comments received 
+will be available for examination and copying at the above address from 
+9 a.m. to 5 p.m., e.t., Monday through Friday, except Federal holidays. 
+Those desiring notification of receipt of comments must include a self-
+addressed, stamped postcard or you may print the acknowledgment page 
+that appears after submitting comments electronically. Anyone can 
+search the electronic form of all comments in any of our dockets by the 
+name of the individual submitting the comment (or signing the comment, 
+if submitted on behalf of an association, business, or labor union). 
+The DOT posts these comments, without edits, including any personal 
+information the commenter provides, to <a href="http://www.regulations.gov">www.regulations.gov</a>, as 
+described in the system of records notice (DOT/ALL-14 FDMS), which can 
+be reviewed at <a href="http://www.dot.gov/privacy">www.dot.gov/privacy</a>.
+
+FOR FURTHER INFORMATION CONTACT: Mr. David T. Williams, Office of 
+Project Development and Environmental Review, (202) 366-5074, 
+[email redacted], or Mr. Jay Payne, Office of the Chief Counsel, 
+(202) 366-4241, [email redacted]; Federal Highway Administration, 
+U.S. Department of Transportation, 1200 New Jersey Avenue SE, 
+Washington, DC 20590. Office hours are from 8:00 a.m. to 4:30 p.m., 
+e.t., Monday through Friday, except Federal holidays.
+
+SUPPLEMENTARY INFORMATION:
+
+Electronic Access
+
+    An electronic copy of this notice may be downloaded from the 
+specific docket page at <a href="http://www.regulations.gov">www.regulations.gov</a>.
+
+Background
+
+    The Surface Transportation Project Delivery Program, codified at 23 
+U.S.C. 327, commonly known as the NEPA Assignment Program, allows a 
+State to assume FHWA's environmental responsibilities for review, 
+consultation, and compliance for Federal highway projects. When a State 
+assumes these Federal responsibilities, the State becomes solely liable 
+for carrying out the responsibilities it has assumed, in lieu of FHWA. 
+The DOT&PF published its application for NEPA assumption on May 1, 
+2016, and made it available for public comment for 30 days. After 
+considering public comments, DOT&PF submitted its application to FHWA 
+on July 12, 2016. The application served as the basis for developing a 
+memorandum of understanding (MOU) that identified the responsibilities 
+and obligations that the DOT&PF would assume. The FHWA published a 
+notice of the draft MOU in the Federal Register on August 25, 2017, 
+with a 30-day comment period to solicit the views of the public and 
+Federal agencies. After the close of the comment period, FHWA and 
+DOT&PF considered comments and proceeded to execute the MOU. Effective 
+November 13, 2017, DOT&PF assumed FHWA's responsibilities under NEPA, 
+and the responsibilities for NEPA-related Federal environmental laws 
+described in the MOU.
+    Section 327(g) of title 23, U.S.C., requires the Secretary to 
+conduct annual audits to ensure compliance with the MOU during each of 
+the first 4 years of State participation and, after the fourth year, 
+monitor compliance. The FHWA must make the results of each audit 
+available for public comment. The second audit report of DOT&PF 
+compliance was finalized on February 25, 2020. This notice announces 
+the availability of the third audit report for DOT&PF and solicits 
+public comment on same.
+
+    Authority: Section 1313 of Public Law 112-141; Section 6005 of 
+Public Law 109-59; 23 U.S.C. 327; 23 CFR 773.
+
+Nicole R. Nason,
+Administrator, Federal Highway Administration.
+
+Surface Transportation Project Delivery Program, FHWA's Audit of the 
+Alaska Department of Transportation
+
+April 6-10, 2020
+
+Executive Summary
+
+    This report summarizes the results of the Federal Highway 
+Administration's (FHWA) third audit of the Alaska Department of 
+Transportation and Public Facilities' (DOT&PF) assumption of FHWA's 
+project-level National Environmental Policy Act (NEPA) responsibilities 
+and obligations pursuant to a 23 U.S.C. 327
+
+[[Page 78915]]
+
+Memorandum of Understanding (MOU). The DOT&PF entered the NEPA 
+Assignment Program after more than 8 years of experience making FHWA 
+NEPA Categorical Exclusion (CE) determinations pursuant to 23 U.S.C. 
+326 (beginning September 22, 2009).
+    Alaska's MOU became effective on November 13, 2017. Currently, 
+FHWA's NEPA responsibilities in Alaska include the oversight and 
+auditing of the DOT&PF's execution of the NEPA Assignment Program and 
+certain activities excluded from the MOU, such as the NEPA reviews of 
+projects advanced by direct recipients other than the DOT&PF.
+    The FHWA audit team began to prepare for the site visit in November 
+2019. The audit team reviewed DOT&PF's NEPA project files, DOT&PF's 
+response to FHWA's pre-audit information request (PAIR), and considered 
+DOT&PF's Self-Assessment Report. On April 6-10, 2020, the audit team 
+conducted a completely virtual site visit rather than its traditional 
+on-site visit due to national health emergency travel restrictions.
+    The audit team appreciates DOT&PF's responsiveness to the questions 
+regarding the status of general observations from the second audit. 
+This report concludes with a status update for FHWA's observations from 
+the second audit report.
+    The audit team finds DOT&PF in substantial compliance with the 
+terms of the MOU in meeting the responsibilities it has assumed. This 
+report does not identify any non-compliance observations; it does 
+identify two general observations and three successful practices.
+
+Background
+
+    The NEPA Assignment Program allows a State to assume FHWA's 
+environmental responsibilities for review, consultation, and compliance 
+for highway projects. This program is codified at 23 U.S.C. 327. When a 
+State assumes these Federal responsibilities for NEPA project 
+decisionmaking, the State becomes solely responsible and solely liable 
+for carrying out these obligations in lieu of and without further NEPA-
+related approval by FHWA.
+    The FHWA assigned responsibility for making project NEPA approvals 
+and other related environmental decisions for highway projects to 
+DOT&PF. The MOU documents these responsibilities. Examples of 
+responsibilities DOT&PF has assumed in addition to NEPA include Section 
+7 consultation under the Endangered Species Act and consultation under 
+Section 106 of the National Historic Preservation Act.
+    This is the third of four required annual audits pursuant to 23 
+U.S.C. 327(g) and Part 11 of the MOU. The FHWA uses audits as the 
+primary mechanism to oversee DOT&PF's compliance with the MOU and the 
+NEPA Assignment Program requirements. This includes ensuring compliance 
+with applicable Federal laws and policies, evaluating DOT&PF's progress 
+toward achieving the performance measures identified in Section 10.2 of 
+the MOU, and collecting information needed for the Secretary's annual 
+report to Congress. The FHWA must present its audit results in a report 
+and make it available for public comment in the Federal Register.
+    The audit team included NEPA subject matter experts from FHWA 
+Alaska Division Office, the Chief Counsel's Office, the Resource 
+Center, and Headquarters Office of Project Development & Environmental 
+Review and Infrastructure.
+
+Scope and Methodology
+
+    The audit team examined a sample of DOT&PF's NEPA project files, 
+DOT&PF responses to the PAIR, and DOT&PF's Self-Assessment Report. The 
+audit team also interviewed resource agencies and DOT&PF staff and 
+reviewed DOT&PF policies, guidance, and manuals pertaining to NEPA 
+responsibilities. All reviews focused on objectives related to the six 
+NEPA Assignment Program elements: Program Management, Documentation and 
+Records Management, Quality Assurance/Quality Control (QA/QC), 
+Training, Performance Measures, and Legal Sufficiency.
+    Project File Review: To consider DOT&PF staff adherence to program 
+procedures and Federal requirements, the audit team selected a sample 
+of individual project files for which the environmental review had been 
+completed. The audit team evaluated DOT&PFs compliance with assumed 
+responsibilities and adherence to their own processes and procedures 
+for project-level environmental decisionmaking. The audit team did not 
+evaluate DOT&PF's project-specific decisions. The 54 sampled files 
+included programmatic CEs (actions approved in the regional offices as 
+noted in DOT&PF's November 2017 NEPA Assignment Categorical Exclusion 
+guidance), CEs and Environmental Assessments (approved in the Statewide 
+Environmental Office (SEO)), and re-evaluations (approved by the same 
+office as the original environmental document).
+    PAIR Review: The audit team reviewed DOT&PF's responses to the 
+PAIR, which consisted of 32 questions about specific elements in the 
+MOU that DOT&PF must implement. The audit team used these responses to 
+develop specific follow-up questions for interviews with DOT&PF staff.
+    DOT&PF Self-Assessment Review: The audit team reviewed DOT&PF's 
+January 2020 Self-Assessment Report and used it to develop specific 
+follow-up questions for interviews with DOT&PF staff. The NEPA 
+Assignment Program MOU Section 8.2.5 requires the DOT&PF to conduct 
+annual self-assessments of its QA/QC procedures and performance.
+    Interviews: The audit team conducted 21 interviews with DOT&PF 
+staff. Interviewees included staff from each of DOT&PF's three regional 
+offices and its SEO. The audit team invited DOT&PF staff and middle 
+management to participate in interviews to ensure they represented a 
+diverse range of staff expertise, experience, and program 
+responsibility.
+    In addition, the audit team conducted two phone interviews of 
+attorneys with the Alaska Department of Law and five phone interviews 
+with staff at the U.S. Army Corps of Engineers and the National Marine 
+Fisheries Service (NMFS).
+    Policy/Guidance/Manual Review: Throughout the document reviews and 
+interviews, the audit team verified information on DOT&PF's NEPA 
+Assignment Program including DOT&PF policies, guidance, manuals, and 
+reports. This included the Environmental Program Manual (EPM), the NEPA 
+Assignment QA/QC Plan, the NEPA Assignment Program Training Plan, and 
+the NEPA Assignment Self-Assessment Report.
+
+Overall Audit Opinion
+
+    This report identifies two observations and three successful 
+practices. The audit team finds DOT&PF is substantially in compliance 
+with the provisions of the MOU, has carried out the environmental 
+responsibilities it assumed through the NEPA Assignment Program, and 
+has taken steps to address observations identified in the second audit.
+
+Non-Compliance Observations
+
+    The audit team did not make any non-compliance observations in the 
+third audit.
+
+Observations and Successful Practices
+
+    This section summarizes the audit team's observations of DOT&PF's 
+NEPA Assignment Program implementation,
+
+[[Page 78916]]
+
+and DOT&PF's successful practices. ``Observations'' are items the audit 
+team would like to draw DOT&PF's attention to, which may benefit from 
+revisions to improve processes, procedures, or outcomes. The DOT&PF may 
+have already taken steps to address or improve upon the audit team's 
+observations, but at the time of the audit they appeared to be areas 
+where DOT&PF could make improvements. ``Successful practices'' are 
+positive results that FHWA would like to commend DOT&PF on developing. 
+These may include ideas or concepts that DOT&PF has planned but not yet 
+implemented. Successful practices and observations are described under 
+the six MOU topic areas: Program Management, Documentation and Records 
+Management, QA/QC, Training, Performance Measures, and Legal 
+Sufficiency.
+    This audit report provides an opportunity for DOT&PF to take 
+further actions to improve their program. The FHWA will consider the 
+status of areas identified for potential improvement in this audit's 
+observations as part of the scope of the fourth audit. The fourth audit 
+report will include a summary discussion that describes progress since 
+this audit.
+
+Program Management
+
+    Program Management includes the overall administration of the NEPA 
+Assignment Program. The audit team noted the following successful 
+practices and observations related to Program Management.
+
+Successful Practice #1: Consultation With Resource Agencies
+
+    The review team interviewed five staff from the U.S. Army Corps of 
+Engineers (USACE) and three staff from NMFS. Under Section 3.2.1 of the 
+MOU, the State assumed the DOT Secretary's responsibilities for highway 
+projects under NEPA for environmental review, reevaluation, 
+consultation, or other actions required under the Endangered Species 
+Act, the Clean Water Act, and other environmental laws. The audit 
+teams' assessment of DOT&PF's compliance with consultation and 
+permitting requirements under this section of the MOU resulted in the 
+following five conclusions:
+    1. DOT&PF is submitting complete and accurate information to both 
+the USACE and NMFS for consultation and permitting requirements.
+    2. DOT&PF is very responsive when agencies request additional 
+information or revisions.
+    3. DOT&PF submits comprehensive and timely monitoring reports when 
+they are required for projects.
+    4. DOT&PF has improved their oversight of construction contractors' 
+adherence to USACE permit conditions. The DOT&PF has self-reported 
+permit violations and worked with the USACE to remedy the situation.
+    5. DOT&PF has a good working relationship with USACE and NMFS. Some 
+of the DOT&PF regions have set up regular meetings with the agencies to 
+foster relationships and enhance communication. Resource agency 
+interviews revealed that they think those meetings are helpful and 
+would like them to continue.
+    The USACE interviews identified an opportunity to increase the 
+efficiency of interagency coordination. The DOT&PF should more clearly 
+identify in the permitting package whether a project is a Federal 
+undertaking or not, and identify what coordination it has completed.
+
+Observation #1: Self-Assessment Procedures
+
+    Section 8.2.5 of the MOU (Monitoring and Oversight), requires 
+DOT&PF to perform annual self-assessments of its QA/QC process and 
+performance to determine if the process is working as intended. Section 
+10.1.3 of the MOU (Performance Measurement) requires DOT&PF to collect 
+and maintain data related to the attainment of performance measures, 
+monitor progress towards meeting performance measures, and include its 
+progress in a self-assessment. The DOT&PF's 2018 NEPA Assignment 
+Program Self-Assessment Procedures require that SEO develop the 
+preliminary and final self-assessment report through coordination with, 
+and input from, the Regional Environmental Managers. The audit team 
+found that DOT&PF did not develop the January 2020 Self-Assessment 
+report in accordance with their procedures, nor distributed the final 
+report to the Regions. The audit team based this finding on interviews.
+
+Documentation and Records Management
+
+    Documentation and Records Management includes maintaining project 
+files and other recordkeeping (whether hardcopy or electronic) 
+pertaining to DOT&PF's discharge of the responsibilities it has assumed 
+under the 23 U.S.C. 327 Program. From November 1, 2018, through October 
+31, 2019, DOT&PF made 287 project decisions. Through employing both 
+random and judgmental sampling procedures, the audit team identified 54 
+project decisions to review, and did not identify any systemic issues 
+warranting an observation.
+
+Quality Assurance/Quality Control
+
+    Under Section 8.2.4 of the MOU, DOT&PF agreed to carry out regular 
+QA/QC activities in accordance with the MOU and DOT&PF procedures 
+established to implement the NEPA Assignment Program. Based on the 
+information evaluated by the audit team, DOT&PF is conducting regular 
+QA/QC activities in accordance with the MOU, though opportunities exist 
+to utilize trend data to continue improving the program.
+
+Training
+
+    Under Sections 12.1 and 12.2 of the MOU, DOT&PF committed to 
+implementing training necessary to carry out the environmental 
+responsibilities assumed under the NEPA Assignment Program. The DOT&PF 
+also committed to assessing its need for training, developing a 
+training plan, and updating the training plan on an annual basis.
+
+Successful Practice #2: Central Region Organizational Cross-Training 
+Initiative
+
+    The central region has recently kicked off an organizational cross-
+training initiative, called ``Share-The-Knowledge,'' that provides 
+opportunities for environmental analysts to get exposure to informal 
+training in other functional areas, such as transportation planning, 
+realty, safety, highway design, operations, and construction. Cross-
+training provides a general awareness of how and to what extent NEPA 
+reviews can relate to project planning and inform Federal-aid highway 
+project development.
+
+Successful Practice #3: Taking Advantage of Training Opportunities
+
+    Based on interviews, the audit team learned the South Coast Region 
+invited Federal resource agency representatives to monthly meetings to 
+encourage knowledge sharing and partnering. During a time when training 
+budgets are limited, FHWA encourages DOT&PF to continue to take 
+advantage of training opportunities that may be made available by 
+Federal partners. One example was when DOT&PF staff participated in the 
+recent NMFS acoustic training in Anchorage.
+
+Performance Measures
+
+    The DOT&PF continues to collect, maintain, and develop data towards 
+monitoring its performance as required by Section 10.1.3 of the MOU. 
+The audit
+
+[[Page 78917]]
+
+team noted the following observation related to Performance Measures.
+
+Observation #2: Assessing Resource Agency Communication
+
+    Section 10.2.1 C. of the MOU requires DOT&PF to ``Assess change in 
+communication among DOT&PF, Federal and State agencies, and the public 
+resulting from assumption of responsibilities under this MOU.'' The MOU 
+allows DOT&PF to determine the method it will use to assess this 
+change. The DOT&PF selected to use an annual resource agency poll. The 
+DOT&PF identified this measure in its DOT&PF NEPA Assignment Program 
+Performance Measures document located on its website. In addition, 
+DOT&PF reported in this audit, and Audits 1 and 2, that an annual 
+resource poll would be the method for collecting data towards 
+monitoring this measure. The DOT&PF has not used a resource agency poll 
+to date. Through the audit team's review of DOT&PF's Self-Assessment, 
+PAIR, and audit interviews with DOT&PF, the audit team found that a 
+poll was not a useful tool to assess changes in communication. The FHWA 
+recommends that the DOT&PF consider changing the method for reporting 
+this measure.
+
+Legal Sufficiency
+
+    Since 2017, the same attorney from the Alaska Department of Law 
+(Alaska DOL), Transportation Section, has been assigned to the NEPA 
+Assignment program. The assigned attorney has significant experience 
+with Federal-aid highway projects and the Federal environmental 
+process. The attorney works directly with DOT&PF staff on project 
+environmental documents. Based on the interviews, the review process 
+exceeded the standard set forth in the Environmental Procedures Manual 
+(EPM), with the attorney being involved early in project development, 
+normally reviewing a NEPA document before receiving a formal request 
+for a legal sufficiency review. During the audit period, the attorney 
+reviewed one Final Section 4(f) Evaluation and issued a finding of 
+legal sufficiency in August 2019. The attorney did not review an 
+environmental impact statement during the audit period.
+    The Alaska DOL management stated during the interviews that while 
+one attorney is currently assigned to the program, should workload 
+increase significantly another attorney would be assigned to NEPA work, 
+perhaps through the utilization of outside counsel per 23 U.S.C. 
+327(a)(2)(G).
+    Based on these observations, the audit team finds that the DOT&PF 
+meets the legal sufficiency determination and staffing requirements set 
+forth in the DOT&PF EPM.
+
+Status of Observations From Audit #2 Report (April 2019)
+
+    This section describes the actions DOT&PF has taken (or is taking) 
+in response to observations made during the second audit.
+
+Observation #1: Applicability of Existing Interagency Agreements
+
+    Section 5.1.3 of the MOU required the DOT&PF to work with FHWA and 
+the resource agencies to modify existing interagency agreements within 
+6 months of the effective date of the MOU. During Audit 2, the audit 
+team determined that none of DOT&PF's existing agreements applied to 
+the current NEPA Assignment Program under 23 U.S.C. 327. According to 
+the January 2020 Self-Assessment Report, ``DOT&PF is not currently 
+pursuing agency agreements per Section 5.1.4 of the MOU regarding 
+appropriate processes and procedures.''
+
+Observation #2: DOT&PF Delegation of Authority for NEPA Approvals
+
+    Section 3.3.1 of the MOU requires DOT&PF to make NEPA approvals (CE 
+determinations, findings of no significant impact, or records of 
+decision). Audit 2 revealed inconsistencies regarding the delegation of 
+NEPA approvals within DOT&PF. The DOT&PF's January 2020 Self-Assessment 
+states that DOT&PF will incorporate a protocol that standardizes the 
+delegation authority for NEPA approval in the regions in the February 
+2020 update of its EPM. The DOT&PF has not made any changes to the EPM 
+since February 2018 per the DOT&PF's response to Audit 3's Pre-Audit 
+Information Request. Based on interviews conducted as part of Audit 3, 
+DOT&PF now plans to incorporate this protocol into the EPM in May 2020. 
+Currently, each region has its own delegation process. Generally, 
+DOT&PF delegates the NEPA approvals to the senior staff and 
+communicates that delegation via email to affected parties. Most staff 
+interviewed understand their region's delegation process and new staff 
+are becoming oriented with the process.
+
+Observation #3: Staff Capacity
+
+    Sections 4.2.1 and 4.2.2 of the MOU outline the requirements for 
+the State's commitment of resources and adequate organizational staff 
+capacity. Moderate to high staff turnover has been a recurring issue 
+since the MOU went into effect (Audit #1 report Observation #3 and 
+Audit #2 report Observation #3). According to the January 2020 Self-
+Assessment Report, ``DOT&PF's staffing levels were a concern during 
+this audit period and senior staff expended considerable effort to hire 
+new qualified staff and to retain current staff. As a result of this 
+effort, the regional offices are now fully or near fully staffed.'' The 
+DOT&PF is aware of the issue and continues to track staffing impacts on 
+the NEPA Assignment Program through the QA/QC process.
+
+Observation #4: Documentation of Environmental Commitments
+
+    Section 5.1.1 of the MOU requires the State to follow Federal laws, 
+regulations, policies, and procedures to implement the responsibilities 
+assumed. Audit 2 revealed inconsistencies regarding how DOT&PF was 
+documenting environmental commitments and making sure that DOT&PF 
+carries the environmental commitments through the project development 
+process and into construction. The DOT&PF developed written guidance on 
+the documentation of environmental commitments. According to the 
+January 2020 Self-Assessment Report, the guidance was implemented on 
+May 5, 2019. Based on the interviews conducted as part of Audit 3, 
+DOT&PF staff understood who certified that the environmental 
+commitments were included in the plan, specifications, and estimates, 
+as well as their role in the certification process.
+
+Observation #5: Inconsistency in Project Termini and Statewide 
+Transportation Improvement Program (STIP)
+
+    Section 3.3.1 of the MOU requires DOT&PF, at the time of NEPA 
+approval (CE determination, finding of no significant impact, or record 
+of decision), to ensure that the project's design concept, scope, and 
+funding is consistent with current planning documents. During Audit 2, 
+the audit team found one project file with an inconsistency between 
+project termini shown in a project plan and that described in the STIP, 
+and similar inconsistencies in the DOT&PF's Audit 2 Self-Assessment. 
+Project scope inconsistencies were not found by the file review team 
+during Audit 3. The DOT&PF's Audit 3 Self-Assessment identified one 
+instance of a project description discrepancy that did not affect the 
+scope of the project. Regional QC efforts appear to have improved this 
+issue, although DOT&PF noted in their self-assessment that using the 
+STIP project description as the project scope in environmental 
+documents is not possible for all projects.
+
+[[Page 78918]]
+
+Observation #6: Training Plan Update
+
+    Section 12.2 of the MOU commits DOT&PF and FHWA to update the 
+DOT&PF training plan annually in consultation with other Federal 
+agencies as appropriate. The DOT&PF did not update its Training Plan 
+prior to or during the Audit 2 process. In their response to the Audit 
+3 PAIR, DOT&PF stated ``the training plan was updated on October 29, 
+2019 with minor revisions to Section 5. A list of proposed training has 
+been added to this section and the RD&T2 [Research, Development, and 
+Technology Transfer], FHWA, and Prior Training Requests subsections 
+have been removed.'' Based on the information gathered through the PAIR 
+and interviews, the audit team is satisfied that the DOT&PF addressed 
+the training observation from the second audit. Moving forward, DOT&PF 
+committed to coordinating with the Alaska Division Office for future 
+annual updates of the Training Plan.
+
+[FR Doc. 2020-26790 Filed 12-4-20; 8:45 am]
+BILLING CODE 4910-22-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

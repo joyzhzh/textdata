@@ -1,0 +1,1 @@
+Sealed research package beta: a second completed package with its own checksum manifest.

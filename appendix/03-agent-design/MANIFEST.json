@@ -1,0 +1,176 @@
+{
+  "component": "03-agent-design",
+  "source_edition": "2026-10-29",
+  "release_edition": "2026-11-02",
+  "source_notes": "See NOTICE.md for source terms and docs/survey-method.md for interpretation. Hashes describe the supplied files.",
+  "verified_with": "python3 -I checks/verify_counts.py",
+  "units": {
+    "survey_entries": 22667,
+    "survey_visible_rows": 22640,
+    "survey_withheld_rows": 27,
+    "survey_functions": 14,
+    "survey_function_memberships": 22749,
+    "design_entries": 34,
+    "design_categories": 7,
+    "design_references": 91,
+    "design_repository_links": 22,
+    "design_selected_primary_text": 19,
+    "design_documented_summaries": 15,
+    "worked_survey_records": 7,
+    "worked_statement_paraphrases": 8
+  },
+  "inventory_scope": "All files except MANIFEST.json itself, which cannot carry its own byte hash.",
+  "payload_bytes": 10929723,
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1480,
+      "sha256": "d0ad8a01f20899aeed450173f22efc39c581c4f0769cde727dd3d65212b1c81a"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1395,
+      "sha256": "8dae4cfbf5ca8e54bbf8635a6c7a54fe0b1e0db2dfa964cbe99df2e54f7a87e0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3658,
+      "sha256": "f7b64450dffeecf061a6852c148ca50472cc0652a08183ade7175da096d63b27"
+    },
+    {
+      "path": "checks/verify_counts.py",
+      "bytes": 15618,
+      "sha256": "e0eba62de84edb5bfd5c68a0059d25b4f0bc4cb47f228c2e348fb45e34b991cc"
+    },
+    {
+      "path": "data/agent-design/assets/app.js",
+      "bytes": 6027,
+      "sha256": "090dffe58d87c87febff3d63ea921424ad075c6cb9d41dfc4a09341403b7cd63"
+    },
+    {
+      "path": "data/agent-design/assets/catalogue.js",
+      "bytes": 68001,
+      "sha256": "39b43679016b1037e725a5bec6eb7b70ae43afb3f0db49296a0d0e2ebc69776d"
+    },
+    {
+      "path": "data/agent-design/assets/style.css",
+      "bytes": 9343,
+      "sha256": "75906084f33192bb5903490632cdaf4c83a1646cd1b96b396cd2a011d61dfe3d"
+    },
+    {
+      "path": "data/agent-design/data/catalogue.json",
+      "bytes": 80362,
+      "sha256": "447a3d7465c7f2b0dd64bb38f5ccd1946c5a32f9cc29e9428ef471ac79225b00"
+    },
+    {
+      "path": "data/agent-design/exports/categories.csv",
+      "bytes": 766,
+      "sha256": "8b1d8a58a27c6db3012b6fb31b3144a2c8a92d12bf6bae84862409035abb6ab3"
+    },
+    {
+      "path": "data/agent-design/exports/records.csv",
+      "bytes": 58048,
+      "sha256": "3410da89d3a96aa7509b7be7fb42382e55555c0da20f350b4802958ea8e0fcd0"
+    },
+    {
+      "path": "data/agent-design/exports/records.jsonl",
+      "bytes": 66443,
+      "sha256": "e4da3df2f32d21555e08a48fc507cef2170d6f7e38e79f0d445e22346ad1031b"
+    },
+    {
+      "path": "data/agent-design/exports/references.csv",
+      "bytes": 15714,
+      "sha256": "0582bb75dad54ac722b1e26d4f6e5ef53ec32fa4391ab39dfc449e0b227db616"
+    },
+    {
+      "path": "data/agent-design/exports/repositories.csv",
+      "bytes": 2946,
+      "sha256": "dcf64ec74da55bee68ecae7333c2c6ef03de989a9d322788bd1abfdfa49c16c9"
+    },
+    {
+      "path": "data/agent-design/exports/textdata-agent-design.sql",
+      "bytes": 119334,
+      "sha256": "732dc39e0904397446387e69a1d1d47c7a44641dce3a9ed19f35d5c7d96d3d17"
+    },
+    {
+      "path": "data/agent-design/exports/textdata-agent-design.sqlite",
+      "bytes": 200704,
+      "sha256": "6de2bc162e52f807e7a643faada4eba31355bf8109ac1f7773ff1eecb8cc3aef"
+    },
+    {
+      "path": "data/agent-design/index.html",
+      "bytes": 15666,
+      "sha256": "a815873c61d40bc90f42a400a28c5a27ae71bb783b662e3c99fa0edbdf346cc7"
+    },
+    {
+      "path": "data/systems-survey/coverage.json",
+      "bytes": 2189,
+      "sha256": "85effdf02ade3c44d056b683508bdfd9a6aa6333f9b5fe0580b6c930915d8bbf"
+    },
+    {
+      "path": "data/systems-survey/function-membership.json",
+      "bytes": 684689,
+      "sha256": "2e5e0dc0363d8a2bda98871a3a58142f58bdb6cb932f06537aa293034a946eca"
+    },
+    {
+      "path": "data/systems-survey/survey-index-held-back.json",
+      "bytes": 1118,
+      "sha256": "af496bf28c082f53f5c2b418f7121bc9676f9259e9b57b49495ce8a75acffe67"
+    },
+    {
+      "path": "data/systems-survey/survey-index.csv",
+      "bytes": 9532548,
+      "sha256": "c0e672fcda82ef31d4f460df345597f027b6c4f24ffdeaedd887ca7569a428e0"
+    },
+    {
+      "path": "docs/agent-design-data-dictionary.md",
+      "bytes": 3401,
+      "sha256": "649910f7c6f6d3654af426623f01dc0bd629a63a5b139fdd2ab3e70aaeaa41fe"
+    },
+    {
+      "path": "docs/agent-design-introduction.md",
+      "bytes": 8018,
+      "sha256": "e8f8f28312c73e09fd3f0e98c38051a35778d7b69a03e1aaa01c2e3d8cddafd0"
+    },
+    {
+      "path": "docs/survey-data-dictionary.md",
+      "bytes": 1972,
+      "sha256": "955ccd555b8797125815560f32cc310d246a5657c04be0effbbf485c96e6c4b9"
+    },
+    {
+      "path": "docs/survey-method.md",
+      "bytes": 1952,
+      "sha256": "4db0cd3bb93a844860648e0b23a224e7ed9a76c053730af127d5617cb1c87291"
+    },
+    {
+      "path": "docs/survey-synthesis.md",
+      "bytes": 2931,
+      "sha256": "8131e8596c4d2722cf7c6c62d98fd1ef26a12bf172c72f7b28f09732edce2c90"
+    },
+    {
+      "path": "example/input/AD-014.json",
+      "bytes": 4217,
+      "sha256": "b72abc9a2311fe321d95899033195ea7c7d8b9c9b53f8f070892b3b82b6ec3e0"
+    },
+    {
+      "path": "example/input/survey-entries-sharing-a-locator.jsonl",
+      "bytes": 4851,
+      "sha256": "e4abe405b7481b0379279253b237921772b4231c2cdfc296182868baac79b7a9"
+    },
+    {
+      "path": "example/output/AD-014.md",
+      "bytes": 9292,
+      "sha256": "31422c3c32c7be67e793c93670d4acec35b96f0f6912548391f4ab6db036d841"
+    },
+    {
+      "path": "example/show_record.py",
+      "bytes": 5424,
+      "sha256": "3392ec20193a3fc7499d7ec1ff4d6a7e7662028f9196e10de47d1cada89ec2e1"
+    },
+    {
+      "path": "tool/query_survey.py",
+      "bytes": 1616,
+      "sha256": "73ed145ffa172eaed417f27b9a8e563a6e20491965654f1ecafafcd50e43d517"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-11-02T04:36:22Z",
+  "raw_files_rehashed": 191,
+  "raw_problems": [],
+  "verify_py_exit_code": 0,
+  "verify_py_output": [
+    "manifest: 191 documents | 191 with text | 0 PDF-only | 1 months | pack list: 1 packs",
+    "packs opened: 1 | files re-hashed against the manifest: 191",
+    "OK (0s)"
+  ]
+}

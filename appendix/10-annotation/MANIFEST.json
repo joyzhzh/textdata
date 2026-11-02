@@ -1,0 +1,296 @@
+{
+  "component": 10,
+  "title": "LLM-annotation workflow",
+  "folder": "appendix/10-annotation",
+  "website": "https://textdata.info/toolkit/llm-annotation-workflow/",
+  "edition": "Illustrative saved-output prototype",
+  "release_derived_records": {
+    "example/prepared/manifest.json": "checks/recorded-2026-10-29/manifest.json",
+    "example/candidate/producer_receipt.json": "checks/recorded-2026-10-29/producer_receipt.json",
+    "example/output/producer_receipt.json": "checks/recorded-2026-10-29/producer_receipt.json",
+    "example/output/run.json": "checks/recorded-2026-10-29/run.json",
+    "note": "Each release-derived record (key) is labelled in its first field; the 29 October original (value) is kept unchanged."
+  },
+  "status": {
+    "built": true,
+    "demonstrated": "on five selected passages of one public document",
+    "validated": false
+  },
+  "requirements": "Python 3.9 or newer, standard library only; no network; no model call",
+  "entry_points": [
+    "README.md",
+    "AI-PROMPT.md",
+    "tool/workflow.py",
+    "checks/verify.py"
+  ],
+  "checks": [
+    {
+      "command": "python3 checks/verify.py",
+      "expects": "exit 0 and all_ok true; software integrity and deterministic replay, not annotation accuracy"
+    }
+  ],
+  "example": {
+    "command": "python3 tool/workflow.py export --package example/prepared --response example/candidate/candidate_response.jsonl --receipt example/candidate/producer_receipt.json --out replay-01",
+    "needs_network": false,
+    "needs_model": false,
+    "note": "Deterministic replay of saved candidate records, not a new model run; --out must name a new folder."
+  },
+  "counts": [
+    {
+      "what": "passages coded",
+      "value": 5,
+      "unit": "coding units",
+      "where": "example/input/units.jsonl"
+    },
+    {
+      "what": "candidate relations",
+      "value": 4,
+      "unit": "relation records, all with modality mandatory",
+      "where": "example/output/annotations.jsonl"
+    },
+    {
+      "what": "no-assignment records",
+      "value": 1,
+      "unit": "unit records with disposition no_assignment",
+      "where": "example/output/features.csv"
+    },
+    {
+      "what": "synthetic error cases that pass the source checks",
+      "value": 2,
+      "unit": "constructed fault files (actor substitution; omission)",
+      "where": "checks/recorded-2026-10-29/"
+    },
+    {
+      "what": "independent reference annotations",
+      "value": 0,
+      "unit": "coded reference records",
+      "where": "example/output/reference_template.jsonl"
+    }
+  ],
+  "scope_of_counts": "Five passages chosen by hand; not totals for the document or the Federal Register. No accuracy figure exists.",
+  "data": [
+    {
+      "source": "Executive Order 13960, Federal Register document 2020-27065 (GovInfo HTML edition, retrieved 2026-10-29), with a normalized reading text",
+      "rights": "public domain, United States Government work",
+      "included": true
+    },
+    {
+      "source": "Federal Register collection (component 8)",
+      "included": false
+    },
+    {
+      "source": "Annotation-method syntheses (component 2)",
+      "included": false
+    }
+  ],
+  "licences": {
+    "code": "Apache-2.0 (repository root LICENSE): tool/, checks/verify.py",
+    "documents_and_data": "CC-BY-4.0 (repository root LICENSE-docs): project-authored documents, records and outputs",
+    "third_party": "Executive Order 13960: public domain, not relicensed"
+  },
+  "file_count": 40,
+  "total_bytes": 315523,
+  "note": "MANIFEST.json does not list itself.",
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1703,
+      "sha256": "82f424a554a278f7cc9e8c2c45be12c6b7f5868ae4bada3fa43d1d21aed0f87d"
+    },
+    {
+      "path": "CHANGES.md",
+      "bytes": 315,
+      "sha256": "edfa8caf413ed02c666d993299400cec848d12bd184c2a309ac8980b544e0d61"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 3968,
+      "sha256": "a286503e3ae276a5c7aaae385913553ef1c1cbf7465f2803d2f236759471ac2e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3532,
+      "sha256": "4c1d8c5010ff5817bbcc07f90e8a2f2e39600fcc7a126e2e6913ae9425af244c"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/CHECK_RESULTS.json",
+      "bytes": 1928,
+      "sha256": "62c3a83acc6e065be825cc62301ef0136dd5fdc1b7f06632c2494a2c12bf6fda"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/REPLAY_CHECK.json",
+      "bytes": 399,
+      "sha256": "e2efeccb572b226464ff0098a99acac0bfdf477d25924d184d4333d976fe3376"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/manifest.json",
+      "bytes": 889,
+      "sha256": "08a5796b655672ee5ce58609a967d9ad959d6c5f4414b4b07a75c44d8fc6ca72"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/producer_receipt.json",
+      "bytes": 1523,
+      "sha256": "c15162a403641a30a7cd465f2c814f34432e814475f8edc091ebef2df6ac3fe7"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/run.json",
+      "bytes": 1535,
+      "sha256": "1d3da696254b21355788cc16592bf58f38959288fd70abbfa79e0aff5926458e"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/semantic_limit_omission_still_passes.jsonl",
+      "bytes": 3726,
+      "sha256": "824f33a9a6aa33489d840b38683122d7d0f73911e0850600103d8880921e4a09"
+    },
+    {
+      "path": "checks/recorded-2026-10-29/semantic_limit_wrong_actor_still_passes.jsonl",
+      "bytes": 4234,
+      "sha256": "1f66bdb91503bdf28190d4c069b9182134189364c5e49f43fb61fa5d8d6c3630"
+    },
+    {
+      "path": "checks/verify.py",
+      "bytes": 14711,
+      "sha256": "28a942f7e34497e053e8a1475f4a907f2098ca6b2416b9e47828043598251a50"
+    },
+    {
+      "path": "data/SOURCES.md",
+      "bytes": 1889,
+      "sha256": "7910fbf98797cc9c3a707dd821461a05b44f78e5f86d25e9e82e11bf14b1aeac"
+    },
+    {
+      "path": "docs/WORKED_EXAMPLE.txt",
+      "bytes": 4374,
+      "sha256": "6b41a02472de14fa759e034d6d6b3d03314feece2d8dfa0282defc6473b9c5f4"
+    },
+    {
+      "path": "docs/WORKFLOW.txt",
+      "bytes": 2971,
+      "sha256": "3843682c837effa238637d428805f7fe35c04ce5d731e773a4bd5e62d8b66ef9"
+    },
+    {
+      "path": "example/candidate/candidate_response.jsonl",
+      "bytes": 4102,
+      "sha256": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463"
+    },
+    {
+      "path": "example/candidate/producer_receipt.json",
+      "bytes": 2540,
+      "sha256": "fce36d3274a9139a72b46585d9b4a76c2e7c857fadc290f0972fe3f0eade0bc0"
+    },
+    {
+      "path": "example/input/codebook.json",
+      "bytes": 2716,
+      "sha256": "dd31b1413ca711e4939ea8447b744ea9d4dc15a9a67e41a95795b51227a5e99b"
+    },
+    {
+      "path": "example/input/prompt.txt",
+      "bytes": 688,
+      "sha256": "6ea4395bb479f907ff98ec6b7bbe2ad744acb66e3033e6af24488e107515ace0"
+    },
+    {
+      "path": "example/input/source/2020-27065.html",
+      "bytes": 23146,
+      "sha256": "b5aebc25b9665fb743fe13094c7143cefe99f2be6f201e63b8069de585e98875"
+    },
+    {
+      "path": "example/input/source/2020-27065.txt",
+      "bytes": 17486,
+      "sha256": "88f5a24f104b140f904574274bfc9bc3e3824e594fd5ce43f86f46e235ef8533"
+    },
+    {
+      "path": "example/input/study.json",
+      "bytes": 2337,
+      "sha256": "1ef6f8e3f8f96bfb5cdfc46fdd1d1be763f1c32d4d87351154ff9a1af75b7d89"
+    },
+    {
+      "path": "example/input/units.jsonl",
+      "bytes": 2697,
+      "sha256": "1c4131826db2cfb992e282ab8de259f72215c5e236bdb88d41fe0912ff250e7b"
+    },
+    {
+      "path": "example/output/annotations.jsonl",
+      "bytes": 9108,
+      "sha256": "e9f8800888384afdce1565281b39cce136b5469b2422b613d962030263bc8b3b"
+    },
+    {
+      "path": "example/output/features.csv",
+      "bytes": 4734,
+      "sha256": "5552fdc15dff1bd71ba338d3cc11180a680e89092baf06940967b2f87b7df524"
+    },
+    {
+      "path": "example/output/producer_receipt.json",
+      "bytes": 2540,
+      "sha256": "fce36d3274a9139a72b46585d9b4a76c2e7c857fadc290f0972fe3f0eade0bc0"
+    },
+    {
+      "path": "example/output/reference_template.jsonl",
+      "bytes": 990,
+      "sha256": "b300f48d32d1e782bfac3ada65c4373e3961ad1791e3910fd4f8980b5ac426f0"
+    },
+    {
+      "path": "example/output/response.jsonl",
+      "bytes": 4102,
+      "sha256": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463"
+    },
+    {
+      "path": "example/output/run.json",
+      "bytes": 1893,
+      "sha256": "a405247136808201871792226ec990d9f6bf1fc997554513b4324a391001c2d9"
+    },
+    {
+      "path": "example/output/summary.json",
+      "bytes": 821,
+      "sha256": "f47bc087ba35b61bea13f4a76e3fe696a128d31b08b2801195feb051561c6422"
+    },
+    {
+      "path": "example/prepared/codebook.json",
+      "bytes": 2716,
+      "sha256": "dd31b1413ca711e4939ea8447b744ea9d4dc15a9a67e41a95795b51227a5e99b"
+    },
+    {
+      "path": "example/prepared/manifest.json",
+      "bytes": 1306,
+      "sha256": "54657cd37c823716cbddabe8a37cd7a72c3d669c67f27aad9e8e487b58b3733c"
+    },
+    {
+      "path": "example/prepared/prompt.txt",
+      "bytes": 688,
+      "sha256": "6ea4395bb479f907ff98ec6b7bbe2ad744acb66e3033e6af24488e107515ace0"
+    },
+    {
+      "path": "example/prepared/requests.jsonl",
+      "bytes": 113052,
+      "sha256": "61b0789286d729c8ac24c5d6df75d265acbdf1f8ecbc8dd282216763c768129c"
+    },
+    {
+      "path": "example/prepared/source/2020-27065.html",
+      "bytes": 23146,
+      "sha256": "b5aebc25b9665fb743fe13094c7143cefe99f2be6f201e63b8069de585e98875"
+    },
+    {
+      "path": "example/prepared/source/2020-27065.txt",
+      "bytes": 17486,
+      "sha256": "88f5a24f104b140f904574274bfc9bc3e3824e594fd5ce43f86f46e235ef8533"
+    },
+    {
+      "path": "example/prepared/study.json",
+      "bytes": 2337,
+      "sha256": "1ef6f8e3f8f96bfb5cdfc46fdd1d1be763f1c32d4d87351154ff9a1af75b7d89"
+    },
+    {
+      "path": "example/prepared/units.jsonl",
+      "bytes": 2697,
+      "sha256": "1c4131826db2cfb992e282ab8de259f72215c5e236bdb88d41fe0912ff250e7b"
+    },
+    {
+      "path": "tool/make_example.py",
+      "bytes": 8818,
+      "sha256": "374fbef94ffeeb5051dce50cf8ead55501dedd7ba03af8f6ccf6eb2014d04d89"
+    },
+    {
+      "path": "tool/workflow.py",
+      "bytes": 15680,
+      "sha256": "3c9157efba2ed2aa07fe553e72f829873285674f9270422c75bf72435d08a5e2"
+    }
+  ]
+}

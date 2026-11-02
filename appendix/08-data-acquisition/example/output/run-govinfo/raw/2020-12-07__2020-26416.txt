@@ -1,0 +1,1553 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Rules and Regulations]
+[Pages 78707-78718]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26416]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Office of the Secretary
+
+14 CFR Part 399
+
+[Docket No. DOT-OST-2019-0182]
+RIN 2105-AE72
+
+
+Defining Unfair or Deceptive Practices
+
+AGENCY: Office of the Secretary (OST), U.S. Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Department of Transportation (DOT or Department) is 
+issuing a final rule codifying its longstanding definitions for the 
+terms ``unfair'' and ``deceptive'' in the Department's regulations 
+implementing its aviation consumer protection statute. The final rule 
+also describes the Department's procedural requirements for its 
+rulemaking and enforcement actions when based on the Department's 
+authority to prohibit unfair or deceptive practices. Most of the 
+Department's aviation consumer protection regulations, such as the 
+Department's rules on overbooking, are based on the Department's 
+authority to prohibit unfair or deceptive practices. This rule is 
+intended to provide regulated entities and other stakeholders with 
+greater clarity and certainty about the Department's interpretation of 
+unfair or deceptive practices and the Department's process for making 
+such determinations in the context of aviation consumer protection 
+rulemaking and enforcement actions.
+
+DATES: Effective on January 6, 2021.
+
+FOR FURTHER INFORMATION CONTACT: Robert Gorman, Kimberly Graber, or 
+Blane Workie, Office of Aviation Consumer Protection, U.S. Department 
+of Transportation, 1200 New Jersey Ave. SE, Washington, DC 20590, 202-
+366-9342, 202-366-7152 (fax); [email redacted]; 
+[email redacted]; [email redacted] (email).
+
+SUPPLEMENTARY INFORMATION: 
+
+I. Rulemaking Background
+
+    Much of the background information presented here also appears in 
+the preamble to the Department's Notice of Proposed Rulemaking on 
+Defining Unfair and Deceptive Practices published on February 28, 
+2020.\1\ We have presented background information again here to assist 
+the public in understanding the issues involved.
+---------------------------------------------------------------------------
+
+    \1\ ``Defining Unfair or Deceptive Practices,'' 85 FR 11881 
+(February 28, 2020).
+---------------------------------------------------------------------------
+
+A. The Department's Unfair and Deceptive Practices Statute
+
+    The Department's authority to regulate unfair and deceptive 
+practices in air transportation or the sale of air transportation is 
+found at 49 U.S.C. 41712 (``Section 41712'') in conjunction with its 
+rulemaking authority under 49 U.S.C. 40113, which states that the 
+Department may take action that it considers necessary to carry out 
+this part, including prescribing regulations. Section 41712 gives the 
+Department the authority to investigate and decide whether an air 
+carrier, foreign air carrier, or ticket agent is engaged in an unfair 
+or deceptive practice in air transportation or the sale of air 
+transportation. Under Section 41712, after notice and an opportunity 
+for a hearing, the Department has the authority to issue orders to stop 
+an unfair or deceptive practice. A different statute, 49 U.S.C. 46301, 
+gives the Department the authority to issue civil penalties for 
+violations of Section 41712 or for any regulation issued under the 
+authority of Section 41712.
+
+B. Request for Regulatory Reform
+
+    On February 24, 2017, President Trump signed Executive Order 13777, 
+Enforcing the Regulatory Reform Agenda, which requires each Federal 
+agency to establish a Regulatory Reform Task Force to evaluate existing 
+regulations, and make recommendations for their repeal, replacement, or 
+modification. As part of this process, the Department is directed to 
+seek input and assistance from entities significantly affected by its 
+regulations. On October 1, 2017, the Department issued a Notice of 
+Regulatory Reform seeking written input from the public on existing 
+regulations and other actions that are good candidates for repeal, 
+replacement, or modification.\2\ In response to the Notice, Airlines 
+for America (A4A), an airline trade association, urged the Department 
+to adopt policies defining unfairness and deception in Section 41712 
+consistent with principles articulated in Federal Trade Commission 
+(FTC) and Federal court precedent interpreting those terms.\3\ A4A also 
+urged the Department to adopt various procedures which would, in its 
+view, ensure that the Department's enforcement and rulemaking 
+activities were rooted in fairness, due process, and an adequate 
+factual foundation.
+---------------------------------------------------------------------------
+
+    \2\ ``Notification of Regulatory Review,'' 82 FR 45750 (October 
+1, 2017).
+    \3\ See Comment of A4A, Docket DOT-OST-2017-0069-2753, available 
+at <a href="http://www.regulations.gov">www.regulations.gov</a>.
+---------------------------------------------------------------------------
+
+C. Department's Comprehensive Update of Rulemaking and Enforcement 
+Procedures
+
+    On December 27, 2019, the Department issued a comprehensive update 
+and consolidation of its procedural requirements for the Department's 
+rulemaking and enforcement actions.\4\ This update reflects the 
+Department's policy that regulations should be straightforward and 
+clear, incorporate best practices for economic analyses, and provide 
+for appropriate public participation.\5\ It also reflects the 
+Department's policy that enforcement actions should satisfy principles 
+of due process and remain
+
+[[Page 78708]]
+
+lawful, reasonable, and consistent with Administration policy.\6\
+---------------------------------------------------------------------------
+
+    \4\ ``Administrative Rulemaking, Guidance, and Enforcement 
+Procedures,'' 84 FR 71714 (December 27, 2019), amending 49 CFR part 
+5 and other provisions.
+    \5\ 84 FR 71718-71826.
+    \6\ 84 FR 71729-71733.
+---------------------------------------------------------------------------
+
+D. Summary of Notice of Proposed Rulemaking (NPRM)
+
+    On February 28, 2020, the Department published an NPRM proposing to 
+define the terms ``unfair'' and ``deceptive'' found in Section 41712, 
+the Department's aviation consumer protection statute. The NPRM also 
+proposed a series of amendments to the Department's aviation consumer 
+protection procedures with respect to both regulation and enforcement. 
+The proposals were issued to provide greater clarity, transparency, and 
+due process in future aviation consumer protection rulemakings and 
+enforcement actions.
+    By way of background, the Department described the origin of 
+section 41712 and explained how it was modeled on Section 5 of the 
+Federal Trade Commission (FTC) Act. The Department explained that while 
+Section 5 vests the FTC with broad authority to prohibit unfair or 
+deceptive practices in most industries, Congress granted the Department 
+the exclusive authority to prohibit unfair or deceptive practices of 
+air carriers and foreign air carriers. The Department noted that DOT 
+and FTC share the authority to prohibit unfair or deceptive practices 
+by ticket agents in the sale of air transportation.
+    Next, the Department explained that in December 1980, the FTC 
+issued a Policy Statement to Congress, which articulated general 
+principles drawn from FTC decisions and rulemakings that the Commission 
+applies in enforcing its mandate to address unfairness under the FTC 
+Act.\7\ These principles were applied in FTC enforcement cases and 
+rulemakings, and approved by reviewing Federal courts.\8\ The FTC 
+explained that unjustified consumer injury is the primary focus of the 
+FTC Act. This concept contains three basic elements. An act or practice 
+is unfair where it: (1) Causes or is likely to cause substantial injury 
+to consumers; (2) cannot be reasonably avoided by consumers; and (3) is 
+not outweighed by countervailing benefits to consumers or to 
+competition. The FTC also considers public policy, as established by 
+statute, regulation, or judicial decisions, along with other evidence 
+in determining whether an act or practice is unfair.
+---------------------------------------------------------------------------
+
+    \7\ Letter from the FTC to Hon. Wendell Ford and Hon. John 
+Danforth, Committee on Commerce, Science and Transportation, United 
+States Senate, Commission Statement of Policy on the Scope of 
+Consumer Unfairness Jurisdiction (December 17, 1980), appended to 
+International Harvester Co., 104 F.T.C. 949, 1070, 1073 (1984).
+    \8\ See, e.g., International Harvester, 104 F.T.C. 949 (1984); 
+Credit Practices Rule, Statement of Basis and Purpose, 49 FR 7740 
+(1984) (``Credit Practices Rule SBP''); Orkin Exterminating Co., 
+Inc., 108 F.T.C. 263 (1986); aff'd, FTC v. Orkin, 849 F.2d 1354 
+(11th Cir. 1988).
+---------------------------------------------------------------------------
+
+    These principles are now reflected in the FTC Act itself. In 1994, 
+Congress enacted 15 U.S.C. 45(n), which states that the FTC shall have 
+no enforcement authority or rulemaking authority to declare an act or 
+practice unfair unless it is likely to cause substantial injury to 
+consumers which is not reasonably avoidable by consumers themselves and 
+not outweighed by countervailing benefits to consumers or to 
+competition. Congress further provided in Section 45(n) that the FTC 
+could rely on public policy, along with other evidence, for making a 
+determination of unfairness, but public policy may not be the primary 
+basis of its decision.
+    Next, the Department explained that in 1983, the FTC issued a 
+Policy Statement on Deception.\9\ Like the 1980 Policy Statement on 
+Unfairness, the 1983 Policy Statement clarified the general principles 
+that the FTC applies in enforcing its mandate to address deception 
+under the FTC Act. As explained in the Policy Statement, an act or 
+practice is deceptive where: (1) A representation, omission, or 
+practice misleads or is likely to mislead the consumer; (2) a 
+consumer's interpretation of the representation, omission, or practice 
+is considered reasonable under the circumstances; and (3) the 
+misleading representation, omission, or practice is material.
+---------------------------------------------------------------------------
+
+    \9\ FTC Policy Statement on Deception (Oct. 14, 1983), 103 
+F.T.C. 174, 175 (1984) (appended to Cliffdale Assocs., Inc., 103 
+F.T.C. 110 (1984)).
+---------------------------------------------------------------------------
+
+    In the NPRM, the Department proposed to adopt definitions of 
+``unfair'' and ``deceptive'' that echo FTC precedent. The Department 
+explained that adopting these definitions would simply codify existing 
+practice and would not reflect a change of policy, because the 
+Department's Office of Aviation Consumer Protection (formerly known as 
+the Office of Aviation Enforcement and Proceedings), a unit within the 
+Office of the General Counsel that enforces aviation consumer 
+protection requirements, has often explicitly relied on those 
+definitions in its enforcement orders.
+    Next, the Department proposed a set of procedural rules that would 
+govern the Department's future discretionary rulemaking and enforcement 
+efforts in the area of aviation consumer protection. With respect to 
+rulemaking actions, the Department proposed three measures. First, 
+future rulemakings declaring certain practices to be ``unfair'' or 
+``deceptive'' would use the Department's proposed definitions of those 
+terms.\10\ In prior rulemakings, the Department tended to make a 
+conclusory statement that a practice was unfair or deceptive and did 
+not provide its reasoning for that conclusion. In arriving at these 
+conclusions that certain practices were unfair or deceptive, DOT 
+employed the same definitions that are set forth in this rule, though 
+that analysis was done informally at the Department and not further 
+described in rule preambles.
+---------------------------------------------------------------------------
+
+    \10\ The proposal recognized that if Congress directed the 
+Department to issue a rule declaring a specific practice to be 
+unfair or deceptive, then the Department would do so without 
+reference to the Department's own definitions.
+---------------------------------------------------------------------------
+
+    Second, future discretionary rulemakings would be subject to a 
+hearing procedure. Specifically, if the Department proposes that a 
+practice was unfair or deceptive in a rulemaking, and that rulemaking 
+raised scientific, technical, economic, or other factual issues that 
+are genuinely in dispute, then interested parties may request an 
+evidentiary hearing to gather evidence on those disputed issues of 
+fact. Third, future rulemakings would explain the Department's basis 
+for finding a practice to be unfair or deceptive.
+    With respect to enforcement, the Department proposed three 
+measures. First, when taking enforcement action against an airline or 
+ticket agent for unfair or deceptive practices, the Department would 
+use the proposed definitions of ``unfair'' and ``deceptive'' set forth 
+above (unless a specific regulation issued under the authority of 
+section 41712 applied to the practice in question, in which case the 
+terms of the specific regulation would apply). Second, in future 
+enforcement actions, the Department would provide the airline or ticket 
+agent with the opportunity to be heard and to present mitigating 
+evidence. This final rule codifies the longstanding practice of 
+allowing regulated entities to present mitigating evidence during the 
+course of informal DOT enforcement actions. In a typical enforcement 
+action, the Office of Aviation Consumer Protection issues an 
+investigation letter to an airline or ticket agent, seeking information 
+about the extent and nature of the violations. During that process, the 
+Office also allows airlines and ticket agents to present mitigating 
+evidence (e.g., that consumer harm was low, or that the airline or 
+ticket agent has taken steps to mitigate the harm to consumers). While 
+the rule now makes this process explicit, we do not expect an expansion 
+in its usage; instead, we expect that it
+
+[[Page 78709]]
+
+will continue unchanged after the issuance of this final rule. Third, 
+in future enforcement orders, if a specific regulation does not apply 
+to the practice in question, the Department would explain the basis for 
+its finding that a practice was unfair or deceptive. The Department is 
+of the view that these measures generally codify existing practice.
+    In addition, the Department solicited comment on related matters. 
+For example, the Department asked whether the term ``practice'' should 
+be defined. The Department also noted that it relies on its general 
+unfair and deceptive practices authority in certain specialized areas 
+(e.g., privacy, frequent flyer programs, and air ambulance service) and 
+asked whether the proposed general definitions of ``unfair'' or 
+``deceptive'' were sufficient to provide stakeholders sufficient notice 
+of what constitutes an unfair or deceptive practice in these or other 
+subject areas.
+    The comment period for the NPRM was originally scheduled to expire 
+on April 28, 2020. However, in response to a request by consumer 
+advocacy organizations, the comment period was extended to May 28, 
+2020.
+
+II. Summary of NPRM Comments and the Department's Responses
+
+A. Overview
+
+    The Department received a total of 224 comments by the end of the 
+comment period. Approximately 180 comments were filed by individual 
+consumers, who almost uniformly opposed the NPRM. Individual consumers 
+typically did not comment on any specific provision, but instead 
+opposed the NPRM as a whole, viewing it as a weakening of aviation 
+consumer protection. Many consumers noted with disapproval that the 
+NPRM was initiated at the request of airlines, which in their view 
+engage in practices that are anti-consumer.
+    Consumer advocacy organizations \11\ and two FTC Commissioners \12\ 
+generally opposed the proposals on the ground that they were either 
+unnecessary or weakened consumer protection. Four Senators and one 
+Member of Congress \13\ urged the Department to discontinue the NPRM 
+for many of the same reasons identified by consumer advocates and the 
+FTC Commissioners.
+---------------------------------------------------------------------------
+
+    \11\ Travelers United, <a href="http://Flyersrights.org">Flyersrights.org</a>, National Consumers 
+League, Consumer Action, American Association for Justice (formerly 
+American Trial Lawyers' Association), Travel Fairness Now, Consumer 
+Reports, Consumer Federation of America, and US PIRG.
+    \12\ Commissioners Rebecca Kelly Slaughter and Rohit Chopra.
+    \13\ Senators Edward J. Markey, Tammy Baldwin, Maria Cantwell, 
+and Richard Blumenthal and Representative Katie Porter.
+---------------------------------------------------------------------------
+
+    Airline associations, individual airlines, and a nonprofit public 
+policy organization \14\ broadly supported the proposals in the NPRM on 
+the ground that they provided greater transparency and due process in 
+the Department's rulemaking and enforcement activities. Airlines also 
+suggested that the Department adopt additional provisions, which will 
+be discussed in greater detail below.
+---------------------------------------------------------------------------
+
+    \14\ Airlines for America (A4A), International Air Transport 
+Association (IATA), National Business Aviation Association (NBAA), 
+U.S. Tour Operators Association (USTOA), Spirit Airlines, Southwest 
+Airlines, and the Competitive Enterprise Institute (CEI).
+---------------------------------------------------------------------------
+
+    Travel agent representatives and a large travel agency \15\ 
+generally supported the NPRM for the reasons expressed by airlines; 
+however, they opposed the proposal to adopt hearing procedures relating 
+to discretionary aviation consumer protection rulemakings.
+---------------------------------------------------------------------------
+
+    \15\ Travel Tech and BCD Travel USA.
+---------------------------------------------------------------------------
+
+    We will discuss the comments in further detail below.
+
+B. Definitions
+
+1. Definitions of ``Unfair'' and ``Deceptive''
+    Consumer advocacy organizations generally recognized that the 
+proposed definitions of ``unfair'' and ``deceptive'' mirror the FTC's 
+interpretation of those terms. They argued, however, that the 
+Department should not limit itself to those specific definitions. They 
+contended that the flexibility of undefined terms serves as a deterrent 
+to engaging in practices that do not fit within the proposed 
+definitions, but which may nevertheless be unfair or deceptive.
+    They argued that this flexibility is especially important in the 
+field of air transportation because the Airline Deregulation Act (ADA) 
+prohibits States from regulating the unfair and deceptive practices of 
+airlines. They contended that outside of the field of aviation, State 
+consumer protection laws serve as a backstop to the FTC's authority, 
+and that many consumer protection agencies take aggressive and 
+successful action under State law with respect to practices that would 
+not qualify as unfair or deceptive under the FTC's definitions. They 
+also observed that because of ADA preemption, relief in court is 
+generally limited to Federal class-actions or small claims. Consumer 
+organizations concluded that the FTC definitions may be used for 
+guidance, but should not be transformed into regulatory text.
+    FTC Commissioner Chopra urged the Department not to adopt the FTC's 
+definitions, for many of the reasons identified by consumer advocacy 
+organizations. He also raised several additional concerns. First, he 
+argued that after the FTC adopted its Policy Statement on Unfairness in 
+1980, the Commission's ``number of enforcement actions and rulemakings 
+plummeted, leaving a vacuum that hobbled development of the law.'' \16\ 
+Commissioner Chopra also argued that ``the key planks undergirding the 
+FTC's unfairness definition--competitive markets, consumer choice, and 
+a de-emphasis on public policy--are poorly suited to airline 
+regulation,'' because the aviation market is not competitive, in his 
+view, and because the Transportation Code affirmatively requires the 
+Secretary to emphasize certain public policies.\17\ He also argued that 
+the proposed definitions do not adequately take these policies into 
+account.
+---------------------------------------------------------------------------
+
+    \16\ Comment of Commissioner Chopra at 2. He particularly noted 
+that in the years after adoption of the Policy Statement, the FTC 
+failed to take action against predatory lending and the deceptive 
+practices of the tobacco industry; instead, states took the lead, 
+and the FTC's authority over consumer lending practices was 
+transferred to the Consumer Financial Protection Bureau (CFPB), 
+which has a broader standard for taking enforcement action than the 
+FTC. Id. at 6-8.
+    \17\ Id. at 10.
+---------------------------------------------------------------------------
+
+    Airlines and travel agents supported the proposed definitions, 
+arguing that they provide much-needed transparency and predictability 
+to regulated industries. Southwest Airlines argued that the lack of 
+clear definitions has led DOT to overreach in certain past rulemakings 
+and enforcement actions. Southwest also argued that the third prong of 
+the unfairness definition (i.e., that the harm of the practice ``is not 
+outweighed by countervailing benefits to consumers or to competition'') 
+correctly reflects departmental policy to place ``maximum reliance on 
+competitive market forces and on actual and potential competition.'' 
+\18\ Spirit Airlines suggested that the proposed definition of 
+``deceptive,'' which currently refers to misleading a singular 
+``consumer'' acting reasonably under the circumstances, should be 
+written in the plural to reflect that the practice must be misleading 
+to ``consumers'' in the aggregate. Travel agents argued that because 
+DOT and FTC share jurisdiction over them, it is important for the two 
+regulatory standards to be harmonious.
+---------------------------------------------------------------------------
+
+    \18\ Southwest comment at 4, citing 49 U.S.C. 40101(a)(6), (12).
+
+---------------------------------------------------------------------------
+
+[[Page 78710]]
+
+    After reviewing the comments, the Department remains of the view 
+that it should adopt the definitions of ``unfair'' and ``deceptive'' as 
+proposed. We are guided by the principles set forth in our recent final 
+rule, ``Administrative Rulemaking, Guidance, and Enforcement 
+Procedures,'' which seeks to provide greater transparency to regulated 
+entities when conducting enforcement actions and adjudications.\19\ 
+Offering clear definitions of ``unfair'' and ``deceptive'' will serve 
+this goal. We note that transparency and clarity is particularly needed 
+with respect to ticket agents, which are subject to both FTC and DOT 
+jurisdiction.
+---------------------------------------------------------------------------
+
+    \19\ 84 FR 71716, citing Executive Order 13892, ``Promoting the 
+Rule of Law Through Transparency and Fairness in Civil 
+Administrative Enforcement and Adjudication'' (October 9, 2019).
+---------------------------------------------------------------------------
+
+    We stress that the definitions that we adopt do not reflect a 
+substantive departure from past DOT practice. As we explained in the 
+NPRM, DOT has traditionally relied on these definitions when taking 
+enforcement and discretionary rulemaking actions. Therefore, the 
+Department is not of the view that codifying these definitions will 
+diminish the Department's authority to take enforcement action or to 
+regulate effectively.
+    We recognize the argument of consumer advocacy organizations and 
+Commissioner Chopra that the ADA preempts State consumer protection 
+agencies from acting as a more aggressive backstop to DOT action. At 
+present, however, we are of the view that the proposed definitions are 
+adequate to ensure regulations continue to prohibit unfair and 
+deceptive practices while at the same time providing necessary 
+transparency to the regulated industry. We also recognize that under 
+FTC practice, the role of public policy is explicitly deemphasized,\20\ 
+while Congress has directed the Department to take into account a 
+variety of policies in conducting economic regulation of air 
+transportation.\21\ We are not convinced that this distinction compels 
+a different result. While the definitions of ``unfair'' and 
+``deceptive'' will remain the guiding principles for regulation and 
+enforcement, in doing so, the Department recognizes its statutory 
+responsibility to consider the public policies enumerated by Congress. 
+These policies include safety, ensuring economic competition, and 
+preventing unfair and deceptive practices.\22\
+---------------------------------------------------------------------------
+
+    \20\ As noted above, pursuant to 15 U.S.C. 45(n), the FTC may 
+rely on public policy, along with other evidence, for making a 
+determination of unfairness, but public policy may not be the 
+primary basis of its decision.
+    \21\ 49 U.S.C. 40101 (directing the Department, when engaging in 
+economic regulation of air transportation, to consider 16 matters, 
+``among others, as being in the public interest and consistent with 
+public convenience and necessity.'')
+    \22\ See 49 U.S.C. 40101(a)(1), (4), (6), (7), (9), and (12).
+---------------------------------------------------------------------------
+
+2. Intent as an Element of Unfairness or Deception
+    The proposed rule would clarify that intent is not an element of 
+either unfairness or deception. We received relatively few comments on 
+this issue. FTC Commissioners Chopra and Slaughter both expressed the 
+view that the Department's position was legally correct. A4A and IATA, 
+however, urged the Department to adopt an ``intent to deceive'' 
+standard for both unfairness and deception. In the alternative, they 
+urged the Department to give lack of intent ``significant weight'' when 
+exercising its enforcement discretion.
+    We remain of the view that intent is not an element of either 
+unfairness or deception.\23\ We also reject A4A and IATA's suggestion 
+to adopt an intent requirement. Such a requirement would place the 
+Department's view of unfairness and deception substantially out of step 
+with FTC precedent. It would also limit the Department's consumer 
+protection actions to only those matters where parties establish and 
+the Department can substantiate the private intent of carriers and 
+ticket agents. In light of the revisions to the Department's rulemaking 
+and enforcement procedures adopted in this final rule to enhance the 
+justifications for actions taken under the Department's statutory 
+authority, we view this as an unnecessary and unacceptably high bar. We 
+also decline to include in the regulation the weight that lack of 
+intent should be given in any future enforcement action, because the 
+proper exercise of enforcement discretion generally involves an 
+individualized consideration of a variety of factors.\24\
+---------------------------------------------------------------------------
+
+    \23\ See 85 FR 11885 (intent is not required under Federal case 
+law interpreting the FTC Act, and noting that the definition of 
+``false advertisement'' in the FTC Act makes no reference to intent 
+to deceive).
+    \24\ See 49 CFR 5.97 (``Where applicable statutes vest the 
+agency with discretion with regard to the amount or type of penalty 
+sought or imposed, the penalty should reflect due regard for 
+fairness, the scale of the violation, the violator's knowledge and 
+intent, and any mitigating factors (such as whether the violator is 
+a small business)'').
+---------------------------------------------------------------------------
+
+3. Definition of Additional Terms
+    Airlines urged the Department to define further the component 
+elements of unfairness and deception, such as ``substantial harm,'' 
+``likely to mislead,'' ``reasonably avoidable,'' and ``acting 
+reasonably under the circumstances.'' In general, airlines asked the 
+Department to adapt into regulatory text certain aspects (but not all 
+of the aspects) of the FTC's guidance on these terms, as found in the 
+1980 Policy Statement on Unfairness and the 1983 Policy Statement on 
+Deception. We decline this invitation, because the regulatory text 
+adequately explains the necessary elements of unfairness and 
+deception.\25\ The Department will continue to look to the FTC Policy 
+Statements, as well as FTC precedent and the Department's own 
+precedent, for guidance in determining whether any specific practice 
+meets all of the component elements of unfairness and deception.
+---------------------------------------------------------------------------
+
+    \25\ For example, A4A/IATA asks the Department to define 
+``substantial harm'' as not involving merely trivial or speculative 
+harm. A4A/IATA comment at 6, citing 1980 FTC Policy Statement on 
+Unfairness. We are of the view that this clarification is 
+unnecessary because the term ``substantial harm'' would necessarily 
+exclude ``trivial or speculative harm.'' (We also observe, however, 
+that in keeping with 15 U.S.C. 45(n), a practice is unfair not only 
+if it causes substantial harm, but if also it is likely to cause 
+substantial harm.)
+    Similarly, A4A/IATA asks us to define ``not reasonably avoided'' 
+as excluding circumstances where a consumer's willful, intentional, 
+or reckless conduct leads to harm (for example, by intentionally 
+taking advantage of a mistakenly published fare). We are of the view 
+that in general, the term ``not reasonably avoided'' would 
+necessarily exclude the types of self-imposed harms described by A4A 
+and IATA. We also note that mistaken fares are governed by a 
+specific regulation relating to post-purchase price increases (14 
+CFR 399.88). The Department has issued guidance with respect to 
+mistaken fares at <a href="https://www.transportation.gov/sites/dot.gov/files/docs/Mistaken_Fare_Policy_Statement_05082015_0.pdf">https://www.transportation.gov/sites/dot.gov/files/docs/Mistaken_Fare_Policy_Statement_05082015_0.pdf</a>.
+    Finally, A4A, IATA, Southwest, and Spirit all stress under the 
+1983 FTC Policy Statement on Deception, deception should be judged 
+by reference to reasonable consumers as a whole, and that a single 
+consumer's unreasonable interpretation of a statement does not make 
+it deceptive. We agree that deception is judged in reference to a 
+reasonable consumer and believe that these concepts are adequately 
+reflected in the phrase ``acting reasonably under the 
+circumstances,'' regardless of whether the word ``consumer'' is 
+singular or plural.
+---------------------------------------------------------------------------
+
+4. Definition of ``Practice''
+    In the NPRM, the Department noted that neither the DOT nor the FTC 
+Act defines ``practice.'' The Department indicated that it did not 
+believe that a definition of ``practice'' was necessary, because its 
+aviation consumer protection regulations are always directed to 
+``practices'' rather than individual acts. The Department also 
+explained that its enforcement efforts include a determination that the 
+conduct in question reflects a practice or policy affecting multiple 
+consumers, rather than an isolated incident. We concluded that ``in 
+general, the Department is of the view that proof of a practice in the 
+aviation consumer
+
+[[Page 78711]]
+
+protection context requires more than a single isolated incident. On 
+the other hand, even a single incident may be indicative of a practice 
+if it reflects company policy, training, or lack of training.'' \26\ We 
+sought comment, however, on whether a definition of ``practice'' was 
+necessary.
+---------------------------------------------------------------------------
+
+    \26\ 85 FR 11885.
+---------------------------------------------------------------------------
+
+    We received relatively few comments on this issue. Consumer 
+advocacy organizations largely did not address it. Spirit, Travel Tech, 
+and FTC Commissioner Slaughter opined that a definition was not 
+necessary. The NBAA and USTOA urged the Department to adopt a 
+definition that reflected the Department's current understanding, 
+described above. A4A and IATA urged the Department to define 
+``practice'' as ``a pattern of repetitive conduct that harmed multiple 
+consumers rather than a single act.'' \27\ A4A and IATA stated that 
+under this standard, one ``mistaken advertisement'' would not be a 
+practice even if the same advertisement runs multiple times.\28\ 
+Relatedly, A4A and IATA urged the Department to refrain from taking 
+enforcement action with respect to ``a single act or isolated acts by a 
+carrier,'' and instead take action only if the conduct is repeated 
+after a warning.\29\
+---------------------------------------------------------------------------
+
+    \27\ Comment of A4A/IATA at 12.
+    \28\ Id.
+    \29\ Id. at 13.
+---------------------------------------------------------------------------
+
+    After reviewing the comments on this issue, we remain of the view 
+that it is not necessary to define ``practice.'' The Department notes 
+that this issue will arise in relatively rare instances where the 
+Department seeks to take enforcement action in an area where no 
+specific regulation applies, and where there is a reasonable 
+disagreement over whether the conduct reflects a truly isolated 
+incident. In such cases, regulated entities will have the opportunity 
+to be heard and to present evidence that the conduct at issue does not 
+constitute a practice, as set forth in this rule.
+
+C. Rulemaking Proposals
+
+    In the NPRM, the Department proposed a hearing procedure that would 
+be available when the Department proposed a discretionary aviation 
+consumer protection rulemaking declaring a practice to be unfair or 
+deceptive. To summarize, after the issuance of an NPRM, interested 
+parties could request a formal hearing on the ground that the proposed 
+rule raised one or more disputed technical, scientific, economic, or 
+other complex factual issues. The General Counsel would have the 
+authority to grant or deny the hearing using criteria set forth in this 
+rule. If the hearing is granted, an Administrative Law Judge or other 
+neutral hearing officer would conduct the formal hearing using 
+procedures adapted from the Administrative Procedure Act (APA) or 
+similar rules adopted by the Secretary. The hearing officer would issue 
+a detailed report on the disputed factual issue(s), after which the 
+General Counsel would determine whether the proposed rule should be 
+continued, amended, or terminated.
+    Consumer advocacy organizations strongly urged the Department not 
+to adopt these hearing procedures. They argued that the Department did 
+not demonstrate that the typical notice-and-comment procedures of the 
+APA were inadequate to gather a proper factual basis for discretionary 
+rulemakings. Some commenters noted that these hearing procedures were 
+unnecessary given the updates to the Department's general rulemaking 
+procedures in 49 CFR part 5. They also contended that formal hearing 
+procedures will inevitably create lengthy delays and numerous 
+opportunities for regulated entities to lobby against the proposed 
+rule. Some commenters argued that the proposed rulemaking has more 
+liberal standards for granting a hearing than there are for denying a 
+hearing; as a result, hearings will threaten to become the norm. Other 
+advocates observed that the proposal does not have a clear mechanism 
+for consumers to argue that a hearing is not necessary.
+    FTC Commissioner Slaughter commented on the FTC's own experience 
+with similar formal hearing procedures, which were imposed by Congress, 
+known as ``Mag-Moss'' procedures.\30\ Commissioner Slaughter argued 
+that such hearing procedures do not make rulemaking impossible, but 
+``the great difficulty of undergoing a Mag-Moss rulemaking compared 
+with rulemaking under the APA should not be understated. The additional 
+procedural requirements represent an enormous drain on staff resources, 
+to say nothing of the additional time and effort they require of 
+stakeholders.'' \31\ She argued that there is a growing bipartisan 
+consensus for the FTC to issue privacy regulations not under Mag-Moss, 
+but instead under APA procedures. Commissioner Slaughter argued that if 
+the Department issues its own privacy regulations using the proposed 
+formal hearing procedures, the Department will ``create a regulatory 
+incongruence in which the Department is the slowest and least capable 
+regulator in the privacy arena.'' \32\
+---------------------------------------------------------------------------
+
+    \30\ See 15 U.S.C. 57a (codifying the Magnuson-Moss Warranty--
+Federal Trade Commission Improvement Act of 1975, Public Law 93-637 
+(``Mag-Moss'').
+    \31\ Comment of Commissioner Slaughter at 3.
+    \32\ Id. at 4.
+---------------------------------------------------------------------------
+
+    Ticket agents also urged the Department not to adopt formal hearing 
+procedures, for many of the reasons cited by consumer advocates and 
+Commissioner Slaughter. Travel Tech noted the incongruity of the 
+Department requiring heightened hearing procedures only for its 
+highest-cost rules and for discretionary aviation consumer protection 
+rules, which generally do not impose nearly such a high economic 
+burden.\33\ Travel Tech also argued that the Department's institutional 
+expertise in aviation consumer protection matters ensures that formal 
+hearing will generally not be necessary. Travel Tech contended that 
+formal hearings should only be required when directed by Congress or 
+under very limited and unusual circumstances.\34\
+---------------------------------------------------------------------------
+
+    \33\ Comment of Travel Tech at 6-7.
+    \34\ Id. at 9 (``Travel Tech thus proposes that a formal fact-
+finding hearing would only be appropriate in the very unusual 
+circumstance when either Congress directs that a specific rule be 
+adopted only after an on the record hearing or when the agency's 
+General Counsel finds that a specific factual issue critical to a 
+claim that a particular practice is unfair or deceptive (and not an 
+economic or policy consideration) is in dispute and cannot be 
+adequately resolved through the usual notice-and-comment process.)''
+---------------------------------------------------------------------------
+
+    Airlines generally favored the proposal on the ground that it 
+provides regulated entities with an opportunity to test thoroughly the 
+factual assumptions on which discretionary consumer protections are 
+based. They argued that such hearings are helpful to determine whether 
+a market failure has taken place such that regulation is necessary.\35\
+---------------------------------------------------------------------------
+
+    \35\ A4A Comment at 16, citing 49 CFR 5.11 (before initiating a 
+rulemaking, the Department should identify ``the need for the 
+regulation, including a description of the market failure or 
+statutory mandate necessitating the rulemaking''). See also comment 
+of Spirit Airlines (arguing that the Department's repealed NPRM on 
+dissemination of ancillary fees to third party ticket sellers was 
+based on conflicting/misleading information regarding passengers' 
+ability to get this information). Spirit also argued that the 
+Department should engage in Advance Notice of Proposed Rulemaking 
+(ANPRM) to gather comment on whether practices are unfair or 
+deceptive.
+---------------------------------------------------------------------------
+
+    After careful review of the comments in this area, the Department 
+has decided to retain a hearing procedure that would be available when 
+the Department proposes a discretionary aviation consumer protection 
+rulemaking declaring a practice to be unfair or deceptive. This is 
+consistent with section 41712, which requires notice and an opportunity 
+for a hearing before a finding that an air carrier, foreign air 
+carrier, or ticket agent is engaged in an
+
+[[Page 78712]]
+
+unfair or deceptive practice or an unfair method of competition. The 
+Department sees value in offering additional hearing procedures for 
+low-cost discretionary aviation consumer protection rules where 
+scientific, technical, economic, or other factual issues are genuinely 
+in dispute. At the same time, the Department recognizes the concerns 
+raised by commenters that formal hearing procedures may add time to the 
+rulemaking process. As such, the hearing procedures for discretionary 
+aviation consumer protection rules set forth in this final rule differ 
+from the procedures set forth in the Department's general rulemaking 
+procedures in 49 CFR part 5 for the Department's high-impact or 
+economically significant rules. For example, under this final rule, the 
+General Counsel would be free to adopt more flexible rules for the 
+hearing than would be required for a high-impact or economically 
+significant rulemaking. The General Counsel also has more flexibility 
+with respect to appointing an appropriate hearing officer for such 
+hearings. Finally, the presiding officer is not required to issue a 
+report; the officer need only place on the docket minutes of the 
+hearing with sufficient detail as to reflect fully the evidence and 
+arguments presented on the disputed issues of fact, along with proposed 
+findings addressing those issues. By adopting hearing procedures for 
+discretionary aviation consumer protection rulemakings that are less 
+stringent and more flexible than the formal hearing procedures for high 
+impact or economically significant rules, the Department ensures that 
+interested parties have an opportunity to test factual assumptions on 
+which discretionary consumer protection rulemaking actions are based, 
+consistent with the underlying statutory authority under which the 
+Department is regulating, while minimizing the likelihood of extensive 
+delays or a drain on staff resources.
+    These procedures, as modified, reflect the Department's continued 
+view that interested parties should have the opportunity to be heard 
+when the Department proposes discretionary rulemakings that may be 
+based on complex and disputed economic, technical, or other factual 
+issues. We also note that the ordinary notice and comment procedures of 
+the APA remain the default process: To obtain a hearing, the party 
+requesting the hearing has the initial burden of showing that, among 
+other factors, the ordinary notice and comment procedures are unlikely 
+to provide an adequate examination of the issues to permit a fully 
+informed judgment. The rule retains the safeguard that the General 
+Counsel may decline a hearing if it would unreasonably delay the 
+rulemaking. We also generally disagree with commenters who stated that 
+the standards for granting a hearing are necessarily more lenient than 
+the standards for denying them.
+    We also note that the Department's use of similar procedures to 
+supplement traditional notice-and-comment is not new.\36\ For example, 
+in 2011, the Department's Bureau of Transportation Statistics held a 
+public meeting to gather information about industry practices for 
+processing and accounting for baggage and wheelchairs, in connection 
+with a pending rulemaking.\37\ More recently, the Department asked the 
+Architectural and Transportation Barriers Compliance Board (Access 
+Board) to hold a hearing to gather public input on potential new 
+standards for on-board wheelchairs, also in connection with a pending 
+rulemaking.\38\ The Department recognizes certain differences between 
+the public meetings that sometimes were held in the context of earlier 
+rulemakings \39\ and the hearings contemplated by this rule. For 
+example, hearings will be held before a neutral officer, who must make 
+findings on the record, while public meetings were previously led by 
+staff from the government office involved in the rulemaking and 
+findings were not separately summarized and placed on the record but 
+rather were noted in the preamble if they were relied on in the 
+rulemaking. Moreover, this rule clearly identifies procedures to all 
+interested persons that hearings may be requested, while previously 
+there was no formal process to request a public meeting so they were 
+more likely to have been instituted by the Department or requested only 
+by those parties that knew that the Department was open to holding 
+public meetings in appropriate instances. In sum, while the hearing 
+procedures reflected in the final rule may result in some additional 
+delays to the rulemaking process beyond what was experienced with 
+public meetings, on the whole the new procedures will promote fairness, 
+due process, and well-informed rulemaking, without unduly delaying the 
+proceeding itself, and represent a reasonable and balanced approach 
+consistent with the Department's rulemaking and enforcement policies.
+---------------------------------------------------------------------------
+
+    \36\ See <a href="https://cms7.dot.gov/regulations/rulemaking-process">https://cms7.dot.gov/regulations/rulemaking-process</a>, 
+under ``May an agency supplement the APA requirements?'' (``We may 
+use public meetings or hearings before or after a proposal is issued 
+for a variety of reasons. Public meetings allow us to ask questions. 
+They allow for interaction among participants with different views 
+on the issues involved, and they provide a better opportunity for 
+members of the public who believe they are more effective making 
+oral presentations than submitting written comments.'')
+    \37\ See <a href="https://www.regulations.gov/document?D=RITA-2011-0001-0280">https://www.regulations.gov/document?D=RITA-2011-0001-0280</a>.
+    \38\ 84 FR 43100 (August 20, 2019); see <a href="https://www.regulations.gov/document?D=ATBCB-2019-0002-0001">https://www.regulations.gov/document?D=ATBCB-2019-0002-0001</a>.
+    \39\ E.g., 77 FR 25105 (April 27, 2012).
+---------------------------------------------------------------------------
+
+D. Enforcement Proposals
+
+    In the NPRM, the Department proposed to codify certain enforcement 
+practices. First, the Department proposed that before the Office of 
+Aviation Consumer Protection determined how to resolve a matter 
+involving a potential unfair or deceptive practice, it would provide an 
+opportunity for the alleged violator to be heard and to present 
+relevant evidence in its defense. Such evidence would include, but not 
+be limited to, the following: (1) Evidence that the consumer protection 
+regulation at issue was not violated; (2) evidence that the conduct was 
+not unfair or deceptive (if no specific regulation applied); and (3) 
+evidence that that consumer harm was limited or that the alleged 
+violator has taken steps to mitigate the harm. The Department also 
+proposed that when the Office issued a consent order declaring that a 
+practice was unfair or deceptive, and no specific regulation applied to 
+the conduct at issue, then the Office would explain the basis for its 
+finding that the conduct was unfair or deceptive, using the definitions 
+set forth in this rule. Finally, the Department clarified that if the 
+Office took enforcement action against a regulated entity by filing a 
+complaint with an Administrative Law Judge, then the entity would have 
+the opportunity for notice and a hearing as set forth in 14 CFR part 
+302. We noted that these procedures reflected the longstanding 
+practices of the Office of Aviation Consumer Protection.
+    We received few comments on this element of the proposed rule. Most 
+consumer advocates did not opine on the issue, while National Consumers 
+League and Consumer Action advised that they were unnecessary. Travel 
+Fairness Now generally did not object to the measures, but urged the 
+Department to declare that an unfair or deceptive practice with limited 
+consumer harm would still be subject to enforcement action. Airlines 
+and ticket agents generally supported these proposals.
+    In the final rule, we will adopt these measures as proposed in the 
+NPRM. They reflect current practice, and afford reasonable due process 
+to regulated entities. These specific measures are also consistent with 
+the general principles set forth in the Department's
+
+[[Page 78713]]
+
+recent final rule relating to enforcement.\40\
+---------------------------------------------------------------------------
+
+    \40\ See, e.g., 49 CFR 5.57 (``Enforcement adjudications require 
+the opportunity for participation by directly affected parties and 
+the right to present a response to a decision maker, including 
+relevant evidence and reasoned arguments''); 49 CFR 5.59 
+(Department's enforcement action should conclude with, among other 
+things, a ``well-documented decision as to violations alleged and 
+any violations found to have been committed.'')
+---------------------------------------------------------------------------
+
+E. Privacy, Air Ambulance, and Frequent Flyer Programs
+
+    The Department solicited comment on whether the general definitions 
+of ``unfair'' or ``deceptive'' were sufficient to give notice to 
+stakeholders of what constitutes unfair or deceptive practices with 
+respect to the specialized fields of privacy, air ambulance service, 
+and frequent flyer programs. While we did not receive specific comments 
+related to frequent flyer programs, we did receive comment with respect 
+to privacy and air ambulance service.
+    A4A asked the Department to declare that the Department has 
+exclusive jurisdiction over airlines with respect to privacy practices. 
+A4A also asked the Department to adopt detailed privacy regulations. 
+A4A's proposal would declare that ``mishandling private information may 
+be considered an unfair or deceptive practice,'' and that ``specific 
+examples of unfair or deceptive practices with regard to the private 
+information of consumers include'' violating the terms of the airline's 
+privacy policy, failing to maintain reasonable data security measures 
+for passengers' private information, and violating various privacy 
+statutes.
+    We generally agree with the substance of A4A's proposal; indeed, it 
+appears to be adapted from the privacy page of the Department's 
+consumer protection website, which recites many of these 
+principles.\41\ Nevertheless, we decline to adopt it for procedural 
+reasons. As noted above, one of the Department's stated policies is to 
+improve transparency and public participation in the rulemaking 
+process. If the Department were to adopt detailed privacy regulations 
+affecting air transportation and the sale of air transportation, it 
+should first engage in the full notice-and-comment procedures of the 
+APA, as well as the procedures set forth in this final rule.
+---------------------------------------------------------------------------
+
+    \41\ <a href="https://www.transportation.gov/individuals/aviation-consumer-protection/privacy">https://www.transportation.gov/individuals/aviation-consumer-protection/privacy</a>.
+---------------------------------------------------------------------------
+
+    Next, we received comments from insurers, air ambulance providers, 
+and other interested parties about the regulation of air ambulance 
+providers. The National Association of Insurance Commissioners and nine 
+researchers on health law, economics, and policy \42\ urged the 
+Department to declare that balance billing is an unfair practice 
+because it imposes substantial harm on patients who had no ability to 
+avoid the charges, without countervailing benefits to consumers or to 
+competition. Separately, the researchers urged the Department to find 
+that charging full out-of-network prices for air ambulance service is 
+an unfair practice, in part because of its effect on the private 
+insurance market. Air ambulance operators \43\ argued that specific 
+regulation of air ambulance providers in this rulemaking would be 
+premature at best, because the Air Ambulance and Patient Billing (AAPB) 
+Advisory Committee has been established to address these issues 
+comprehensively. Air ambulance operators also argued that balance 
+billing should not be considered an unfair or deceptive practice. They 
+contend that much of the consumer harm from balance billing arises from 
+the practices of insurers, rather than air ambulance providers (for 
+example, by under paying out-of-network air ambulance bills, or denying 
+claims that were medically necessary). They also argue that many 
+patients who receive a large balance bill ultimately pay a small 
+fraction of that amount out-of-pocket.
+---------------------------------------------------------------------------
+
+    \42\ See <a href="https://www.regulations.gov/document?D=DOT-OST-2019-0182-0193">https://www.regulations.gov/document?D=DOT-OST-2019-0182-0193</a>.
+    \43\ Association of Air Medical Services, Air Methods, and PHI 
+Health, LLC.
+---------------------------------------------------------------------------
+
+    After consideration of the comments submitted on this issue, we 
+decline to adopt specific regulations relating to air ambulance 
+providers. Section 418 of the FAA Reauthorization Act of 2018 (FAA 
+Reauthorization Act) requires the Secretary, in consultation with the 
+Secretary of Health and Human Services, to establish an advisory 
+committee to review options to improve the disclosure of charges and 
+fees for air medical services, better inform consumers of insurance 
+options for such services, and protect consumers from balance billing. 
+The FAA Reauthorization Act also contemplates that the Advisory 
+Committee's report and recommendations will serve as the basis for 
+future regulations or other guidance as deemed necessary to provide 
+other consumer protections for customers of air ambulance 
+providers.\44\ We agree that the most prudent course of action is to 
+allow the work of the AAPB Advisory Committee to run its course, rather 
+than to issue more detailed regulations relating to air ambulance 
+providers in this final rule.
+---------------------------------------------------------------------------
+
+    \44\ For further information about the AAPB Advisory Committee, 
+see <a href="https://www.transportation.gov/airconsumer/AAPB">https://www.transportation.gov/airconsumer/AAPB</a> and the 
+Committee's docket, available at <a href="https://www.regulations.gov/docket?D=DOT-OST-2018-0206">https://www.regulations.gov/docket?D=DOT-OST-2018-0206</a>.
+---------------------------------------------------------------------------
+
+F. Other Comments
+
+    We will address briefly a number of comments that do not fall 
+squarely within the categories described above. First, A4A and IATA 
+urge the Department to adopt a ``clear and convincing evidence'' 
+standard for enforcement of unfair and deceptive practices. We decline 
+to enact such a burden of proof standard here, particularly in light of 
+the fact that most enforcement cases are adjudicated not through the 
+courts, but rather through voluntary consent orders. We also note that 
+during these informal proceedings, regulated entities have the 
+opportunity to present mitigating evidence as set forth above.
+    Next, A4A and IATA urge the Department to require the Office of 
+Aviation Consumer Protection to present evidence on all of the elements 
+of unfairness and deception, even in cases where a specific regulation 
+enacted under the authority of section 41712 applies to the conduct in 
+question. We decline this request because doing so would be unduly 
+burdensome with limited or no benefit. By enacting a regulation under 
+the authority of section 41712, the Department has already determined, 
+after notice and comment, that the conduct in question is unfair or 
+deceptive; in such cases, it should be sufficient to establish that the 
+regulation itself was violated.\45\ A4A and IATA also urge that they 
+should be able to present mitigating evidence with respect to all of 
+the prongs of unfairness and deception. We note that in informal 
+enforcement proceedings involving the violation of specific 
+regulations, regulated entities would have the opportunity to present 
+relevant evidence, including evidence that consumer harm was limited.
+---------------------------------------------------------------------------
+
+    \45\ See Comment of Travel Fairness Now (urging the Department 
+to clarify that it will not use this final rule as a vehicle for 
+repealing existing regulations, because they were well justified).
+---------------------------------------------------------------------------
+
+    Next, A4A and IATA argue that the Office of Aviation Consumer 
+Protection should affirmatively furnish ``exculpatory evidence'' in its 
+possession. We agree with this practice, and the Office is required to 
+do so under the Department's existing enforcement procedures, which are 
+set forth in another rule.\46\
+---------------------------------------------------------------------------
+
+    \46\ 49 CFR 5.89 (duty to disclose exculpatory evidence).
+
+---------------------------------------------------------------------------
+
+[[Page 78714]]
+
+G. Formal Enforcement Proceedings
+
+    In the NPRM, the Department proposed to clarify that if regulated 
+entities do not enter into a negotiated settlement with the Office of 
+Aviation Consumer Protection with respect to potential violations of 
+section 41712, then the Office may initiate a formal enforcement 
+proceeding, and that hearings are available through this process. The 
+Department did not receive comments on this provision, which restates 
+current procedures found in 14 CFR part 302. In this final rule, the 
+Department has made nonsubstantive editorial changes to the regulatory 
+text such as adding a citation to a specific section of part 302. The 
+Department has determined that good cause exists to dispense with 
+notice and comment for these nonsubstantive editorial changes because 
+they are ministerial in nature; therefore, public comment is 
+unnecessary under 5 U.S.C. 553(b)(B).
+
+III. Regulatory Analyses and Notices
+
+A. Executive Order 13771 (Reducing Regulation and Controlling 
+Regulatory Costs), Executive Order 12866 (Regulatory Planning and 
+Review), Executive Order 13563 (Improving Regulation and Regulatory 
+Review), and DOT Regulatory Policies and Procedures (49 CFR Part 5)
+
+    This final rule is a significant regulatory action under section 
+3(f) of E.O. 12866, ``Regulatory Planning and Review'' (Oct. 4, 1993), 
+supplemented by E.O. 13563, ``Improving Regulation and Regulatory 
+Review'' (Jan. 21, 2011). Accordingly, the Office of Management and 
+Budget (OMB) has reviewed it under that Order. This final rule is 
+issued in accordance with the Department's rulemaking procedures found 
+in 49 CFR part 5 and DOT Order 2100.6.
+    This rule primarily involves agency procedure and interpretation. 
+It clarifies how the Department interprets the terms ``unfair'' and 
+``deceptive'' and requires enhanced departmental procedures for 
+regulation and enforcement in the area of aviation consumer protection. 
+Clarifying and explicitly defining terminology advances the 
+Department's goal of improved transparency. Adopting enhanced 
+procedures for future rulemaking and enforcement activities will help 
+to ensure that the activities are rooted in fairness, due process, and 
+an adequate factual foundation. These goals are described in the 
+Department's final rule, ``Administrative Rulemaking, Guidance, and 
+Enforcement Procedures.'' \47\
+---------------------------------------------------------------------------
+
+    \47\ 84 FR 71714 (Dec. 27, 2019).
+---------------------------------------------------------------------------
+
+    This rule aligns the Department's policies and rules involving 
+unfairness and deception in aviation consumer protection explicitly 
+with principles adopted by the FTC. In the Department's view, aligning 
+the terms ``unfair'' and ``deceptive'' does not represent a substantive 
+departure from past DOT practice. The definitions simply provide 
+additional clarification to the public and regulated industries, and 
+are not expected to affect the Department's ability to prohibit unfair 
+and deceptive practices. While clarifying the terms is not expected to 
+lead to changes that would impact the Department, public, or any 
+regulated entity, it provides a foundation for the other elements of 
+this rule pertaining to future rulemaking and enforcement actions.
+Effects on Future Rulemakings
+    This final rule will require the Department to use specific 
+definitions of the terms ``unfair'' and ``deceptive'' when declaring 
+certain practices to be unfair or deceptive in future discretionary 
+rulemakings.
+    Specifically, this final rule requires the Department to support a 
+finding of an ``unfair'' practice by demonstrating that the harm to 
+consumers is (1) substantial; (2) not reasonably avoidable; and (3) not 
+outweighed by offsetting benefits to consumers or competition. 
+Similarly, it requires the Department to support a finding that a 
+practice is ``deceptive'' by showing that: (1) The practice actually 
+misleads or is likely to mislead consumers; (2) who are acting 
+reasonably under the circumstances; (3) with respect to a material 
+matter.
+    The Department has declared certain practices to be unfair or 
+deceptive in several prior rulemakings, including the full fare 
+advertising rule (14 CFR 399.84) and oversales rule (14 CFR part 250). 
+In the supporting analysis for these rulemakings, the Department 
+justified its finding of unfairness or deception without using the full 
+three-pronged analysis for unfairness or deception found in this final 
+rule.\48\
+---------------------------------------------------------------------------
+
+    \48\ See 76 FR 23110 (April 25, 2011).
+---------------------------------------------------------------------------
+
+    In other instances, the Department has based its discretionary 
+regulations on both section 41712 and other statutes. For example, the 
+rule requiring on-time performance information during booking (14 CFR 
+234.11(b)) was based on both section 41712 and section 41702 (requiring 
+carriers to provide safe and adequate interstate air 
+transportation).\49\ While the Department partly relied on a finding of 
+consumer harm under section 41712 as the basis for that requirement, it 
+did not engage in the full three-part analysis for unfairness found in 
+this final rule.
+---------------------------------------------------------------------------
+
+    \49\ See 73 FR 74586 (December 8, 2008) (NPRM: ``Enhancing 
+Passenger Airline Protections'').
+---------------------------------------------------------------------------
+
+    Demonstrating support for findings of unfairness or deception 
+requires an analysis of data, which is generally collected and 
+organized as part of a regulatory impact analysis (RIA). Factors such 
+as potential harm to consumers, benefits to consumers or competition, 
+whether a consumer can avoid harm, and whether a harm is ``material'' 
+relate to the economic benefits and costs of regulating a practice. 
+These benefits and costs are analyzed in an RIA and offer a rationale 
+for finding a practice ``unfair'' or ``deceptive.''
+    The Department customarily prepares a RIA or other regulatory 
+evaluation as part of the E.O. 12866 review process for rulemakings 
+involving aviation consumer protection. Further, the Department's final 
+rule on ``Administrative Rulemaking, Guidance, and Enforcement 
+Procedures'' requires that all rulemakings including a supporting 
+economic analysis. The Department will therefore need to continue to 
+collect, organize, and analyze data and facts to address economic 
+impacts.
+    The Department's current practice of collecting and analyzing data, 
+either for E.O. 12866 or departmental review, allows it to generate the 
+necessary factual basis to support an explicit discussion of unfair or 
+deceptive findings with little additional effort. While this final rule 
+may result in the Department expending additional resources to prepare 
+future discretionary aviation consumer protection rules and supporting 
+analyses, the resources are expected to be small and more than 
+justified by better, more deliberative internal decisions. Better 
+internal decisions will improve rulemaking efficiency by reducing the 
+resources needed to follow E.O. 12866 processes. The additional 
+procedures required by this rule are expected to result in improved 
+regulations that achieve their goals of protecting consumers without 
+imposing any more burdens on regulated industry than necessary.
+    This rule does not require that the Department review existing 
+rules to determine whether previous ``unfair'' or ``deceptive'' 
+declarations would have been supported by the criteria described above. 
+Existing rules are subject to retrospective review requirements under 
+the Department's rulemaking procedures found in 49 CFR part 5, DOT 
+Order 2100.6, and other legal requirements, as applicable. The 
+Department will consider whether
+
+[[Page 78715]]
+
+existing discretionary aviation consumer protection rules such as full 
+fare advertising, oversales and refunds meet the standards found in 
+this rule when performing the retrospective reviews, but it is not 
+possible to judge the impact of this rule on the rules until the 
+Department conducts the reviews. The Department considers many factors 
+when conducting its retrospective reviews, including the continuing 
+need for the rule and whether the rule has achieved its intended 
+outcomes. It is unlikely that an existing rule would fail the standards 
+set forth in this rule without failing existing standards that would 
+prompt the Department to revise or rescind the rule. Judging the impact 
+of this rule is confounded further because some existing rules do not 
+rely solely on section 41712, as is the case with the rule requiring 
+on-time performance information during booking noted above.
+    Under this rule, future discretionary rulemakings could be subject 
+to a hearing procedure. The rule allows interested parties to request a 
+hearing when the Department proposes a rule to classify a practice as 
+unfair or deceptive, when the issuance of the NPRM raises one or more 
+disputed technical, scientific, economic, or other complex factual 
+issues, or when the NPRM may not satisfy the requirements of the 
+Information Quality Act. Allowing interested parties an opportunity for 
+a hearing ensures that they can test the information informing 
+discretionary consumer protection regulations. However, following this 
+rule's requirements to provide a sufficient factual basis to support an 
+``unfair'' or ``deceptive'' finding should reduce the need for the 
+Department to hold such hearings.
+    Nevertheless, requests for hearings are expected to occur 
+occasionally. While the Department lacks data that would allow it to 
+distinguish the costs and time of conducting the hearings from the 
+costs of conducting its normal business operations, the Department 
+believes that any incremental costs and time would be small relative to 
+the baseline scenario in which the Department did not enact the rule. 
+Previous discretionary rulemakings involving unfair and deceptive 
+practices in aviation consumer protection have attracted substantial 
+interest from consumer advocates, airline industry advocates, and the 
+general public. The Department engaged with these interested parties 
+without the benefit of a formal process, and the engagements required 
+investments of time and resources by the Department and interested 
+parties. Because these engagements were informal and with uncertain 
+scopes, they were not as efficient as would be expected under a more 
+formal process as would be the case under this rule. Without a formal 
+process, parties tend to overinvest in preparation, incurring 
+unnecessary costs, or underinvest, leading to additional engagements 
+and administrative costs. For future rulemakings, establishing formal 
+hearing procedures may reduce costs and time for both groups by 
+increasing certainty about opportunities for engagement.
+    The hearing procedures established in this final rule are less 
+stringent and more flexible than the hearing procedures for high-impact 
+or economically significant rules detailed in the Department's general 
+rulemaking procedures in 49 CFR part 5 and DOT Order 2100.6. In 
+addition, the Department has experience using hearing procedures to 
+supplement traditional notice-and-comment rulemaking, as described 
+earlier for baggage and wheelchair accounting and for potential on-
+board wheelchair standards. Finally, the hearing procedures will 
+provide consistency in the Department's exercise of its 41712 authority 
+by mirroring the statute's hearing requirement to ensure rulemakings 
+enacted under the same authority ensure due process, and are grounded 
+in fairness and supported by an adequate factual foundation.
+    The Department believes that its experience with hearings, coupled 
+with reduced complexity of the hearing procedures, will limit the 
+additional staff resources needed to comply with the requirement and 
+prevent it from leading to excessive delays in issuing aviation 
+consumer protection rules. The General Counsel may also decline a 
+hearing request if following the procedures would unreasonably delay 
+the rulemaking. When deciding to decline a hearing request, the General 
+Counsel will balance the impact of the hearing on departmental 
+resources against the potential value of any information to be 
+collected during the hearing process, and consider the quality of 
+evidence presented, including but not limited to that presented by 
+interested parties and in the Department's RIA and other supporting 
+analyses.
+Effects on Future Enforcement Actions
+    This final rule adds requirements for future enforcement actions 
+analogous to the requirements for discretionary aviation consumer 
+protection rulemakings. The Department will use the same definitions of 
+unfair and deceptive when taking enforcement action against an airline 
+or ticket agent for unfair or deceptive practices. In future 
+enforcement actions, the Department would also provide the airline or 
+ticket agent with the opportunity to be heard and to present mitigating 
+evidence. The opportunity for a hearing before a finding that any air 
+carrier, foreign air carrier, or ticket agent is engaged in an unfair 
+or deceptive practice or an unfair method of competition already exists 
+under section 41712. Finally, in future enforcement orders, if a 
+specific regulation does not apply to the practice in question, the 
+Department would explain the basis for its finding that a practice was 
+unfair or deceptive.
+    As explained in the NPRM, the Department views these measures as a 
+codification of existing practice, rather than a change in policy, 
+because the Department has typically relied on the explicit definitions 
+of ``unfair'' and ``deceptive'' in prior enforcement orders. Applying 
+these terms and providing an opportunity for a hearing in enforcement 
+proceedings is largely noncontroversial, and the Department received 
+few comments on this element of the rule at the NPRM stage. The 
+Department does not expect to need to expend additional resources in 
+aviation consumer protection proceedings due to this rule, or expect 
+that the rule will increase the amount of time needed to come to 
+resolution. The Department believes that regulated entities could see 
+some benefit, however, from upfront clarification of the guidelines and 
+criteria that the Department follows when enforcing aviation consumer 
+protection regulations involving unfair and deceptive practices.
+    This rule is not an E.O. 13771 regulatory action because it is does 
+not impose any more than de minimis regulatory costs. This final rule 
+provides an additional mechanism for industry to provide input to the 
+Department on its discretionary aviation consumer protection 
+rulemakings. Private industry should not experience more than minimal 
+additional costs relative to the status quo because it already engages 
+in significant information exchange with the Department. Industry has 
+the option of continuing use of historical mechanisms for providing 
+input to discretionary aviation consumer protection, and is not 
+required to make use of the alternatives set forth in this rule. The 
+Department should not experience significant additional costs because 
+it has considerable experience conducting analysis in support of 
+aviation consumer protection rules as well as hearings analogous to 
+those in
+
+[[Page 78716]]
+
+this rule. Such efforts are consistent with the Department's normal 
+business operations, and any additional resources needs could be 
+accommodated through a simple and temporary realignment of internal 
+resources.
+
+B. Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (5 U.S.C. 601 et seq.) requires an 
+agency to review regulations to assess their impact on small entities 
+unless the agency determines that a rule is not expected to have a 
+significant economic impact on a substantial number of small entities. 
+A direct air carrier or foreign air carrier is a small business if it 
+provides air transportation only with small aircraft (i.e., aircraft 
+with up to 60 seats/18,000-pound payload capacity). See 14 CFR 399.73. 
+The Department has determined that this rule does not have a 
+significant economic impact on a substantial number of small entities.
+
+C. Executive Order 13132 (Federalism)
+
+    This final rule has been analyzed in accordance with the principles 
+and criteria contained in Executive Order 13132 (``Federalism''). This 
+final rule does not include any provision that: (1) Has substantial 
+direct effects on the States, the relationship between the national 
+government and the States, or the distribution of power and 
+responsibilities among the various levels of government; (2) imposes 
+substantial direct compliance costs on State and local governments; or 
+(3) preempts State law. States are already preempted from regulating in 
+this area by the Airline Deregulation Act, 49 U.S.C. 41713. Therefore, 
+the consultation and funding requirements of Executive Order 13132 do 
+not apply.
+
+D. Executive Order 13175
+
+    This final rule has been analyzed in accordance with the principles 
+and criteria contained in Executive Order 13175 (``Consultation and 
+Coordination with Indian Tribal Governments''). Because this final rule 
+does not significantly or uniquely affect the communities of the Indian 
+Tribal governments or impose substantial direct compliance costs on 
+them, the funding and consultation requirements of Executive Order 
+13175 do not apply.
+
+E. Paperwork Reduction Act
+
+    The Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3501 et seq.) 
+requires that DOT consider the impact of paperwork and other 
+information collection burdens imposed on the public and, under the 
+provisions of PRA section 3507(d), obtain approval from the Office of 
+Management and Budget (OMB) for each collection of information it 
+conducts, sponsors, or requires through regulations. The DOT has 
+determined there are no new information collection requirements 
+associated with this final rule.
+
+F. Unfunded Mandates Reform Act
+
+    The Department has determined that the requirements of Title II of 
+the Unfunded Mandates Reform Act of 1995 do not apply to this 
+rulemaking.
+
+G. National Environmental Policy Act
+
+    The Department has analyzed the environmental impacts of this final 
+rule pursuant to the National Environmental Policy Act of 1969 (NEPA) 
+(42 U.S.C. 4321 et seq.) and has determined that it is categorically 
+excluded pursuant to DOT Order 5610.1C, Procedures for Considering 
+Environmental Impacts (44 FR 56420, Oct. 1, 1979). Categorical 
+exclusions are actions identified in an agency's NEPA implementing 
+procedures that do not normally have a significant impact on the 
+environment and therefore do not require either an environmental 
+assessment (EA) or environmental impact statement (EIS). See 40 CFR 
+1508.4. In analyzing the applicability of a categorical exclusion, the 
+agency must also consider whether extraordinary circumstances are 
+present that would warrant the preparation of an EA or EIS. Id. 
+Paragraph 10.c.16.h of DOT Order 5610.1D categorically excludes 
+``[a]ctions relating to consumer protection, including regulations.'' 
+Since this rulemaking relates to the definition of unfair and deceptive 
+practices under Section 41712, the Department's central consumer 
+protection statute, this is a consumer protection rulemaking. The 
+Department does not anticipate any environmental impacts, and there are 
+no extraordinary circumstances present in connection with this 
+rulemaking.
+
+H. Privacy Act
+
+    Anyone may search the electronic form of all comments received into 
+any of OST's dockets by the name of the individual submitting the 
+comment, or signing the comment if submitted on behalf of an 
+association, business, labor union, or any other entity. You may review 
+USDOT's complete Privacy Act Statement published in the Federal 
+Register on April 11, 2000, at 65 FR 19477-8.
+
+I. Statutory/Legal Authority for This Rulemaking
+
+    This rulemaking is issued under the authority of 49 U.S.C. 
+40113(a), which grants the Secretary the authority to take action that 
+the Secretary considers necessary to carry out 49 U.S.C. Subtitle VII 
+(Aviation Programs), including conducting investigations, prescribing 
+regulations, standards, and procedures, and issuing orders.
+
+J. Regulation Identifier Number
+
+    A Regulation Identifier Number (RIN) is assigned to each regulatory 
+action listed in the Unified Agenda of Federal Regulations. The 
+Regulatory Information Service Center publishes the Unified Agenda in 
+Spring and Fall of each year. The RIN set forth in the heading of this 
+document can be used to cross-reference this action with the Unified 
+Agenda.
+
+List of Subjects in 14 CFR Part 399
+
+    Consumer protection, Policies, Rulemaking proceedings, Enforcement, 
+Unfair or deceptive practices.
+
+    For the reasons discussed in the preamble, the Department amends 14 
+CFR part 399 as follows:
+
+PART 399--STATEMENTS OF GENERAL POLICY
+
+0
+1. The authority citation for part 399 is revised to read as follows:
+
+    Authority:  49 U.S.C. 41712, 40113(a).
+
+Subpart F--Policies Relating to Rulemaking Proceedings
+
+0
+2. Section 399.75 is added to subpart F to read as follows:
+
+
+Sec.  399.75   Rulemakings relating to unfair and deceptive practices.
+
+    (a) General. When issuing a proposed or final regulation declaring 
+a practice in air transportation or the sale of air transportation to 
+be unfair or deceptive to consumers under the authority of 49 U.S.C. 
+41712(a), unless the regulation is specifically required by statute, 
+the Department shall employ the definitions of ``unfair'' and 
+``deceptive'' set forth in Sec.  399.79.
+    (b) Procedural requirements. When issuing a proposed regulation 
+under paragraph (a) of this section that is defined as high impact or 
+economically significant within the meaning of 49 CFR 5.17(a), the 
+Department shall follow the procedural requirements set forth in 49 CFR 
+5.17. When issuing a proposed regulation under paragraph (a) of this 
+section that is not defined as high impact or economically significant 
+within the meaning of 49 CFR 5.17(a), unless the regulation is 
+specifically required by statute, the Department shall adhere to the 
+following procedural requirements:
+    (1) Request for a hearing. Following publication of a proposed 
+regulation, and before the close of the comment
+
+[[Page 78717]]
+
+period, any interested party may file in the rulemaking docket a 
+petition, directed to the General Counsel, to hold a hearing on the 
+proposed regulation.
+    (2) Grant of petition for hearing. Except as provided in paragraph 
+(b)(3) of this section, the petition shall be granted if the petitioner 
+makes a plausible prima facie showing that:
+    (i) The proposed rule depends on conclusions concerning one or more 
+specific scientific, technical, economic, or other factual issues that 
+are genuinely in dispute or that may not satisfy the requirements of 
+the Information Quality Act;
+    (ii) The ordinary public comment process is unlikely to provide an 
+adequate examination of the issues to permit a fully informed judgment; 
+and
+    (iii) The resolution of the disputed factual issues would likely 
+have a material effect on the costs and benefits of the proposed rule.
+    (3) Denial of petition for hearing. A petition meeting the 
+requirements of paragraph (b)(2) of this section may be denied if the 
+General Counsel determines that:
+    (i) The requested hearing would not advance the consideration of 
+the proposed rule and the General Counsel's ability to make the 
+rulemaking determinations required by this section; or
+    (ii) The hearing would unreasonably delay completion of the 
+rulemaking.
+    (4) Explanation of denial. If a petition is denied in whole or in 
+part, the General Counsel shall include a detailed explanation of the 
+factual basis for the denial, including findings on each of the 
+relevant factors identified in paragraph (b)(2) or (3) of this section.
+    (5) Hearing notice. If the General Counsel grants the petition, the 
+General Counsel shall publish notification of the hearing in the 
+Federal Register. The document shall specify the proposed rule at issue 
+and the specific factual issues to be considered at the hearing. The 
+scope of the hearing shall be limited to the factual issues specified 
+in the notice.
+    (6) Hearing process. (i) A hearing under this section shall be 
+conducted using procedures approved by the General Counsel, and 
+interested parties shall have a reasonable opportunity to participate 
+in the hearing through the presentation of testimony and written 
+submissions.
+    (ii) The General Counsel shall arrange for a neutral officer to 
+preside over the hearing and shall provide a reasonable opportunity to 
+question the presenters.
+    (iii) After the hearing and after the record of the hearing is 
+closed, the hearing officer shall place on the docket minutes of the 
+hearing with sufficient detail as to fully reflect the evidence and 
+arguments presented on the issues, along with proposed findings 
+addressing the disputed issues of fact identified in the hearing 
+notice.
+    (iv) Interested parties who participated in the hearing shall be 
+given an opportunity to file statements of agreement or objection in 
+response to the hearing officer's proposed findings. The complete 
+record of the hearing shall be made part of the rulemaking record.
+    (7) Actions following hearing. (i) Following the completion of the 
+hearing process, the General Counsel shall consider the record of the 
+hearing, including the hearing officer's proposed findings, and shall 
+make a reasoned determination whether to terminate the rulemaking; to 
+proceed with the rulemaking as proposed; or to modify the proposed 
+rule.
+    (ii) If the General Counsel decides to terminate the rulemaking, 
+the General Counsel shall publish a document in the Federal Register 
+announcing the decision and explaining the reasons for the decision.
+    (iii) If the General Counsel decides to finalize the proposed rule 
+without material modifications, the General Counsel shall explain the 
+reasons for the decision and its responses to the hearing record in the 
+preamble to the final rule.
+    (iv) If the General Counsel decides to modify the proposed rule in 
+material respects, the General Counsel shall publish a new or 
+supplemental notice of proposed rulemaking in the Federal Register 
+explaining the General Counsel's responses to and analysis of the 
+hearing record, setting forth the modifications to the proposed rule, 
+and providing additional reasonable opportunity for public comment on 
+the proposed modified rule.
+    (8) Interagency review process. The hearing procedures under this 
+paragraph (b)(8) shall not impede or interfere with the interagency 
+review process of the Office of Information and Regulatory Affairs for 
+the proposed rulemaking.
+    (c) Basis for rulemaking. When issuing a proposed or final 
+regulation declaring a practice in air transportation or the sale of 
+air transportation to be unfair or deceptive to consumers under the 
+authority of 49 U.S.C. 41712(a), unless the regulation is specifically 
+required by statute, the Department shall articulate the basis for 
+concluding that the practice is unfair or deceptive to consumers as 
+defined in Sec.  399.79.
+
+Subpart G--Policies Relating to Enforcement
+
+0
+3. Section 399.79 is added to subpart G to read as follows:
+
+
+Sec.  399.79   Policies relating to unfair and deceptive practices.
+
+    (a) Applicability. This policy shall apply to the Department's 
+aviation consumer protection actions pursuant to 49 U.S.C. 41712(a).
+    (b) Definitions. (1) A practice is ``unfair'' to consumers if it 
+causes or is likely to cause substantial injury, which is not 
+reasonably avoidable, and the harm is not outweighed by benefits to 
+consumers or competition.
+    (2) A practice is ``deceptive'' to consumers if it is likely to 
+mislead a consumer, acting reasonably under the circumstances, with 
+respect to a material matter. A matter is material if it is likely to 
+have affected the consumer's conduct or decision with respect to a 
+product or service.
+    (c) Intent. Proof of intent is not necessary to establish 
+unfairness or deception for purposes of 49 U.S.C. 41712(a).
+    (d) Specific regulations prevail. Where an existing regulation 
+applies to the practice of an air carrier, foreign air carrier, or 
+ticket agent, the terms of that regulation apply rather than the 
+general definitions set forth in this section.
+    (e) Informal enforcement proceedings (1) Informal enforcement 
+proceedings will be conducted pursuant to the policies and procedures 
+found in 49 CFR part 5, subpart D. Before any determination is made on 
+how to resolve a matter involving a potential unfair or deceptive 
+practice, the U.S. Department of Transportation's Office of Aviation 
+Consumer Protection will provide an opportunity for the alleged 
+violator to be heard and present relevant evidence, including but not 
+limited to:
+    (i) In cases where a specific regulation applies, evidence tending 
+to establish that the regulation at issue was not violated and, if 
+applicable, that mitigating circumstances apply;
+    (ii) In cases where a specific regulation does not apply, evidence 
+tending to establish that the conduct at issue was not unfair or 
+deceptive as defined in paragraph (b) of this section; and
+    (iii) Evidence tending to establish that consumer harm was limited, 
+or that the air carrier, foreign air carrier, or ticket agent has taken 
+steps to mitigate consumer harm.
+    (2) During this informal process, if the Office of Aviation 
+Consumer Protection reaches agreement with the alleged violator to 
+resolve the matter with the
+
+[[Page 78718]]
+
+issuance of an order declaring a practice in air transportation or the 
+sale of air transportation to be unfair or deceptive to consumers under 
+the authority of 49 U.S.C. 41712(a), and when a regulation issued under 
+the authority of section 41712 does not apply to the practice at issue, 
+then the Department shall articulate in the order the basis for 
+concluding that the practice is unfair or deceptive to consumers as 
+defined in this section.
+    (f) Formal enforcement proceedings. When there are reasonable 
+grounds to believe that an airline or ticket agent has violated 49 
+U.S.C. 41712, and efforts to settle the matter have failed, the Office 
+of Aviation Consumer Protection may issue a notice instituting an 
+enforcement proceeding before an administrative law judge pursuant to 
+14 CFR 302.407. After the issues have been formulated, if the matter 
+has not been resolved through pleadings or otherwise, the parties will 
+receive reasonable written notice of the time and place of the hearing 
+as set forth in 14 CFR 302.415.
+
+    Issued this 24th day of November, 2020, in Washington, DC, under 
+authority delegated in 49 CFR 1.27(n).
+Steven G. Bradbury,
+General Counsel.
+[FR Doc. 2020-26416 Filed 12-4-20; 8:45 am]
+BILLING CODE 4910-9X-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

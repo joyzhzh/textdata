@@ -1,0 +1,153 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79071-79072]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26924]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Railroad Administration
+
+[Docket No. FRA-2020-0027-N-32]
+
+
+Proposed Agency Information Collection Activities; Comment 
+Request
+
+AGENCY: Federal Railroad Administration (FRA), Department of 
+Transportation (DOT).
+
+ACTION: Notice of information collection; request for comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Under the Paperwork Reduction Act of 1995 (PRA) and its 
+implementing regulations, this notice announces that FRA is forwarding 
+the Information Collection Requests (ICRs) abstracted below to the 
+Office of Management and Budget (OMB) for review and comment. These 
+ICRs describe the information collections and their expected burdens. 
+On September 16, 2020, FRA published a notice providing a 60-day period 
+for public comment on the ICRs.
+
+DATES: Interested persons are invited to submit comments on or before 
+January 7, 2021.
+
+ADDRESSES: Written comments and recommendations for the proposed ICRs 
+should be sent within 30 days of publication of this notice to 
+<a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find the particular ICR by selecting 
+``Currently under 30-day Review--Open for Public Comments'' or by using 
+the search function.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Hodan Wells, Information 
+Collection Clearance Officer, Office of Railroad Safety, Regulatory 
+Analysis Division, Federal Railroad Administration, telephone (202) 
+493-0440, email: [email redacted].
+
+SUPPLEMENTARY INFORMATION: The PRA, 44 U.S.C. 3501-3520, and its 
+implementing regulations, 5 CFR part 1320, require Federal agencies to 
+issue two notices seeking public comment on information collection 
+activities before OMB may approve paperwork packages. See 44 U.S.C. 
+3506, 3507; 5 CFR 1320.8 through 1320.12. On September 16, 2020, FRA 
+published a 60-day notice in the Federal Register soliciting comment on 
+the ICRs for which it is now seeking OMB approval. See 85 FR 57932. FRA 
+received no comments in response to this notice.
+    Before OMB decides whether to approve the proposed collections of 
+information, it must provide 30 days for public comment. Federal law 
+requires OMB to approve or disapprove paperwork packages between 30 and 
+60 days after the 30-day notice is published. 44 U.S.C. 3507(b)-(c); 5 
+CFR 1320.12(d); see also 60 FR 44978, 44983, Aug. 29, 1995. OMB 
+believes the 30-day notice informs the regulated community to file 
+relevant comments and affords the agency adequate time to digest public 
+comments before it renders a decision. 60 FR 44983, Aug. 29, 1995. 
+Therefore, respondents should submit their respective comments to OMB 
+within 30 days of publication to best ensure having their full effect.
+    Comments are invited on the following ICRs regarding: (1) Whether 
+the information collection activities are necessary for FRA to properly 
+execute its functions, including whether the information will have 
+practical utility; (2) the accuracy of FRA's estimates of the burden of 
+the information collection activities, including the validity of the 
+methodology and assumptions used to determine the estimates; (3) ways 
+for FRA to enhance the quality, utility, and clarity of the information 
+being collected; and (4) ways to minimize the burden of information 
+collection activities on the public, including the use of automated 
+collection techniques or other forms of information technology.
+    The summaries below describe the ICRs that FRA will submit for OMB 
+clearance as the PRA requires:
+    Title: Identification of Railroad Cars.\1\
+---------------------------------------------------------------------------
+
+    \1\ FRA makes a revision to the title of OMB Control Number 
+2130-0506 (formerly titled Identification of Cars Moved in 
+Accordance with Order 13528).
+---------------------------------------------------------------------------
+
+    OMB Control Number: 2130-0506.
+    Abstract: The collection of information is associated with 49 CFR
+
+[[Page 79072]]
+
+232.3(d), formerly contained in Interstate Commerce Commission (ICC) 
+Order 13528. Paragraph (d)(3) of 49 CFR 232.3 conditionally excepts 
+certain export, industrial, and other cars not owned by a railroad from 
+part 232 compliance. It requires cars to be identified by a card 
+attached to each side of the equipment, signed by the shipper, 
+specifically noting that the car is being moved under the proper 
+authority. Railroads typically use carrier bad order forms or tags for 
+these purposes. These forms are readily available from all carrier 
+repair facilities. FRA estimates approximately 400 cars per year, each 
+bearing two forms or tags, are moved under this regulation.
+    Type of Request: Extension without change of a currently approved 
+collection.
+    Affected Public: Businesses.
+    Form(s): N/A.
+    Respondent Universe: 765 railroads.
+    Frequency of Submission: On occasion.
+    Total Estimated Annual Responses: 800.
+    Total Estimated Annual Burden: 67 hours.
+    Total Estimated Annual Burden Hour Dollar Cost Equivalent: $3,886.
+    Title: U.S. Locational Requirement for Dispatching U.S. Rail 
+Operations.
+    OMB Control Number: 2130-0556.
+    Abstract: Title 49 CFR part 241 requires, in the absence of a 
+waiver, that all dispatching of railroad operations occurring in the 
+United States be performed in the United States. A railroad may, 
+however, conduct dispatching from a country other than the United 
+States in an emergency situation, but only for the duration of the 
+emergency situation. See 49 CFR 241.9(c). A railroad relying on this 
+exception must provide written notification of its action to FRA as 
+soon as practicable; such notification is not required before 
+addressing the emergency situation. The information collected under 
+this rule is used as part of FRA's oversight function to ensure that 
+extraterritorial dispatchers comply with applicable safety regulations.
+    Type of Request: Extension without change of a currently approved 
+collection.
+    Affected Public: Businesses.
+    Form(s): N/A.
+    Respondent Universe: 4 railroads.
+    Frequency of Submission: On occasion.
+    Total Estimated Annual Responses: 1.
+    Total Estimated Annual Burden: 8 hours.
+    Total Estimated Annual Burden Hour Dollar Cost Equivalent: $616.
+    Under 44 U.S.C. 3507(a) and 5 CFR 1320.5(b) and 1320.8(b)(3)(vi), 
+FRA informs all interested parties that a respondent is not required to 
+respond to, conduct, or sponsor a collection of information that does 
+not display a currently valid OMB control number.
+
+    Authority:  44 U.S.C. 3501-3520.
+
+Brett A. Jortland,
+Deputy Chief Counsel.
+[FR Doc. 2020-26924 Filed 12-7-20; 8:45 am]
+BILLING CODE 4910-06-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,33 +1,44 @@
 # Gioia Methodology
 
-[Webpage](https://textdata.info/toolkit/gioia-methodology/) · [All components](../README.md)
+Trace a proposed concept back to the words that prompted it. This working toolkit combines an agent skill, analytic templates and an exact-quotation checker. Its synthetic example shows why correct quotations can still support an incorrect interpretation.
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+[Try the interactive example](https://textdata.info/toolkit/gioia-methodology/) · [Explore with your AI](AI-PROMPT.md) · [Usage guide](docs/USAGE.md) · [All components](../README.md)
 
-## Purpose and scope
+## Worked example
 
-This toolkit supports Gioia-style concept development and examination of qualitative data structures (Gioia et al. 2013). It helps researchers assess how interpretations relate to participants’ expressions and what evidence would challenge a proposed grouping.
+In a six-line synthetic interview, Speaker A reports sending a draft after receiving no reply. Speaker B describes checking figures during the wait. Both say “I waited for a reply”: the checker correctly finds two occurrences, one for each speaker.
 
-## Design and components
+An AI-written memo proposes “Proceeding without sign-off” and a rival reading, “Using the wait”. It then treats B as a negative case, claiming the wait was “followed by not sending”. **Whether B sent the draft is unknown.** Exact quotation matching cannot detect this unsupported inference. The original memo remains unchanged, with its proposals awaiting a researcher’s decision.
 
-The package combines agent instructions, working templates, methodological guidance and quotation-checking software. It keeps source expressions, proposed concepts, competing readings and researcher decisions distinguishable. Higher-level groupings require a reasoned connection to the underlying material.
+Read the [passage](example/input/synthetic-episode.txt), compare the [memo](example/input/memo-synthetic.yaml), and inspect the [two-speaker report](example/output/request-3-two-speakers.report.json). The [saved summary](example/output/SUMMARY.json) covers all four requests: one exact match, an altered quotation, two matching speakers, and A’s sentence about the deadline.
 
-First-order terms stay close to informants’ accounts; second-order concepts express researchers’ interpretations; aggregate dimensions organize those interpretations at a broader theoretical level. The toolkit keeps these relationships visible. Producing a three-column display alone does not establish the adequacy of the concepts. Candidate, accepted, revised and rejected interpretations remain distinguishable as the analysis develops.
+## Use it
 
-## Use and outputs
+For concept development, give an assistant the [skill](tool/skills/gioia-methodology/SKILL.md), your research question and authorized excerpts. The [working templates](tool/skills/gioia-methodology/assets/working-templates.md) keep source expressions, proposed concepts, rivals and researcher decisions distinct. The [AI prompt](AI-PROMPT.md) starts with the supplied example.
 
-Given excerpts and a question, the agent prepares an analytical memo that separates the speakers’ expressions from its proposed concepts. It records the reason for each grouping, a rival interpretation and any contrary passage. A researcher can adopt, revise or reject a proposal and retain the reasons for that decision. A separate program locates exact quotations in the specified text version. It leaves the speaker attribution and interpretation to the analyst.
+To run the two-speaker quotation check, use Python 3.9 or later on macOS or Linux. From the repository root:
 
-In the retained synthetic interview, two speakers say “I waited for a reply.” One then sends a draft without approval. The other uses the wait to check figures. The quotation checker returns both locations. The accompanying memo proposes “proceeding without sign-off” for the first account and treats the second as a negative case. The second speaker’s eventual sending decision is unreported, however, so the passage does not establish that contrast. The memo also leaves the proposed link between deadline pressure and sending the draft unresolved.
+```sh
+cd appendix/06-gioia-methodology
+python3 -B tool/skills/gioia-methodology/scripts/check_quote.py example/input/request-3-two-speakers.json
+```
 
-## Evidence and limitations
+Expect `AMBIGUOUS_MATCHES`, two matches and exit 1. The report locates each occurrence; it does not choose a speaker or assess meaning. Character and byte offsets start at zero and exclude the end; line numbers start at one.
 
-The reader can reproduce the quotation report and inspect the assistant’s memo against the synthetic passage. The memo’s treatment of an unknown action as non-action shows why exact quotation matches cannot establish interpretive validity. The proposed concept is pending a researcher’s decision. Earlier synthetic exercises are described in development notes, but their analytical outputs were not retained for inspection. The toolkit has yet to be assessed with empirical material or researcher decisions about a data structure.
+To replay all four saved reports and run the 39 checker tests:
 
-## Proposed development
+```sh
+python3 -B checks/verify.py
+```
 
-We will evaluate the toolkit with empirical materials, examining whether it helps researchers preserve participants’ meanings, compare interpretations and develop defensible concepts. The assessment will distinguish literal quotation accuracy from the substantive quality of the analysis.
+Expect `all counts match` and exit 0. These commands use only local files and Python’s standard library, without a model or network connection. The verifier retains generated fixtures under ignored `tool/.test-artifacts/`. It replays quotation checks, not the generation of the memo.
 
-## References
+## What works now and what remains proposed
 
-- [Gioia DA, Corley KG, Hamilton AL (2013) Seeking qualitative rigor in inductive research: Notes on the Gioia methodology. Organizational Research Methods 16(1):15–31.](https://doi.org/10.1177/1094428112452151)
+The skill, templates, checker and synthetic demonstration are available here. The example contains no participant data, and no researcher has adopted its proposed concepts. The software checks literal wording; it does not establish authenticity, reuse rights, contextual support or interpretive validity.
+
+Empirical evaluation with research materials and researcher judgments remains proposed. The example does not demonstrate improved qualitative analysis.
+
+## Sources and licences
+
+This independent implementation draws on [Gioia, Corley and Hamilton (2013)](https://doi.org/10.1177/1094428112452151); it is not endorsed by the method’s authors. See the [selected bibliography](tool/skills/gioia-methodology/references/bibliography.md) and [NOTICE](NOTICE.md) for credit and terms: Apache-2.0 for software and CC BY 4.0 for project-authored documentation and synthetic data. The [manifest](MANIFEST.json) lists the released files and fingerprints.

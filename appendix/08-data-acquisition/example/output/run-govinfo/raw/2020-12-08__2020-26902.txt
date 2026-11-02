@@ -1,0 +1,450 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79060-79062]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26902]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90547; File No. SR-NYSEArca-2020-99]
+
+
+Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing 
+and Immediate Effectiveness of Proposed Rule Change Regarding the 
+Availability of Information for the iShares Gold Trust and the iShares 
+Silver Trust Under NYSE Arca Rule 8.201-E (Commodity-Based Trust 
+Shares) and iShares S&P GSCI Commodity-Indexed Trust Under Rule 8.203-E 
+(Commodity Index Trust Shares)
+
+December 2, 2020.
+    Pursuant to Section 19(b)(1) \1\ of the Securities Exchange Act of 
+1934 (``Act'') \2\ and Rule 19b-4 thereunder,\3\ notice is hereby given 
+that, on November 23, 2020, NYSE Arca, Inc. (``NYSE Arca'' or 
+``Exchange'') filed with the Securities and Exchange Commission 
+(``Commission'') the proposed rule change as described in Items I and 
+II below, which Items have been prepared by the self-regulatory 
+organization. The Commission is publishing this notice to solicit 
+comments on the proposed rule change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 15 U.S.C. 78a.
+    \3\ 17 CFR 240.19b-4.
+---------------------------------------------------------------------------
+
+I. Self-Regulatory Organization's Statement of the Terms of Substance 
+of the Proposed Rule Change
+
+    The Exchange proposes certain changes regarding the availability of 
+information for the iShares Gold Trust (formerly the iShares[supreg] 
+COMEX Gold Trust) and the iShares Silver Trust, shares of which are 
+currently listed on the Exchange under NYSE Arca Rule 8.201-E 
+(Commodity-Based Trust Shares), and the iShares S&P GSCI Commodity-
+Indexed Trust, shares of which currently are listed and traded on the 
+Exchange under Rule 8.203-E (Commodity Index Trust Shares). The 
+proposed rule change is available on the Exchange's website at 
+<a href="http://www.nyse.com">www.nyse.com</a>, at the principal office of the Exchange, and at the 
+Commission's Public Reference Room.
+
+II. Self-Regulatory Organization's Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change
+
+    In its filing with the Commission, the self-regulatory organization 
+included statements concerning the purpose of, and basis for, the 
+proposed rule change and discussed any comments it received on the 
+proposed rule change. The text of those statements may be examined at 
+the places specified in Item IV below. The Exchange has prepared 
+summaries, set forth in sections A, B, and C below, of the most 
+significant parts of such statements.
+
+A. Self-Regulatory Organization's Statement of the Purpose of, and the 
+Statutory Basis for, the Proposed Rule Change
+
+1. Purpose
+    The Exchange proposes certain changes regarding the dissemination 
+of information on the respective websites for the iShares Gold Trust 
+(formerly the iShares COMEX Gold Trust) \4\ and the iShares Silver 
+Trust,\5\ shares of which are currently listed on the Exchange under 
+NYSE Arca Rule 8.201-E (Commodity-Based Trust Shares) and the terms of 
+the applicable listing rules approved by the Commission, and the S&P 
+GSCI Commodity-Indexed Trust, shares of which currently are listed and 
+traded on the Exchange under Rule 8.203-E (Commodity Index Trust 
+Shares) and the terms of the applicable listing rules approved by the 
+Commission.\6\
+---------------------------------------------------------------------------
+
+    \4\ See Securities Exchange Act Release No. 56041 (July 11, 
+2007), 72 FR 39114 (July 17, 2007) (SR-NYSEArca-2007-43) (Notice of 
+Filing and Order Granting Accelerated Approval of Proposed Rule 
+Change to List and Trade Shares of the iShares COMEX Gold Trust) 
+(``NYSE Arca Gold Order''). The Commission previously approved 
+listing of iShares COMEX Gold Trust on the American Stock Exchange 
+LLC. See Securities Exchange Act Release No. 51058 (January 19, 
+2005), 70 FR 3749 (January 26, 2005) (SR-Amex-2004-38) (granting 
+approval to list and trade the Shares on Amex) (``Amex Gold 
+Order''). See also Securities Exchange Act Release Nos. 50792 
+(December 3, 2004), 69 FR 71446 (December 9, 2004) (SR-Amex-2004-38) 
+(providing notice of Amex's proposal to list and trade shares of the 
+Trust) (``Amex Gold Notice''); 63398 (November 30, 2010), 75 FR 
+76056 (December 7, 2010) (SR-NYSEArca-2010-105) (Notice of Filing 
+and Immediate Effectiveness of Proposed Rule Change Relating to the 
+Calculation of Net Asset Value for the iShares Gold Trust). The 
+following information about Shares of the iShares Gold Trust 
+currently is required to be available on the iShares Gold Trust's 
+website pursuant to the Amex Gold Notice, Amex Gold Order and NYSE 
+Arca Gold Order: (a) The prior business day's NAV per Share; (b) 
+Basket Gold Amount; (c) the reported Share closing price; (d) the 
+present day's Indicative Basket Gold Amount; (e) the midpoint of the 
+bid-ask price in relation to the NAV as of the time the NAV is 
+calculated (``Bid-Ask Price''); (f) calculation of the premium or 
+discount of such price against such NAV; (g) data in chart form 
+displaying the frequency distribution of discounts and premiums of 
+the Bid-Ask Price against the NAV, within appropriate ranges for 
+each of the four previous calendar quarters; (h) the prospectus; and 
+(i) other applicable quantitative information, such as expense 
+ratios, trading volumes, and the total return of the Shares. As 
+stated in the Amex Gold Notice and the NYSE Arca Gold Order, the 
+``Basket Gold Amount'' is the corresponding amount of gold, measured 
+in fine ounces, to be exchanged for an issuance of a basket of 
+50,000 Shares for the purpose of creating and redeeming the Shares. 
+Also, as stated in the Amex Gold Notice and the NYSE Arca Gold 
+Order, the ``Indicative Basket Gold Amount'' is the indicative 
+amount of gold to be deposited for issuance of the Shares that 
+Authorized Participants can use. The NAV per Share, Basket Gold 
+Amount, Indicative Basket Gold Amount and Indicative Trust Value are 
+available on the Trust's website or through one or more major market 
+data vendors, as described above, and are not available on the 
+Exchange's website. In addition, investors can access the gold spot 
+price and gold futures prices through major market data vendors. The 
+Indicative Trust Value also is available through one or more major 
+market data vendors.
+    \5\ See Securities Exchange Act Release No. 58956 (November 14, 
+2008), 73 FR 71074 (November 24, 2008) (SR-NYSEArca-2008-124) 
+(Notice of Filing and Order Granting Accelerated Approval of 
+Proposed Rule Change to List Shares of iShares Silver Trust) (``NYSE 
+Arca Silver Order''). The Commission previously approved listing of 
+iShares Silver Trust on the American Stock Exchange LLC. See 
+Securities Exchange Act Release No. 53521 (March 20, 2006), 71 FR 
+14967 (March 24, 2006) (SR-Amex-2005-72) (``Amex Silver Order''). 
+The following information about Shares of the iShares Silver Trust 
+currently is required to be available on the Trust's website 
+pursuant to the Amex Silver Order and the NYSE Arca Silver Order: 
+(a) The prior business day's NAV and the reported closing price; (b) 
+the midpoint of the bid-ask price in relation to the NAV as of the 
+time the NAV is calculated (the ``Bid-Asked Price''); (c) 
+calculation of the premium or discount of such price against such 
+NAV; (d) data in chart form displaying the frequency distribution of 
+discounts and premiums of the Bid-Ask Price against the NAV, within 
+appropriate ranges for each of the four (4) previous calendar 
+quarters; (e) the Basket Silver Amount; (f) the Indicative Basket 
+Silver Amount; (g) the prospectus; and (h) other applicable 
+quantitative information. The NAV per Share, Basket Silver Amount, 
+Indicative Basket Silver Amount and Indicative Trust Value are 
+available on the Trust's website or through one or more major market 
+data vendors, as described above, and are not available on the 
+Exchange's website. In addition, investors can access the silver 
+spot price and silver futures prices through major market data 
+vendors. The Indicative Trust Value also is available through one or 
+more major market data vendors.
+    \6\ See Securities Exchange Act Release No. 56932 (December 7, 
+2007), 72 FR 71178 (December 14, 2007) (SR-NYSEArca-2007-112) 
+(Notice of Filing and Order Granting Accelerated Approval of a 
+Proposed Rule Change to List and Trade Shares of the iShares S&P 
+GSCI Commodity-Indexed Trust) (``GSCI Order'', '' together with the 
+Amex Gold Order and Amex Silver Order, the ``Orders''). See also, 
+Securities Exchange Act Release No. 54025 (June 21, 2006), 71 FR 
+36856 (June 28, 2006) (SR-NYSEArca-2006-12) (approving, among other 
+things, the trading of the Shares on NYSE Arca pursuant to unlisted 
+trading privileges). The Commission previously approved listing of 
+the iShares S&P GSCI Commodity-Indexed Trust on the New York Stock 
+Exchange, Inc. See Securities Exchange Act Release No. 54013 (June 
+16, 2006), 71 FR 36372 (June 26, 2006) (SR-NYSE-2006-17) (approving 
+listing and trading of the Shares on NYSE). The following 
+information about Shares of the iShares S&P GSCI Commodity-Indexed 
+Trust currently is required to be available on the Trust's website 
+pursuant to the GSCI Order: (a) The prior business day's NAV on a 
+per Share basis and the reported closing price; (b) the mid-point of 
+the bid-ask price in relation to the NAV as of the time the NAV is 
+calculated (the ``Bid-Ask Price''); (c) calculation of the premium 
+or discount of such price against such NAV; (d) data in chart form 
+displaying the frequency distribution of discounts and premiums of 
+the Bid-Ask Price against the NAV, within appropriate ranges for 
+each of the four previous calendar quarters; (e) the prospectus; (f) 
+the holdings of the Trust, including CERFs, cash and Treasury 
+securities; (g) the Basket Amount, and (h) other applicable 
+quantitative information. The Basket Amount is the amount of CERFs 
+and Short-Term Securities or cash that an Authorized Participant 
+must deliver in exchange for one Basket.
+
+---------------------------------------------------------------------------
+
+[[Page 79061]]
+
+    In the proposed rule changes filed with the Commission by the 
+Exchange regarding listing and trading of shares (``Shares'') of the 
+iShares Gold Trust, iShares Silver Trust, and iShares S&P GSCI 
+Commodity-Indexed Trust (each a ``Trust'' and, collectively, the 
+``Trusts''), the Exchange described the information available on the 
+respective Trust's website regarding Trust holdings.\7\ The Exchange 
+proposes to change certain representations regarding closing price and 
+midpoint price information to be disseminated on the websites for the 
+Trusts, as described below. The purpose of this proposed rule change is 
+to (1) specify that each Trust will disseminate the applicable Official 
+Closing Price for that Trust's Shares; \8\ and (2) specify that each 
+Trust will disseminate the midpoint of the national best bid and the 
+national best offer as of the time the applicable net asset value 
+(``NAV'') is calculated, as described below.
+---------------------------------------------------------------------------
+
+    \7\ iShares Delaware Trust Sponsor LLC is the sponsor 
+(``Sponsor'') of the iShares Gold Trust, the iShares Silver Trust 
+and iShares S&P GSCI Commodity-Indexed Trust.
+    \8\ The term ``Official Closing Price'' is defined in NYSE Arca 
+Rule 1.1(ll) as the reference price to determine the closing price 
+in a security for purposes of Rule 7-E Equities Trading. The 
+procedures for determining the Official Closing Price are set forth 
+in Rule 1.1(ll). See Securities Exchange Act Release No. 82907 
+(March 20, 2018), 83 FR 12980 (March 26, 2018) (SR-NYSEArca-2018-08) 
+(Order Approving a Proposed Rule Change to Amend NYSE Arca Rule 
+1.1(ll)) (``Official Closing Price Approval Order''). See also, 
+Securities Exchange Act Release No. 84471 (October 23, 2018), 84 FR 
+54384 (October 29, 2018) (SR-NYSEArca-2018-63) (Order Approving a 
+Proposed Rule Change To Amend NYSE Arca Rule 1.1(ll)).
+---------------------------------------------------------------------------
+
+    The Orders stated that each respective Trust would disseminate the 
+closing price for the applicable Shares of a Trust. The Exchange 
+proposes to clarify that the closing price that each Trust disseminates 
+for a Trust's Shares is the Official Closing Price, which is defined in 
+NYSE Arca Rule 1.1(ll).\9\ Such clarification would assist the Exchange 
+in reviewing compliance with Exchange listing rules applicable to each 
+Trust. The Trusts currently disseminate the Official Closing Price. The 
+Exchange believes that such price provides a specific and precise 
+measure of the price of a Trust's Shares for investors.\10\
+---------------------------------------------------------------------------
+
+    \9\ See note 8, supra.
+    \10\ The Exchange notes that the term ``official closing price'' 
+satisfies the definition of ``market price'' in Rule 6c-11 under the 
+Investment Company Act of 1940 (``1940 Act'') (15 U.S.C. 80a-1) 
+applicable to exchange-traded funds (``ETFs'') eligible to rely on 
+Rule 6c-11. Such ETFs are required to disseminate a market price on 
+their website. See Release Nos. 33-10695; IC-33646; File No. S7-15-
+18 (Exchange-Traded Funds) (September 25, 2019), 84 FR 57162 
+(October 24, 2019) (the ``Rule 6c-11 Release'').
+---------------------------------------------------------------------------
+
+    The Orders stated that each respective Trust would disseminate the 
+midpoint of the bid-ask price in relation to the NAV as of the time the 
+NAV is calculated. \11\ The Trusts currently disseminate the midpoint 
+of the Exchange bid-ask in relation to NAV. The Exchange proposes to 
+clarify and make more specific the representation regarding midpoint of 
+the bid-ask price by stating that a Trust would make available the 
+price that is the midpoint of the national best bid and national best 
+offer (``NBBO'') as of the time the NAV is calculated. Such 
+clarification would assist the Exchange in reviewing compliance with 
+Exchange listing rules applicable to each Trust. The Exchange believes 
+that making available the midpoint of the NBBO would continue to help 
+provide investors and other market participants with complete and 
+accurate information regarding pricing of a Trust's Shares.
+---------------------------------------------------------------------------
+
+    \11\ As stated in the Orders and the Amex Gold Notice, the bid-
+ask price of Shares of the applicable Trust is determined using the 
+highest bid and lowest offer as of the time of calculation of the 
+NAV.
+---------------------------------------------------------------------------
+
+    While NYSE Arca Rules 8.201-E and 8.203-E do not expressly require 
+that a Trust provide website disclosure of its portfolio, the Trusts 
+currently provide such disclosure and would continue to do so. Other 
+than changes to information to be disclosed on a Trust's website as 
+described herein, each of the Trusts would continue to comply with all 
+other listing requirements set forth in the Orders and in NYSE Arca 
+Rules 8.201-E and 8.203-E, respectively.
+    The Exchange believes that the proposed website disclosure for the 
+Trusts, together with the portfolio disclosures by the Trusts, would 
+continue to facilitate effective arbitrage between the market price of 
+a Trust's Shares and its NAV.\12\
+---------------------------------------------------------------------------
+
+    \12\ Investors can access each Trust's website at no cost. 
+Investors also can access, for the iShares Gold Trust, the gold spot 
+price and gold futures prices, and for the iShares Silver Trust, the 
+silver spot price and silver futures prices through major market 
+data vendors. The applicable Indicative Trust Value for each Trust 
+is available through one or more major market data vendors. The NAV 
+per Share for each Trust' for the iShares Gold Trust, the Basket 
+Gold Amount and Indicative Basket Gold Amount; and, for the iShares 
+Silver Trust, the Basket Silver Amount and Indicative Basket Silver 
+Amount are available on the applicable Trust's website.
+---------------------------------------------------------------------------
+
+2. Statutory Basis
+    The basis under the Act for this proposed rule change is the 
+requirement under Section 6(b)(5) of the Act that an exchange have 
+rules that are designed to prevent fraudulent and manipulative acts and 
+practices, to promote just and equitable principles of trade, to remove 
+impediments to, and perfect the mechanism of a free and open market 
+and, in general, to protect investors and the public interest.
+    The Exchange proposes to clarify that each Trust will disseminate 
+for a Trust's Shares the Official Closing Price, which is defined in 
+NYSE Arca Rule 1.1(ll).\13\ The Exchange believes that such price 
+provides a specific and precise measure of the price of a Trust's 
+Shares for investors.\14\
+---------------------------------------------------------------------------
+
+    \13\ See note 8, supra.
+    \14\ See note 10, supra.
+---------------------------------------------------------------------------
+
+    The Exchange also proposes to clarify and make more specific the 
+representation regarding midpoint of the bid-ask price by stating that 
+a Trust would make available the price that is the midpoint of the 
+national best bid and NBBO as of the time the NAV is calculated. 
+Consistent with Section 6(b)(1) of the Act,\15\ such clarification 
+would assist the Exchange in reviewing compliance with Exchange listing 
+rules applicable to each Trust. The Exchange believes that making 
+available the midpoint of the NBBO would continue to help provide 
+investors and other market participants with complete and accurate 
+information regarding pricing of a Trust's Shares.
+---------------------------------------------------------------------------
+
+    \15\ Section 6(b)(1) of the Act (15 U.S.C. 78f(b)(1)) requires 
+(among other things) that a national securities exchange be 
+organized and have the capacity to comply with its own rules.
+---------------------------------------------------------------------------
+
+B. Self-Regulatory Organization's Statement on Burden on Competition
+
+    The Exchange does not believe that the proposed rule change will 
+impose any burden on competition that is not necessary or appropriate 
+in furtherance of the purpose of the Act. The Exchange believes that 
+the proposed rule change would provide enhanced website disclosure for 
+the Trusts, as described above, to the benefit of investors and the 
+marketplace.
+
+C. Self-Regulatory Organization's Statement on Comments on the Proposed 
+Rule Change Received From Members, Participants, or Others
+
+    No written comments were solicited or received with respect to the 
+proposed rule change.
+
+[[Page 79062]]
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for 
+Commission Action
+
+    The Exchange has filed the proposed rule change pursuant to Section 
+19(b)(3)(A)(iii) of the Act \16\ and Rule 19b-4(f)(6) thereunder.\17\ 
+Because the proposed rule change does not: (i) Significantly affect the 
+protection of investors or the public interest; (ii) impose any 
+significant burden on competition; and (iii) become operative prior to 
+30 days from the date on which it was filed, or such shorter time as 
+the Commission may designate, if consistent with the protection of 
+investors and the public interest, the proposed rule change has become 
+effective pursuant to Section 19(b)(3)(A) of the Act and Rule 19b-
+4(f)(6)(iii) thereunder.
+---------------------------------------------------------------------------
+
+    \16\ 15 U.S.C. 78s(b)(3)(A)(iii).
+    \17\ 17 CFR 240.19b-4(f)(6).
+---------------------------------------------------------------------------
+
+    A proposed rule change filed under Rule 19b-4(f)(6) \18\ normally 
+does not become operative prior to 30 days after the date of the 
+filing. However, pursuant to Rule 19b-4(f)(6)(iii),\19\ the Commission 
+may designate a shorter time if such action is consistent with the 
+protection of investors and the public interest. The Exchange has asked 
+the Commission to waive the 30-day operative delay so that the proposal 
+may become operative immediately upon filing. The Commission believes 
+waiver of the 30-day operative delay is consistent with the protection 
+of investors and the public interest because it would permit the Trusts 
+to immediately disseminate enhanced price and other information, as 
+described herein. The Commission notes that other than changes to 
+information to be disclosed on a Trust's website as described herein, 
+each of the Trusts would continue to comply with all other listing 
+requirements set forth in the Orders and the Amex Gold Notice and in 
+NYSE Arca Rules 8.201-E and 8.203-E, respectively. The Commission 
+therefore waives the 30-day operative delay and designates the proposed 
+rule change to be operative upon filing.\20\
+---------------------------------------------------------------------------
+
+    \18\ Id.
+    \19\ 17 CFR 240.19b-4(f)(6)(iii).
+    \20\ For purposes only of waiving the 30-day operative delay, 
+the Commission has also considered the proposed rule's impact on 
+efficiency, competition, and capital formation. See 15 U.S.C. 
+78c(f).
+---------------------------------------------------------------------------
+
+    At any time within 60 days of the filing of such proposed rule 
+change, the Commission summarily may temporarily suspend such rule 
+change if it appears to the Commission that such action is necessary or 
+appropriate in the public interest, for the protection of investors, or 
+otherwise in furtherance of the purposes of the Act.
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views, and 
+arguments concerning the foregoing, including whether the proposed rule 
+change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to [email redacted]. Please include 
+File Number SR-NYSEArca-2020-99 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to: Secretary, 
+Securities and Exchange Commission, 100 F Street NE, Washington, DC 
+20549-1090.
+
+All submissions should refer to File Number SR-NYSEArca-2020-99. This 
+file number should be included on the subject line if email is used. To 
+help the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change that are filed with 
+the Commission, and all written communications relating to the proposed 
+rule change between the Commission and any person, other than those 
+that may be withheld from the public in accordance with the provisions 
+of 5 U.S.C. 552, will be available for website viewing and printing in 
+the Commission's Public Reference Room, 100 F Street NE, Washington, DC 
+20549 on official business days between the hours of 10:00 a.m. and 
+3:00 p.m. Copies of the filing also will be available for inspection 
+and copying at the principal office of the Exchange. All comments 
+received will be posted without change. Persons submitting comments are 
+cautioned that we do not redact or edit personal identifying 
+information from comment submissions. You should submit only 
+information that you wish to make available publicly. All submissions 
+should refer to File Number SR-NYSEArca-2020-99 and should be submitted 
+on or before December 29, 2020.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\21\
+---------------------------------------------------------------------------
+
+    \21\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26902 Filed 12-7-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,90 @@
+{
+ "id": "AD-014",
+ "name": "LangGraph persistence",
+ "family": "state",
+ "kind": "Repository and documentation",
+ "mechanism": "Separates thread-state checkpoints from cross-thread application data stored in a store.",
+ "evidence": "Official documentation distinguishes the two interfaces and warns that in-memory savers do not survive process restart.",
+ "limitations": "Restart durability depends on the backing store and configuration. Checkpoints do not make arbitrary external effects atomic or establish analysis validity.",
+ "textdata_use": "Keep execution position separate from the enduring study evidence and decisions.",
+ "textdata_evaluation": "Interrupt a task and check both correct resumption and absence of duplicated external effects.",
+ "credit": "Original authors and maintainers are identified in the linked publication or repository.",
+ "primary_url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+ "source_version": "current documentation, accessed 2026-10-29",
+ "primary_locator": "Overview; Checkpointer vs. store",
+ "repository_urls": [
+  "https://github.com/langchain-ai/langgraph"
+ ],
+ "repository_status": "Link for inspection; no installation, license clearance or latest-release claim",
+ "evidence_basis": "Selected primary text",
+ "reading_scope": "The entry draws on selected original text; this does not establish that every referenced work was read in full.",
+ "implementation_status": "Not executed or benchmarked for this database.",
+ "references": [
+  {
+   "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+   "version": "current documentation, accessed 2026-10-29",
+   "locator": "Overview; Checkpointer vs. store",
+   "observed_at": "2026-10-29"
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.11",
+   "version": "1.2.11",
+   "locator": null,
+   "observed_at": null
+  },
+  {
+   "url": "https://docs.langchain.com/oss/python/langgraph/graph-api",
+   "version": "mutable docs",
+   "locator": "https://docs.langchain.com/oss/python/langgraph/graph-api ; Graph migrations",
+   "observed_at": null
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/issues/8834",
+   "version": "Sep6,2026",
+   "locator": "https://github.com/langchain-ai/langgraph/issues/8834 ; Repro;Observed output;Environment",
+   "observed_at": null
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/issues/8833",
+   "version": "Sep2026;SQLite3.1.1",
+   "locator": "https://github.com/langchain-ai/langgraph/issues/8833 ; Observed output,System Info",
+   "observed_at": null
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/security/advisories/GHSA-9rwj-6rc7-p77c",
+   "version": "Dec9,2025 advisory",
+   "locator": "https://github.com/langchain-ai/langgraph/security/advisories/GHSA-9rwj-6rc7-p77c ; Affected/Patched versions",
+   "observed_at": null
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/issues/7417",
+   "version": "1.1.3–1.1.6;langgraph-api0.7.28/0.7.96;Apr5,2026",
+   "locator": "https://github.com/langchain-ai/langgraph/issues/7417 ; issue body",
+   "observed_at": null
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/issues/8458",
+   "version": "1.1.7 through1.2.9;Jul27,2026",
+   "locator": "https://github.com/langchain-ai/langgraph/issues/8458 ; issue body",
+   "observed_at": null
+  },
+  {
+   "url": "https://github.com/langchain-ai/langgraph/issues/8579",
+   "version": "Aug9,2026 main version not pinned",
+   "locator": "https://github.com/langchain-ai/langgraph/issues/8579 ; issue body",
+   "observed_at": null
+  },
+  {
+   "url": "https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/",
+   "version": "June11,2026",
+   "locator": "https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/ ; Key Points / Disclosure Timeline",
+   "observed_at": null
+  },
+  {
+   "url": "https://docs.langchain.com/oss/python/langgraph/checkpointers",
+   "version": "Mutable documentation; observed 20 September 2026.",
+   "locator": "https://docs.langchain.com/oss/python/langgraph/checkpointers ; Checkpoints / pending writes / Durability modes",
+   "observed_at": "2026-09-20T19:40:58.232Z"
+  }
+ ]
+}

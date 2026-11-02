@@ -1,0 +1,56 @@
+{
+  "checked_at": "2026-10-29",
+  "method": "Provider documentation checked for the stated claims on 29 October 2026. These checks do not establish data-level or runtime validity.",
+  "sources": [
+    {
+      "title": "FederalRegister.gov REST API",
+      "url": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
+      "checked_claim": "CSV/JSON; no API key; first 2,000-result limit and date partitioning; informational web edition notice."
+    },
+    {
+      "title": "GovInfo Federal Register help",
+      "url": "https://www.govinfo.gov/help/fr",
+      "checked_claim": "Office of the Federal Register/NARA and GPO provider roles; official publication description."
+    },
+    {
+      "title": "SEC EDGAR APIs",
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "checked_claim": "Filing histories by issuer and structured financial information; links to filings."
+    },
+    {
+      "title": "USPTO PatentsView",
+      "url": "https://www.uspto.gov/ip-policy/economic-research/patentsview",
+      "checked_claim": "PatentsView now hosted in the USPTO Open Data Portal."
+    },
+    {
+      "title": "CFPB complaint API release notes",
+      "url": "https://cfpb.github.io/api/ccdb/release-notes.html",
+      "checked_claim": "September 2026 release removed narratives; current database not recommended as a complaint-narrative source."
+    },
+    {
+      "title": "CoAuthor creator page",
+      "url": "https://coauthor.stanford.edu/",
+      "checked_claim": "1,445 human–AI writing sessions; suggestions, acceptance/dismissal and editing traces."
+    },
+    {
+      "title": "AMI provider corpus page",
+      "url": "https://groups.inf.ed.ac.uk/ami/corpus/",
+      "checked_claim": "Meeting speech/transcripts and annotations; scenario-based and naturally occurring meetings differ."
+    },
+    {
+      "title": "Open Food Facts API",
+      "url": "https://openfoodfacts.github.io/openfoodfacts-server/api/",
+      "checked_claim": "Barcode identifiers, contributed fields and label images; components carry distinct reuse terms."
+    },
+    {
+      "title": "Amazon Reviews 2023 creator page",
+      "url": "https://amazon-reviews-2023.github.io/",
+      "checked_claim": "Review text, item metadata and user–item links in the 2023 release."
+    },
+    {
+      "title": "O*NET database",
+      "url": "https://www.onetcenter.org/database.html",
+      "checked_claim": "Version 31.0; occupation/task data files and dictionaries."
+    }
+  ]
+}

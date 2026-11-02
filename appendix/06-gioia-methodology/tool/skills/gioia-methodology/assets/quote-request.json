@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "quote": null,
+  "manifestations": [
+    {
+      "id": "M1",
+      "work_id": null,
+      "identity_confidence": "unknown",
+      "kind": "unknown",
+      "version": "unknown",
+      "capture_event": "unknown",
+      "text_path": null,
+      "sha256": null,
+      "hash_basis": "whole_file_bytes",
+      "extraction": {"parent_id": null, "method": "unknown", "replay_status": "not_checked"},
+      "inspected_coverage": "unknown",
+      "access": "unknown",
+      "admission": {"state": "undecided", "who": null, "reason": null},
+      "source_status": {"state": "unknown", "source": null},
+      "permissions": {
+        "local_processing": "unknown",
+        "local_processing_basis": null,
+        "retention": "unknown",
+        "quote_reuse": "unknown",
+        "participant_data_use": "unknown",
+        "restrictions": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+profile_id,url,version,locator,observed_at
+AD-001,https://arxiv.org/html/2309.02427v3,"2024, arXiv v3",§§4.1–4.6; Figs. 4–5,2026-10-29
+AD-002,https://www.anthropic.com/research/building-effective-agents,"2024 article, mutable current page",What are agents?; Orchestrator-workers; Agents,2026-10-29
+AD-002,https://www.anthropic.com/engineering/building-effective-agents,Published2024-12-19; mutable body observed2026-09-20 with newer SDK/Haiku4.5/ManagedAgents note; exact update date unknown,https://www.anthropic.com/engineering/building-effective-agents What are agents; Building blocks; Agents; Appendix 2,2026-09-20T17:51:32.240461+00:00
+AD-003,https://arxiv.org/html/2210.03629v3,"2023, arXiv v3",§2; §3.1 Action Space; §3.2; Appendix A.3,2026-10-29
+AD-004,https://arxiv.org/html/2308.08155v2,2023 preprint v2; 2024 COLM publication identity,§§2.1–2.2,2026-10-29
+AD-004,https://openreview.net/forum?id=BAakY1hNKS,COLM2024 venue metadata; title uses Conversations,,
+AD-005,https://arxiv.org/html/2310.03714v1,2023 preprint v1; 2024 ICLR publication identity,§§3.1–3.3; §4,2026-10-29
+AD-005,https://openreview.net/notes/edits/attachment?id=wU1R77dqOm&name=pdf,ICLR2024,"https://openreview.net/notes/edits/attachment?id=wU1R77dqOm&name=pdf ; pp1,6–9,14",
+AD-005,https://github.com/stanfordnlp/dspy/releases,3.3.1 / 3.4.0b1,https://github.com/stanfordnlp/dspy/releases ; 3.4.0 Beta1 compatibility and migration;3.3.1,
+AD-005,https://github.com/stanfordnlp/dspy/blob/main/docs/docs/tutorials/saving/index.md,mutable main,"https://github.com/stanfordnlp/dspy/blob/main/docs/docs/tutorials/saving/index.md ; State-only, Whole Program, Backward Compatibility",
+AD-005,https://github.com/stanfordnlp/dspy/blob/main/docs/docs/learn/optimization/optimizers.md,mutable main,https://github.com/stanfordnlp/dspy/blob/main/docs/docs/learn/optimization/optimizers.md ; What an optimizer tunes;Which optimizer,
+AD-006,https://modelcontextprotocol.io/specification/2026-07-28/server/resources,2026-07-28 specification; 2025-06-18 historical comparison,Resources and Tools: introductions and user interaction models,2026-10-29
+AD-007,https://www.nature.com/articles/s41586-026-10644-y,2026 published Nature article,Fig. 1; Methods: From research goal to research plan configuration; The specialized agents underpinning Co-Scientist; limitations discussion,2026-10-29
+AD-008,https://www.anthropic.com/research/multi-agent-research-system,"2025-06-13, current mutable page",Architecture overview; delegation principle 2; Benefits; Effective evaluation,2026-10-29
+AD-009,https://www.anthropic.com/research/effective-context-engineering-for-ai-agents,"2025-09-29, current mutable page",Context retrieval and agentic search; long-horizon context/compaction,2026-10-29
+AD-010,https://arxiv.org/html/2404.12259v1,"2024, CHI article / arXiv v1",§3.2.2; §6 opening and scope; §7.2.3,2026-10-29
+AD-011,https://arxiv.org/html/2503.13657v3,"2025, arXiv v3; NeurIPS proceedings identity",§§3–5; Appendix A failure categories,2026-10-29
+AD-011,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/13,2026-05-06,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/13 Description / reproduction / qualification,
+AD-011,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/18,2026-08-23,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/18 Description / reproduction / qualification,
+AD-011,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/17,2026-08-09,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/17 Description / reproduction / qualification,
+AD-011,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/16,2026-08-07,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/16 Description / reproduction / qualification,
+AD-011,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/12,2026-05-06,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/12 Description / reproduction / qualification,
+AD-011,https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/10,"2025-10-30 issue; mutable",https://github.com/multi-agent-systems-failure-taxonomy/MAST/issues/10 Description / reproduction and limitations,
+AD-011,https://huggingface.co/datasets/mcemri/MAST-Data/commit/95118ac951421753cf1deb87ddea3b01e693c41b,95118ac951421753cf1deb87ddea3b01e693c41b at2026-08-13T19:46:12Z; prior6bd601d98498910e079b4fd0a7a6d4c0ab3cae60 at19:38:25Z,"https://huggingface.co/datasets/mcemri/MAST-Data/commit/95118ac951421753cf1deb87ddea3b01e693c41b; dataset commit metadata and pinned README, Notes",2026-09-21T02:55:22.055473+00:00
+AD-012,https://www.w3.org/TR/2013/REC-prov-dm-20130430/,W3C Recommendation 2013-04-30,"§§2.1, 2.2.2, 4, 5.2–5.3",2026-10-29
+AD-013,https://www.anthropic.com/research/managed-agents,"2026-04-08, current mutable page",The session is not Claude’s context window; stable interfaces,2026-10-29
+AD-013,https://www.anthropic.com/engineering/managed-agents,2026-04-08,https://www.anthropic.com/engineering/managed-agents ; Decoupling architecture,
+AD-013,https://platform.claude.com/docs/en/managed-agents/overview,beta header2026-04-01,https://platform.claude.com/docs/en/managed-agents/overview ; Core concepts;Beta access,
+AD-014,https://docs.langchain.com/oss/python/langgraph/persistence,"current documentation, accessed 2026-10-29",Overview; Checkpointer vs. store,2026-10-29
+AD-014,https://github.com/langchain-ai/langgraph/releases/tag/1.2.11,1.2.11,,
+AD-014,https://docs.langchain.com/oss/python/langgraph/graph-api,mutable docs,https://docs.langchain.com/oss/python/langgraph/graph-api ; Graph migrations,
+AD-014,https://github.com/langchain-ai/langgraph/issues/8834,"Sep6,2026",https://github.com/langchain-ai/langgraph/issues/8834 ; Repro;Observed output;Environment,
+AD-014,https://github.com/langchain-ai/langgraph/issues/8833,Sep2026;SQLite3.1.1,"https://github.com/langchain-ai/langgraph/issues/8833 ; Observed output,System Info",
+AD-014,https://github.com/langchain-ai/langgraph/security/advisories/GHSA-9rwj-6rc7-p77c,"Dec9,2025 advisory",https://github.com/langchain-ai/langgraph/security/advisories/GHSA-9rwj-6rc7-p77c ; Affected/Patched versions,
+AD-014,https://github.com/langchain-ai/langgraph/issues/7417,"1.1.3–1.1.6;langgraph-api0.7.28/0.7.96;Apr5,2026",https://github.com/langchain-ai/langgraph/issues/7417 ; issue body,
+AD-014,https://github.com/langchain-ai/langgraph/issues/8458,"1.1.7 through1.2.9;Jul27,2026",https://github.com/langchain-ai/langgraph/issues/8458 ; issue body,
+AD-014,https://github.com/langchain-ai/langgraph/issues/8579,"Aug9,2026 main version not pinned",https://github.com/langchain-ai/langgraph/issues/8579 ; issue body,
+AD-014,https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/,"June11,2026",https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/ ; Key Points / Disclosure Timeline,
+AD-014,https://docs.langchain.com/oss/python/langgraph/checkpointers,Mutable documentation; observed 20 September 2026.,https://docs.langchain.com/oss/python/langgraph/checkpointers ; Checkpoints / pending writes / Durability modes,2026-09-20T19:40:58.232Z
+AD-015,https://arxiv.org/html/2303.11366v4,v4 2023-10-10,"https://arxiv.org/html/2303.11366v4 Sections 3, 4.1–4.3; Table 3; Section 5",2026-09-20T17:51:32.242164+00:00
+AD-016,https://arxiv.org/html/2305.10601v2,v2 2023-12-03; NeurIPS camera ready,https://arxiv.org/html/2305.10601v2 Section 4.1 Table 2; Section 6; Appendix B.3 Table 7,2026-09-20T17:51:32.242454+00:00
+AD-017,https://arxiv.org/html/2312.04511v3,2024-06-05 v3,§3; §5.4; Appendix B,2026-10-29
+AD-017,https://arxiv.org/html/2312.04511v3,2024-06-05 v3,"https://arxiv.org/html/2312.04511v3 §3–4,Tables1–3,AppendixA/D",2026-09-20T18:49:31.746734+00:00
+AD-018,https://arxiv.org/html/2510.04173v4,"v4 Nov7,2025;older v1 technical report",https://arxiv.org/html/2510.04173v4 ; §5.1–5.2 Tables3–5,
+AD-018,https://doi.org/10.1145/3786335.3813130,CAIS2026 May26,https://doi.org/10.1145/3786335.3813130 ; §2.2;§4 tool semantics;§5.1,
+AD-018,https://oracle.github.io/agent-spec/development/_downloads/9bed8c437b5139f7c816476b7e2c20f1/agentspec_technical_report.pdf,report references25.4.0;mutable development URL,"https://oracle.github.io/agent-spec/development/_downloads/9bed8c437b5139f7c816476b7e2c20f1/agentspec_technical_report.pdf ; §2.3–2.6,especially§2.6.1",
+AD-018,https://github.com/oracle/agent-spec/releases,"26.3.1 Sep11,2026","https://github.com/oracle/agent-spec/releases ; 26.3.1 Dependencies,LangGraph improvements,Breaking changes",
+AD-018,https://oracle.github.io/agent-spec/26.3.1/howtoguides/howto_execute_agentspec_across_frameworks.html,26.3.1,https://oracle.github.io/agent-spec/26.3.1/howtoguides/howto_execute_agentspec_across_frameworks.html ; Adapters;tool_registry;license comment,
+AD-018,https://github.com/oracle/agent-spec/issues/81,"Jan20,2026;open observed",https://github.com/oracle/agent-spec/issues/81 ; Context/Acceptance,
+AD-019,https://github.com/temporalio/sdk-typescript/blob/v1.24.0/contrib/openai-agents/README.md,@temporalio/openai-agents1.24.0 experimental; npm date verified,https://github.com/temporalio/sdk-typescript/blob/v1.24.0/contrib/openai-agents/README.md ; Introduction; Tools; modelParams,
+AD-020,https://arxiv.org/html/2310.08560v2,2024-02-12 v2,§2.1–2.4; §3,2026-10-29
+AD-020,https://arxiv.org/html/2310.08560v2,2024-02-12 v2,"https://arxiv.org/html/2310.08560v2 — §2, §3.1, §3.2.1",
+AD-021,https://arxiv.org/html/2504.19413v1,2025-04-28 v1,https://arxiv.org/html/2504.19413v1 — §2.1–2.2; §3.1,
+AD-021,https://github.com/mem0ai/mem0,cutoff commita39a802bbc93e85b820078cd3c4dbaf53af25dbe,,
+AD-021,https://github.com/mem0ai/mem0/releases/tag/v2.0.15,2026-08-01,https://github.com/mem0ai/mem0/releases/tag/v2.0.15 — Bug Fixes Core,
+AD-021,https://docs.mem0.ai/migration/oss-v2-to-v3,mutable; exact shipment date unresolved,"https://docs.mem0.ai/migration/oss-v2-to-v3 — Overview, Breaking Changes, Entity collection",
+AD-021,https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/agentic-memory-best-practices.html,mutable observed after cutoff; precise revision unknown,https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/agentic-memory-best-practices.html — lifecycle best practices,
+AD-022,https://agentskills.io/specification,Mutable official specification inspected 2026-10-29; no package release tested,Directory structure; SKILL.md; progressive disclosure,2026-10-29
+AD-022,https://agentskills.io/specification,Version not recorded.,https://agentskills.io/specification :: #directory-structure; #frontmatter; #compatibility-field; #allowed-tools-field,
+AD-022,https://agentskills.io/client-implementation/adding-skills-support,Version not recorded.,https://agentskills.io/client-implementation/adding-skills-support :: #where-to-scan; #handling-name-collisions; #trust-considerations; #filtering; #permission-allowlisting,
+AD-022,https://github.com/agentskills/agentskills,Version not recorded.,,
+AD-023,https://arxiv.org/html/2405.15793v3,Version not recorded.,"https://arxiv.org/html/2405.15793v3 | Sections 3, 4, 5.1; lines 103-193",
+AD-024,https://arxiv.org/html/2404.12272,2024 primary manuscript,https://arxiv.org/html/2404.12272 — user study and discussion,
+AD-025,https://inspect.aisi.org.uk/eval-logs.html,Mutable official documentation inspected 2026-10-29; no installed version,Overview; Log Format; EvalLog; Exporting Run Config,2026-10-29
+AD-025,https://github.com/UKGovernmentBEIS/inspect_ai,Version not recorded.,,2026-07-30T16:17:45Z
+AD-025,https://inspect.aisi.org.uk/,Version not recorded.,,2026-07-30T16:17:45Z
+AD-025,https://inspect.aisi.org.uk/model-graded.html,Version not recorded.,https://inspect.aisi.org.uk/model-graded.html (Multiple Models and Grading Robustness); https://inspect.aisi.org.uk/metrics.html (Reducing Epochs); https://inspect.aisi.org.uk/eval-logs.html (log schema and export-config),2026-07-30T16:17:45Z
+AD-025,https://inspect.aisi.org.uk/metrics.html,Version not recorded.,https://inspect.aisi.org.uk/model-graded.html (Multiple Models and Grading Robustness); https://inspect.aisi.org.uk/metrics.html (Reducing Epochs); https://inspect.aisi.org.uk/eval-logs.html (log schema and export-config),2026-07-30T16:17:45Z
+AD-025,https://inspect.aisi.org.uk/eval-logs.html,Version not recorded.,https://inspect.aisi.org.uk/model-graded.html (Multiple Models and Grading Robustness); https://inspect.aisi.org.uk/metrics.html (Reducing Epochs); https://inspect.aisi.org.uk/eval-logs.html (log schema and export-config),2026-07-30T16:17:45Z
+AD-025,https://inspect.aisi.org.uk/multiple-scorers.html,Version not recorded.,,2026-07-30T16:17:45Z
+AD-026,https://github.com/open-telemetry/semantic-conventions-genai,Repository identity; documentation relocation checked 2026-10-29,Official documentation relocation notice and repository,2026-10-29
+AD-027,https://agentdojo.spylab.ai/,Version not recorded.,,2026-07-31T05:05:00Z
+AD-027,https://github.com/ethz-spylab/agentdojo,Version not recorded.,,2026-07-31T05:06:00Z
+AD-028,https://arxiv.org/html/2409.00138v3,2025-03-14 v3; NeurIPS 2024,"https://arxiv.org/html/2409.00138v3 §3–6, Table 2",2026-09-20T17:53:16.634879+00:00
+AD-029,https://gorilla.cs.berkeley.edu/blogs/15_bfcl_v4_web_search.html,"V4 explanatory article; not the live scorer commit",,
+AD-029,https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html,V3 multi-turn explanatory article,,
+AD-029,https://gorilla.cs.berkeley.edu/leaderboard.html,"live page says last updated 2026-04-12; bfcl-eval2025.12.17, commit f7cf735",,
+AD-029,https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/Archive/EECS-2025-184.pdf,"Fanjia Yan, A Function Calling Perspective on Scalable Large Language Model Agent Evaluation; UCB/EECS-2025-184 May14 2025 cover, inner copyright2026/2025 mismatch; not asserted identical to ICML paper",,
+AD-030,https://arxiv.org/html/2406.12045v1,v1 June2024,,
+AD-031,https://proceedings.iclr.cc/paper_files/paper/2026/file/0e9e708b6f48e14fd0ac29e167413f76-Paper-Conference.pdf,conference version of record,,
+AD-031,https://github.com/gepa-ai/gepa/releases/tag/v0.1.4,v0.1.4 / short commit 8b0ce6c,https://github.com/gepa-ai/gepa/releases/tag/v0.1.4,
+AD-031,https://github.com/gepa-ai/gepa/blob/v0.1.4/LICENSE,tag-scoped MIT text,https://github.com/gepa-ai/gepa/blob/v0.1.4/LICENSE,
+AD-031,https://github.com/gepa-ai/gepa/issues/379,open when inspected,,
+AD-032,https://arxiv.org/html/2406.11695v2,v2; EMNLP 2024 relation in arXiv metadata,,
+AD-032,https://dspy.ai/api/optimizers/MIPROv2/,mutable API documentation,,
+AD-032,https://github.com/stanfordnlp/dspy/issues/9308,DSPy3.1.3; closed,,
+AD-032,https://github.com/stanfordnlp/dspy/issues/9039,DSPy3.0.3; closed,,
+AD-032,https://aclanthology.org/2024.emnlp-main.525/,"EMNLP 2024 VOR, pp. 9340–9366","https://aclanthology.org/2024.emnlp-main.525/ ; Title/authors, venue, date, pages and DOI",2026-09-15T01:34:18+00:00
+AD-032,https://aclanthology.org/2024.emnlp-main.525.pdf,"EMNLP 2024 VOR, pp. 9340–9366","https://aclanthology.org/2024.emnlp-main.525.pdf ; Appendix B.1 and Table 3, PDF pp.13–14 (printed pp.9352–9353)",2026-09-15T01:34:18+00:00
+AD-033,https://arxiv.org/html/2407.01502v1,v1 July2024; later manifestations not used for claims,https://arxiv.org/html/2407.01502v1 ; §3 fixed/variablecost;§4 downstream evaluation;§5 holdoutgenerality,
+AD-034,https://arxiv.org/html/2606.02875,v2 2026-08-30,https://arxiv.org/html/2606.02875 §3–6 Tables2–4; Limitations,

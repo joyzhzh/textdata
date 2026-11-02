@@ -1,0 +1,32 @@
+LLM-annotation workflow
+
+This prototype prepares actor–action annotation requests, checks saved responses and exports source-linked features. It does not call a model. Paths below are relative to appendix/10-annotation.
+
+1. Define the task.
+example/input/study.json identifies the question, source, units and permissible inference. codebook.json distinguishes mandatory, discretionary, prohibited, recommended and unresolved relations. No assignment, abstention and missing response are separate states.
+
+2. Prepare requests.
+Preserve source bytes and a normalized text with explicit character positions in units.jsonl. For a new study directory under this contract:
+  python3 tool/workflow.py prepare --study <study-folder> --out <new-package-folder>
+The tool checks source fingerprints and unit positions and freezes one request per passage, including the full document as context. Different tasks need their own codebook and response schema.
+
+3. Obtain candidate responses.
+Use the prepared requests with an annotator and save responses plus a truthful producer receipt bound to that package. Observable model/settings belong in the receipt; unknown values remain unknown. The supplied candidates were produced interactively, with no independent reference coding. Automated model calls remain proposed.
+
+4. Check and export.
+  python3 tool/workflow.py export --package example/prepared --response example/candidate/candidate_response.jsonl --receipt example/candidate/producer_receipt.json --out replay-01
+Use a new output directory. The tool checks package identity, response bytes, allowed labels, exact quotations, repeated-word locations and duplicates. Missing responses and abstentions remain explicit. A quotation can still name the wrong actor, and a missing relation can pass these checks.
+
+5. Inspect the output.
+annotations.jsonl holds exact quotations and positions; features.csv has one row per relation or a row for a unit without one. summary.json leaves unmeasured accuracy and population estimates empty. reference_template.jsonl has empty fields for independent coding. Replaying saved responses repeats data processing, not model generation.
+
+To rebuild the demonstration inputs:
+  python3 tool/make_example.py --source example/input/source/2020-27065.html --out example-rebuilt
+  python3 tool/workflow.py prepare --study example-rebuilt --out prepared-rebuilt
+The new manifest has a new identity. The shipped receipt belongs to the shipped package; it must not be presented as a new model run.
+
+To run the offline software checks:
+  python3 checks/verify.py
+Python 3.9 or newer, standard library only. Results and fixtures are written to a fresh temporary folder, or the chosen --out folder.
+
+Independent reference coding, accuracy and repeatability tests, new-corpus evaluation and valid downstream inference remain proposed. See NOTICE.md for source credit, licences and the distinction between original and release-derived provenance records.

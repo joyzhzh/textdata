@@ -1,32 +1,42 @@
 # Textual-data literature reviews and database
 
-[Webpage](https://textdata.info/foundation/literature-reviews/) · [All components](../README.md)
+[Explore the database](https://textdata.info/foundation/literature-reviews/) · [Use with an AI assistant](AI-PROMPT.md) · [All components](../README.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+A searchable research foundation for choosing and evaluating textual methods. The finished collection separates bibliographic facts from reading notes and their limitations. It contains **10,732 entries from overlapping catalogues**, **8,236 substantive reading notes**, and **two of three methodological syntheses**.
 
-## Purpose and scope
+## Try it
 
-The literature reviews and database help researchers choose and justify textual methods by connecting methodological arguments to the studies and reading evidence behind them. Together, they provide a reusable research foundation for annotation, model comparison and interpreting organizational narratives.
+Open the webpage to search by title, author or abstract word, filter the results, and read a note. “Open an example” shows Andrew Speer’s article on the reliability of AI scores: the note distinguishes correlational agreement from factor-model reliability, while its reading-depth qualification prevents treating the note as proof of full-paper reading.
 
-## Design and components
+The webpage uses a separately labelled 10,731-entry edition with more abstracts available for word search. Both editions are downloadable; neither distributes abstract prose. Counts are entries, not distinct papers.
 
-Three syntheses cover annotation and model comparison, organizational narratives and behavioral evidence, and annotation-workflow design. The database separates bibliographic records, available abstracts and project reading notes. The two annotation syntheses are available for review.
+For an offline example, use Python 3.9 or later; no additional packages, network or model service are needed:
 
-The syntheses distinguish what a published study reports from what another researcher has independently reproduced. In the database, a record identifies the source of each abstract or reading note where one exists.
+```sh
+python3 tool/query.py --id annotation_checkpoint:W026
+python3 tool/query.py --search "inter-rater reliability"
+python3 checks/verify_counts.py
+python3 tool/build_sqlite.py --out literature.sqlite
+```
 
-## Use and outputs
+The last command creates a queryable SQLite database. The check verifies the exports, counts, syntheses, worked outputs and file hashes.
 
-A researcher choosing an annotation design can use the syntheses to distinguish three operations that are often conflated. Comparing models asks whether the choice of model changes the result. Repeating a model under the same conditions asks whether its labels recur. Combining labels under a voting rule produces a new candidate judgment that needs its own evaluation. The annotation synthesis reconstructs what the models received and returned in seven papers and three supplements. The workflow synthesis uses these distinctions to separate sensitivity to configuration, repeatability, agreement with a reference and consequences for a subsequent analysis.
+## Included material
 
-A researcher searches bibliographic metadata to assemble a reading set, then opens individual entries to distinguish the source’s account from the project’s assessment. For review, readers are directed to the abstract at its source. A qualification records whether full reading was completed or merely proposed. Individual synthesis claims do not link directly to entries.
+| File | Use |
+|---|---|
+| `data/records.json.gz`, `data/records.csv.gz` | The same 10,732 entries in JSON and CSV |
+| `data/summary.json`, `docs/DATABASE_NOTES.md` | Final counts and the 14-field schema |
+| `docs/annotation-methods.md` | How seven papers and three supplements use prompts, models, repetitions and comparisons |
+| `docs/workflow-literature.md` | Eight-source assessment of sensitivity, repeatability, reference evaluation and downstream inference |
+| `docs/SYNTHESES.json` | Two included syntheses and a generic marker for the third |
+| `tool/`, `example/`, `checks/` | Metadata search, SQLite conversion, worked outputs and an offline integrity check |
+| `NOTICE.md`, `MANIFEST.json` | Credits, licence boundaries and file hashes |
 
-## Evidence and limitations
+The syntheses explain why comparing models, repeating a model and combining model judgments answer different questions. Each retains source/version references and the limits of the inspected evidence.
 
-In the worked entry, the source of the abstract and the source of the project note are recorded separately. The note says that a full reading is still proposed. The article also occurs in another catalogue, which is why database counts refer to entries. A separate adjudication corrected the claim that one citing work appeared in no index. It also restored a warning about fabricated references in citing works’ own reference lists and left the affected citations unverified. The adjudicator characterized the forward-citation search as a high-coverage snapshot and declined to certify saturation.
+## Limits and next steps
 
-The review materials cover 10,732 literature entries from overlapping catalogues and two of the three syntheses. Abstract coverage in the underlying database is uneven. The papers’ results have not been reproduced, and no independent reader has checked the project notes against the papers. A later round of abstract recovery belongs to a separate interim release.
+Catalogues overlap; entries and notes do not count unique papers or completed full-paper readings. Abstract coverage is uneven. Source claims and the project’s interpretations are distinguished, but the papers’ results have not been independently reproduced and the notes have not all been checked against the original papers. These are scoped syntheses, not systematic reviews.
 
-## Proposed development
-
-We will extend the syntheses, identify additional abstract sources and add reading notes that distinguish an author’s account from our interpretation.
-
+Further syntheses, abstract coverage and reading notes are proposed development. Code is Apache-2.0; project-authored material is CC BY 4.0. Third-party sources retain their own terms; see [NOTICE.md](NOTICE.md).

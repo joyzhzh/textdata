@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79068-79069]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26967]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF STATE
+
+[Public Notice 11270]
+
+
+60-Day Notice of Proposed Information Collection: Refugee 
+Biographic Data
+
+ACTION: Notice of request for public comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of State is seeking Office of Management and 
+Budget (OMB) approval for the information collection described below. 
+In accordance with the Paperwork Reduction Act of 1995, we are 
+requesting comments on this collection from all interested individuals 
+and organizations. The purpose of this notice is to allow 60 days for 
+public comment preceding submission of the collection to OMB.
+
+DATES: The Department will accept comments from the public up to 
+February 8, 2021.
+
+ADDRESSES: You may submit comments by any of the following methods:
+    <bullet> Web: Persons with access to the internet may comment on 
+this notice by going to <a href="http://www.Regulations.gov">www.Regulations.gov</a>. You can search for the 
+document by entering ``Docket Number: DOS-2020-0052'' in the Search 
+field. Then click the ``Comment Now'' button and complete the comment 
+form.
+    <bullet> Email: [email redacted].
+    <bullet> Regular Mail: Send written comments to: Delicia Spruell, 
+PRM/Admissions, 2025 E Street NW, SA-9, 8th Floor, Washington, DC 
+20522-0908.
+    <bullet> Fax: (202) 453-9393.
+    You must include the DS form number (if applicable), information 
+collection title, and the OMB control number in any correspondence.
+
+FOR FURTHER INFORMATION CONTACT: Direct requests for additional 
+information regarding the collection listed in this notice, including 
+requests for supporting documents, to Delicia Spruell, (202) 453-9257, 
+PRM/Admissions, 2025 E Street NW, SA-9, 8th Floor, Washington, DC 
+20522-0908.
+
+SUPPLEMENTARY INFORMATION:
+    <bullet> Title of Information Collection: Refugee Biographic Data.
+    <bullet> OMB Control Number: 1405-0102.
+    <bullet> Type of Request: Revision of a Currently Approved 
+Collection.
+    <bullet> Originating Office: Bureau of Population, Refugees, and 
+Migration, Office of Admissions, PRM/A.
+    <bullet> Form Number: No form.
+    <bullet> Respondents: Refugee applicants for the U.S. Refugee 
+Admissions Program.
+    <bullet> Estimated Number of Respondents: 15,000.
+    <bullet> Estimated Number of Responses: 10,124.
+    <bullet> Average Time per Response: 3 hours.
+    <bullet> Total Estimated Burden Time: 30,372 hours.
+    <bullet> Frequency: Once per respondent.
+    <bullet> Obligation to Respond: Required to obtain a benefit.
+    We are soliciting public comments to permit the Department to:
+    <bullet> Evaluate whether the proposed information collection is 
+necessary for the proper functions of the Department.
+    <bullet> Evaluate the accuracy of our estimate of the time and cost 
+burden for this proposed collection, including the
+
+[[Page 79069]]
+
+validity of the methodology and assumptions used.
+    <bullet> Enhance the quality, utility, and clarity of the 
+information to be collected.
+    <bullet> Minimize the reporting burden on those who are to respond, 
+including the use of automated collection techniques or other forms of 
+information technology.
+    Please note that comments submitted in response to this Notice are 
+public record. Before including any detailed personal information, you 
+should be aware that your comments as submitted, including your 
+personal information, will be available for public review.
+
+Abstract of Proposed Collection
+
+    The Refugee Biographic Data Sheet describes a refugee applicant's 
+personal characteristics and is needed to initiate refugee resettlement 
+processing, adjudicate the refugee applicant's application for 
+admission to the United States, to run security checks on refugees by 
+intelligence and federal law enforcement agencies, to conduct medical 
+screenings, and to plan international travel before a refugee applicant 
+can be permitted to travel to the United States. In addition, the 
+information is used to match the refugee with a sponsoring voluntary 
+agency for initial reception and placement in the U.S. under the United 
+States Refugee Admissions Program administered by the Bureau of 
+Population, Refugees, and Migration.
+    The information collected includes date and place of birth, gender, 
+contact information, including social media handles, marital status, 
+family ties, religion, ethnic group, background, education, occupation, 
+skills, medical information, English language ability, associated 
+family members' refugee resettlement cases, and identity documents. The 
+data is used to initiate refugee resettlement processing, to adjudicate 
+the refugee claim by USCIS, to run security checks on refugees by the 
+federal law enforcement and intelligence community before refugees can 
+be permitted to travel to the United States. Data is also provided to 
+conduct a medical screening before the refugee's arrival in the United 
+States, to plan the refugee's international travel, and to resettlement 
+agencies to determine an appropriate resettlement location in the 
+United States. If the data were not collected, refugees could not be 
+properly vetted by the federal law enforcement and intelligence 
+community, and therefore refugee applicants could no longer be 
+processed through the U.S. Refugee Admissions Program. In addition, the 
+resettlement agencies would not be able to provide appropriate initial 
+reception and placement services as provided for in the Refugee Act.
+
+Methodology
+
+    Biographic information is collected in a face-to-face intake 
+process with the applicant overseas. An employee of a Resettlement 
+Support Center, under cooperative agreement with PRM, collects the 
+information and enters it into the Worldwide Refugee Admissions 
+Processing System.
+
+Zachary Parker,
+Director.
+[FR Doc. 2020-26967 Filed 12-7-20; 8:45 am]
+BILLING CODE 4710-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

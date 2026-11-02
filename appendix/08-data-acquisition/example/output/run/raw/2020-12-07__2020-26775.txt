@@ -1,0 +1,591 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78829-78839]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26775]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF DEFENSE
+
+Office of the Secretary
+
+
+Department of Defense Science and Technology Reinvention 
+Laboratory Personnel Demonstration Project Program
+
+AGENCY: Under Secretary of Defense for Research and Engineering 
+(USD(R&E)), Department of Defense (DoD).
+
+ACTION: This notice provides new authorities to all Science and 
+Technology Reinvention Laboratory (STRL) Personnel Demonstration (Demo) 
+Projects.
+
+-----------------------------------------------------------------------
+
+SUMMARY: STRLs may implement innovative approaches to attract and 
+retain exceptional talent. The flexibilities described herein allow the 
+STRLs to better manage their workforce and applicant pools by 
+providing: A streamlined approach to receiving applications; an 
+efficient process for determining whether applicants are qualified; 
+flexibility to set an entrance on duty date prior to receipt of an 
+applicant's official transcript; an additional direct hiring authority; 
+a flexible-length and renewable-term appointment authority for 
+positions providing direct support to the STRL; an increase in the 
+maximum student loan repayment amount; and the ability to waive the 
+completion of a background investigation prior to employment in a 
+Special-Sensitive position.
+
+DATES: Implementation of this Federal Register notice will begin no 
+earlier than December 7, 2020.
+
+FOR FURTHER INFORMATION CONTACT: 
+    Department of the Air Force:
+    <bullet> Air Force Research Laboratory: Ms. Rosalyn Jones-Byrd, 
+937-656-9747, [email redacted].
+    <bullet> Joint Warfare Analysis Center: Ms. Amy Balmaz, 540-653-
+8598, [email redacted].
+    Department of the Army:
+    <bullet> Army Research Institute for the Behavioral and Social 
+Sciences: Dr. Scott Shadrick, 254-288-3800, 
+[email redacted].
+    <bullet> Combat Capabilities Development Command Armaments Center: 
+Mr. Mike Nicotra, 973-724-7764, [email redacted].
+    <bullet> Combat Capabilities Development Command Army Research 
+Laboratory: Mr. Christopher Tahaney, 410-278-9069, 
+[email redacted].
+    <bullet> Combat Capabilities Development Command Aviation and 
+Missile Center: Ms. Nancy Salmon, 256-876-9647, 
+[email redacted].
+    <bullet> Combat Capabilities Development Command Chemical 
+Biological Center: Ms. Patricia Milwicz, 410-417-2343, 
+[email redacted].
+    <bullet> Combat Capabilities Development Command Command, Control, 
+Communications, Computers, Cyber, Intelligence, Surveillance, and 
+Reconnaissance Center: Ms. Angela Clybourn, 443-395-2110, 
+[email redacted].
+    <bullet> Combat Capabilities Development Command Ground Vehicle 
+Systems Center: Ms. Jennifer Davis, 586-306-4166, 
+[email redacted].
+    <bullet> Combat Capabilities Development Command Soldier Center: 
+Ms. Joelle Montecalvo, 508-206-3421, [email redacted].
+    <bullet> Engineer Research and Development Center: Ms. Patricia 
+Sullivan, 601-634-3065, [email redacted].
+    <bullet> Medical Research and Development Command: Ms. Linda Krout, 
+301-619-7276, [email redacted].
+    <bullet> Technical Center, Space and Missile Defense Command: Dr. 
+Chad Marshall, 256-955-5697, [email redacted].
+    Department of the Navy:
+    <bullet> Naval Air Warfare Center, Weapons Division and Aircraft 
+Division: Mr. Richard Cracraft, 760-939-8115, 
+[email redacted].
+    <bullet> Naval Facilities Engineering Command Engineering and 
+Expeditionary Warfare Center: Ms. Lori Leigh, 805-901-5917, 
+[email redacted].
+    <bullet> Naval Information Warfare Centers:
+    [cir] Naval Information Warfare Center Atlantic: Mr. Michael 
+Gagnon, 843-218-3871, [email redacted].
+    [cir] Naval Information Warfare Center Pacific: Ms. Angela Hanson, 
+619-553-0833, [email redacted].
+    <bullet> Naval Medical Research Center: Dr. Richard Arnold, 937-
+938-3877, [email redacted].
+    <bullet> Naval Research Laboratory: Ms. Ginger Kisamore, 202-767-
+3792, [email redacted].
+    <bullet> Naval Sea Systems Command Warfare Centers: Ms. Diane 
+Brown, 215-897-1619, [email redacted].
+    <bullet> Office of Naval Research: Ms. Margaret J. Mitchell, 703-
+588-2364, [email redacted].
+    DoD:
+    <bullet> Dr. Jagadeesh Pamulapati, Director, Laboratories and 
+Personnel Office, 571-372-6372, [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+1. Background
+
+    Section 342(b) of the National Defense Authorization Act (NDAA) for 
+Fiscal Year (FY) 1995, Public Law (Pub. L.)
+
+[[Page 78830]]
+
+103-337, as amended by section 1109 of the NDAA for FY 2000, Public Law 
+106- 65, section 1114 of the NDAA for FY 2001, Public Law 106-398, and 
+section 211 of the NDAA for FY 2017, Public Law 114.328 (10 U.S.C. 2358 
+note), authorizes the Secretary of Defense (SECDEF), through the 
+USD(R&E), to conduct personnel demonstration projects at DoD 
+laboratories designated as Science and Technology Reinvention 
+Laboratories (STRLs). All STRLs authorized by section 1105 of the NDAA 
+for FY 2010, Public Law 111-84 (10 U.S.C. 2358 note), as amended by 
+section 1104 of the NDAA for FY 2018, Public Law 115-91 (10 U.S.C. 2358 
+note), as well as any newly designated STRLs authorized by the SECDEF 
+or future legislation, may use the provisions described in this Federal 
+Register Notice (FRN). STRLs implementing these flexibilities must have 
+an approved personnel demonstration project plan published in an FRN 
+and must fulfill any collective bargaining obligations. Each STRL will 
+establish internal operating procedures (IOPs) as appropriate.
+    The 20 current STRLS are:
+
+<bullet> Air Force Research Laboratory
+<bullet> Joint Warfare Analysis Center
+<bullet> Army Research Institute for the Behavioral and Social Sciences
+<bullet> Army Research Laboratory
+<bullet> Combat Capabilities Development Command Armaments Center
+<bullet> Combat Capabilities Development Command Aviation and Missile 
+Center
+<bullet> Combat Capabilities Development Command Chemical Biological 
+Center
+<bullet> Combat Capabilities Development Command Command, Control, 
+Communications, Computers, Cyber, Intelligence, Surveillance, and 
+Reconnaissance Center
+<bullet> Combat Capabilities Development Command Ground Vehicle Systems 
+Center
+<bullet> Combat Capabilities Development Command Soldier Center
+<bullet> Engineer Research and Development Center
+<bullet> Medical Research and Development Command
+<bullet> Technical Center, U.S. Army Space and Missile Defense Command
+<bullet> Naval Air Warfare Center
+<bullet> Naval Facilities Engineering Command Engineering and 
+Expeditionary Warfare Center
+<bullet> Naval Information Warfare Centers, Atlantic and Pacific
+<bullet> Naval Medical Research Center
+<bullet> Naval Research Laboratory
+<bullet> Naval Sea Systems Command Warfare Centers
+<bullet> Office of Naval Research
+
+2. Summary of Comments
+
+    On September 16, 2020 (85 FR 57842-57847), the Department of 
+Defense published a notice titled ``Department of Defense Science and 
+Technology Reinvention Laboratory Personnel Demonstration Project 
+Program'' for a 30-day public comment period. The public comment period 
+ended on October 16, 2020. No public comments were received.
+
+3. Overview
+
+1. Introduction
+
+A. Purpose
+
+    This notice provides new personnel management flexibilities 
+designed to enable the STRLs to be more agile and competitive in 
+attracting, hiring, and continuously shaping world-class candidates in 
+science, technology, engineering, and mathematics (STEM) career fields 
+and in career fields that directly support the STRL mission. This FRN 
+describes several flexibilities that support these innovative 
+approaches to the Federal hiring process including:
+    (1) Authority to utilize an alternative method to announcing 
+position vacancies.
+    (2) Authority to modify Office of Personnel Management (OPM) 
+policies when determining a combination of experience and education is 
+qualifying for science and engineering (S&E) positions.
+    (3) Authority to establish an entrance on duty (EOD) date prior to 
+receipt of official college transcripts.
+    (4) Authority to utilize direct hire for any position (1) involving 
+51 percent or more of time in direct support of the STRL mission; (2) 
+identified by the STRL as hard to fill; (3) having a history of high 
+turnover; or (4) requiring a unique, laboratory-related skillset.
+    (5) Authority to appoint candidates to flexible-length or 
+renewable-term positions that provide direct support to the STRL.
+    (6) Authority to offer flexible and meaningful student loan 
+repayment options that keep up with college tuition inflation rates.
+    (7) Authority to make a final job offer and establish an EOD prior 
+to a final favorable eligibility determination at the Top Secret/
+Sensitive Compartmented Information (SCI) level.
+
+B. Required Waivers to Law and Regulation
+
+    Waivers and adaptations of certain title 5, U.S. Code (U.S.C.), and 
+title 5, Code of Federal Regulations (CFR), provisions are required 
+only to the extent that these statutory and regulatory provisions limit 
+or are inconsistent with the actions authorized under these 
+demonstration projects. Appendix A lists waivers needed to enact 
+authorities described in this FRN. Nothing in this plan is intended to 
+preclude the STRLs from adopting or incorporating any law or regulation 
+enacted, adopted, or amended after the effective date of this FRN.
+
+C. Problems With the Present System and Expected Benefits
+
+    (1) Despite the authorities already established for the STRLs, it 
+is difficult to find and attract specialized talent in high-demand STEM 
+and direct support career fields as they compete with other Government 
+agencies, industry, and academia. The STRLs have difficulty hiring 
+elite talent because of long, arbitrary, and layered processes, unlike 
+their industry counterparts, who are able to pay more, hire faster, and 
+be more agile.
+    USAJobs creates a hindrance as the STRLs try to attract highly 
+sought after talent, both external and internal to the Federal 
+government. Candidates must search through pages of opportunities, 
+which may or may not lead to STRL opportunities; job advertisements 
+often lack luster in description; and candidates face a long 
+application process if they do apply to opportunities. This, coupled 
+with the extensive onboarding process, creates a huge deterrent as the 
+STRLs compete to attract top-tier talent.
+    In order for STRLs to obtain a competitive edge in the battle for 
+talent, it is imperative that they have an expedited, simpler method 
+for finding interested candidates and ensuring their resumes are seen 
+by hiring managers. USAJobs flyer job announcements for direct hire and 
+reassignment opportunities will direct the applicants to the hiring 
+STRL without having to apply through the lengthy USAJobs process and 
+the Component's application process.
+    (2) Many STRL S&E positions are considered interdisciplinary in 
+nature as different skillsets are equally relevant to the work. 
+Additionally, OPM classification and qualification standards are not 
+kept up to date with newer career fields, emerging technologies, and 
+changing skill requirements. The ability to hire based on demonstrated 
+skillsets instead of degrees attained for specific occupational series 
+will enable the STRLs to focus on hiring talent versus credentials.
+    The OPM ``General Schedule Qualifications Policies'' describe a
+
+[[Page 78831]]
+
+method of qualifying a candidate based on demonstrated skills when the 
+candidate does not meet educational requirements. As provided by 
+paragraph 4.g. in the ``Application of Qualification Standards'' 
+section, ``Educational and Training Provisions or Requirements'' 
+subsection, a comprehensive evaluation of the applicant's entire 
+background is made by a panel of at least two individuals with 
+professional standing in the field.
+    In an effort to reduce the time it takes to establish a panel and 
+hold the review, one subject matter expert (SME) will be considered 
+sufficient to qualify the applicant for STRL positions. STRL managers 
+with direct knowledge of the mission, regardless of their occupational 
+series or military occupation codes, will be considered SMEs for 
+purposes of determining qualifications under this authority.
+    (3) S&E positions have positive education requirements that must be 
+verified by the hiring authorities. Servicing personnel offices 
+typically request unofficial transcripts or a letter from the registrar 
+from applicants in the beginning stages of the hiring process in order 
+to make preliminary qualification determinations. Applicants must wait 
+to receive their start dates until after their official transcripts 
+have been received and reviewed.
+    On average, it takes approximately two weeks to receive transcripts 
+through postal mail and one week to receive electronic transcripts. 
+Both timeframes increase significantly if transcripts are lost or the 
+electronic transcript codes are unknowingly sent to a junk email box. 
+New college graduates face even longer delays as generally there is a 
+four- to six-week delay in obtaining their official transcripts after 
+graduation. At the same time, discrepancies between an official 
+transcript and the unofficial or registrar letter confirming completion 
+of degree requirements occur extremely rarely.
+    In order for STRLs to compete better with industry and academia, 
+this FRN authorizes STRLs to hire candidates using unofficial 
+transcripts or a letter from the registrar's office stating the student 
+is in the final semester and providing the expected completion/
+graduation date. These new hires will be required to provide official 
+transcripts within 30 calendar days after they report to duty. This 
+will allow the STRLs to complete the hiring in a parallel versus serial 
+approach, which will significantly reduce the length of the hiring 
+process. If official transcripts are not provided or fail to show proof 
+of the required qualification requirements, individuals may be removed.
+    (4) STRLs are not just pursuing scientific and engineering talent, 
+but all talent, ensuring there are always qualified staff to support 
+the mission. Strong support staff are essential to ensuring the STRLs 
+are prepared to maintain and advance technology. In addition to the 
+direct hire authorities authorized for S&E positions, the STRLs need to 
+utilize a direct hire authority to recruit for positions that directly 
+support the unique STRL missions, are identified by the STRLs as hard 
+to fill, have a history of high turnover, or require unique, 
+laboratory-related skillsets. For example, recruitment and retention of 
+qualified police officers and security guards have become critical 
+issues for some STRLs. Remote sites must be properly protected by 
+qualified personnel to ensure there is not a mission failure resulting 
+from insufficient protection of property and personnel. The ability to 
+use a direct hire authority for support positions will greatly reduce 
+the hiring timelines and allow for more streamlined hiring processes to 
+promptly place personnel into critical support positions.
+    (5) STRLs need the ability to shape the mix of skills and expertise 
+in the entire workforce to meet organizational and Department-
+designated missions in the most cost-effective and efficient manner; to 
+shape the workforce to better respond to such missions; and to reduce 
+the average unit cost of the workforce. Component and DoD-level 
+drawdowns sometimes prevent STRLs from hiring even though the STRLs 
+have funding and industrially funded missions. Typical term 
+appointments, while limited in length, may provide a means to hire 
+during these times.
+    Similar to the flexible-length and renewable-term technical 
+appointment authority provided in section 1109 of the FY 2016 NDAA, as 
+amended and documented in 82 FR 43339, STRLs need the ability to 
+appoint qualified candidates to positions providing direct support to 
+their missions for a period of more than one year, but not more than 
+six years, with the ability to extend in up to six-year increments. 
+This flexible-length and renewable-term appointment authority will give 
+the STRLs the ability to attract candidates who are willing to accept 
+such flexible assignments, and employees will be given benefits similar 
+to those received by the career workforce.
+    (6) The average cost for a four-year undergraduate degree can range 
+from $40,000 for in-state tuition and fees at a public university or 
+college to over $225,000 for an Ivy League degree. Advanced degrees add 
+significantly to these costs. The current allowable Student Loan 
+Repayment Program (SLRP) amount, established in 2003, has a maximum of 
+$60,000, paid in $10,000 increments. The average annual inflation rate 
+between 2000 and 2019 for in-state college tuition was 5.13 percent. To 
+remain in line with inflation, and to stay competitive with private 
+industry and academia, the SLRP amount should be over $100,000. At the 
+present SLRP amount, industry is willing to buy out a Federal 
+employee's service agreement in order to entice them to come work for 
+them.
+    The authority to offer a SLRP up to $125,000 in up to $25,000 
+yearly installments will provide a meaningful student loan repayment 
+program that may provide the STRLs the ability to recruit, hire, and 
+retain top talent. The Office of the Under Secretary of Defense for 
+Research and Engineering (OUSD(R&E)) may adjust this amount as 
+necessary to maintain competitiveness with industry and academia and to 
+continue to enable the STRLs to attract and recruit top talent.
+    (7) The present method for obtaining security eligibility for an 
+SCI position is slow and time consuming. Currently, final job offers 
+cannot be extended to candidates for Special-Sensitive positions 
+without their first obtaining a final favorable eligibility 
+determination at the SCI level.
+    Title 5 CFR 1400.202 prohibits an organization from waiving the 
+security requirements for candidates being selected for these Special-
+Sensitive positions. This exclusion significantly delays the timeline 
+for hiring a person into a Special-Sensitive position. Average time to 
+complete a Special-Sensitive security investigation is well over a 
+year. This constrains the STRL's ability to complete its mission; 
+causes strain and burnout on the rest of the personnel as they try to 
+fill in for manning gaps; and deters top-tier talent from applying to 
+positions.
+    The authority to make a final job offer and establish an EOD prior 
+to a final favorable eligibility determination at the Top Secret/SCI 
+level will provide STRLs the ability to make timely job offers.
+
+D. Participating Organizations and Employees
+
+    All DoD laboratories designated as STRLs under section 1105 of the 
+NDAA for FY 2010, Public Law 111-84, as amended by section 1105 of the 
+NDAA for FY 2015, Public Law 113-291, and section 1104 of the NDAA for 
+FY 2018, Public Law 115-91 (10 U.S.C. 2358 note), including any newly 
+designated STRLs authorized by the SECDEF or by
+
+[[Page 78832]]
+
+future legislation, with approved personnel demonstration project plans 
+published in FRNs may use the provisions described in this FRN.
+
+II. Personnel System Changes
+
+A. Description and Implementation
+
+(1) Use of USAJobs Flyers
+    STRLs have authority to determine when to utilize USAJobs flyers to 
+solicit for STRL positions. Applications may be submitted directly to 
+the human resources liaison in the STRL. Candidates may apply through 
+the link or email address found in the flyer. Postings may be open to 
+internal Government employees and external U.S. citizen candidates. All 
+candidates will be asked to submit supporting documentation to include 
+a resume and official or unofficial transcripts. Flyers will include 
+the following (1) open/close dates, (2) compensation, (3) appointment 
+type and work schedule, (4) duty location, (5) duties, (6) position 
+information, (7) conditions of employment, (8) qualification 
+requirements, (9) education requirements, (10) how candidates will be 
+evaluated, (11) benefits, (12) how to apply, (13) an equal employment 
+opportunity statement, and (14) any additional information determined 
+necessary by the STRL.
+    a. Positions may be filled through direct hire authorities on a 
+temporary, term, or permanent basis or through reassignment utilizing 
+the USAJobs flyer. When documenting direct hire actions, cite the first 
+legal authority code (LAC)/legal authority for all permanent, term, 
+temporary, or special demonstration project appointments as Z2U/Public 
+Law 103-337. The second LAC/legal authority will be cited as the 
+appropriate direct hire authority, Z5C/Direct Hire Authority 
+(appropriate legal authority).
+    b. When documenting reassignment actions, cite the LAC/legal 
+authority as Z2U/Public Law 103-337.
+(2) Hiring Demonstrated Exceptional Talent Versus Credentials
+    As provided by OPM ``General Schedule Qualification Standards,'' 
+paragraph 4.g., in the ``Application of Qualification Standards'' 
+section, ``Educational and Training Provisions or Requirements'' 
+subsection, STRLs may consider demonstrated exceptional experience or a 
+combination of experience and education in lieu of a candidate's 
+meeting OPM individual occupational qualification requirements for S&E 
+positions. Utilizing the STRL modification to this provision, the STRLs 
+may use one SME, instead of a panel of at least two, to conduct a 
+comprehensive evaluation of an applicant's entire background, with full 
+consideration given to both education and experience, to determine a 
+candidate's qualifications. In addition, the unique nature of STRL 
+interdisciplinary positions allows for an STRL manager with direct 
+knowledge of the mission and position requirements, regardless of his 
+or her occupational series or military occupation code, to serve as a 
+SME to represent the needs of the organization.
+    Demonstrated exceptional experience is defined as experience that 
+reflects significant accomplishment directly applicable to the position 
+to be filled. This is evinced through a substantial record of 
+experience, achievement, and/or publications that demonstrate expertise 
+in an appropriate professional/scientific field. A written analysis by 
+the SME will document the candidate's experience, achievements, and 
+publications used for qualification determination.
+    Documentation justifying the employee's qualifications will be 
+placed in the employee's electronic official personnel file (e-OPF) to 
+ensure the employee is considered qualified for the specific 
+occupational series in the future.
+(3) Official transcripts
+    The requirement to have official transcripts prior to establishing 
+an EOD is waived. STRLs and servicing personnel offices may use 
+unofficial transcripts or a letter from a registrar or dean to make 
+qualification determinations, thus eliminating several days or weeks 
+from the current hiring timeline. Official transcripts must be received 
+within 30 calendar days after EOD.
+    Once unofficial transcripts or a letter from a registrar or dean is 
+received, the servicing personnel office will review qualifications and 
+begin the onboarding process. Applicants will be asked to request and 
+submit official transcripts to the servicing personnel office, but an 
+EOD may be established prior to receipt. Applicants will sign a 
+statement of understanding (SOU) as part of their pre-employment 
+paperwork. Risk is low and mitigated by requiring applicants to sign 
+the SOU prior to their EOD. The SOU will include language stipulating 
+that if official transcripts are not provided or fail to show proof 
+that individuals meet the qualification requirements, individuals may 
+be subject to adverse actions up to and including removal, as 
+determined by specific circumstances by applicable regulations.
+    The SOU will regulate the applicants who do not have the degrees 
+required for the positions or who may have been dishonest during the 
+hiring process. The SOU will be maintained in the employee's e-OPF. 
+Once official transcripts have been received by the servicing personnel 
+office, they will be verified in the personnel system and uploaded into 
+the employee's e-OPF.
+(4) Direct Hire Authority
+    STRLs may appoint qualified candidates to those positions that 
+involve 51 percent or more of time spent in direct support of STRL 
+activities; that are identified by the STRLs as hard to fill; that have 
+a history of high turnover; or that require unique, laboratory-related 
+skillsets, without regard to the provisions of 5 U.S.C. chapter 33, 
+subchapter I (excluding sections 3303, 3308, and 3328 of such title), 
+as determined by the STRL director.
+    a. Use of this appointment authority must comply with merit system 
+principles.
+    b. Appointments may be made on permanent, term, or temporary basis.
+    c. When documenting personnel actions, cite the first LAC/legal 
+authority for all permanent, term, temporary, or special demonstration 
+project appointments as Z2U/Public Law 103-337. The second LAC/legal 
+authority will be cited as Z5C/Direct Hire Auth (STRL-Direct Support) 
+(with appropriate legal authority once assigned.)
+    d. STRLs will document requirements for how positions qualify for 
+usage of this authority in their IOPs.
+    e. STRL positions not classified under the broad banding structure 
+will be listed in IOPs.
+(5) Flexible-Length and Renewable-Term Appointments for Support 
+Positions
+    STRLs may use flexible-length and renewable-term appointments to 
+appoint qualified candidates whose positions involve 51 percent or more 
+of time spent in direct support of STRL activities for a period of more 
+than one year but not more than six years. The appointment of any 
+individual under this authority may be extended without limit in up to 
+six-year increments at any time during any term of service under 
+conditions set forth by the STRL director. The provisions described in 
+82 FR 43339, II.A.1., apply to appointments made under this authority.
+(6) Student Loan Repayment
+    STRLs may provide student loan repayment options that are in line 
+with current tuition costs and adjusted based
+
+[[Page 78833]]
+
+on inflation without higher level approval. This authority provides an 
+STRL the ability to repay all or part of an outstanding qualifying 
+student loan or loans previously taken out by a current STRL employee 
+or a candidate to whom an offer of employment has been made.
+    Beginning in 2020, the amount of student loan repayment benefits 
+provided by an STRL is subject to both of the following limits:
+    a. Up to $25,000 per employee per calendar year.
+    b. A total of $125,000 per employee.
+    OUSD(R&E) may increase these amounts as deemed necessary to stay 
+competitive with private industry and academia. Eligibilities, 
+conditions, qualifying student loans, and required service agreements 
+remain the same as found in 5 CFR part 537. Loan payments made by an 
+STRL under this part do not exempt an employee from his or her 
+responsibility and/or liability for any loan(s) the individual has 
+taken out. The employee is responsible for any income tax obligations 
+resulting from the student loan repayment benefit.
+(7) Security Eligibility
+    STRLs have authority to appoint individuals to Critical-Sensitive 
+(CS) and Special-Sensitive positions prior to a final favorable 
+eligibility determinations at the Top Secret/SCI level. Processes and 
+pre-employment waiver requirements similar to those afforded CS 
+positions will be applied in these situations. For the purposes of 
+STRLs, an emergency or national interest that necessitates an 
+appointment prior to the completion of the investigation and 
+adjudication process includes an STRL's inability to meet mission 
+requirements. Each applicant's Standard Form 86 ``Questionnaire for 
+National Security Positions,'' fingerprints, and pre-screen 
+questionnaire will be reviewed, and a favorable pre-screening 
+eligibility determination will be made prior to any individual being 
+given a final job offer and EOD. Also, each STRL will provide the 
+written documentation needed to support a waiver decision to the 
+appointing authority, who will document the reason for the appointment 
+and ensure the justification is sufficient before a final offer of 
+employment is made.
+    The individual will perform duties and occupy a location permitted 
+by their current security eligibility (interim or final), but not 
+higher than Top Secret. The applicant may be required to sign a 
+statement of understanding that documents that the pre-appointment 
+decision was made based on limited information, and that continued 
+employment depends upon the completion of a personnel security 
+investigation (tier 3 or 5) and favorable adjudication of the full 
+investigative results.
+
+B. Evaluation
+
+    Procedures for evaluating these authorities will be incorporated 
+into the STRL demonstration project evaluation processes conducted by 
+the STRLs, OUSD(R&E), or Component headquarters, as appropriate.
+
+C. Reports
+
+    STRLs will track and provide information and data on the use of 
+these authorities when requested by the Component headquarters or 
+OUSD(R&E).
+
+III. Required Waivers to Law and Regulations
+
+BILLING CODE 5001-06-P
+
+[[Page 78834]]
+
+[GRAPHIC] [TIFF OMITTED] TN07DE20.000
+
+
+[[Page 78835]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN07DE20.001
+
+
+[[Page 78836]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN07DE20.002
+
+
+[[Page 78837]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN07DE20.003
+
+
+[[Page 78838]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN07DE20.004
+
+
+[[Page 78839]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN07DE20.005
+
+
+    Dated: December 1, 2020.
+Kayyonne T. Marston,
+Alternate OSD Federal Register Liaison Officer, Department of Defense.
+[FR Doc. 2020-26775 Filed 12-4-20; 8:45 am]
+BILLING CODE 5001-06-C
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use TextData, please cite it using these metadata. Author names are withheld during double-blind review."
+type: software
+title: "TextData: Adaptive AI Infrastructure for Organizational Research"
+authors:
+  - name: "Anonymous (under double-blind review)"
+url: "https://textdata.info/"
+license:
+  - Apache-2.0
+  - CC-BY-4.0

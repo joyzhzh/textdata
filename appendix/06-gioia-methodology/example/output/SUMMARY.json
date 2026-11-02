@@ -1,0 +1,34 @@
+[
+  {
+    "request": "request-1-bundled-exact.json",
+    "quote": "I waited for a reply.",
+    "fidelity": "EXACT_SINGLE",
+    "exit_code": 0,
+    "match_count": 1,
+    "report": "request-1-bundled-exact.report.json"
+  },
+  {
+    "request": "request-2-altered-word.json",
+    "quote": "I hesitated for a reply.",
+    "fidelity": "NO_EXACT_MATCH",
+    "exit_code": 1,
+    "match_count": 0,
+    "report": "request-2-altered-word.report.json"
+  },
+  {
+    "request": "request-3-two-speakers.json",
+    "quote": "I waited for a reply",
+    "fidelity": "AMBIGUOUS_MATCHES",
+    "exit_code": 1,
+    "match_count": 2,
+    "report": "request-3-two-speakers.report.json"
+  },
+  {
+    "request": "request-4-episode-exact.json",
+    "quote": "The deadline mattered more than the sign-off.",
+    "fidelity": "EXACT_SINGLE",
+    "exit_code": 0,
+    "match_count": 1,
+    "report": "request-4-episode-exact.report.json"
+  }
+]

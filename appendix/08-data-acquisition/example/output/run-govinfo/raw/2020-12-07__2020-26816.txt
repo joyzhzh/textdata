@@ -1,0 +1,330 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Rules and Regulations]
+[Pages 78705-78707]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26816]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 71
+
+[Docket No. FAA-2020-0810; Airspace Docket No. 19-ANM-101]
+RIN 2120-AA66
+
+
+Amendment of Class D and Class E Airspace; Helena, MT
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This action modifies the Class D airspace at Helena Regional 
+Airport. This action also modifies the Class E airspace, designated as 
+a surface area. Additionally, this action establishes Class E airspace, 
+designated as an extension to a Class D or Class E surface area. 
+Further, this action modifies the Class E airspace, extending upward 
+from 700 feet above the surface. Also, this action modifies the Class E 
+airspace extending upward from 1,200 feet above the surface. This 
+action removes the Helena VORTAC from the airspace legal descriptions. 
+Lastly, this action implements administrative corrections to the 
+airspaces' legal descriptions.
+
+DATES: Effective 0901 UTC, February 25, 2021. The Director of the 
+Federal Register approves this incorporation by reference action under 
+Title 1 Code of Federal Regulations part 51, subject to the annual 
+revision of FAA Order 7400.11 and publication of conforming amendments.
+
+ADDRESSES: FAA Order 7400.11E, Airspace Designations and Reporting 
+Points, and subsequent amendments can be viewed online at <a href="https://www.faa.gov//air_traffic/publications/">https://www.faa.gov//air_traffic/publications/</a>. For further information, you 
+can contact the Airspace Policy Group, Federal Aviation Administration, 
+800 Independence Avenue SW, Washington, DC 20591; telephone: (202) 267-
+8783. The Order is also available for inspection at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of FAA Order 7400.11E at NARA, email [email redacted] 
+or go to <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+FOR FURTHER INFORMATION CONTACT: Matthew Van Der Wal, Federal Aviation 
+Administration, Western Service Center, Operations Support Group, 2200 
+S. 216th Street, Des Moines, WA 98198; telephone (206) 231-3695.
+
+SUPPLEMENTARY INFORMATION:
+
+Authority for This Rulemaking
+
+    The FAA's authority to issue rules regarding aviation safety is 
+found in Title 49 of the United States Code. Subtitle I, Section 106 
+describes the authority of the FAA Administrator. Subtitle VII, 
+Aviation Programs, describes in more detail the scope of the agency's 
+authority. This rulemaking is promulgated under the authority described 
+in Subtitle VII, Part A, Subpart I, Section 40103. Under that section, 
+the FAA is charged with prescribing regulations to assign the use of 
+airspace necessary to ensure the safety of aircraft and the efficient 
+use of airspace. This regulation is within the scope of that authority 
+as it modifies Class D and Class E airspace at Helena Regional Airport, 
+Helena, MT, to ensure the safety and management of Instrument Flight 
+Rules (IFR) operations at the airport.
+
+History
+
+    The FAA published a notice of proposed rulemaking in the Federal 
+Register (85 FR 59700; September 23, 2020) for Docket No. FAA-2020-
+00810 to modify Class D and Class E airspace at Helena Regional 
+Airport, Helena, MT. Interested parties were invited to participate in 
+this rulemaking effort by submitting written comments on the proposal 
+to the FAA. One comment, that is not germane to the proposed airspace 
+action, was received.
+    Class D, E2, E4, and E5 airspace designations are published in 
+paragraphs 5000, 6002, 6004, and 6005, respectively, of FAA Order 
+7400.11E, dated July 21, 2020, and effective September 15, 2020, which 
+is incorporated by reference in 14 CFR 71.1. The Class E airspace 
+designation listed in this document will be published subsequently in 
+the Order.
+
+Availability and Summary of Documents for Incorporation by Reference
+
+    This document amends FAA Order 7400.11E, Airspace Designations and 
+Reporting Points, dated July 21, 2020, and effective September 15, 
+2020. FAA Order 7400.11E is publicly available as listed in the 
+ADDRESSES section of this document. FAA Order 7400.11E lists Class A, 
+B, C, D, and E airspace areas, air traffic service routes, and 
+reporting points.
+
+The Rule
+
+    This amendment to Title 14 Code of Federal Regulations part 71 
+modifies the Class D airspace at Helena Regional Airport, Helena, MT. 
+The action modifies the Class D airspace by adding extensions to the 
+east and west of the airport, to properly contain IFR departures to 700 
+feet above the surface. The airspace area is described as follows: That 
+airspace extending upward from the surface to and including 6,400 feet 
+within a 4.4-mile radius of the airport, and within 2 miles each side 
+of the 091[deg] bearing from the airport, extending from the 4.4-mile 
+radius to 5.2 miles east of the airport, and within 2 miles each side 
+of 292[deg] bearing from the airport, extending from the 4.4-mile 
+radius to 5.8 miles west of Helena Regional Airport. This Class D 
+airspace area is effective during the specific dates and times 
+established in advance by a Notice to Airmen. The effective date and 
+time will thereafter be continuously published in the Chart Supplement. 
+This action also modifies the Class E airspace, designated as a surface 
+area, to be coincident with the new Class D dimensions. The airspace
+
+[[Page 78706]]
+
+area is as follows: That airspace extending upward from the surface 
+within a 4.4-mile radius of the airport, and within 2 miles each side 
+of the 091[deg] bearing from the airport, extending from the 4.4-mile 
+radius to 5.2 miles east of the airport, and within 2 miles each side 
+of 292[deg] bearing from the airport, extending from the 4.4-mile 
+radius to 5.8 miles west of Helena Regional Airport. This Class E 
+airspace area is effective during the specific dates and times 
+established in advance by a Notice to Airmen. The effective date and 
+time will thereafter be continuously published in the Chart Supplement.
+    Additionally, this action establishes Class E airspace, designated 
+as an extension to a Class D or Class E surface area. This airspace 
+area is designed to contain IFR aircraft descending below 1,000 feet 
+above the surface. The airspace area is described as follows: That 
+airspace extending upward from the surface within an area bounded by a 
+line beginning at lat. 46[deg]34'18.57'' N, Long. 111[deg]51'30.319'' 
+W, to lat. 46[deg]38'5.89'' N, Long. 111[deg]51'24.53'' W, to lat. 
+46[deg]37'12.53'' N, Long. 111[deg]45'24.67'' W, to lat. 
+46[deg]32'22.72'' N, Long. 111[deg]46'31.44'' W, to lat. 
+46[deg]33'24.13'' N, Long. 111[deg]54'20.01'' W, then counter-clockwise 
+along. the 4.4-mile radius of the airport to lat. 46[deg]34'20.01'' N, 
+Long. 111[deg]53'22.03'' W, then to the point of beginning, and within 
+an area bounded by a line beginning at lat. 46[deg]38'39.95'' N, Long. 
+112[deg]06'47.50''W, to lat. 46[deg]36'47.49'' N, Long. 
+112[deg]07'53.41'' W, to lat. 46[deg]37'22.52'' N, Long. 
+112[deg]11'37.80'' W, to lat. 46[deg]39'19.40'' N, Long. 
+112[deg]10'58.64'' W, then to the point of beginning west of Helena 
+Regional Airport.
+    Further, this action modifies the Class E airspace extending upward 
+from 700 feet above the surface. The action properly sizes the airspace 
+to contain IFR departures to 1,200 feet above the surface and IFR 
+arrivals descending below 1,500 feet above the surface. The airspace 
+area is described as follows: That airspace extending upward from 700 
+feet above the surface within an 8.3-mile radius of the airport, and 
+within 1 mile each side of the 103[deg] bearing from the airport, 
+extending from the 8.3-mile radius to 10.7 miles east of the airport, 
+and within 1.8 miles each side of the 281[deg] bearing from the 
+airport, extending from the 8.3-mile radius to 18.1 miles west of 
+Helena Regional Airport. This action also modifies the Class E airspace 
+extending upward from 1,200 feet above the surface to properly contain 
+IFR aircraft transitioning to/from the terminal and en route 
+environments. The airspace area is described as follows: That airspace 
+extending upward from 1,200 feet above the surface within a 36-mile 
+radius of Helena Regional Airport. The action also removes the Helena 
+VORTAC and all references to the VORTAC from the Class D, E2, and E5 
+legal descriptions. The navigational aid is not needed to define the 
+airspace. Removal of the navigational aid allows the airspace to be 
+defined from a single reference point which simplifies how the airspace 
+is described. The action also updates the airport's geographic 
+coordinates to match the FAA database. The coordinates should read lat. 
+46[deg]36'24'' N, Long. 111[deg]59'0.0'' W. Additionally, the term 
+``Airport/Facility Directory'' in the last sentence of the Class D and 
+Class E2 airspace legal descriptions is outdated, the term is updated 
+to ``Chart Supplement''. FAA Order 7400.11, Airspace Designations and 
+Reporting Points, is published yearly and effective on September 15.
+
+Regulatory Notices and Analyses
+
+    The FAA has determined that this regulation only involves an 
+established body of technical regulations for which frequent and 
+routine amendments are necessary to keep them operationally current, is 
+non-controversial and unlikely to result in adverse or negative 
+comments. It, therefore: (1) Is not a ``significant regulatory action'' 
+under Executive Order 12866; (2) is not a ``significant rule'' under 
+DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 
+1979); and (3) does not warrant preparation of a regulatory evaluation 
+as the anticipated impact is so minimal. Since this is a routine matter 
+that will only affect air traffic procedures and air navigation, it is 
+certified that this rule, when promulgated, would not have a 
+significant economic impact on a substantial number of small entities 
+under the criteria of the Regulatory Flexibility Act.
+
+Environmental Review
+
+    The FAA has determined that this action qualifies for categorical 
+exclusion under the National Environmental Policy Act in accordance 
+with FAA Order 1050.1F, ``Environmental Impacts: Policies and 
+Procedures,'' paragraph 5-6.5a. This airspace action is not expected to 
+cause any potentially significant environmental impacts, and no 
+extraordinary circumstances exist that warrant preparation of an 
+environmental assessment.
+
+List of Subjects in 14 CFR Part 71
+
+    Airspace, Incorporation by reference, Navigation (air).
+
+Adoption of the Amendment
+
+    In consideration of the foregoing, the Federal Aviation 
+Administration amends 14 CFR part 71 as follows:
+
+PART 71--DESIGNATION OF CLASS A, B, C, D, AND E AIRSPACE AREAS; AIR 
+TRAFFIC SERVICE ROUTES; AND REPORTING POINTS
+
+0
+1. The authority citation for 14 CFR part 71 continues to read as 
+follows:
+
+    Authority:  49 U.S.C. 106(f), 106(g), 40103, 40113, 40120; E.O. 
+10854, 24 FR 9565, 3 CFR, 1959-1963 Comp., p. 389.
+
+
+Sec.  71.1  [Amended]
+
+0
+2. The incorporation by reference in 14 CFR 71.1 of FAA Order 7400.11E, 
+Airspace Designations and Reporting Points, dated July 21, 2020, and 
+effective September 15, 2020, is amended as follows:
+
+Paragraph 5000. Class D Airspace.
+
+* * * * *
+
+ANM MT D Helena, MT [Amended]
+
+Helena Regional Airport, MT
+    (Lat. 46[deg]36'24'' N, long. 111[deg]59'0.0'' W)
+
+    That airspace extending upward from the surface to and including 
+6,400 feet within a 4.4-mile radius of the airport, and within 2 
+miles each side of the 091[deg] bearing from the airport, extending 
+from the 4.4-mile radius to 5.2 miles east of the airport, and 
+within 2 miles each side of 292[deg] bearing from the airport, 
+extending from the 4.4-mile radius to 5.8 miles west of Helena 
+Regional Airport. This Class D airspace area is effective during the 
+specific dates and times established in advance by a Notice to 
+Airmen. The effective date and time will thereafter be continuously 
+published in the Chart Supplement.
+
+Paragraph 6002. Class E Airspace Areas Designated as a Surface 
+Area.
+
+* * * * *
+
+ANM MT E2 Helena, MT [Amended]
+
+Helena Regional Airport, MT
+    (Lat. 46[deg]36'24'' N, long. 111[deg]59'0.0'' W)
+
+    That airspace extending upward from the surface within a 4.4-
+mile radius of the airport, and within 2 miles each side of the 
+091[deg] bearing from the airport, extending from the 4.4-mile 
+radius to 5.2 miles east of the airport, and within 2 miles each 
+side of 292[deg] bearing from the airport, extending from the 4.4-
+mile radius to 5.8 miles west of Helena Regional Airport. This Class 
+E airspace area is effective during the specific dates and times 
+established in advance by a Notice to Airmen. The effective date and 
+time will thereafter be continuously published in the Chart 
+Supplement.
+
+Paragraph 6004. Class E Airspace Areas Designated as an Extension 
+to a Class D or Class E Surface Area.
+
+* * * * *
+
+ANM MT E4 Helena, MT [New]
+
+Helena Regional Airport, MT
+
+[[Page 78707]]
+
+    (Lat. 46[deg]36'24'' N, long. 111[deg]59'0.0'' W)
+
+    That airspace extending upward from the surface within an area 
+bounded by a line beginning at Lat. 46[deg]34'18.57'' N, long. 
+111[deg]51'30.319'' W, to Lat. 46[deg]38'5.89'' N, Long. 
+111[deg]51'24.53 '' W, to Lat. 46[deg]37'12.53'' N, long. 
+111[deg]45'24.67 '' W, to Lat. 46[deg]32'22.72'' N, Long. 
+111[deg]46'31.44'' W, to Lat. 46[deg]33'24.13'' N, Long. 
+111[deg]54'20.01'' W, then counter-clockwise along the 4.4-mile 
+radius of the airport to Lat. 46[deg]34'20.01'' N, long. 
+111[deg]53'22.03'' W, then to the point of beginning, and within an 
+area bounded by a line beginning at Lat. 46[deg]38'39.95'' N, long. 
+112[deg]06'47.50'' W, to Lat. 46[deg]36'47.49'' N, long. 
+112[deg]07'53.41'' W, to Lat. 46[deg]37'22.52'' N, long. 
+112[deg]11'37.80'' W, to Lat. 46[deg]39'19.40'' N, long. 
+112[deg]10'58.64'' W, then to the point of beginning west of Helena 
+Regional Airport.
+
+Paragraph 6005. Class E Airspace Areas Extending Upward from 700 
+feet or more above the Surface of the Earth.
+
+* * * * *
+
+ANM MT E5 Helena, MT [Amended]
+
+Helena Regional Airport, MT
+    (Lat. 46[deg]36'24'' N, long. 111[deg]59'0.0'' W)
+
+That airspace extending upward from 700 feet above the surface 
+within an 8.3-mile radius of the airport, and within 1 mile each 
+side of the 103[deg] bearing from the airport, extending from the 
+8.3-mile radius to 10.7 miles east of the airport, and within 1.8 
+miles each side of the 281[deg] bearing from the airport, extending 
+from the 8.3-mile radius to 18.1 miles west of the airport; and that 
+airspace extending upward from 1,200 feet above the surface within a 
+36-mile radius of Helena Regional Airport.
+
+    Issued in Seattle, Washington, on December 1, 2020.
+B. G. Chew,
+Acting Group Manager, Operations Support Group, Western Service Center.
+[FR Doc. 2020-26816 Filed 12-4-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

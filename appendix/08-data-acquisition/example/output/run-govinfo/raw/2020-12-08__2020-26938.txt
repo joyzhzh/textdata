@@ -1,0 +1,113 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Page 79039]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26938]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF JUSTICE
+
+[OMB Number 1117-0038]
+
+
+Agency Information Collection Activities; Proposed eCollection, 
+eComments Requested; Revision of a Currently Approved Collection; 
+Reporting and Recordkeeping for Digital Certificates
+
+AGENCY: Drug Enforcement Administration, Department of Justice.
+
+ACTION: 60-Day notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Justice (DOJ), Drug Enforcement 
+Administration (DEA), will be submitting the following information 
+collection request to the Office of Management and Budget (OMB) for 
+review and approval in accordance with the Paperwork Reduction Act of 
+1995.
+
+DATES: Comments are encouraged and will be accepted for 60 days until 
+February 8, 2021.
+
+FOR FURTHER INFORMATION CONTACT: If you have comments on the estimated 
+public burden or associated response time, suggestions, or need a copy 
+of the proposed information collection instrument with instructions or 
+additional information, please contact Scott A. Brinks, Diversion 
+Control Division, Drug Enforcement Administration; Mailing Address: 
+8701 Morrissette Drive, Springfield, Virginia 22152; Telephone: (571) 
+362-3261.
+
+SUPPLEMENTARY INFORMATION: Written comments and suggestions from the 
+public and affected agencies concerning the proposed collection of 
+information are encouraged. Your comments should address one or more of 
+the following four points:
+
+--Evaluate whether the proposed collection of information is necessary 
+for the proper performance of the functions of the agency, including 
+whether the information will have practical utility;
+--Evaluate the accuracy of the agency's estimate of the burden of the 
+proposed collection of information, including the validity of the 
+methodology and assumptions used;
+--Evaluate whether and if so how the quality, utility, and clarity of 
+the information proposed to be collected can be enhanced; and
+--Minimize the burden of the collection of information on those who are 
+to respond, including through the use of appropriate automated, 
+electronic, mechanical, or other forms of information technology, e.g., 
+permitting electronic submission of responses.
+
+Overview of This Information Collection
+
+    1. Type of Information Collection: Revision of a currently approved 
+collection.
+    2. Title of the Form/Collection: Reporting and Recordkeeping for 
+Digital Certificates.
+    3. The agency form number, if any, and the applicable component of 
+the Department sponsoring the collection:
+    DEA Form 251: CSOS DEA Registrant Certificate Application.
+    DEA Form 252: CSOS Principal Coordinator/Alternate Coordinator 
+Certificate Application.
+    DEA Form 253: CSOS Power of Attorney Certificate Application.
+    DEA Form 254: CSOS Certificate Application Registrant List 
+Addendum.
+    The Department of Justice component is the Drug Enforcement 
+Administration, Diversion Control Division.
+    4. Affected public who will be asked or required to respond, as 
+well as a brief abstract:
+    Affected public (Primary): Business or other for-profit.
+    Affected public (Other): None.
+    Abstract: DEA collects information in regards to reporting and 
+recordkeeping for digital certificates. The application for a digital 
+certificate is required to ensure that the person applying for the 
+certificate is either a DEA registrant or someone who has power of 
+attorney from a DEA registrant to sign orders for Schedule I and II 
+substances. The DEA Certification Authority uses the information to 
+verify the person's identity and eligibility to hold a DEA-issued 
+digital certificate.
+    5. An estimate of the total number of respondents and the amount of 
+time estimated for an average respondent to respond: DEA estimates a 
+total of 10,064 respondents. The average time to respond: 1.5 hours.
+    6. An estimate of the total public burden (in hours) associated 
+with the proposed collection: DEA estimates that this collection takes 
+40,439 annual burden hours.
+    If additional information is required please contact: Melody 
+Braswell, Department Clearance Officer, United States Department of 
+Justice, Justice Management Division, Policy and Planning Staff, Two 
+Constitution Square, 145 N Street NE, Suite 3E.405B, Washington, DC 
+20530.
+
+    Dated: December 3, 2020.
+Melody Braswell,
+Department Clearance Officer for PRA, U.S. Department of Justice.
+[FR Doc. 2020-26938 Filed 12-7-20; 8:45 am]
+BILLING CODE 4410-09-P
+
+
+</pre></body>
+</html>

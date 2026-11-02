@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/manifest.schema.json",
+  "title": "Grounded Theory cycle manifest",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema_version",
+    "study_id",
+    "cycle_id",
+    "created_at_utc",
+    "input_manifest_sha256",
+    "protocol_revision",
+    "tool_revision",
+    "producer_seat",
+    "reviewer_seat",
+    "model_processing",
+    "analysis_status",
+    "release_status",
+    "saturation_status"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "0.2-phase-a"
+    },
+    "study_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "cycle_id": {
+      "type": "string",
+      "pattern": "^C[0-9]{3,}$"
+    },
+    "created_at_utc": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"
+    },
+    "input_manifest_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "protocol_revision": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{40}$"
+    },
+    "tool_revision": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{40}$",
+      "description": "exact commit of the grounded-theory tool repository that produced the cycle"
+    },
+    "producer_seat": {
+      "type": "string",
+      "minLength": 1
+    },
+    "reviewer_seat": {
+      "type": "string",
+      "minLength": 1,
+      "description": "independent reviewer; must differ from producer_seat"
+    },
+    "model_processing": {
+      "type": "object",
+      "required": [
+        "authority_ref",
+        "models"
+      ],
+      "properties": {
+        "authority_ref": {
+          "type": "string",
+          "minLength": 1,
+          "description": "the recorded processing-authority decision this cycle ran under"
+        },
+        "models": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "exact model or tool identities used; empty means no model processed study data"
+        }
+      }
+    },
+    "analysis_status": {
+      "enum": [
+        "WORKING",
+        "SUBMITTED_FOR_REVIEW"
+      ]
+    },
+    "release_status": {
+      "const": "NON_RELEASE"
+    },
+    "saturation_status": {
+      "enum": [
+        "NOT_ASSESSED",
+        "NOT_REACHED",
+        "PROVISIONAL_SUFFICIENCY_CANDIDATE"
+      ]
+    },
+    "workflow_profile": {
+      "const": "source-bound-v1"
+    },
+    "tool_tree_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "study_root": {
+      "type": "string",
+      "minLength": 1
+    },
+    "research_question": {
+      "type": "string",
+      "minLength": 1
+    },
+    "method_profile": {
+      "type": "string",
+      "minLength": 1
+    },
+    "method_defaults": {
+      "type": "object"
+    },
+    "previous_cycle": {
+      "type": "object",
+      "required": [
+        "path",
+        "seal_sha256"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "seal_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "required": [
+          "workflow_profile"
+        ]
+      },
+      "then": {
+        "required": [
+          "tool_tree_sha256",
+          "study_root",
+          "research_question",
+          "method_profile",
+          "method_defaults"
+        ]
+      }
+    }
+  ]
+}

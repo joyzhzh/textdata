@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/comparison.schema.json",
+  "title": "Grounded Theory constant-comparison record",
+  "description": "One recorded comparison. Compared identities may be incidents (I), episodes (E), codes (CDE), or categories (CAT). Null possible_condition or rival_explanation means none identified, stated explicitly.",
+  "type": "object",
+  "required": ["comparison_id", "compared_ids", "relation", "observation", "possible_condition", "rival_explanation", "discriminating_evidence", "status"],
+  "properties": {
+    "comparison_id": {"type": "string", "pattern": "^CMP[0-9]{3,}$"},
+    "compared_ids": {"type": "array", "minItems": 2, "uniqueItems": true, "items": {"type": "string", "pattern": "^(I|E|CDE|CAT)[0-9]{3,}$"}},
+    "relation": {"enum": ["SIMILARITY", "DIFFERENCE", "CONDITION", "CONSEQUENCE"]},
+    "observation": {"type": "string", "minLength": 1},
+    "possible_condition": {"type": ["string", "null"], "minLength": 1},
+    "rival_explanation": {"type": ["string", "null"], "minLength": 1},
+    "discriminating_evidence": {"type": "string", "minLength": 1},
+    "status": {"enum": ["CURRENT", "SUPERSEDED", "RETIRED"]},
+    "supersedes": {"type": "string", "pattern": "^CMP[0-9]{3,}$"},
+    "supersession_reason": {"type": "string", "minLength": 1},
+    "retirement_reason": {"type": "string", "minLength": 1}
+  },
+  "allOf": [
+    {"if": {"required": ["supersedes"]}, "then": {"required": ["supersession_reason"]}},
+    {"if": {"properties": {"status": {"const": "RETIRED"}}}, "then": {"required": ["retirement_reason"]}}
+  ]
+}

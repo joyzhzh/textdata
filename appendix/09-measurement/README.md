@@ -1,28 +1,40 @@
 # Combining ML, NLP and LLMs
 
-[Webpage](https://textdata.info/toolkit/combining-ml-nlp-llms/) · [All components](../README.md)
+[Interactive webpage](https://textdata.info/toolkit/combining-ml-nlp-llms/) · [Explore with your AI](AI-PROMPT.md) · [All components](../README.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+A working methods catalogue and measure-card validator help specify a measurement before scoring text. The catalogue connects 14 method families, 35 application settings and 61 research questions. Its 490 application–method pairs are unassessed: these are design options, not recommendations or literature-coverage claims.
 
-## Purpose and scope
+## Try the prototype
 
-This toolkit helps researchers specify how machine learning (ML), natural language processing (NLP) and LLMs can work together to measure an organizational construct. Its current contribution is a measurement design and reusable design resource, rather than a validated general-purpose scoring system.
+Open [the offline catalogue](docs/catalogue/index.html) in a browser. Search **functional equivalence**, or open **Products and functional concepts (APP05)** to explore its methods and possible failure cases. The same data are available as [JSON](data/catalogue/catalogue.json), [JSONL](data/catalogue/records.jsonl), [CSV](data/catalogue/applicability.csv) and [SQLite](data/catalogue/novelty-design.sqlite).
 
-## Design and components
+The fictional example compares “Schedules appointments from a shared calendar” with “Books meetings using a team calendar” and a description that adds supervisor approval. It illustrates the difference between new wording and an added stated function. No model produced these examples and no novelty score has been computed.
 
-A searchable catalogue connects method families with applications and research questions. Structured specifications make the target construct, textual representation, comparison population and evaluation explicit. The initial design proposes to examine described functional differentiation in product descriptions; that specification is not yet populated.
+## Run the teaching example
 
-The proposed division of work is explicit. Language-based extraction identifies described functions and relationships; lexical or learned representations make descriptions comparable; statistical comparisons characterize differences within a defined population. Researchers can inspect each operation and assess whether combining them contributes useful information for the intended construct.
+The [measure card](example/input/ASKIN_MEASURE_CARD.jsonl) documents musical typicality in Askin and Mauskapf (2017). It compares sonic features with earlier charting songs, weighted by genre similarity. Its 44 fields in nine sections include 17 reported values, 24 explicit unknowns and 3 proposed choices. It demonstrates the format, not a validated text measure.
 
-## Use and outputs
+From this folder, with Python 3.9 or later (standard library only; no model or network):
 
-Before scoring a corpus, a researcher uses a measure card to specify the construct, the material being compared, the reference population and time window, the aggregation rule and the evidence that would validate the result. Each field distinguishes a reported fact, an unknown, an inapplicable field or a proposed choice. A reported value requires a source location. An unknown stays empty. For the proposed product-description application, a model would extract the functions a product claims to perform, language-processing tools would represent those functions as words or numerical vectors, and statistical comparisons would estimate how distinctive the description is relative to earlier products. The catalogue provides a synthetic illustration without scores.
+```sh
+python3 tool/scripts/validate_measure_cards.py example/input/ASKIN_MEASURE_CARD.jsonl
+python3 tool/scripts/validate_measure_cards.py --submission example/input/ASKIN_MEASURE_CARD.jsonl
+```
 
-## Evidence and limitations
+The first command reports `STRUCTURE OK` and exits 0. The second refuses the teaching card and exits 1, as intended. [Recorded outputs](example/output/) show both results. Unknown fields stay empty; reported values require source locators. The validator checks structure, not whether a source supports a value. The card is unreviewed teaching material; [NOTICE.md](NOTICE.md) supplies the full citation.
 
-The one populated card documents a published measure of musical typicality. It records how a song was compared with earlier charting songs, weighted by genre similarity, and leaves unsupported fields empty. The validator accepts the card’s structure and refuses its use as a submission because it is labeled for teaching. It cannot determine whether a cited passage supports a recorded value. The card has had no independent review. The catalogue’s method–application pairs are unassessed. The product-description specification is unpopulated, no text has been scored, and the proposed paraphrase and comparison-set checks have not been run.
+## Files and reuse
 
-## Proposed development
+- [Measure-card schema](tool/schemas/measure-card.schema.json) and [validator](tool/scripts/validate_measure_cards.py).
+- [Design tables](docs/g9-design/README.md): 110 browse records in 12 research areas, plus six empty registry specifications.
+- [Measurement and validation guidance](docs/g9-design/EXTRACTION_AND_VALIDATION.md).
+- [Build script](tool/scripts/build_catalogue.py) and [HTML template](tool/templates/catalogue-template.html).
+- [MANIFEST.json](MANIFEST.json): file sizes and SHA-256 fingerprints.
 
-We will evaluate described functional differentiation against bounded earlier corpora, using independent judgments, paraphrase checks and changes to the comparison set.
+`python3 checks/verify_component.py` checks the supplied files and teaching example. `python3 tool/scripts/build_catalogue.py` rebuilds unchanged inputs. To change the design, preserve this release and copy `docs/g9-design/` and `tool/` into a new named folder without generated outputs. The builder refuses a changed existing database. Fresh SQLite bytes can differ across SQLite versions; separate output writes are not atomic against disk failure or concurrent writers.
 
+## What remains proposed
+
+The product-description specification is not populated and no texts have been scored or estimates validated. Developing the measurement workflow and agent skill, and evaluating functional differentiation using independent judgments, paraphrases and alternative comparison sets, remain proposed work. The catalogue and validator run now; they do not establish construct validity.
+
+Code: Apache-2.0. Project-authored documents and data: CC BY 4.0. Third-party works retain their own terms; see [NOTICE.md](NOTICE.md) and the repository root licences and citation file. Product Hunt is credited as a preparation-data provider; its restricted collection is not distributed.

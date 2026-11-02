@@ -1,0 +1,471 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79064-79068]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26871]
+
+
+-----------------------------------------------------------------------
+
+SOCIAL SECURITY ADMINISTRATION
+
+[Docket No: SSA-2020-0051]
+
+
+Agency Information Collection Activities: Comment Request
+
+    The Social Security Administration (SSA) publishes a list of 
+information collection packages requiring clearance by the Office of 
+Management and Budget (OMB) in compliance with Public Law 104-13, the 
+Paperwork Reduction Act of 1995, effective October 1, 1995. This notice 
+includes revisions of OMB-approved information collections.
+    SSA is soliciting comments on the accuracy of the agency's burden 
+estimate; the need for the information; its practical utility; ways to 
+enhance its quality, utility, and clarity; and ways to minimize burden 
+on respondents, including the use of automated collection techniques or 
+other forms of information technology. Mail, email, or fax your 
+comments and recommendations on the information collection(s) to the 
+OMB Desk Officer and SSA Reports Clearance Officer at the following 
+addresses or fax numbers.
+
+(OMB) Office of Management and Budget, Attn: Desk Officer for SSA, Fax: 
+202-395-6974, Email address: [email redacted]
+(SSA) Social Security Administration, OLCA, Attn: Reports Clearance 
+Director, 3100 West High Rise, 6401 Security Blvd., Baltimore, MD 
+21235, Fax: 410-966-2830, Email address: [email redacted]
+
+    Or you may submit your comments online through <a href="http://www.regulations.gov">www.regulations.gov</a>, 
+referencing Docket ID Number [SSA-2020-0051].
+    SSA submitted the information collections below to OMB for 
+clearance. Your comments regarding these information collections would 
+be most useful if OMB and SSA receive them 30 days from the date of 
+this publication. To be sure we consider your comments, we must receive 
+them no later than January 7, 2021. Individuals can obtain copies of 
+these OMB clearance packages by writing to 
+[email redacted].
+    1. Disability Report-Appeal--20 CFR 404.1512, 416.912, 404.916(c), 
+416.1416(c), 422.140, 404.1713, 416.1513, 404.1740(b)(4), and 
+416.1540(b)(4)--0960-0144. SSA requires disability applicants who wish 
+to appeal an unfavorable determination to complete Form SSA-3441-BK; 
+the associated Electronic Disability Collect System (EDCS) interview; 
+or the internet application, i3441. This allows claimants to disclose 
+any changes to their disability, or resources, which might influence 
+SSA's unfavorable determination. SSA may use the information to: (1) 
+Reconsider and review an initial disability determination; (2) review a 
+continuing disability; and (3) evaluate a request for a hearing. This 
+information assists the State Disability Determination Services (DDS) 
+and administrative law judges (ALJ) in preparing for the appeals and 
+hearings, and in issuing a determination or decision on an individual's 
+entitlement (initial or continuing) to disability benefits. In 
+addition, the information we collect on the SSA-3441-BK, or related 
+modalities, facilitates SSA's collection of medical information to 
+support the applicant's request for reconsideration; request for 
+benefits cessation appeal; and request for a hearing before an ALJ. 
+Respondents are individuals who appeal denial, reduction, or cessation 
+of Social Security disability benefits and Supplemental Security Income 
+(SSI) payments; individuals who wish to request a hearing before an 
+ALJ; or their representatives.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                              Average
+                                                                          Average burden     Estimated      theoretical    Average wait    Total annual
+         Modality of completion              Number of     Frequency of    per response    total annual     hourly cost    time in field    opportunity
+                                            respondents      response        (minutes)    burden (hours)      amount          office      cost (dollars)
+                                                                                                            (dollars) *    (minutes) **         ***
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SSA-3441-BK (Paper Form)................          22,556               1              45          16,917        * $18.22           ** 24    *** $472,609
+Electronic Disability Collect System             208,831               1              45         156,623         * 10.73           ** 24   *** 2,576,863
+ (EDCS)--Individuals....................
+Electronic Disability Collect System              71,652               1              45          53,739         * 25.72  ..............   *** 1,382,167
+ (EDCS)--Representatives................
+i3441 (Internet Application)--                   109,598               1              28          51,146         * 10.73  ..............     *** 548,797
+ Individuals............................
+i3441 (Internet Application)--                   656,424               1              28         306,331         * 25.72  ..............   *** 7,878,833
+ Representatives........................
+                                         ---------------------------------------------------------------------------------------------------------------
+    Totals..............................       1,069,061  ..............  ..............         584,756  ..............  ..............  *** 12,859,269
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based these figures on average DI hourly wages for single students based on SSA's current FY 2020 data (<a href="https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf">https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf</a>), and on average U.S. citizen's hourly salary, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes231011.htm">https://www.bls.gov/oes/current/oes231011.htm</a>), as well as a combination of those two figures (for the paper form, as we do not collect data on whether the paper forms are filled out
+  by individuals or representatives or both).
+** We based this figure on the average FY 2020 wait times for field offices, based on SSA's current management information data.
+*** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    2. Annual Earnings Test Direct Mail Follow-Up Program Notices--20 
+CFR 404.452-404.455--0960-0369. SSA developed the Annual Earnings Test 
+Direct Mail Follow-up Program to improve beneficiary reporting on work 
+and earnings during the year and earnings information at the end of the 
+year. SSA may reduce benefits payable under the Social Security Act 
+(Act) when an individual has wages or self-employment income exceeding 
+the annual exempt amount. SSA identifies beneficiaries likely to 
+receive more than the annual exempt amount, and requests more frequent 
+estimates of earnings from them. When applicable, SSA also requests a 
+future year estimate to reduce overpayments due to earnings. SSA sends 
+letters (SSA-L9778, SSA-L9779, SSA-L9781, SSA-L9784, SSA-L9785, and 
+SSA-L9790) to beneficiaries requesting earnings information the month 
+prior to their attainment of full retirement age. We send each 
+beneficiary a tailored letter that includes relevant earnings data from 
+SSA records. The Annual Earnings Test Direct Mail Follow-up Program 
+helps to ensure Social Security payments are
+
+[[Page 79065]]
+
+correct, and enables us to prevent earnings-related overpayments, and 
+avoid erroneous withholding. The respondents are working Social 
+Security beneficiaries with earnings over the exempt amount.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                          Average burden     Estimated      theoretical    Total annual
+                 Modality of completion                      Number of     Frequency of    per response    total annual     hourly cost     opportunity
+                                                            respondents      response        (minutes)    burden (hours)      amount      cost (dollars)
+                                                                                                                            (dollars) *         **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SSA-L9778...............................................          42,630               1              10           7,105          $25.72     ** $182,741
+SSA-L9779...............................................         158,865               1              10          26,478           25.72      ** 681,014
+SSA-L9781...............................................         472,437               1              10          78,740           25.72    ** 2,025,193
+SSA-L9784...............................................           1,270               1              10             212           25.72        ** 5,453
+SSA-L9785...............................................          15,870               1              10           2,645           25.72       ** 68,029
+SSA-L9790...............................................          45,000               1              10           7,500           25.72      ** 192,900
+                                                         -----------------------------------------------------------------------------------------------
+    Totals..............................................         736,072  ..............  ..............         122,680  ..............    ** 3,155,330
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based these figures on the average U.S. citizen's hourly salary, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes231011.htm">https://www.bls.gov/oes/current/oes231011.htm</a>).
+** This figure does not represent actual costs that we are imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    3. Request for Social Security Earnings Information--20 CFR 401.100 
+and 404.810--0960-0525. The Social Security Act permits wage earners, 
+or their authorized representatives, to request Social Security 
+earnings information from SSA using Form SSA-7050-F4. SSA uses the 
+information the respondent provides on Form SSA-7050-F4 to verify the 
+wage earner has: (1) Earnings; (2) the right to access the correct 
+Social Security Record; and (3) the right to request the earnings 
+statement. If we verify all three items, SSA produces an Itemized 
+Statement of Earnings (Form SSA-1826) and sends it to the requestor. 
+The agency charges respondents for sending them an Itemized Statement 
+of Earnings. Respondents are wage earners and their authorized 
+representatives who are requesting Itemized Statement of Earnings 
+records.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                            Average
+                                                                                       Average burden  Estimated total    theoretical      Total annual
+              Modality of completion                   Number of       Frequency of     per response    annual burden     hourly cost      opportunity
+                                                      respondents        response        (minutes)         (hours)           amount       cost (dollars)
+                                                                                                                          (dollars) *           **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SSA-7050-F4.......................................          66,800                1               11           12,247         * $25.72      ** $314,993
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on the average U.S. worker's hourly wages, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes_nat.htm">https://www.bls.gov/oes/current/oes_nat.htm</a>).
+** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    Cost Burden to Respondents: The agency charges respondents to send 
+them an Itemized Statement of Earnings for purposes unrelated to the 
+administration of our programs. The chart below shows the costs to the 
+respondents for this request:
+
+----------------------------------------------------------------------------------------------------------------
+                                                                     Number of       Cost per
+                       Type of respondent                            requests         request       Annual cost
+----------------------------------------------------------------------------------------------------------------
+Non-Certified Respondent........................................          33,400          $92.00      $3,072,800
+Certified Respondent............................................          33,400          122.00       4,074,800
+                                                                 -----------------------------------------------
+    Total.......................................................  ..............  ..............       7,147,600
+----------------------------------------------------------------------------------------------------------------
+
+    4. Disability Case Development Information Collections By State 
+Disability Determination Services On Behalf of SSA--20 CFR 404.1503a, 
+404.1512, 404.1513, 404.1514, 404.1517, 404.1519; 20 CFR 404.1613, 
+404.1614, 404.1624; 20 CFR 416.903a, 416.912, 416.913, 416.914, 
+416.917, 416.919 and 20 CFR 416.1013, 416.1014, 416.1024--0960-0555. 
+State DDSs collect the information necessary to administer the Social 
+Security Disability Insurance and SSI programs. They collect medical 
+evidence from consultative examination (CE) sources; credential 
+information from CE source applicants; and medical evidence of record 
+(MER) from claimants' medical sources. The DDSs collect information 
+from claimants regarding medical appointments, pain, symptoms, and 
+impairments. The respondents are medical providers, other sources of 
+MER, and disability claimants.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+CE Collections
+
+    There are four CE information collections: (a) Medical evidence 
+about claimants' medical condition(s) that DDS's use to make disability 
+determinations when the claimant's own medical sources cannot or will 
+not provide the required information, and proof of credentials from CE 
+providers; (b) CE appointment letters; (c) CE claimant reports sent to 
+claimants' doctors; and (d) One-time CE claimant telehealth call 
+script/letter.
+
+[[Page 79066]]
+
+
+
+                                                 (a) Medical Evidence and Credentials From CE Providers
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                          Average burden     Estimated      theoretical    Total annual
+                 Modality of completion                      Number of     Frequency of    per response    total annual     hourly cost     opportunity
+                                                            respondents      response        (minutes)    burden (hours)      amount      cost (dollars)
+                                                                                                                            (dollars) *         **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+CE Paper Submissions....................................       1,400,000               1              30         700,000        * $40.21  ** $28,147,000
+CE Electronic Submissions...............................         296,000               1              10          49,333         * 40.21    ** 1,983,680
+CE Credentials..........................................           4,000               1              15           1,000         * 40.21       ** 40,210
+                                                         -----------------------------------------------------------------------------------------------
+    Totals..............................................       1,700,000  ..............  ..............         750,333  ..............   ** 30,170,890
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on average Healthcare Practitioners and Technical Occupations hourly salary, as reported by Bureau of Labor Statistics data
+  (<a href="https://www.bls.gov/oes/current/oes290000.htm">https://www.bls.gov/oes/current/oes290000.htm</a>).
+
+
+                                      (b) CE Appointment Letters and (c) CE Claimants' Report to Medical Providers
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                          Average burden     Estimated      theoretical    Total annual
+                 Modality of completion                      Number of     Frequency of    per response    total annual     hourly cost     opportunity
+                                                            respondents      response        (minutes)    burden (hours)      amount      cost (dollars)
+                                                                                                                            (dollars) *         **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+(b) CE Appointment Letters..............................         880,000               1               5          73,333        * $10.73     ** $786,863
+(c) CE Claimants' Report to Medical Providers...........         450,000               1               5          37,500         * 10.73      ** 402,375
+                                                         -----------------------------------------------------------------------------------------------
+    Totals..............................................       1,330,000  ..............  ..............         110,833  ..............    ** 1,189,238
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on average DI payments based on SSA's current FY 2020 data (<a href="https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf">https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf</a>).
+
+
+                                                    (d) CE Claimant Telehealth CE Call Script/Letter
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                            Average
+                                                                                       Average burden  Estimated total    theoretical      Total annual
+              Modality of completion                   Number of       Frequency of     per response    annual burden     hourly cost      opportunity
+                                                      respondents        response        (minutes)         (hours)           amount       cost (dollars)
+                                                                                                                          (dollars) *           **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+CE Claimant Telehealth Call Script/Letter.........          10,000                1                5              833         * $10.73        ** $8,938
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on average DI payments based on SSA's current FY 2020 data (<a href="https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf">https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf</a>).
+
+MER Collections
+
+    The DDS's collect MER information from the claimant's medical 
+sources to determine a claimant's physical or mental status prior to 
+making a disability determination.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                          Average burden     Estimated      theoretical    Total annual
+                 Modality of completion                      Number of     Frequency of    per response    total annual     hourly cost     opportunity
+                                                            respondents      response        (minutes)    burden (hours)      amount      cost (dollars)
+                                                                                                                            (dollars) *         **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Paper Submissions.......................................       3,150,000               1              20       1,050,000        * $40.21  ** $42,220,500
+Electronic Submissions..................................       9,450,000               1              12       1,890,000         * 40.21   ** 75,996,900
+                                                         -----------------------------------------------------------------------------------------------
+    Totals..............................................      12,600,000  ..............  ..............       2,940,000  ..............  ** 118,217,400
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on average Healthcare Practitioners and Technical Occupations hourly salary, as reported by Bureau of Labor Statistics data
+  (<a href="https://www.bls.gov/oes/current/oes290000.htm">https://www.bls.gov/oes/current/oes290000.htm</a>).
+
+Pain/Other Symptoms/Impairment Information From Claimants
+
+    The DDS's use information about pain/symptoms to determine how 
+pain/symptoms affect the claimant's ability to do work-related 
+activities prior to making a disability determination.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                           Average
+                                                                                            Average       Estimated      theoretical      Total annual
+                  Modality of completion                      Number of    Frequency of   burden per    total annual     hourly cost   opportunity  cost
+                                                             respondents     response      response    burden (hours)      amount         (dollars) **
+                                                                                           (minutes)                     (dollars) *
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Pain/Other Symptoms/Impairment Information...............       2,100,000             1            20         700,000        * $18.23     ** $12,761,000
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on averaging both the average DI payments based on SSA's current FY 2020 data (<a href="https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf">https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf</a>), and the average U.S. worker's hourly wages, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes_nat.htm">https://www.bls.gov/oes/current/oes_nat.htm</a>).
+
+Grand Total
+
+[[Page 79067]]
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                          Average
+                                                                                     Average burden  Estimated total    theoretical       Total annual
+             Modality of completion                  Number of       Frequency of     per response    annual burden     hourly cost    opportunity  cost
+                                                    respondents        response        (minutes)         (hours)           amount         (dollars) **
+                                                                                                                        (dollars) *
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Totals..........................................      17,740,000   ...............  ...............       4,501,999   ...............   ** $162,347,466
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    5. Work History Report--20 CFR 404.1512, 416.912, 404.1560, 
+404.1565, 416.960 and 416.965--0960-0578. Under certain circumstances, 
+SSA asks individuals applying for disability about work they have 
+performed in the past. Applicants use Form SSA-3369, Work History 
+Report, to provide detailed information about jobs held prior to 
+becoming unable to work. State DDS evaluate the information, together 
+with medical evidence, to determine eligibility for disability 
+payments. Respondents are disability applicants and third parties 
+assisting applicants.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                            Average
+                                                                        Average burden     Estimated      theoretical    Average wait     Total annual
+        Modality of completion             Number of     Frequency of    per response    total annual     hourly cost    time in field     opportunity
+                                          respondents      response        (minutes)    burden (hours)      amount          office       cost (dollars)
+                                                                                                          (dollars) *    (minutes) **          ***
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SSA-3369 (Paper form).................       1,553,900               1              60       1,553,900        * $18.23           ** 24   *** $39,658,636
+SSA-3369 (EDCS).......................          38,049               1              60          38,049         * 18.23           ** 24       *** 971,094
+                                       -----------------------------------------------------------------------------------------------------------------
+    Totals............................       1,591,949  ..............  ..............       1,591,949  ..............  ..............    *** 40,629,730
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure by averaging both the average DI payments based on SSA's current FY 2020 data (<a href="https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf">https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf</a>), and the average U.S. worker's hourly wages, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes_nat.htm">https://www.bls.gov/oes/current/oes_nat.htm</a>).
+** We based this figure on the average FY 2020 wait times for field offices, based on SSA's current management information data.
+*** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    6. Teacher Questionnaire and Request for Administrative 
+Information--20 CFR 404.1513, 416.913, and 416.924a(a)--0960-0646. When 
+determining the effects of a child's impairment(s), SSA obtains 
+information about the child's functioning from teachers; parents; and 
+others who observe the child on a daily basis. SSA obtains results of 
+formal testing, teacher reports, therapy progress notes, individualized 
+education programs, and other records of a child's educational aptitude 
+and achievements using Forms SSA-5665-BK and SSA-5666. The respondents 
+are parents, teachers, and other education personnel.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                          Average burden     Estimated      theoretical    Total annual
+                 Modality of completion                      Number of     Frequency of    per response    total annual     hourly cost     opportunity
+                                                            respondents      response        (minutes)    burden (hours)      amount      cost (dollars)
+                                                                                                                            (dollars) *         **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SSA-5665-BK (electronic)................................         246,539               1              40         164,359        * $26.14   ** $4,296,344
+SSA-5666 (electronic)...................................          91,186               1              30          45,593         * 26.14    ** 1,191,801
+                                                         -----------------------------------------------------------------------------------------------
+    Totals..............................................         337,725  ..............  ..............         209,952  ..............    ** 5,488,145
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure on average Elementary and Secondary School worker's hourly wages, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes250000.htm">https://www.bls.gov/oes/current/oes250000.htm</a>).
+** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    7. Medicare Part D Subsidies Regulations--20 CFR 418.3625(c), 
+418.3645, 418.3665(a), and 418.3670--0960-0702. The Medicare 
+Prescription Drug Improvement and Modernization Act (MMA) of 2003 
+established the Medicare Part D program for voluntary prescription drug 
+coverage of premium, deductible, and co-payment costs for certain low-
+income individuals. The MMA also mandated the provision of subsidies 
+for those individuals who qualify for the program and who meet 
+eligibility criteria for help with premium, deductible, or co-payment 
+costs. This law requires SSA to make eligibility determinations, and to 
+provide a process for appealing SSA's determinations. Regulation 
+sections 418.3625(c), 418.3645, 418.3665(a), and 418.3670 contain 
+public reporting requirements pertaining to administrative review 
+hearings. Respondents are applicants for the Medicare Part D subsidies 
+who request an administrative review hearing.
+    Type of Request: Revision of an existing OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              Average
+                                                                                          Average burden     Estimated      theoretical    Total annual
+                 Modality of completion                      Number of     Frequency of    per response    total annual     hourly cost     opportunity
+                                                            respondents      response        (minutes)    burden (hours)      amount      cost (dollars)
+                                                                                                                            (dollars) *         ***
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+418.3625(c).............................................             110               1               5               9       ** $10.73         *** $97
+418.3645................................................              10               1               5               1        ** 10.73          *** 11
+
+[[Page 79068]]
+
+ 
+418.3665(a).............................................             215               1               5              18        ** 10.73         *** 193
+418.3670 *..............................................               0               1              10               0  ..............  ..............
+                                                         -----------------------------------------------------------------------------------------------
+    Total...............................................             335  ..............  ..............              28  ..............         *** 301
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* Regulation section 418.3670 could be used at any time; however, we currently have no data showing usage over the past three years.
+** We based this figure on average DI payments (<a href="https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf">https://www.ssa.gov/legislation/2020Fact%20Sheet.pdf</a>)
+*** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+    8. Electronic Records Express--20 CFR 404.1512 and 416.912--0960-
+0753. Electronic Records Express (ERE) is a Web-based SSA program which 
+allows medical and educational providers to electronically submit 
+disability claimant data to SSA. Both medical providers and other third 
+parties with connections to disability applicants or recipients (e.g., 
+teachers and school administrators for child disability applicants) use 
+this system once they complete the registration process. SSA employees 
+and State agency employees request the medical and educational records 
+collected through the ERE website. The agency uses the information 
+collected through ERE to make a determination on an Application for 
+Benefits. We also use the ERE website to order and receive consultative 
+examinations when we are unable to collect enough medical records to 
+determine disability findings. The respondents are medical providers 
+who evaluate or treat disability claimants or recipients, and other 
+third parties with connections to disability applicants or recipients 
+(e.g., teachers and school administrators for child disability 
+applicants), who voluntarily choose to use ERE for submitting 
+information.
+    Type of Request: Revision of an OMB-approved information 
+collection.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                            Average
+                                                                                       Average burden  Estimated total    theoretical      Total annual
+              Modality of completion                   Number of       Frequency of     per response    annual burden     hourly cost      opportunity
+                                                      respondents        response        (minutes)         (hours)           amount       cost (dollars)
+                                                                                                                          (dollars) *           **
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ERE...............................................       6,183,548                1               10        1,030,591         * $33.18   ** $34,195,009
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* We based this figure by averaging both the average Healthcare Practitioners and Technical Occupations (<a href="https://www.bls.gov/oes/current/oes290000.htm">https://www.bls.gov/oes/current/oes290000.htm</a>),
+  and Elementary and Secondary School worker's hourly wages, as reported by Bureau of Labor Statistics data (<a href="https://www.bls.gov/oes/current/oes250000.htm">https://www.bls.gov/oes/current/oes250000.htm</a>).
+** This figure does not represent actual costs that SSA is imposing on recipients of Social Security payments to complete this application; rather,
+  these are theoretical opportunity costs for the additional time respondents will spend to complete the application. There is no actual charge to
+  respondents to complete the application.
+
+
+    Dated: December 2, 2020.
+Naomi Sipple,
+Reports Clearance Officer, Social Security Administration.
+[FR Doc. 2020-26871 Filed 12-7-20; 8:45 am]
+BILLING CODE 4191-02-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

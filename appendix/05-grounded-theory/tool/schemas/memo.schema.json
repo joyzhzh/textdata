@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/memo.schema.json",
+  "title": "Grounded Theory analytical memo",
+  "description": "Descriptive, comparison, methodological, and theoretical memos are separate record types sharing one file. A memo is an argument, never evidence.",
+  "type": "object",
+  "required": ["memo_id", "memo_type", "status", "refs", "body"],
+  "properties": {
+    "memo_id": {"type": "string", "pattern": "^MEMO[0-9]{3,}$"},
+    "memo_type": {"enum": ["DESCRIPTIVE", "COMPARISON", "METHODOLOGICAL", "THEORETICAL"]},
+    "status": {"enum": ["WORKING", "SUBMITTED_FOR_REVIEW", "SUPERSEDED", "RETIRED"]},
+    "refs": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^(I|E|CDE|CAT|CMP|MEM|REQ)[0-9]{3,}$"}},
+    "body": {"type": "string", "minLength": 1},
+    "supersedes": {"type": "string", "pattern": "^MEMO[0-9]{3,}$"},
+    "supersession_reason": {"type": "string", "minLength": 1},
+    "retirement_reason": {"type": "string", "minLength": 1}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"memo_type": {"enum": ["COMPARISON", "THEORETICAL"]}}},
+      "then": {"properties": {"refs": {"minItems": 1}}}
+    },
+    {"if": {"required": ["supersedes"]}, "then": {"required": ["supersession_reason"]}},
+    {"if": {"properties": {"status": {"const": "RETIRED"}}}, "then": {"required": ["retirement_reason"]}}
+  ]
+}

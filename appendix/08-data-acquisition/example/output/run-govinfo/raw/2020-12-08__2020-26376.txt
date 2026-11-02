@@ -1,0 +1,877 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Rules and Regulations]
+[Pages 78957-78963]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26376]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+24 CFR Part 100
+
+[Docket No. FR-6138-F-02]
+RIN 2529-AA99
+
+
+Fair Housing Act Design and Construction Requirements; Adoption 
+of Additional Safe Harbors
+
+AGENCY: Office of the Assistant Secretary for Fair Housing and Equal 
+Opportunity, HUD.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This rule amends HUD's Fair Housing Act design and 
+construction regulations by incorporating by reference the 2009 edition 
+of the International Code Council (ICC) Accessible and Usable Buildings 
+and Facilities (ICC A117.1-2009) standard, as a safe harbor. The 
+Accessible and Usable Buildings and Facilities standard is a technical 
+standard for the design of facilities that are accessible to persons 
+with disabilities. This rule also designates the 2009, 2012, 2015 and 
+2018 editions of the International Building Code (IBC) as safe harbors 
+under the Fair Housing Act. The IBC is a model building code and not 
+law, but it was adopted as law by various states and localities. The 
+IBC provides minimum standards for public safety, health, and welfare 
+as they are affected by building construction.
+
+DATES: Effective Date: March 8, 2021. The incorporation by reference of 
+certain publications listed in the rule is approved by the Director of 
+the Federal Register as of March 8, 2021. The incorporation by 
+reference of certain other publications listed in the rule is approved 
+by the Director of the Federal Register as of November 24, 2008.
+
+FOR FURTHER INFORMATION CONTACT: Lynn Grosso, Director, Office of 
+Enforcement, Office of Fair Housing and Equal Opportunity, Department 
+of Housing and Urban Development, 451 Seventh Street SW, Washington, DC 
+20410-2000; telephone number (202) 708-2333 (this is not a toll-free 
+number). Hearing- or speech-impaired individuals may access this number 
+via TTY by calling the toll-free Federal Information Relay Service at 
+(800) 877-8339.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    Title VIII of the Civil Rights Act of 1968, as amended, (42 U.S.C. 
+3601 et seq.) (the ``Fair Housing Act'' or ``Act'') prohibits 
+discrimination in housing and housing-related transactions based on 
+race, color, religion, national origin, sex, disability and familial 
+status.\1\ The Act provides, inter alia, that unlawful discrimination 
+against persons with disabilities includes the failure to design and 
+construct covered multifamily dwellings for first occupancy after March 
+13, 1991, in a manner that ``(1) the public and common use portions of 
+such dwellings are readily accessible to and usable by handicapped 
+persons; (2) all the doors designed to allow passage into and within 
+all premises within such dwellings are sufficiently wide to allow 
+passage by handicapped persons in wheelchairs; and (3) all premises 
+within such dwellings contain the following features of adaptive 
+design: (a) An accessible route into and through the dwelling; (b) 
+light switches, electrical outlets, thermostats, and other 
+environmental controls in accessible locations; (c) reinforcements in 
+bathroom walls to allow later installation of grab bars; and (d) usable 
+kitchens and bathrooms such that an individual in a wheelchair can 
+maneuver about the space.'' \2\ The Fair Housing Act does not contain 
+specific technical design criteria that need to be followed to comply 
+with the design and construction requirements. It does provide, 
+however, that compliance with the appropriate requirements of the 
+``American National Standard for buildings and facilities providing 
+accessibility and usability for physically handicapped people (commonly 
+referred to as ANSI A117.1), suffices to satisfy the requirements of 
+[42 U.S.C. 3604(f)(3)(C)(iii)],'' which states the Act's design and 
+construction requirements for the interiors of covered multifamily 
+dwellings.
+---------------------------------------------------------------------------
+
+    \1\ The Fair Housing Act refers to people with ``handicaps.'' 
+Subsequently, in the Americans with Disabilities Act of 1990 and 
+other legislation, Congress adopted the term ``persons with 
+disabilities'' or ``disability,'' which is the preferred usage. 
+Accordingly, this document hereinafter uses the terms ``persons with 
+disabilities,'' ``disability,'' or ``disabled,'' unless directly 
+quoting the Fair Housing Act.
+    \2\ 42 U.S.C. 3604(f)(3)(C).
+---------------------------------------------------------------------------
+
+    The Fair Housing Act directs HUD to ``provide technical assistance 
+to states and units of local government and other persons to implement 
+[the design and construction requirements].'' \3\ On March 6, 1991 (56 
+FR 9472), HUD published the ``Final Fair Housing Accessibility 
+Guidelines'' which set forth specific technical guidance for designing 
+covered multifamily dwellings to be consistent with the Act. Section I 
+of the Guidelines states, ``[t]hese guidelines are intended to provide 
+a safe harbor for compliance with the accessibility requirements of the 
+Fair Housing Act.'' On June 24, 1994 (59 FR 33362), HUD published its 
+``Supplement to Notice of Fair Housing Accessibility Guidelines: 
+Questions and Answers about the Guidelines.'' HUD published a Fair 
+Housing Act Design Manual (Design Manual) in 1996 that was reissued in 
+1998 with minor changes. The Design Manual is also a safe harbor for 
+compliance with the Act.\4\
+---------------------------------------------------------------------------
+
+    \3\ 42 U.S.C. 3604(f)(5)(C).
+    \4\ The Fair Housing Design Manual, August 1996, revised 1998, 
+is available at <a href="https://www.huduser.gov/portal/publications/PDF/FAIRHOUSING/fairfull.pdf">https://www.huduser.gov/portal/publications/PDF/FAIRHOUSING/fairfull.pdf</a>.
+---------------------------------------------------------------------------
+
+    Since HUD published its Fair Housing Act final rule on January 23, 
+1989 (54 FR 3232), the ANSI A117.1 accessibility standard has been 
+updated several times. HUD, as a member of the A117 Committee that 
+updates the A117.1 standard, participates in these updates. HUD also 
+periodically reviewed these updated standards, as part of its mandate 
+to provide technical assistance to state and local governments to 
+incorporate the Act's design and construction requirements into their 
+laws and procedures for review and approval of newly constructed 
+multifamily dwellings. HUD published a final rule on October 24, 2008 
+(73 FR 63614) that incorporated by reference ICC/ANSI-2003 and 
+clarified that compliance with the appropriate requirements of CABO/
+ANSI A117.1-1992 and ICC/ANSI-1998 continued to meet the design and 
+construction requirements of the Fair Housing Act. See 24 CFR 
+100.201a(b)(1). The 2008 final rule also updated the regulations to 
+reference certain editions of the IBC as safe harbors for compliance 
+with the accessibility requirements in the Fair Housing Act. HUD's 
+final rule codified these additional design and construction standards 
+that HUD recognized as safe harbors at Sec.  100.205(e).
+
+[[Page 78958]]
+
+II. This Final Rule
+
+    On Wednesday, January 15, 2020, HUD published a proposed rule in 
+the Federal Register (85 FR 2354) to amend HUD's Fair Housing Act 
+design and construction regulations by incorporating by reference the 
+2009 edition of International Code Council (ICC) Accessible and Usable 
+Buildings and Facilities (ICC A117.1-2009) \5\ standard, as a safe 
+harbor. HUD is adopting the proposed rule as final with no substantive 
+changes.
+---------------------------------------------------------------------------
+
+    \5\ Unlike prior versions of the American National Standard, the 
+ICC A117.1-2009 does contain ANSI in its title.
+---------------------------------------------------------------------------
+
+    This rule does not change either the scoping requirements or the 
+substance of the existing accessible design and construction 
+requirements contained in the Fair Housing Act or its regulation. This 
+final rule also designates the 2009, 2012, 2015 and 2018 editions of 
+the IBC as safe harbors under the Fair Housing Act. Unlike the Act, the 
+IBC is a model building code and not a law. It provides minimum 
+standards for public safety, health, and welfare as they are affected 
+by building construction. The IBC is published by the International 
+Code Council, which was formed to bring national uniformity to building 
+codes. Representatives of three former national model code bodies 
+joined together to develop what are now called the International Codes 
+or I-Codes. The IBC is a major volume of the I-Codes and contains 
+provisions for accessibility designed to reflect the intent of the Act, 
+the regulations, and the Guidelines. Compliance with the IBC or another 
+model building code is not required unless mandated by a state or local 
+jurisdiction. A jurisdiction may adopt a model building code in its 
+entirety or with modifications.
+    With respect to housing, the IBC contains requirements for three 
+different types of accessible units, which include sleeping units (when 
+such units are used as a residence). The most accessible of these three 
+types is an ``Accessible Unit,'' which is wheelchair accessible and may 
+be found in numerous types of residential buildings. A second 
+accessibility level is set forth in the requirements for ``Type A'' 
+dwelling units. The IBC specifies that a percentage of ``Type A'' units 
+must be provided containing a high level of accessibility, especially 
+in kitchens and bathrooms, as well as some features of adaptability. 
+The third accessibility level is a ``Type B'' dwelling unit, which is a 
+unit that is intended to comply with those features of accessible and 
+adaptable design required under the Act. Like the Act, the requirements 
+for Type B dwelling units apply to a greater number of dwelling units 
+in a building, but the level of accessibility is less than that of the 
+Type A dwelling units.
+    In addition, the IBC provides scoping requirements for the three 
+types of dwelling units described above. The scoping requirements for 
+the Type B dwelling units are intended to be consistent with the 
+scoping requirements in the Act, the regulations, and the Guidelines. 
+For the technical requirements, the IBC references the A117.1 
+accessibility standard. Thus, the IBC contains both scoping 
+requirements and technical requirements that are consistent with the 
+Act, the regulations, and the Guidelines. After reviewing the 2009, 
+2012, 2015 and 2018 IBC editions, HUD found that the accessibility 
+provisions in these IBC editions are consistent with the requirements 
+in the Act, HUD's regulations, and the Guidelines. HUD did not find any 
+provision that it believes provides for less accessibility than what is 
+required in the Act, the regulations, and the Guidelines, and HUD notes 
+that in certain respects, the IBC provides for greater accessibility. 
+Similarly, in its review of the ICC A117.1-2009, HUD did not find any 
+provisions that provide for less accessibility than what is required in 
+the Act, HUD's regulations, and the Guidelines.
+    HUD is also amending Sec.  100.205(e)(3) to provide that, in the 
+future, HUD may propose new safe harbors by Federal Register notice. 
+HUD would provide a minimum 30-day public comment period and, after 
+considering public comment, publish a final notice announcing any new 
+safe harbor. HUD will periodically codify new safe harbors in part 100 
+in the course of later rulemaking. Compliance with safe harbors 
+established by Federal Register notice will satisfy the requirements of 
+paragraphs (a) and (c) of Sec.  100.205.
+
+III. The Public Comments
+
+    HUD received 60 public comments on the proposed rule from various 
+interested parties, including advocacy groups, members of the general 
+public, and architects. One comment discussed another HUD rulemaking, 
+and will not be addressed here.
+
+General Support
+
+    Many commenters overwhelmingly supported the rule and urged HUD to 
+promulgate it. Several commenters stated that A117.1-2009 and IBC-2009, 
+2012, 2015 and 2018 meet or exceed HUD's Guidelines. Some commenters 
+stated that making the newer A117.1 and International Building Codes 
+safe harbors would improve compliance with the Fair Housing Act's 
+design and construction requirements. Other commenters stated that the 
+rule will provide code officials, architects, and builders with needed 
+tools to ensure that buildings are accessible to persons with 
+disabilities, eliminate confusion concerning the use of older codes, 
+and increase accessibility. Some commenters stated the new standards' 
+incorporation and safe harbor designation will align the Act's 
+requirements with the requirements of many U.S. jurisdictions, which 
+already adopt and enforce one of these IBC editions and, by reference, 
+ICC A117.1-2009. A commenter expressed that because the proposed safe 
+harbors are more current, they provide clarity on certain aspects of 
+design.
+    HUD Response: HUD thanks the public commenters for their support.
+
+Clarifications
+
+    Comment: A commenter asked that HUD clarify who needs to be aware 
+of the rule to ensure accessible housing, including developers, 
+designers, and others involved in the design and construction of 
+covered multifamily dwellings.
+    HUD Response: HUD agreed with the comment that there are many 
+building industry professionals who are involved in the design and 
+construction of multifamily housing covered by the Act (e.g., owners, 
+developers, architects, engineers, construction contractors). Any 
+person or entity involved in the noncompliant design and construction 
+of buildings or facilities subject to the Act's design and construction 
+requirements may be held liable for violations of the Act. This 
+includes a person or entity involved in only the design, only the 
+construction, or both the design and construction of covered 
+multifamily housing.\6\ So all such persons should be aware of the 
+requirements.
+---------------------------------------------------------------------------
+
+    \6\ See 42 U.S.C. 3604(f)(3)(C); Joint Statement Q&A 56.
+---------------------------------------------------------------------------
+
+    Comment: Several commenters requested that HUD make clear in the 
+rule that the technical specifications in the HUD-identified safe 
+harbors must be read in conjunction with the scoping requirements in 
+the Fair Housing Act, its implementing regulations and the Fair Housing 
+Act Accessibility Guidelines. One commenter expressed difficulty in 
+finding the requirements in the IBC. Another commenter stated that HUD 
+should clarify that use of one of the IBCs as a safe harbor must be in 
+conjunction with use of the incorporated A117.1.
+
+[[Page 78959]]
+
+    HUD Response: Persons designing and constructing covered 
+multifamily dwellings should understand that, to be correctly applied 
+to ensure compliance with the design and construction requirements of 
+the Act, each safe harbor must be read in the context of the 
+requirements of the Act itself, HUD's implementing regulations, and the 
+Fair Housing Act Accessibility Guidelines. The IBC provides scoping 
+requirements for Type B dwelling units that are intended to be 
+consistent with the scoping requirements in the Act, the regulations, 
+and the Guidelines. For the technical requirements, the IBC references 
+the A117.1 accessibility standard. Thus, the IBC contains both scoping 
+requirements and technical requirements that are consistent with the 
+Act, the regulations, and the Guidelines.\7\
+---------------------------------------------------------------------------
+
+    \7\ Preamble to NPRM.
+---------------------------------------------------------------------------
+
+    Comment: Some commenters urged HUD to specify, consistent with its 
+prior safe harbor rule at 72 FR 39432, 39438 (July 18, 2007) and the 
+HUD-DOJ Joint Statement, that to avail oneself of a safe harbor, the 
+owner, developer and designer must comply with the safe harbor in its 
+entirety without modification or waiver.
+    HUD Response: When HUD adopts a safe harbor for compliance with the 
+Fair Housing Act, it has determined that compliance with all elements 
+of the safe harbor, read in conjunction with the Act, HUD's 
+implementing regulations, and the Fair Housing Accessibility 
+Guidelines, will provide accessibility consistent with the Act's 
+requirements. This level of overall accessibility permits individuals 
+with a wide variety of disabilities to access and use the public and 
+common use areas of the housing without adaptation and the dwelling 
+units with or without certain minimum adaptations, such as the 
+installation of grab bars. To ensure compliance with the Act, covered 
+entities must select one safe harbor; once a specific safe harbor 
+document has been selected, the building in question must comply with 
+all of the provisions in that document that address the Fair Housing 
+Act design and construction requirements to ensure the full benefit of 
+the safe harbor. The benefit of safe harbor status may be lost if, for 
+example, a designer or builder chooses to select provisions from more 
+than one of the above safe harbor documents, from a variety of sources, 
+or if waivers of provisions are requested and received. If it is shown 
+that the designers and builders departed from the provisions of a safe 
+harbor document, they bear the burden of demonstrating that the 
+dwelling units nonetheless comply with the Act's design and 
+construction requirements.\8\
+---------------------------------------------------------------------------
+
+    \8\ Joint Statement, Q&A 38.
+---------------------------------------------------------------------------
+
+ANSI
+
+    Comment: One commenter opposed HUD's adoption of ANSI A117.1-2009, 
+stating that HUD should permit use only of ANSI A117.1-1986 as it 
+provides greater usability and access than subsequent ANSI A117.1 
+codes.
+    HUD Response: HUD disagreed with the comment. HUD notes that 
+although there may be slight differences between ANSI A117.1-2009 and 
+ANSI A117.1-1986, those differences do not result in decreased 
+accessibility. Nor are they inconsistent with the Act's requirements. 
+While there are some differences among the designated safe harbors, 
+there is broad consensus about what is required for accessibility based 
+on the ANSI standards and the safe harbors. These standards result from 
+a process that includes input from a variety of stakeholders, including 
+builders, designers, managers, and disability-rights advocates.
+    Comment: A commenter stated that ANSI A117.1-2009 is less 
+restrictive than the Act because while HUD's Guidelines require all 
+fixtures in a Specification A Bathroom to be accessible, A117.1-2009 
+requires only one lavatory to be accessible, even when a dual sink is 
+provided in the bathroom. The commenter asked HUD to provide 
+clarification as to this difference.
+    HUD Response: As indicated above, while there may be slight 
+differences among the various editions of the A117.1 standard, those 
+differences do not result in bathrooms that provide less accessibility 
+and are consistent with the Act's requirements. While there are some 
+differences among the designated safe harbors, these standards result 
+from a process that includes input from a variety of stakeholders with 
+broad consensus about what is required for accessibility based on the 
+ANSI standards and the safe harbors.
+    Comment: A commenter recommended that HUD add language to the rule 
+stating that if a jurisdiction mandates a higher level of accessibility 
+than ICC 2009, the jurisdiction's standard should be favored over the 
+ICC standard.
+    HUD Response: Some states and localities adopt accessibility 
+requirements that provide for a higher level of accessibility for 
+individuals with disabilities than the basic level of accessibility 
+required by the Act. HUD noted that the adoption of a safe harbor for 
+compliance with the Act does not diminish the legal obligation to 
+comply with more stringent accessibility requirements imposed by state 
+or local law. The Act is not intended to invalidate or limit any state 
+or local law that requires dwellings to be designed and constructed in 
+a manner that affords greater access for persons with disabilities.\9\ 
+HUD agreed that compliance with a safe harbor does not ensure 
+compliance with a state or local law that mandates greater 
+accessibility.
+---------------------------------------------------------------------------
+
+    \9\ 42 U.S.C. 3604(f)(8).
+---------------------------------------------------------------------------
+
+IBC
+
+    Comment: A commenter stated that HUD should specify in the final 
+regulation that the covered multifamily dwelling must be designed and 
+constructed in accordance with plans and specifications approved during 
+the permitting process and that the building code official must not 
+waive, incorrectly interpret or misapply any of the accessibility 
+requirements of the safe harbor. If not, the safe harbor status is 
+forfeited.
+    HUD Response: HUD agreed with the comment. HUD's purpose in 
+recognizing a number of safe harbors for compliance with the Act's 
+design and construction requirements is to provide a range of options 
+that, if followed in their entirety during the design and construction 
+phase without modification or waiver, will result in residential 
+buildings that comply with the Act's design and construction 
+requirements. The standards and codes adopted by HUD as safe harbors 
+represent safe harbors only when used in their entirety; that is, once 
+a specific safe harbor document has been selected, the covered 
+multifamily dwellings in question need to comply with all of the 
+provisions in that document that address the Act's design and 
+construction requirements. The benefit of safe harbor status may be 
+lost if, for example, a designer or builder chooses to select 
+provisions from more than one of the safe harbor documents or from a 
+variety of sources. In addition, the benefit of safe harbor status will 
+be lost if any waivers of accessibility provisions are requested and/or 
+obtained from state or local governmental agencies. A designer or 
+builder taking this approach runs the risk of building an inaccessible 
+property. While this does not necessarily mean that failure to meet all 
+of the respective provisions of a specific safe harbor will result in 
+unlawful discrimination under the Act, designers and builders that 
+choose to depart from provisions of a specific safe harbor bear the 
+burden of demonstrating that their actions nevertheless result in 
+covered
+
+[[Page 78960]]
+
+multifamily dwellings that comport with the Act's design and 
+construction requirements.\10\
+---------------------------------------------------------------------------
+
+    \10\ Joint Statement, Q&A 38.
+---------------------------------------------------------------------------
+
+    Comment: Several commenters stated that the rule should explicitly 
+state that a developer must comply with one of the new IBC standards to 
+claim a safe harbor. These commenters stated further that HUD should 
+include language in the rule specifying that a state or local entity 
+must adopt the IBC without any revisions that reduce the level of 
+accessibility required by the IBC standard and the entities responsible 
+for the design and construction must fully comply with the chosen safe 
+harbor.
+    HUD Response: HUD declined to mandate that the new IBC standards 
+are the only safe harbors that may be used. Rather, any of the 
+designated safe harbors may be used. If a state or locality has adopted 
+one of these safe harbor documents without amendment or deviation that 
+reduces the level of accessibility, then covered residential buildings 
+that are built to those specifications will be designed and constructed 
+in accordance with the Act as long as the building code official does 
+not waive or incorrectly interpret or apply one or more of those 
+requirements. Moreover, as noted above, the entities responsible for 
+the design and construction must fully comply with the chosen safe 
+harbor.\11\
+---------------------------------------------------------------------------
+
+    \11\ Joint Statement, Q&A 38.
+---------------------------------------------------------------------------
+
+    Comment: One commenter asked a question about meeting the Act's 
+design and construction requirements. Specifically, the commenter 
+asked: If units are designed to comply with the Fair Housing Act, as 
+well as with HUD's Uniform Federal Accessibility Standards (UFAS) or 
+ADA if there is federal assistance, would the stricter requirements of 
+an IBC Type A unit apply; and Alternatively, if one were to choose to 
+design to the IBC standard, would this be considered in compliance with 
+the Act?
+    HUD Response: As discussed above, if a covered multifamily dwelling 
+is designed in accordance with one of the IBC standards designated as 
+safe harbors, it will comply with the Act so far as no deviation from 
+the standard has occurred. If the property is also subject to multiple 
+accessibility laws and standards, such as UFAS and the ADA, it must be 
+designed and built in accordance with the accessibility requirements of 
+each law. To the extent that the requirements of different federal laws 
+apply to the same feature, the requirements of the law imposing greater 
+accessibility requirements must be met, in terms of both scoping and 
+technical requirements.
+
+Specific Accessibility Features
+
+    Comment: A commenter inquired whether a project that designates the 
+2009, 2012, 2015, or 2018 editions of the IBC as its safe harbor, and 
+fails to meet all requirements of the 2009 ICC A117.1, but still meets 
+the requirements of the Guidelines, would violate the Fair Housing Act? 
+The commenter provided the following example: Kitchens in Type A units 
+require a work surface to be 34'' Above Finished Floor (AFF) max and 
+provide for a forward approach, whereas the Guidelines have no 
+requirements for work surfaces within kitchens. A failure to provide a 
+work surface will not meet the requirements of the 2009 ICC A117.1, but 
+will meet the Guidelines' requirements.
+    HUD Response: The IBC standards specify that a percentage of ``Type 
+A'' units must be provided containing a high level of accessibility, 
+especially in kitchens and bathrooms, as well as some features of 
+adaptability. The IBC also provides for ``Type B'' dwelling units, 
+which are intended to comply with those features of accessible and 
+adaptable design required under the Act. Like the Act, the requirements 
+for Type B dwelling units apply to a greater number of dwelling units 
+in a building, but the level of accessibility is less than that of the 
+Type A dwelling units. The IBC provides scoping requirements for Type B 
+dwelling units that are intended to be consistent with the scoping 
+requirements in the Act, the regulations, and the Guidelines. For the 
+technical requirements, the IBC references the A117.1 accessibility 
+standard. A case of discrimination may be established by showing that 
+the housing does not meet HUD's Guidelines. As discussed above, the 
+building in question must comply with all of the provisions in that 
+document that address the Fair Housing Act design and construction 
+requirements to ensure the safe harbor's full benefit.\12\
+---------------------------------------------------------------------------
+
+    \12\ Joint Statement, Q&A 40.
+---------------------------------------------------------------------------
+
+    Comment: A commenter hoped the safe harbor status would supersede 
+the dimensional conflict that currently exists for centerline of water 
+closets to the adjacent walls supporting the grab bar.
+    HUD Response: As noted above, while there may be slight differences 
+among the various editions of the A117.1 standard, the standards are 
+consistent with the Act's requirements and the differences do not 
+result in bathrooms that provide less accessibility.
+    Comment: A commenter asked: In ICC A117.1-2009, Type A and Type B 
+units require that blocking be provided for the future installation of 
+grab bars at toilets, showers, and bathtubs but describes only the 
+location of the grab bars, not where blocking is to be provided. In 
+contrast, the Guidelines provide diagrams for where blocking is to be 
+located. If the 2012, 2015 or 2018 editions of the IBC are chosen as a 
+safe harbor and blocking is provided for the grab bar locations 
+described in the ICC A117.1-2009, but blocking is not provided to meet 
+the requirements of the Guidelines, would this be a Fair Housing Act 
+violation?
+    HUD Response: If the 2012, 2015 or 2018 editions of the IBC are 
+chosen as a safe harbor, blocking should be provided as specified in 
+chapters 6 and 10 of ICC A117.1-2009.
+
+Requests for Additional Guidance
+
+    Comment: Some commenters urged HUD to also update guidance 
+documents, including the Fair Housing Act Design Manual, the HUD-DOJ 
+Joint Statement, and Fair Housing First to reflect current construction 
+practices. A commenter stated that this would allow HUD's guidance 
+documents and the Design Manual to be consistent with and fully reflect 
+the current accepted safe harbors, the additional safe harbors as 
+proposed in this rulemaking, and the various building codes used across 
+the country by state and local communities. One commenter suggested HUD 
+develop ``Fact Sheets'' covering the Act's design requirements that 
+highlight each requirement with text and examples, along with links for 
+users to access additional information.
+    HUD Response: The commenters' request is outside this rule's scope. 
+HUD will, however, consider the commenters' recommendations to provide 
+additional guidance on the Act's design and construction requirements.
+    Comment: One commenter asked that HUD provide additional guidance 
+on what dwellings and buildings containing elevators are covered by the 
+design and construction requirements.
+    HUD Response: HUD notes that the comment is outside the rulemaking 
+scope, but directs the commenter to its prior guidance on this topic, 
+including the Fair Housing Act Design Manual \13\ and the Joint 
+Statement of the Department of Housing and Urban Development and the 
+Department of Justice on the Accessibility (Design and Construction) 
+Requirements for Covered
+
+[[Page 78961]]
+
+Multifamily Dwellings under the Fair Housing Act,\14\ which contain 
+detailed discussions of dwellings and buildings with elevators.
+---------------------------------------------------------------------------
+
+    \13\ <a href="https://www.huduser.gov/portal/publications/PDF/FAIRHOUSING/fairfull.pdf">https://www.huduser.gov/portal/publications/PDF/FAIRHOUSING/fairfull.pdf</a>.
+    \14\ <a href="https://www.hud.gov/sites/documents/JOINTSTATEMENT.PDF">https://www.hud.gov/sites/documents/JOINTSTATEMENT.PDF</a>.
+---------------------------------------------------------------------------
+
+Other Issues
+
+    Comment: Commenters stated that going forward, HUD should designate 
+new safe harbors in a timely fashion. Commenters requested that HUD 
+review and adopt more recent versions of ANSI A117.1 and the IBC. Two 
+commenters supported HUD's proposal to designate new safe harbors by 
+Federal Register notice with a minimum 30-day comment period, stating 
+that establishing a procedure to evaluate new editions of codes and 
+standards against the Act's accessibility requirements will help ensure 
+HUD's safe harbor list stays current.
+    HUD Response: HUD agrees that the process for adopting new safe 
+harbors can be more timely and expects that the addition of Sec.  
+100.205(e)(3) will serve that end. The new provision permits HUD to 
+propose new safe harbors by Federal Register notice with a minimum 
+public comment period of 30 days and, after considering public comment, 
+to publish a final notice announcing any new safe harbor. HUD will also 
+periodically codify new safe harbors in part 100 in the course of later 
+rulemaking.
+    Comment: Several commenters requested that HUD continue to make the 
+matrix, prepared by the ICC and forming a basis for the proposed rule, 
+publicly available on its website as well as through the Fair Housing 
+FIRST program. They stated that the continued availability of the 
+matrix will enable designers, developers, and advocates to understand 
+key components of the safe harbors, vis a vis the Act's requirements.
+    HUD Response: HUD notes that the matrix is part of this 
+rulemaking's administrative record. Interested parties may contact the 
+ICC concerning the electronic public posting of this document.
+    Comment: A commenter asked HUD to explain how this rule's adoption 
+contributes to tackling the affordability crisis among people with 
+disabilities so that they can afford to live in these advantageous 
+living spaces.
+    HUD Response: As many commenters have noted, the adoption of 
+additional safe harbors will make it easier for persons who design and 
+construct covered multifamily dwellings to comply with the Act and 
+state and local building codes. HUD believes this will also facilitate 
+greater availability of accessible housing across all affordability 
+levels.
+
+Outside the Rulemaking Scope
+
+    Comment: Some commenters stated that the Act and HUD's Guidelines 
+should provide for accessibility meeting universal design and promoting 
+visitability. One commenter noted that bathtubs are not usable to 
+people with serious mobility impairments. The commenter added that 
+accessible bathtubs are not expensive to build from the design phase, 
+but are expensive to retrofit, and urged HUD to compel developers to 
+plan for the needs of older adults and people with disabilities.
+    HUD Response: HUD notes that the comment is beyond this 
+rulemaking's scope. HUD notes further that the Act is intended to place 
+``modest accessibility requirements on covered multifamily dwellings'' 
+that will ensure accessibility for a broad range of individuals with 
+disabilities.\15\ Universal design often provides a greater level of 
+accessibility design and visitability than the Act. HUD agreed with the 
+commenter though that developers and designers should consider the 
+needs of the aging population as they plan and build new housing or 
+modernize existing housing.
+---------------------------------------------------------------------------
+
+    \15\ House Report No. 711, 100th Congress, 2nd Session.
+---------------------------------------------------------------------------
+
+    Comment: A commenter thought that using these documents as default 
+standards would undermine the other design codes like the Americans 
+with Disabilities Act (ADA) and state building codes, which built upon 
+them for better accessibility.
+    HUD Response: In many instances, multifamily housing is subject to 
+the accessibility requirements of more than one statute, such as the 
+Fair Housing Act, the Americans with Disabilities Act (ADA) or Section 
+504 of the Rehabilitation Act of 1973. In such circumstances, the 
+housing must comply with the law that provides for the greatest level 
+of accessibility in a particular element. Furthermore, the Act 
+specifically provides that it does not invalidate or limit any state or 
+local law that requires dwellings to be designed and constructed in a 
+manner that affords greater accessibility than the Act does. For these 
+reasons, the adoption of safe harbors does not undermine the 
+requirements of any standard that is applicable under other laws.
+    Comment: Two commenters suggested changes concerning the Uniform 
+Federal Accessibility Standards (UFAS), with one commenter recommending 
+that HUD adopt a rule creating consistency between UFAS and building 
+codes to facilitate Section 504 compliance in rehabilitation projects.
+    HUD Response: HUD declined to respond because the rule concerns 
+safe harbors under the Fair Housing Act, not Section 504, so the 
+comment is outside this rulemaking's scope.
+
+IV. Incorporation by Reference
+
+    The referenced standard incorporated in this rule was approved by 
+the Director of the Federal Register, in accordance with 5 U.S.C. 
+552(a) and 1 CFR part 51. This rule incorporates the voluntary 
+consensus standard ICC A117.1-2009 Accessible and Usable Buildings and 
+Facilities, as satisfying the Fair Housing Act's design and 
+construction requirements. It does not incorporate interpretations of 
+ICC A117.1-2009 issued by the ICC or any other entity or person. The 
+rule also cannot account for editions of ICC A117.1 issued after the 
+2009 edition. Therefore, if HUD were to revise the standard in the 
+future to codify newer editions of ICC A117.1, further rulemaking would 
+be required.
+    ICC A117.1-2009 is available online for review, via read-only 
+access, at <a href="https://codes.iccsafe.org/content/ICCA117_12009?site_type=public">https://codes.iccsafe.org/content/ICCA117_12009?site_type=public</a>. Members of the public may visit the 
+link and create a username and password to view the free-access 
+edition. The standard may also be obtained from the International Code 
+Council, 500 New Jersey Avenue NW, 6th Floor, Washington, DC 20001-
+2070, telephone number 1-888-422-7233, <a href="http://www.iccsafe.org/e/category.html">http://www.iccsafe.org/e/category.html</a>. This phone number may also be reached by persons who are 
+deaf or hard of hearing, or have speech disabilities, by dialing 711 
+via teletype (TTY).
+    The following standards, included in the regulatory text, were all 
+previously approved for incorporation by reference in their respective 
+locations and those references remain unchanged: ICC/ANSI A117.1-2003, 
+ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986.
+
+V. Findings and Certifications
+
+Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (RFA) (5 U.S.C. 601 et seq.) 
+generally requires an agency to conduct a regulatory flexibility 
+analysis on any rule subject to notice and comment rulemaking 
+requirements, unless the agency certifies that the rule will not have a 
+significant economic impact on a substantial number of small entities. 
+Small entities include small businesses, small not-for-profit 
+organizations, and small governmental jurisdictions.
+
+[[Page 78962]]
+
+    This final rule's purpose is to update a codified regulation that 
+provides technical standards for the design of covered multifamily 
+dwellings to ensure accessibility for persons with disabilities as 
+required by the Fair Housing Act. Specifically, the rule incorporates 
+by reference the 2009 edition of ICC A117.1 as a safe harbor, 
+compliance with which would satisfy the Fair Housing Act's 
+requirements. The final rule also retains as safe harbors the 1986, 
+1992, 1998 and 2003 editions of ANSI A117.1, as well as the 2000, 2003 
+and 2006 IBC editions, which HUD has previously adopted. In addition, 
+the rule adds the 2009, 2012, 2015 and 2018 IBC editions as safe 
+harbors. Consequently, small entities would not incur a significant 
+economic impact as they may continue to use any of the previously 
+codified standards. Additionally, adopting the 2009 ICC A117.1 and the 
+other new safe harbors may alleviate a significant economic impact for 
+small entities, as those entities may find compliance with these 
+standards to be less burdensome because their state or local building 
+codes may use these later editions of the A117.1 standard or the IBC. 
+Therefore, the undersigned certifies that this final rule will not have 
+a significant economic impact on a substantial number of small 
+entities.
+
+Federalism Impact
+
+    Executive Order 13132 (entitled ``Federalism'') prohibits, to the 
+extent practicable and permitted by law, an agency from promulgating a 
+regulation that has federalism implications and either imposes 
+substantial direct compliance costs on state and local governments and 
+is not required by statute, or preempts state law, unless the relevant 
+requirements of section 6 of the Executive Order are met. This rule 
+does not have federalism implications and does not impose substantial 
+direct compliance costs on state and local governments or preempt state 
+law within the meaning of the Executive Order.
+
+Environmental Impact
+
+    This final rule is a policy document that sets out fair housing and 
+nondiscrimination standards. Accordingly, under 24 CFR 50.19(c)(3), 
+this final rule is categorically excluded from environmental review 
+under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et 
+seq.).
+
+Unfunded Mandates Reform Act
+
+    Title II of the Unfunded Mandates Reform Act (UMRA) of 1995 (2 
+U.S.C. 1531-1538) requires federal agencies to assess the effects of 
+their regulatory actions on state, local, and tribal governments, and 
+on the private sector. This rule does not impose, within the meaning of 
+the UMRA, any federal mandates on any state, local, or tribal 
+governments, or on the private sector.
+
+Catalog of Federal Domestic Assistance
+
+    The Catalog of Federal Domestic Assistance number for this program 
+is 14.400.
+
+List of Subjects in 24 CFR Part 100
+
+    Aged, Fair housing, Incorporation by reference, Individuals with 
+disabilities, Mortgages, Reporting and recordkeeping requirements.
+
+    For the reasons stated in the preamble, HUD is amending 24 CFR part 
+100 as follows:
+
+PART 100--DISCRIMINATORY CONDUCT UNDER THE FAIR HOUSING ACT
+
+0
+1. The authority for 24 CFR part 100 continues to read as follows:
+
+    Authority: 42 U.S.C. 3535(d), 3600-3620.
+
+
+0
+2. In Sec.  100.201, revise the definitions of ``Accessible,'' 
+``Accessible route,'' and ``Building entrance on an accessible route'' 
+to read as follows:
+
+
+Sec.  100.201  Definitions.
+
+    Accessible when used with respect to the public and common use 
+areas of a building containing covered multifamily dwellings, means 
+that the public or common use areas of the building can be approached, 
+entered, and used by individuals with physical disabilities. The phrase 
+``readily accessible to and usable by'' is synonymous with accessible. 
+A public or common use area that complies with the appropriate 
+requirements of ICC A117.1-2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-
+1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 (all incorporated by 
+reference, see Sec.  100.201a) or a comparable standard is deemed 
+``accessible'' within the meaning of this paragraph.
+* * * * *
+    Accessible route means a continuous unobstructed path connecting 
+accessible elements and spaces in a building or within a site that can 
+be negotiated by a person with a severe disability using a wheelchair 
+and that is also safe for and usable by people with other disabilities. 
+Interior accessible routes may include corridors, floors, ramps, 
+elevators, and lifts. Exterior accessible routes may include parking 
+access aisles, curb ramps, walks, ramps, and lifts. A route that 
+complies with the appropriate requirements of ICC A117.1-2009, ICC/ANSI 
+A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-
+1986 (all incorporated by reference, see Sec.  100.201a) or a 
+comparable standard is an ``accessible route'' within the meaning of 
+this paragraph.
+* * * * *
+    ``Building entrance on an accessible route'' means an accessible 
+entrance to a building that is connected by an accessible route to 
+public transportation stops, to accessible parking and passenger 
+loading zones, or to public streets or sidewalks, if available. A 
+building entrance that complies with ICC A117.1-2009, ICC/ANSI A117.1-
+2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 
+(all incorporated by reference, see Sec.  100.201a) or a comparable 
+standard is a ``building entrance on an accessible route'' within the 
+meaning of this paragraph.
+* * * * *
+
+0
+3. Revise Sec.  100.201a to read as follows:
+
+
+Sec.  100.201a  Incorporation by reference.
+
+    (a) Certain material is incorporated by reference into this part 
+with the approval of the Director of the Federal Register under 5 
+U.S.C. 552(a) and 1 CFR part 51. All approved material is available for 
+inspection at Department of Housing and Urban Development, 451 Seventh 
+Street SW, Room 5240, Washington, DC 20410-0001, telephone number 202-
+708-2333, and is available from the sources listed below. It is also 
+available for inspection at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, email [email redacted] or go to 
+<a href="http://www.archives.gov/federal-register/cfr/ibr-locations.html">www.archives.gov/federal-register/cfr/ibr-locations.html</a>. The phone 
+numbers included in this section may also be reached by persons who are 
+deaf or hard of hearing, or have speech disabilities, by dialing 711 
+via teletype (TTY).
+    (b) American National Standards Institute (ANSI), 25 West 43rd 
+Street, 4th Floor, New York, NY 10036, 212.642.4900, [email redacted]. 
+<a href="https://webstore.ansi.org">https://webstore.ansi.org</a>.
+    (1) ANSI A117.1-1986, American National Standard for Buildings and 
+Facilities: Providing Accessibility and Usability for Physically 
+Handicapped People, 1986 edition, into Sec. Sec.  100.201 and 100.205.
+    (2) [Reserved]
+    (c) International Code Council (ICC), 500 New Jersey Avenue NW, 6th 
+Floor, Washington, DC 20001-2070, telephone
+
+[[Page 78963]]
+
+number 1-888-422-7233, <a href="http://www.iccsafe.org/e/category.html">http://www.iccsafe.org/e/category.html</a>.
+    (1) CABO/ANSI A117.1-1992, American National Standard: Accessible 
+and Usable Buildings and Facilities, 1992 edition, into Sec. Sec.  
+100.201 and 100.205.
+    (2) ICC/ANSI A117.1-1998, American National Standard: Accessible 
+and Usable Buildings and Facilities, 1998 edition, into Sec. Sec.  
+100.201 and 100.205.
+    (3) ICC/ANSI A117.1-2003, American National Standard: Accessible 
+and Usable Buildings and Facilities, 2003 edition, into Sec. Sec.  
+100.201 and 100.205.
+    (4) ICC A117.1-2009, Accessible and Usable Buildings and 
+Facilities, 2009 edition, approved October 20, 2010, into Sec. Sec.  
+100.201 and 100.205.
+
+0
+4. In Sec.  100.205, revise paragraph (e)(1), add paragraphs 
+(e)(2)(vii) through (x), and revise paragraph (e)(3), to read as 
+follows:
+
+
+Sec.  100.205  Design and construction requirements.
+
+* * * * *
+    (e)(1) Compliance with the appropriate requirements of ICC A117.1-
+2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-
+1992, or ANSI A117.1-1986 (all incorporated by reference, see Sec.  
+100.201a), or suffices to satisfy the requirements of paragraph (c)(3) 
+of this section.
+    (2) * * *
+    (vii) 2009 International Building Code, published by ICC (<a href="http://www.iccsafe.org">http://www.iccsafe.org</a>), and interpreted in accordance with the relevant 2009 
+IBC Commentary;
+    (viii) 2012 International Building Code, published by ICC (<a href="http://www.iccsafe.org">http://www.iccsafe.org</a>), and interpreted in accordance with the relevant 2012 
+IBC Commentary;
+    (ix) 2015 International Building Code, published by ICC (<a href="http://www.iccsafe.org">http://www.iccsafe.org</a>), and interpreted in accordance with the relevant 2015 
+IBC Commentary; and
+    (x) 2018 International Building Code, published by ICC (<a href="http://www.iccsafe.org">http://www.iccsafe.org</a>), and interpreted in accordance with the relevant 2018 
+IBC Commentary.
+    (3) HUD may propose safe harbors by Federal Register notification 
+that provides for a minimum of 30 days public comment period. HUD will 
+publish a final notification announcing safe harbors after considering 
+public comments. Compliance with safe harbors established by Federal 
+Register notification will satisfy the requirements of paragraphs (a) 
+and (c) of this section.
+* * * * *
+
+Anna Maria Far[iacute]as,
+Assistant Secretary for Fair Housing and Equal Opportunity.
+[FR Doc. 2020-26376 Filed 12-7-20; 8:45 am]
+BILLING CODE 4210-67-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

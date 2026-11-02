@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78936-78937]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26814]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF VETERANS AFFAIRS
+
+[OMB Control No. 2900-0031]
+
+
+Agency Information Collection Activity under OMB Review: Veteran/
+Servicemember's Supplemental Application for Assistance in Acquiring 
+Specially Adapted Housing
+
+AGENCY: Veterans Benefits Administration, Department of Veterans 
+Affairs.
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In compliance with the Paperwork Reduction Act (PRA) of 1995, 
+this notice announces that the Veterans Benefits Administration, 
+Department of Veterans Affairs, will submit the collection of 
+information abstracted below to the Office of Management and Budget 
+(OMB) for review and comment. The PRA submission describes the nature 
+of the information collection and its expected cost and burden and it 
+includes the actual data collection instrument.
+
+DATES: Written comments and recommendations for the proposed 
+information collection should be sent within 30 days of publication of 
+this notice to <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular 
+information collection by selecting ``Currently under 30-day Review--
+Open for Public Comments'' or by using the search function. Refer to 
+``OMB Control No. 2900-0031.
+
+[[Page 78937]]
+
+
+FOR FURTHER INFORMATION CONTACT: Danny S. Green, Enterprise Records 
+Service (005R1B), Department of Veterans Affairs, 810 Vermont Avenue 
+NW, Washington, DC 20420, (202) 421-1354 or email [email redacted]. 
+Please refer to ``OMB Control No. 2900-0031'' in any correspondence.
+
+SUPPLEMENTARY INFORMATION:
+    Authority: Public Law 104-13; 44 U.S.C. 3501-3521.
+    Title: Veteran/Servicemember's Supplemental Application for 
+Assistance in Acquiring Specially Adapted Housing, VA Form 26-4555c.
+    OMB Control Number: 2900-0031.
+    Type of Review: Extension of a currently approved collection.
+    Abstract: Title 38, U.S.C., chapter 21, authorizes a VA program of 
+grants for specially adapted housing for disabled veterans or 
+servicemembers. Section 2101(a) of this chapter specifically outlines 
+those determinations that must be made by VA before such grant is 
+approved for a particular veteran or servicemember. VA Form 26-4555c is 
+used to collect information that is necessary for VA to meet the 
+requirements of 38 U.S.C. 2101(a). Also, see 38 CFR 36.4402(a), 36-
+4404(a), and 36.4405.
+    An agency may not conduct or sponsor, and a person is not required 
+to respond to a collection of information unless it displays a 
+currently valid OMB control number. The Federal Register Notice with a 
+60-day comment period soliciting comments on this collection of 
+information was published at 85 FR 174 on September 8, 2020, pages 
+55581-55582.
+    Affected Public: Individuals or Households.
+    Estimated Annual Burden: 350 Hours.
+    Estimated Average Burden per Respondent: 15 minutes.
+    Frequency of Response: One time.
+    Estimated Number of Respondents: 1400.
+
+    By direction of the Secretary.
+Danny S. Green,
+VA PRA Clearance Officer, Office of Quality, Performance and Risk, 
+Department of Veterans Affairs.
+[FR Doc. 2020-26814 Filed 12-4-20; 8:45 am]
+BILLING CODE 8320-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

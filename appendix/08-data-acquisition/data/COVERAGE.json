@@ -1,0 +1,163 @@
+{
+  "dataset": "Federal Register full text",
+  "version": 1,
+  "coverage_start": "2000-01-01",
+  "coverage_end": "2026-09-15",
+  "first_publication_date": "2000-01-03",
+  "last_publication_date": "2026-09-15",
+  "documents": 806941,
+  "with_text": 806237,
+  "pdf_only": 704,
+  "packs": 321,
+  "raw_bytes": 14562610396,
+  "documents_with_image_placeholders": 16000,
+  "documents_with_hidden_emails": 457644,
+  "by_source_site": {
+    "federalregister.gov": 673687,
+    "govinfo.gov": 132550
+  },
+  "by_collection_pass": {
+    "august_bulk": 282675,
+    "daily_delta": 3200,
+    "july_govinfo": 132530,
+    "monthly_pass": 387812,
+    "stragglers_govinfo": 20
+  },
+  "by_year": {
+    "2000": {
+      "documents": 33325,
+      "with_text": 32786,
+      "pdf_only": 539
+    },
+    "2001": {
+      "documents": 32003,
+      "with_text": 32003,
+      "pdf_only": 0
+    },
+    "2002": {
+      "documents": 33094,
+      "with_text": 33094,
+      "pdf_only": 0
+    },
+    "2003": {
+      "documents": 32805,
+      "with_text": 32805,
+      "pdf_only": 0
+    },
+    "2004": {
+      "documents": 32377,
+      "with_text": 32377,
+      "pdf_only": 0
+    },
+    "2005": {
+      "documents": 32233,
+      "with_text": 32111,
+      "pdf_only": 122
+    },
+    "2006": {
+      "documents": 31505,
+      "with_text": 31477,
+      "pdf_only": 28
+    },
+    "2007": {
+      "documents": 30818,
+      "with_text": 30818,
+      "pdf_only": 0
+    },
+    "2008": {
+      "documents": 31817,
+      "with_text": 31817,
+      "pdf_only": 0
+    },
+    "2009": {
+      "documents": 30663,
+      "with_text": 30663,
+      "pdf_only": 0
+    },
+    "2010": {
+      "documents": 32471,
+      "with_text": 32470,
+      "pdf_only": 1
+    },
+    "2011": {
+      "documents": 33103,
+      "with_text": 33101,
+      "pdf_only": 2
+    },
+    "2012": {
+      "documents": 30875,
+      "with_text": 30875,
+      "pdf_only": 0
+    },
+    "2013": {
+      "documents": 30771,
+      "with_text": 30771,
+      "pdf_only": 0
+    },
+    "2014": {
+      "documents": 30168,
+      "with_text": 30167,
+      "pdf_only": 1
+    },
+    "2015": {
+      "documents": 29977,
+      "with_text": 29977,
+      "pdf_only": 0
+    },
+    "2016": {
+      "documents": 31127,
+      "with_text": 31127,
+      "pdf_only": 0
+    },
+    "2017": {
+      "documents": 27530,
+      "with_text": 27529,
+      "pdf_only": 1
+    },
+    "2018": {
+      "documents": 27750,
+      "with_text": 27750,
+      "pdf_only": 0
+    },
+    "2019": {
+      "documents": 27168,
+      "with_text": 27165,
+      "pdf_only": 3
+    },
+    "2020": {
+      "documents": 28308,
+      "with_text": 28307,
+      "pdf_only": 1
+    },
+    "2021": {
+      "documents": 27712,
+      "with_text": 27710,
+      "pdf_only": 2
+    },
+    "2022": {
+      "documents": 28033,
+      "with_text": 28032,
+      "pdf_only": 1
+    },
+    "2023": {
+      "documents": 28317,
+      "with_text": 28317,
+      "pdf_only": 0
+    },
+    "2024": {
+      "documents": 30830,
+      "with_text": 30829,
+      "pdf_only": 1
+    },
+    "2025": {
+      "documents": 23690,
+      "with_text": 23688,
+      "pdf_only": 2
+    },
+    "2026": {
+      "documents": 18471,
+      "with_text": 18471,
+      "pdf_only": 0
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "edition": "release derivative, 2026-11-02",
+  "original_seal": "SHA256SUMS",
+  "original_seal_sha256": "b2f361cdaef18fbdf497667c273b83996facfc88e9361a7f09a4c980a1f55d88",
+  "current_bytes": "RELEASE_SHA256SUMS",
+  "originals": "The original sealed packet is retained privately. SHA256SUMS retains its fingerprints; the duplicate handoff is omitted from this public edition.",
+  "derived_files": [
+    {
+      "path": "INPUT_MANIFEST.json",
+      "original_sha256": "9128fd18d8fa44c5e69be7f407180816778bf6080137b64c18cb61a17a6a22ff",
+      "release_sha256": "222b3bd99f1016eccb94395343817ad2074db0562d8df3eb7e1b0630a103614c",
+      "changes": "Existing release redaction: private archive addresses and authority labels replaced; all 22 transcript hashes unchanged."
+    },
+    {
+      "path": "MANIFEST.json",
+      "original_sha256": "378813e795c29e98b8d18bd2a03d8d258de7f65e40830767436b62d955513dec",
+      "release_sha256": "79f5f03f3363aa0aa99c0f477b6e0e455db141a36a9c1c506eac7f068b1f1ab4",
+      "changes": "Two absolute machine paths replaced by explicit withheld markers; one release note added. All analytical and historical provenance fields unchanged."
+    }
+  ],
+  "unchanged_original_files": [
+    "CATEGORY_MEMOS.jsonl",
+    "CODES.jsonl",
+    "COMPARISONS.jsonl",
+    "EPISODES.jsonl",
+    "INCIDENTS.jsonl",
+    "MEMOS.jsonl",
+    "SAMPLING_REQUESTS.jsonl"
+  ],
+  "limits": "This is an inspection edition, not an executable continuation of the original study. Transcripts and prior-cycle runtime directories are withheld. Historical tool-tree and input-manifest fingerprints are not replaced by claims that released bytes are original.",
+  "omitted_original_files": [
+    "HANDOFF.md"
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "file": "Zevi Arnovitz.txt",
+    "manifestation_id": "MNF-LENNY-007",
+    "sha256": "b82c465ed31e9cfe1714208e6de648cde7b060b469785ad452ad32f08b143a23",
+    "lane": "A",
+    "prior_request": "REQ001",
+    "gap": "Novice routes to evaluation and intervention",
+    "discriminating_question": "Does successful novice practice require personal code understanding or can evaluation be distributed to tools and other people?",
+    "opposing_expected_observations": "Independent novice correction would challenge an expertise prerequisite; inability to assess outputs or unreleased demos would bound the claim.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Lazar Jovanovic.txt",
+    "manifestation_id": "MNF-LENNY-008",
+    "sha256": "3af1a9e02a7ca4f071ba7c02c71b66127be0eaeb2d01a8f9ba4b64cc5d033935",
+    "lane": "A",
+    "prior_request": "REQ001",
+    "gap": "Skill versus infrastructure in recovery",
+    "discriminating_question": "Do disciplined prompting and self-correction explain recovery when the necessary interface is unavailable?",
+    "opposing_expected_observations": "A failure-to-success transition only after API availability supports an external condition; recovery without such change would favor user workflow.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Eric Simons.txt",
+    "manifestation_id": "MNF-LENNY-009",
+    "sha256": "9c5748fd93006930986f5d5cfc6bbb2fedabec1ffcba43108254b890dbd1d12b",
+    "lane": "A",
+    "prior_request": "REQ001",
+    "gap": "Shelving and restarting AI development",
+    "discriminating_question": "Can expert builders resolve failures through adjustments, or does a model capability change determine viability?",
+    "opposing_expected_observations": "Reported shelving then restart after model improvement challenges a purely local user-skill account; successful adjustment before it would favor that account.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Aishwarya Naresh Reganti + Kiriti Badam.txt",
+    "manifestation_id": "MNF-LENNY-010",
+    "sha256": "53e6543c005ebc381ee4ecf88176dc54cc6c231df16ab7fb44f86cb4f9798d9a",
+    "lane": "B",
+    "prior_request": "REQ001",
+    "gap": "Expert failure, shutdown and expanding user demands",
+    "discriminating_question": "Does iterative repair preserve useful delegation, or can repairs cease to make the workflow workable?",
+    "opposing_expected_observations": "A reported shutdown despite expertise challenges indefinite revision as a sufficient mechanism; bounded recalibration after scope expansion shows an alternative response.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Simon Willison.txt",
+    "manifestation_id": "MNF-LENNY-011",
+    "sha256": "6120272a03fbdb52d3f85c8444142694b36882d67ca5fb742c3469074acaa76b",
+    "lane": "B",
+    "prior_request": "REQ001",
+    "gap": "Expert limits and deliberately restricted use",
+    "discriminating_question": "Does expertise sustain wider delegation, or does supervision load and uncertainty make restriction rational?",
+    "opposing_expected_observations": "Experienced restriction or overload would challenge monotonic expansion; sustained unattended success would challenge attention as the limiting condition.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Hamel Husain & Shreya Shankar.txt",
+    "manifestation_id": "MNF-LENNY-012",
+    "sha256": "03798caf25f4aa5f02582d2f7b56329ceb0d926cabb273a3ea8574d3e0ed4141",
+    "lane": "B",
+    "prior_request": "REQ001",
+    "gap": "Disagreement about evaluation criteria",
+    "discriminating_question": "Can output correctness suffice, or do reviewers/users renegotiate what counts as useful?",
+    "opposing_expected_observations": "A concrete shift from factual correctness to appropriateness supports criteria revision; settled criteria reliably predicting actual value would challenge it.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Sherwin Wu_V2.txt",
+    "manifestation_id": "MNF-LENNY-013",
+    "sha256": "c951b6f94af3d8a39026f92dfbf4345d191275a1c4288f8b58ba93ede88cc267",
+    "lane": "C",
+    "prior_request": "REQ001",
+    "gap": "Organizations removing manual fallback",
+    "discriminating_question": "Can workers recover and revise work when manual implementation is deliberately unavailable?",
+    "opposing_expected_observations": "Successful changes through documentation or environment would challenge takeover as a necessary route; inability to alter consequential failures would bound that alternative.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Farhan Thawar.txt",
+    "manifestation_id": "MNF-LENNY-014",
+    "sha256": "943003bf0975511808c8b90e18e2cd346991f88cb6c75b2e4db30f16ea072a8b",
+    "lane": "C",
+    "prior_request": "REQ001",
+    "gap": "Privileged access to repair infrastructure",
+    "discriminating_question": "Is intervention capacity located in the individual or in organizational relationships and vendor access?",
+    "opposing_expected_observations": "Reported recovery requiring exceptional provider access supports distributed repair capacity; the same resolution readily available to ordinary users would weaken this condition.",
+    "selection_stage": "C002_AFTER_CONTEXTUAL_SCREEN_BEFORE_FULL_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  }
+]

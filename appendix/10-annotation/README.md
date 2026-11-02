@@ -1,28 +1,47 @@
 # LLM-annotation workflow
 
-[Webpage](https://textdata.info/toolkit/llm-annotation-workflow/) · [All components](../README.md)
+A working prototype that turns passages into candidate actor–action records, checks their quotations and exports source-linked features.
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+[Explore the interactive example](https://textdata.info/toolkit/llm-annotation-workflow/) · [Use with your AI assistant](AI-PROMPT.md)
 
-## Purpose and scope
+## Start with the example
 
-This prototype connects a defined coding task to source-linked candidate annotations. It supports questions about who is assigned to do what in organizational documents, while keeping a stated responsibility distinct from observed behavior.
+Five selected passages from Executive Order 13960 yield **four candidate relations and one no-assignment record**. In section 4(b), the candidate actor is “the Director of OMB (Director)”, the action is posting a roadmap, and the consulted stakeholders are recorded separately.
 
-## Design and components
+Read [the walkthrough](docs/WORKED_EXAMPLE.txt), inspect [the feature table](example/output/features.csv), or follow the exact quotations and character positions in [the annotation records](example/output/annotations.jsonl).
 
-The package combines a codebook, preserved passages, versioned requests, retained model responses and tools for checking and exporting results. The model proposes actors, actions and qualifications; software checks whether quotations and passage identities match the source. The researcher assesses the interpretation.
+Two synthetic errors—substituting stakeholders as the actor and omitting an assignment—both pass the source checks. The prototype checks that quoted words occur in a passage; independent reading is needed to assess their meaning.
 
-The codebook distinguishes mandatory, discretionary, prohibited, recommended and unresolved relations. It records responsible actors separately from actors who are consulted or receive an output, and retains conditions, deadlines and exceptions. A passage with no assignment receives a substantive negative classification, distinct from an unresolved interpretation or a failed model response.
+## Run the prototype
 
-## Use and outputs
+Python 3.9 or newer, standard library only. From this folder:
 
-To study how organizations assign responsibility, the researcher selects passages and supplies the document and codebook. The software prepares a request for each passage with the full document as context. Candidate responses are supplied separately. The export checks quotations against the source, records the selected occurrence when words recur, and distinguishes a missing response from a judgment that the passage assigns nothing. In section 5(c)(ii) of Executive Order 13960, agencies must “strive to implement the approved plans” within 180 days of approval, “subject to existing resource levels.” The feature table distinguishes the agencies responsible for acting from the body that coordinates their work and preserves both qualifications.
+    python3 tool/workflow.py export --package example/prepared --response example/candidate/candidate_response.jsonl --receipt example/candidate/producer_receipt.json --out replay-01
 
-## Evidence and limitations
+Choose a new output folder each time. This replays saved responses without a network or model call. Six output files match the supplied output byte for byte; run.json records the new execution. To run the included software checks:
 
-The demonstration covers five selected passages of the order. The export reproduces four candidate mandatory relations and one no-assignment record from the saved responses. The assistant that developed the codebook and software produced the responses in the same interactive session. The software itself makes no model calls, and the backend model and settings are unknown. Two synthetic error cases show why source checks cannot establish coding accuracy. One substitutes a consulted party for the responsible actor. The other omits an assignment. Both pass the checks. No independent reference coding or repeated model run exists. Evaluating whole passages, including omitted relations, remains proposed.
+    python3 checks/verify.py
 
-## Proposed development
+Expected: exit 0 and "all_ok": true. The checks include both deliberately wrong interpretations; passing is not an accuracy result.
 
-We will obtain independent reference annotations and evaluate accuracy and consistency before scaling.
+## Files to use
 
+| Entry | Purpose |
+|---|---|
+| [docs/WORKFLOW.txt](docs/WORKFLOW.txt) | Prepare a package, check responses and export features |
+| [example/input/](example/input/) | Source text, study definition, five passages, codebook and annotation instructions |
+| [example/prepared/requests.jsonl](example/prepared/requests.jsonl) | Saved requests with the full document as context |
+| [example/candidate/](example/candidate/) | Saved model candidates and their production limits |
+| [example/output/](example/output/) | Source-linked records, feature table, summary and empty reference-coding form |
+| [tool/](tool/) | Preparation and export tools |
+| [checks/verify.py](checks/verify.py) | Offline quotation, integrity and replay checks |
+
+## Completed and proposed
+
+Preparation, quotation checks, source-linked export and saved-output replay work on this example. Model calls and an agent skill remain proposed, along with independent reference coding and tests of accuracy and repeatability before scaling.
+
+The candidates were produced interactively by the assistant that built the prototype. The full conversation context and exact model/settings are unavailable. No independent reference labels or accuracy estimate exist. These hand-selected passages illustrate textual assignments, not observed behavior, current legal effect or a population estimate.
+
+## Sources and licences
+
+The official order is a public-domain United States Government work, credited to the Office of the Federal Register, NARA and U.S. Government Publishing Office/GovInfo. [Source details](data/SOURCES.md) and [notices](NOTICE.md) retain attribution and material qualifications. Project code: Apache-2.0. Project-authored documentation and data: CC BY 4.0. Third-party material retains its own status.

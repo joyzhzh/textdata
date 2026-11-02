@@ -1,0 +1,1158 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79051-79060]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26901]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90551; File No. SR-FICC-2020-015)
+
+
+Self-Regulatory Organizations; Fixed Income Clearing Corporation; 
+Notice of Filing of Proposed Rule Change To Include Same-Day Settling 
+Trades in the Risk Management, Novation, Guarantee, and Settlement 
+Services of the Government Securities Division's Delivery-Versus-
+Payment Service, and Make Other Changes
+
+December 2, 2020.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(``Act'') \1\ and Rule 19b-4 thereunder,\2\ notice is hereby given that 
+on November 19, 2020, Fixed Income Clearing Corporation (``FICC'') 
+filed with the Securities and Exchange Commission (``Commission'') the 
+proposed rule change as described in Items I, II and III below, which 
+Items have been prepared by the clearing agency.\3\ The
+
+[[Page 79052]]
+
+Commission is publishing this notice to solicit comments on the 
+proposed rule change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ On November 19, 2020, FICC filed this proposed rule change 
+as an advance notice (SR-FICC-2020-803) with the Commission pursuant 
+to Section 806(e)(1) of Title VIII of the Dodd-Frank Wall Street 
+Reform and Consumer Protection Act entitled the Payment, Clearing, 
+and Settlement Supervision Act of 2010, 12 U.S.C. 5465(e)(1), and 
+Rule 19b-4(n)(1)(i) under the Act, 17 CFR 240.19b-4(n)(1)(i). A copy 
+of the advance notice is available at <a href="http://www.dtcc.com/legal/sec-rule-filings.aspx">http://www.dtcc.com/legal/sec-rule-filings.aspx</a>.
+---------------------------------------------------------------------------
+
+I. Clearing Agency's Statement of the Terms of Substance of the 
+Proposed Rule Change
+
+    The proposed rule change consists of amendments to the FICC 
+Government Securities Division (``GSD'') Rulebook (the ``Rules'') \4\ 
+in order to (i) include Same-Day Settling Trades (as defined below) in 
+the risk management, Novation, guarantee, and settlement services of 
+GSD's delivery-versus-payment service (``DVP Service''), (ii) provide 
+that FICC would attempt to settle, on a reasonable efforts basis, any 
+Same-Day Settling Trades that are compared in the timeframe specified 
+by FICC in notices made available to Members from time to time \5\ to 
+the extent described below, (iii) introduce an optional service that 
+would allow GSD to systematically pair-off certain Members' failed 
+Securities Settlement Obligations between approximately 3:32 p.m. and 
+4:00 p.m., (iv) change the time of intraday funds-only settlement 
+(``FOS'') processing from 3:15 p.m. to 4:30 p.m., and (v) make certain 
+technical changes, as described in further detail below.
+---------------------------------------------------------------------------
+
+    \4\ Capitalized terms not defined herein are defined in the 
+Rules, available at <a href="http://www.dtcc.com/legal/rules-and-procedures">http://www.dtcc.com/legal/rules-and-procedures</a>.
+    \5\ The initial timeframe would be after 3:01 p.m. If the FRB 
+announces an extension of the Fedwire Securities Service, FICC would 
+match the duration of the extension. All times herein are ET.
+---------------------------------------------------------------------------
+
+II. Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change
+
+    In its filing with the Commission, the clearing agency included 
+statements concerning the purpose of and basis for the proposed rule 
+change and discussed any comments it received on the proposed rule 
+change. The text of these statements may be examined at the places 
+specified in Item IV below. The clearing agency has prepared summaries, 
+set forth in sections A, B, and C below, of the most significant 
+aspects of such statements.
+
+(A) Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change
+
+1. Purpose
+    The proposed rule change would amend the Rules in order to (i) 
+include Same-Day Settling Trades (as defined below) in the risk 
+management, Novation, guarantee, and settlement services of GSD's DVP 
+Service, (ii) provide that FICC would attempt to settle, on a 
+reasonable efforts basis, any Same-Day Settling Trades that are 
+compared in the timeframe specified by FICC in notices made available 
+to Members from time to time to the extent described below, (iii) 
+introduce an optional service that would allow GSD to systematically 
+pair-off certain Members' failed Securities Settlement Obligations 
+between approximately 3:32 p.m. and 4:00 p.m., (iv) change the time of 
+intraday FOS processing from 3:15 p.m. to 4:30 p.m., and (v) make 
+certain technical changes, as described in further detail below.
+(i) Proposed Change To Include Same-Day Settling Trades in the Risk 
+Management, Novation, Guarantee, and Settlement Services of GSD's DVP 
+Service.
+    GSD provides comparison, risk management, Novation, netting, 
+guarantee, and settlement of netting-eligible trades executed by its 
+Netting Members and Sponsored Members in the U.S. government securities 
+market. In GSD's DVP Service, GSD provides these services for Repo 
+Transactions.\6\ The DVP Service encompasses all non-GCF Repo activity 
+(both repo and buy-sell activity). All delivery obligations are made 
+against full payment.
+---------------------------------------------------------------------------
+
+    \6\ In addition to the DVP Service, GSD also provides such 
+services in its GCF Repo[supreg] Service and CCIT Service. The GCF 
+Repo Service and the CCIT Service are not part of this proposal. The 
+GCF Repo Service is primarily governed by Rule 20 and enables 
+Netting Members to trade general collateral finance repurchase 
+agreement transactions based on rate, term, and underlying product 
+throughout the day with Repo Brokers on a blind basis. The CCIT 
+Service is governed by Rule 3B and enables tri-party repurchase 
+agreement transactions in GCF Repo Securities between Netting 
+Members that participate in the GCF Repo Service and institutional 
+cash lenders (other than investment companies registered under the 
+Investment Company Act of 1940, as amended). Rule 20 and Rule 3B, 
+supra note 4.
+---------------------------------------------------------------------------
+
+    Currently, with respect to same-day starting Repo Transactions, GSD 
+only risk manages, novates, nets, and settles the End Leg, except in 
+instances where GSD assumes the fail on the Start Leg of a Brokered 
+Repo Transaction.\7\ If a same-day starting Repo Transaction is a 
+Brokered Repo Transaction and the Start Leg of such transaction fails 
+to settle on its original Scheduled Settlement Date, FICC will assume 
+responsibility for settlement of such Start Leg from the Repo Broker on 
+the evening of the day the Start Leg was due to settle. This may 
+involve the receipt of securities from the repo dealer for redelivery 
+to the reverse dealer, or the settlement of the Start Leg may be 
+effected by netting of the settlement obligations arising from the 
+Start Leg against the settlement obligations arising from the End Leg 
+of the same or another repo. FICC does so in these instances (and has 
+been doing so since the inception of its blind brokered repo service) 
+in order to decrease settlement risk by centralizing the settlement of 
+these failed Start Legs and including them in the netting process with 
+the End Legs (which already settle at FICC). The Repo Broker acts as an 
+intermediary and expects to net out of every transaction and not have a 
+settlement position from the settlement process. By assuming the fail, 
+FICC replaces the Repo Broker so that FICC becomes the central 
+counterparty for settlement of these transactions and thereby, FICC 
+decreases settlement risk. In all cases where FICC assumes a fail from 
+a Repo Broker, the counterparty remains responsible to FICC for its 
+obligations with respect to the transaction.
+---------------------------------------------------------------------------
+
+    \7\ See Rule 19, Section 5, supra note 4. A same-day starting 
+Repo Transaction consists of a Start Leg and End Leg where the 
+initial Scheduled Settlement Date of the Start Leg is scheduled to 
+settle on the Business Day on which it is submitted to GSD 
+(typically referred to in the industry as a same-day settling start 
+leg).
+---------------------------------------------------------------------------
+
+    The DVP Service did not include settlement of the Start Leg of 
+same-day starting Repo Transactions at its inception, and these 
+transactions have always been settled between the parties (i.e., 
+outside of FICC). Recently, participants have expressed an interest in 
+being able to settle the Start Leg of their same-day starting Repo 
+Transactions through GSD. FICC believes that expanding its DVP Service 
+in this way (hereinafter, ``Same-Day Settling Service'') could reduce 
+market risk because the Start Legs as well as the End Legs of eligible 
+Repo Transactions would be risk managed, novated, guaranteed, and 
+settled through FICC. FICC also believes that the expansion of its DVP 
+Service in this way could potentially reduce fails in the market by 
+centralizing the settlement of the applicable Start Legs with FICC. 
+FICC believes that this expansion of its DVP Service could increase 
+settlement efficiencies and decrease settlement risk in the market and 
+decrease operational risk with respect to Members. FICC believes that 
+the Same-Day Settling Service could increase settlement efficiencies 
+and decrease settlement risk because it would reduce the number of 
+securities movements between Members by centralizing the settlement of 
+the Start Legs with FICC even though the Start Legs are not netted. It 
+would eliminate the number of bilateral movements because the Start 
+Legs
+
+[[Page 79053]]
+
+would settle through FICC. FICC also believes that the Same-Day 
+Settling Service could decrease operational risk because FICC believes 
+it could decrease the number of fails of the Start Legs as there would 
+be fewer counterparties involved in the settlement of the Start Legs.
+    For example, assuming the following two Brokered Repo Transactions 
+are executed on the same day: (i) Broker 1 executes an overnight same-
+day starting repo transaction with Dealer A and Dealer B (``Brokered 
+Repo 1'') and (ii) Broker 2 executes an overnight same-day starting 
+repo transaction with Dealer A and Dealer B (``Brokered Repo 2'').
+    <bullet> Brokered Repo 1 involves: (a) A repo transaction in CUSIP 
+XYZ with a par and principal of $50 million with Dealer A and (b) a 
+reverse repo transaction in the same CUSIP with a par and principal of 
+$50 million with Dealer B.
+    <bullet> Brokered Repo 2 involves: (a) A repo transaction in CUSIP 
+XYZ with a par of $50 million and principal of $51 million with Dealer 
+B and (b) a reverse repo transaction in CUSIP XYZ with a par of $50 
+million and principal of $51 million with Dealer A.
+    Today, the Start Leg of both Transactions would settle away from 
+FICC. Specifically, with respect to Brokered Repo 1, today, Dealer A 
+would deliver securities with a par of $50 million to Broker 1, and 
+Dealer A would receive $50 million in principal (cash) from the Broker 
+1. Broker 1 would then deliver securities with a par of $50 million to 
+Dealer B, and Broker 1 would receive from Dealer B $50 million in 
+principal (cash). With respect to Brokered Repo 2, today, Dealer B 
+would deliver to Broker 2 securities with a par of $50 million and 
+Dealer B would receive $51 million in principal (cash). Broker 2 would 
+then deliver securities with a par of $50 million to Dealer A, and 
+Broker 2 would receive $51 million in principal (cash) from Dealer A.
+    Today, Brokered Repo 1 and Brokered Repo 2 are submitted to FICC 
+upon execution. The Start Leg and the End Leg of each of Brokered Repo 
+1 and Brokered Repo 2 are submitted for Demand Comparison to FICC by 
+the Repo Brokers, who are considered Demand Trade Sources. Upon receipt 
+of the trade data from the Demand Trade Source, FICC deems the trades 
+compared. The dealer counterparties also submit matching trade data to 
+FICC.
+    Today, on the Start Date, settlement of the Start Leg would occur 
+over Fedwire (or on the books of the Clearing Bank(s) between the four 
+counterparties referenced above). This has the potential to cause fails 
+in the marketplace if one or more counterparties fail to meet their 
+settlement obligations at any point in the process. As previously 
+stated, on the evening of the day the Start Leg was due to settle, FICC 
+would assume the Start Leg(s) if they failed versus the Repo Broker. 
+These broker fails would go into that night's netting cycle and be 
+marked-to-market. Because both Brokered Repo Transactions are overnight 
+trades, the Close Leg of each trade would also be included in that 
+night's netting cycle.
+    With this proposed expansion of the DVP Service, on Start Date, the 
+Start Leg of each Brokered Repo Transaction would settle versus FICC 
+upon submission of the trade data from the Demand Trade Source. The 
+Repo Brokers would be removed from the settlement process. The 
+settlement of the Start Leg of each Brokered Repo Transaction would 
+settle over Fedwire (or on the books of FICC's Clearing Agent Bank (The 
+Bank of New York Mellon) between the two dealer counterparties and FICC 
+(acting as the central counterparty)).
+    Specifically, with the proposed expansion of the DVP Service, with 
+respect to Brokered Repo 1, Dealer A would deliver securities in CUSIP 
+XYZ of $50 million par to FICC, and Dealer A would receive $50 million 
+in principal (cash) from FICC. FICC would then deliver to Dealer B 
+securities in CUSIP XYZ of $50 million par, and FICC would receive $50 
+million in principal (cash) from Dealer B. With respect to Brokered 
+Repo 2, Dealer B would deliver securities in CUSIP XYZ with a par of 
+$50 million to FICC, and Dealer B would receive $51 million in 
+principal (cash) from FICC. FICC would then deliver to Dealer A 
+securities in CUSIP XYZ with a par of $50 million, and FICC would 
+receive from Dealer A principal (cash) of $51 million.
+    If these same-day settling Securities Settlement Obligations failed 
+to settle on their original Scheduled Settlement Date, and Dealer A and 
+Dealer B have chosen to opt into the proposed Pair-Off Service (as 
+described below), FICC would pair-down the failed Securities Settlement 
+Obligations, resulting in a net money difference of $1 million debit to 
+Dealer A and $1 million credit to Dealer B. To complete the settlement 
+process on the same day that the Same-Day Settling Trade is executed, 
+the money differences would settle through intraday funds-only 
+settlement (FOS). If the dealer parties have not opted into the 
+proposed Pair-Off Service, the failed same-day settling Securities 
+Settlement Obligations would go into the night's net and the collection 
+of any money differences would occur on the following Business Day 
+through the start of day FOS.
+    Under Section 7 of Rule 12, if FICC has delivered Eligible Netting 
+Securities to a Netting Member with a Net Long Position (Dealer B in 
+our example), such Member shall be obligated to accept delivery of all 
+such securities at the Settlement Value for the Receive Obligation or 
+Receive Obligations that comprise such Position. If such Member fails 
+to do so, it shall be obligated to pay, or to reimburse FICC for, all 
+costs, expenses, and charges incurred by FICC as the result thereof, 
+and it may be subject to a fine by FICC if FICC, in its sole 
+discretion, determines that such failure to accept securities was done 
+without good cause.\8\
+---------------------------------------------------------------------------
+
+    \8\ Rule 12, Section 7, supra note 4.
+---------------------------------------------------------------------------
+
+    In addition, in the event Dealer B's failure to pay the principal 
+amount is due to financial difficulties, FICC would also have the right 
+to suspend a Member from any service provided by FICC either with 
+respect to a particular transaction or transactions or with respect to 
+transactions generally, or prohibit or limit such Member with respect 
+to access to services offered by FICC and/or to cease to act for such 
+Member.\9\
+---------------------------------------------------------------------------
+
+    \9\ Rule 21 and Rule 22A, supra note 4.
+---------------------------------------------------------------------------
+
+    FICC proposes to include the following transactions in the risk 
+management, Novation, guarantee, and settlement services of GSD's DVP 
+Service: (i) A Start Leg of a Netting Member's Repo Transaction where 
+the Scheduled Settlement Date of the Start Leg is the current Business 
+Day, (ii) an As-Of Trade of a Netting Member where the Scheduled 
+Settlement Date of the Start Leg is the previous Business Day and the 
+End Leg is the current Business Day or thereafter,\10\ and (iii) a 
+Sponsored
+
+[[Page 79054]]
+
+Member Trade within the meaning of section (b) of that definition that 
+meets the requirements of either (i) or (ii) above (hereinafter, 
+collectively, ``Same-Day Settling Trades''). Same-Day Settling Trades 
+would not go through FICC's netting process. This is because GSD 
+netting occurs the night before the Scheduled Settlement Date for such 
+transactions, and these Same-Day Settling Trades would not be submitted 
+for settlement until after this time.
+---------------------------------------------------------------------------
+
+    \10\ FICC has added As-Of Trades in this proposal in order to 
+reasonably include as many variations of Same-Day Settling Trades as 
+possible. This addition of As-Of Trades in this proposal covers 
+scenarios in which a Member submits a DVP repo transaction for 
+comparison on the day after the Scheduled Settlement Date for the 
+Start Leg (i.e., where a trade compares on the day after the 
+Scheduled Settlement Date of the Start Leg). Members may 
+occasionally need to submit As-Of Trades due to human or operational 
+errors.
+    Although this scenario is not frequently observed, FICC believes 
+that inclusion of these transactions in the Novation and settlement 
+process under this proposal would provide Members with consistent 
+processing in terms of settlement of their FICC-cleared DVP Repo 
+Transactions, irrespective of whether those transactions are 
+submitted as As-Of Trades or Same-Day Settling Trades.
+    Under this proposal, from an operational and risk management 
+perspective, As-Of Trades would be risk managed and settled in the 
+same manner as all other eligible Same-Day Settling Trades. FICC 
+would settle both the Start Leg and the End Leg of an As-Of Trade on 
+a bilateral basis between FICC and the Member that submitted the 
+trade. The End Leg of an As-Of Trade would not be netted unless the 
+Scheduled Settlement Date of the End Leg is later than the current 
+Business Day that the trade was submitted.
+    For purposes of clarity, Securities Settlement Obligations 
+generated for the purposes of settlement of the Start Leg and End 
+Leg of an As-Of Trade that is eligible for settlement under this 
+proposal would be generated based on the Scheduled Settlement Date 
+(i.e. contractual settlement date) for each leg of the As-Of Trade. 
+However, the generation of such obligation(s) on the Scheduled 
+Settlement Date for each leg of an As-Of Trade does not mean that 
+such obligation(s) would actually settle on such date.
+    Today, the Start Leg of an As-Of Trade settles outside of FICC, 
+and if the Scheduled Settlement Date of the End Leg is the current 
+Business Day, the End Leg would also settle outside of FICC.
+    Under this proposal, if an As-Of Trade is an overnight repo that 
+is submitted on the current Business Day (so the Start Date would be 
+as of the prior Business Day) and the Scheduled Settlement Date of 
+its End Leg is the current Business Day, then FICC would settle each 
+leg independently at Contract Value with the Member.
+    If an As-Of Trade is a term repo that is submitted on the 
+current Business Day (so the Start Leg would be as of the prior 
+Business Day) and the Scheduled Settlement Date of the End Leg is 
+the next Business Day or thereafter, then the End Leg would go into 
+the netting process and would settle at System Value. For As-Of 
+Trades that are term repos, FICC would settle the Start Legs at 
+Contract Value.
+---------------------------------------------------------------------------
+
+    Same-Day Settling Trades would settle on a trade-for-trade basis at 
+Contract Value unless such Same-Day Settling Trades fail to settle. 
+Because Same-Day Settling Trades are not netted, they would settle at 
+Contract Value (not at System Value). In the event that such Same-Day 
+Settling Trades fail to settle, they would be netted for settlement on 
+the next Business Day as is the case for current Securities Settlement 
+Obligations that fail to settle. If such Same-Day Settling Trades fail 
+to settle, the trade would be netted at Contract Value versus System 
+Value, which all other Fail Deliver Obligations and Fail Receive 
+Obligations would be netted at. Same-Day Settling Trades that fail to 
+settle are netted with other transactions that fail in that security 
+(i.e., the process for netting fails of Same-Day Settling Trades would 
+remain the same). Those obligations that fail to settle would be 
+subject to the fails charge (either a debit or a credit), the accrual 
+of which would be included in the Member's monthly invoice.\11\
+---------------------------------------------------------------------------
+
+    \11\ Rule 11, Section 14, supra note 4.
+---------------------------------------------------------------------------
+
+    The Start Leg of an As-Of Trade (overnight and term) and a same-day 
+starting repo (overnight and term) would settle at Contract Value. The 
+End Leg of an As-Of Trade that is an overnight repo would settle at 
+Contract Value. Both the Start Leg and End Leg of an As-Of Trade that 
+is an overnight repo are Same-Day Settling Trades and, therefore, would 
+settle at the Contract Value. Similarly, the Start Leg of a same-day 
+starting repo (overnight or term) is also a Same-Day Settling Trade and 
+would settle at Contract Value.
+    The End Leg of an As-Of Trade that is a term repo, same-day 
+starting repo that is an overnight repo, and same-day starting repo 
+that is a term repo would settle at System Value. The End Leg of an As-
+Of Trade that is a term repo, the End Legs of a same-day starting repo 
+(overnight and term), and the Start Legs and End Legs of a forward 
+starting repo (overnight and term) would settle at System Value because 
+these legs would go through FICC's netting process.
+    Below is a chart that describes whether the Start Legs and End Legs 
+of As-Of Trades, same-day starting repos, and forward starting repos 
+would settle at Contract Value or System Value:
+
+----------------------------------------------------------------------------------------------------------------
+               Trade type                        Start leg settles at                 End leg settles at
+----------------------------------------------------------------------------------------------------------------
+As-of Overnight Trade..................  Contract Value.....................  Contract Value.
+As-Of Term Trade.......................  Contract Value.....................  System Value.
+Same-Day Starting Overnight Repo.......  Contract Value.....................  System Value.
+Same-Day Starting Term Repo............  Contract Value.....................  System Value.
+Forward Starting Overnight Repo........  System Value.......................  System Value.
+Forward Starting Term Repo.............  System Value.......................  System Value.
+----------------------------------------------------------------------------------------------------------------
+
+    The proposed Same-Day Settling Service would be voluntary for 
+Inter-Dealer Broker Netting Members and Non-IDB Repo Brokers with 
+Segregated Repo Accounts (collectively, ``Repo Brokers''). Because Repo 
+Brokers tend to provide a suite of services to their clients where 
+facilitating the settlement of a Same-Day Settling Trade is one of 
+those services, FICC did not want to cause any disruption to Repo 
+Brokers and their clients by bifurcating the existing set of services 
+whereby FICC does the settlement of the Same-Day Settling Trade and the 
+Repo Broker continues to provide the rest of their existing services to 
+their clients. FICC believes that providing optionality will allow Repo 
+Brokers and their clients to determine how and when a Repo Broker 
+should participate in the proposed Same-Day Settling Service. GSD would 
+discontinue assuming fails for Repo Brokers who choose to participate 
+in this proposed Same-Day Settling Service, because such assumption 
+would be replaced by the FICC Novation that would occur upon comparison 
+of the Same-Day Settling Trades. As described above, today, FICC 
+assumes the fails for Repo Brokers (and has been doing so since the 
+inception of its blind brokered repo service) in order to decrease 
+risk. By assuming the fail, FICC removes the Repo Broker, who acts as 
+an intermediary and who expects to net out of every transaction and not 
+have a settlement position, from the settlement process. In all cases 
+where FICC assumes a fail from a Repo Broker, the counterparty remains 
+responsible for its obligations with respect to the transaction.
+    The proposed Same-Day Settling Service would be mandatory for all 
+other Netting Members and for Sponsored Members who execute 
+transactions with Netting Members other than their Sponsoring Member 
+because GSD must have a balanced set (both a Repo and a Reverse Repo) 
+on all transactions. Specifically, if a Member (other than a Repo 
+Broker \12\) that is a party to a Same-Day Settling Trade could choose 
+to opt out of the Same-Day Settling Service, FICC would not be able to 
+create equal and opposite Securities Settlement Obligations for the two 
+counterparties, which would require them to settle away from FICC. This
+
+[[Page 79055]]
+
+would create uncertainty among Members as to who to settle their 
+transactions with (i.e., FICC or bilaterally outside of FICC). By 
+requiring these Members to participate, Members would have certainty 
+that their compared transactions would settle with FICC as their 
+settlement counterparty.
+---------------------------------------------------------------------------
+
+    \12\ Repo Brokers submit a side for each of their two 
+counterparties. Therefore, if a Repo Broker participates in the 
+proposed Same-Day Settling Service, then FICC would settle the two 
+trades (i.e., a Receive Obligation and a Deliver Obligation with the 
+two counterparties). However, if a Repo Broker does not participate 
+in the proposed Same-Day Settling Service, the two trades would 
+settle away from FICC as they do today (except in the instance of a 
+broker fail where FICC would assume the broker fails).
+---------------------------------------------------------------------------
+
+    To implement these changes, FICC is proposing to revise Rule 1 by: 
+(1) Adding a new definition for ``Same-Day Settling Trade'' and (2) 
+revising the definitions of ``Deliver Obligation,'' ``Receive 
+Obligation,'' ``Settlement Value,'' and ``System Value.''
+    ``Same-Day Settling Trade'' would mean (i) a Start Leg of a Netting 
+Member's Repo Transaction where the Scheduled Settlement Date of the 
+Start Leg is the current Business Day, (ii) an As-Of Trade of a Netting 
+Member where the Scheduled Settlement Date of the Start Leg is the 
+previous Business Day and the End Leg is the current Business Day or 
+thereafter, or (iii) a Sponsored Member Trade within the meaning of 
+subsection (b) of that definition \13\ that meets the requirements of 
+either (i) or (ii) above.
+---------------------------------------------------------------------------
+
+    \13\ ``Sponsored Member Trade'' means a transaction that 
+satisfies the requirements of Section 5 of Rule 3A and that is (a) 
+between a Sponsored Member and its Sponsoring Member or (b) between 
+a Sponsored Member and a Netting Member. Rule 1, supra note 4.
+---------------------------------------------------------------------------
+
+    The definitions of Deliver Obligation and Receive Obligation would 
+be amended to include references to Same-Day Settling Trades. 
+Similarly, the definition of Settlement Value would be amended to 
+specify that, with respect to a Deliver Obligation or a Receive 
+Obligation for a Same-Day Settling Trade, Settlement Value means the 
+Contract Value for such obligation. In addition, FICC would amend the 
+definition of System Value to exclude Same-Day Settling Trades because 
+Same-Day Settling Trades would settle at the Contract Value (not the 
+System Value). Members are currently settling their Same-Day Settling 
+Trades at the Contract Value, so FICC would not be changing the way 
+such Members are settling these transactions, consistent with what is 
+occurring today.
+    FICC would revise Section 8(c) of Rule 3A to reference new Section 
+11 of Rule 12 (described below).
+    In addition, FICC would amend Section 5 of Rule 5 to provide that 
+settlement of Same-Day Settling Trades would be processed as per new 
+Section 11 of Rule 12. This proposed addition is needed in that 
+provision of Rule 5 because the prior sentence (that is, the current 
+last sentence of that section) addresses the current process where 
+trades that are not netted and settled with FICC are settled between 
+the parties to the trades; with this proposal, Same-Day Settling Trades 
+would be settled with FICC even though they are not netted.
+    FICC would revise Section 8 of Rule 5 to address the Novation and 
+guaranty of Same-Day Settling Trades in a new subsection (b). 
+Specifically, language would be added that each Same-Day Settling Trade 
+that becomes a Compared Trade and was entered into in good faith would 
+be novated to FICC, and that FICC would guarantee the settlement of 
+each such Compared Trade at the time at which the comparison of such 
+trade occurs pursuant to Rules 6A and 6B, as applicable. Such Novation 
+would consist of the termination of the deliver, receive, and related 
+payment obligations between the Netting Members and their replacement 
+with identical obligations to and from FICC in accordance with the 
+Rules.
+    FICC would amend Section 2 of Rule 11 to state that Same-Day 
+Settling Trades would not be netted. As explained above, in GSD's DVP 
+Service netting takes place the night before the Scheduled Settlement 
+Date; Same-Day Settling Trades would settle after the net is run 
+(unless a settlement fail occurs). Because they will not be netted, 
+Same-Day Settling Trades would settle on a trade-for-trade basis at 
+Contract Value with FICC on their Scheduled Settlement Date unless such 
+Same-Day Settling Trades fail to settle. If a Same-Day Settling Trade 
+fails to settle, such Same-Day Settling Trade would be netted for 
+settlement on the next Business Day as is the current process for 
+Securities Settlement Obligations that fail to settle. Those that fail 
+to settle would be subject to the fails charge.
+    FICC would amend Rule 11B to add a new subsection that would 
+describe that FICC would guarantee the settlement of any Same-Day 
+Settling Trade provided that certain requirements are met. 
+Specifically, the data on such Same-Day Settling Trade must be 
+submitted for Bilateral or Demand Comparison at the time that the 
+comparison of such trade occurs pursuant to Rules 6A or 6B, 
+respectively. Rules 6A and 6B discuss Bilateral Comparison and Demand 
+Comparison, respectively. In order for FICC to settle the trades, the 
+trades must be novated. In order to novate the trades, they must first 
+be compared.
+    FICC would amend Rule 12 to add a section (new Section 11) stating 
+that Same-Day Settling Trades must also meet the requirements of new 
+Section 11(ii) of Rule 12 (which is a proposed section pursuant to this 
+filing) and the trade must have been entered into in good faith. 
+Proposed Section 11(ii) would state that a Same-Day Settling Trade 
+would be eligible for settlement with FICC if it meets all of the 
+following requirements: (a) The Same-Day Settling Trade is a Compared 
+Trade, (b) the data on the Same-Day Settling Trade are listed on a 
+Report that has been made available to Netting Members, (c) (i) the End 
+Leg of the Same-Day Settling Trade meets the eligibility requirements 
+for netting in Rule 11, or (ii) the Repo Transaction is an As-Of Trade 
+and its End Leg settles on the current Business Day or thereafter, and 
+(d) the underlying securities are Eligible Netting Securities.
+    In addition, notwithstanding the above, a Same-Day Settling Trade 
+eligible for settlement to which an Executing Firm is a party, the data 
+on which has been submitted to FICC on behalf of such Executing Firm by 
+a Submitting Member that is a Netting Member, would not be settled if 
+the Submitting Member has provided FICC with notice that it does not 
+wish to have trades submitted by it on behalf of that Executing Firm be 
+settled through the Comparison System. Also notwithstanding the above, 
+a trade would not be settled if either Submitting Member had submitted 
+data on a side of the trade on behalf of an Executing Firm whose trades 
+it had provided FICC with notice pursuant to the Rules that it did not 
+wish to be settled. Pursuant to Section 1 of Rule 8, a Submitting 
+Member must submit to FICC for comparison and/or netting data on any 
+transaction calling for the delivery of Eligible Securities between an 
+Executing Firm on whose behalf it is acting pursuant to these Rules and 
+either another Member of the Netting System, Comparison System or 
+another Executing Firm on whose behalf it or another Member is acting 
+pursuant to these Rules. Therefore, a Same-Day Settling Trade submitted 
+by such Submitting Member will be eligible to settle through the 
+proposed Same-Day Settling Service unless the Submitting Member has 
+provided notice to FICC in advance that it does not wish to have such 
+trades settled through the Comparison System. This provision in 
+proposed Section 11 of Rule 12 that discusses the eligibility for 
+settlement through the Same-Day Settling Service would also align with 
+FICC's current rule on the eligibility for netting in Section 2 of Rule 
+11.\14\
+---------------------------------------------------------------------------
+
+    \14\ Rule 8, Section 1, supra note 4.
+---------------------------------------------------------------------------
+
+    Proposed Section 11 of Rule 12 would also state that, 
+notwithstanding the above, FICC may, in its sole discretion, exclude 
+any Same-Day Settling Trade or
+
+[[Page 79056]]
+
+Same-Day Settling Trades from the Comparison System, by Netting Member 
+or by Eligible Netting Security. For example, if a trade was submitted 
+to the Comparison System because of an operational error or 
+technological error and the client is unable to delete such trade, then 
+FICC may exclude such trade from the Comparison System. In addition, 
+with respect to Repo Transactions, if the Start Leg is excluded, then 
+the corresponding End Leg would also be excluded. This provision of the 
+new Section 11 of Rule 12 that discusses the eligibility for settlement 
+through the Same-Day Settling Service would also align with FICC's 
+current rule on the eligibility for netting in Section 2 of Rule 11.
+    In addition to the above, in the new Section 11 of Rule 12, FICC 
+would describe the settlement of Same-Day Settling Trades with FICC, 
+including eligibility requirements for settlement and how the Deliver 
+Obligations and Receive Obligations related to such transactions must 
+be satisfied. FICC would also describe that if a novated Same-Day 
+Settling Trade becomes uncompared or is cancelled pursuant to the 
+Rules, the Novation and FICC's guaranty of settlement of such 
+transaction would no longer apply, cancelling the deliver, receive, and 
+related payment obligations between FICC and the applicable Members, 
+created by such Novation. Furthermore, FICC would state that in the 
+event that such transaction is cancelled after the satisfaction of the 
+deliver, receive, and related payment obligations between FICC and the 
+applicable Netting Members, FICC would establish reverse Securities 
+Settlement Obligations in the form of a Receive Obligation or a Deliver 
+Obligation for the amount of the Contract Value of the Same-Day 
+Settling Trades that have become uncompared or cancelled between FICC 
+and the applicable Members. If such Receive Obligation or Deliver 
+Obligation fails to settle, then such obligations would be netted at 
+Contract Value for settlement on the next Business Day. Those that fail 
+to settle would be subject to the fails charge (either a debit or 
+credit), the accrual of which would be included in the Member's monthly 
+invoice.
+    FICC would make clear that Sections 6 (Finance Costs), 7 
+(Obligation to Receive Securities), 8 (Obligation to Facilitate 
+Financing) and 9 (Relationship with Clearing Banks) of Rule 12 would be 
+applicable in connection with the settlement of Same-Day Settling 
+Trades with FICC.\15\ These sections are part of GSD's securities 
+settlement rule and do not require any changes to accommodate the 
+settlement of Same-Day Settling Trades.
+---------------------------------------------------------------------------
+
+    \15\ Section 6 (Financing Costs) addresses situations where if a 
+Netting Member with a Net Short Position delivers eligible Netting 
+Securities to FICC and FICC is unable, because the delivery was made 
+near the close of Fedwire or for any other reason, to redeliver such 
+securities on the same Business Day to a Netting Member or Members 
+with Net Long Positions in such securities and, as a result, FICC 
+incurs costs, expenses, or charges related to financing such 
+securities (the ``financing costs''), then the Netting Members, as a 
+group, shall be obligated to pay, or to reimburse FICC, for such 
+financing costs. Section 7 (Obligation to Receive Securities) covers 
+the obligation of Members to accept delivery of securities regarding 
+their Receive Obligations. Section 8 (Obligation to Facilitate 
+Financing) sets forth FICC's ability to obtain financing necessary 
+for the provision of securities settlement services contemplated by 
+the Rules. Section 9 (Relationship with Clearing Banks) makes clear 
+that no improper or unauthorized action, or failure to act, by a 
+clearing bank acting on behalf of a Netting Member shall excuse or 
+otherwise affect the obligations of a Netting Member to FICC 
+pursuant to the Rules. Rule 12, supra note 4.
+---------------------------------------------------------------------------
+
+    Furthermore, because the proposed Same-Day Settling Service would 
+be voluntary for Repo Brokers, FICC would amend Section 5 of Rule 19 
+and Sections IV.A.5, IV.A.6, and IV.B.3 of the Fee Structure to state 
+that the applicable section would only apply to Repo Brokers that do 
+not elect to settle Same-Day Settling Trades with FICC. This is because 
+these sections address the assumption of certain Start Legs by GSD that 
+would be replaced by GSD's Novation, guaranty, and settlement of Same-
+Day Settling Trades of those Repo Brokers that elect to participate in 
+the proposed service.
+(ii) Proposed Change To Provide That FICC Would Attempt To Settle Same-
+Day Settling Trades That Are Compared in the Timeframe Specified by 
+FICC in Notices Made Available to Members From Time to Time on a 
+Reasonable Efforts Basis
+    Today, Members occasionally execute Same-Day Settling Trades after 
+the close of the Fedwire Securities Service. These Same-Day Settling 
+Trades are settled between the Members (outside of FICC) as long as 
+both parties to the trade settle such trades within the same Clearing 
+Bank.
+    In order to accommodate this practice, FICC proposes to provide the 
+proposed Same-Day Settling Service to late-day compared Same-Day 
+Settling Trades (i.e., those Same-Day Settling Trades that are compared 
+after 3:01 p.m.\16\). FICC would attempt to settle, on a reasonable 
+efforts basis, such trades that are compared in the timeframe specified 
+by FICC in notices made available to Members from time to time, 
+provided (i) FICC is able to contact the counterparties to the trade 
+and FICC's Clearing Agent Bank and (ii) FICC's Clearing Agent Bank and 
+the counterparties to the trade agree to settle such trade. The 
+foregoing sentence would only apply to Same-Day Settling Trades of 
+Members that clear at FICC's Clearing Agent Bank. Reasonable efforts 
+basis would mean that FICC would attempt to contact the counterparties 
+to the trade and FICC's Clearing Agent Bank to confirm they agree to 
+settle such trade. Specifically, FICC would continue to process 
+securities movements between FICC's account at FICC's Clearing Agent 
+Bank and Members' accounts at FICC's Clearing Agent Bank, on a 
+reasonable efforts basis, in the timeframe specified by FICC in notices 
+made available to Members from time to time, provided that (i) FICC is 
+able to contact FICC's Clearing Agent Bank and (ii) FICC's Clearing 
+Agent Bank and the counterparties to the trade agree to settle such 
+trade.\17\
+---------------------------------------------------------------------------
+
+    \16\ As described above, if the FRB announces an extension of 
+the Fedwire Securities Service, FICC would match the duration of the 
+extension.
+    \17\ Initially, this would apply to Same-Day Settling Trades 
+that are compared after 3:01 p.m. until 5 p.m.
+---------------------------------------------------------------------------
+
+    For those Members that do not have accounts at FICC's Clearing 
+Agent Bank, FICC would attempt to settle, on a reasonable efforts 
+basis, Same-Day Settling Trades that are compared after the time 
+specified by FICC in notices made available to Members from time to 
+time during the reversal period of the Fedwire Securities Service,\18\ 
+provided (i) FICC is able to contact FICC's Clearing Agent Bank, (ii) 
+FICC is able to contact the counterparties to the trade to confirm that 
+they agree to settle the trade, and (iii) FICC's Clearing Agent Bank, 
+the Member's Clearing Agent Bank, and the Federal Reserve Bank of New 
+York each permit settlement of the trade (Fedwire must be open for 
+settlement). Reasonable efforts basis would mean that FICC would 
+attempt to contact the counterparties to the trade and FICC's Clearing 
+Agent Bank to confirm that they agree to settle such trade.
+---------------------------------------------------------------------------
+
+    \18\ Initially, this time would be after 3:01 p.m. until 3:30 
+p.m. If the FRB announces an extension for the reversal period of 
+the Fedwire Securities Service, FICC would match the duration of the 
+extension for the reversal period. The Fedwire Securities Services 
+closes at 3:30 p.m. for transfer reversals. See Fedwire[supreg] and 
+National Securities Service, Federal Reserve Bank of New York (March 
+2015), available at <a href="https://www.newyorkfed.org/aboutthefed/fedpoint/fed43.html">https://www.newyorkfed.org/aboutthefed/fedpoint/fed43.html</a> and Fedwire Securities Service, Board of Governors of the 
+Federal Reserve System (July 31, 2014), available at <a href="https://www.federalreserve.gov/paymentsystems/fedsecs_about.htm">https://www.federalreserve.gov/paymentsystems/fedsecs_about.htm</a>.
+---------------------------------------------------------------------------
+
+    To implement this proposed rule change, FICC would include 
+provisions in newly added Section 11 of Rule 12.
+
+[[Page 79057]]
+
+(iii) Proposed Change To Introduce an Optional Service That Would Allow 
+GSD to Systematically Pair-Off Certain Members' Failed Securities 
+Settlement Obligations Between Approximately 3:32 p.m. and 4:00 p.m.
+    FICC also proposes to introduce an optional service for Netting 
+Members (other than Repo Brokers) and for Sponsored Member Trades 
+(other than those between the Sponsored Member and its Sponsoring 
+Member) whereby GSD would systematically pair-off such Members' failed 
+Securities Settlement Obligations between approximately 3:32 p.m. and 
+4:00 p.m.
+    The failed Securities Settlement Obligations could include (i) 
+Receive Obligations and Deliver Obligations resulting from the previous 
+night's net and (ii) obligations that were created intraday in order to 
+settle a Right of Substitution or a Same-Day Settling Trade. Fails that 
+occur go into the net that evening.\19\
+---------------------------------------------------------------------------
+
+    \19\ Fails occur because one party does not have the inventory 
+to settle with the other party on the scheduled date.
+---------------------------------------------------------------------------
+
+    GSD would look at each Member's failing activity on a per CUSIP 
+basis and pair-off their Receive Obligations and Deliver Obligations 
+irrespective of the settlement amounts on those obligations; this could 
+result in money differences. This proposed process would be structured 
+so that the net par result of the pair-offs would be zero. 
+Specifically, the proposed pair-off process (``Pair-Off Service'') 
+would consist of the matching and the offset of a participating 
+Member's Fail Deliver Obligations and Fail Receive Obligations in equal 
+par amounts of the same Eligible Netting Security. The participating 
+Member would receive a debit or credit Pair-Off Adjustment Amount 
+(which FICC may initially collect as a Miscellaneous Adjustment 
+Amount), as applicable, of the difference in the Settlement Values of 
+the applicable Fail Deliver Obligations and Fail Receive Obligations in 
+the intraday funds-only settlement process. The proposed Pair-Off 
+Service would start at approximately 3:32 p.m. The proposed rule change 
+would provide FICC with the discretion to suspend or delay the Pair-Off 
+Service in the event of an operational or market event. For example, 
+FICC may delay the Pair-Off Service if the FRB extends Fedwire because 
+extending the Fedwire would enable trades to potentially settle instead 
+of fail. FICC believes that suspending the Pair-Off Service would not 
+adversely affect Members because failed obligations would go into the 
+net as they do today, and would continue to be risk-managed.
+    The proposed Pair-Off Service would allow the participating Member 
+to settle their cash obligations today; the settlement process would be 
+completed on the same day (via intraday FOS) rather than on the next 
+day (via start of day FOS). As noted in the example in Item II(A)1(i) 
+above, if these obligations failed to settle, and Dealer A and Dealer B 
+have chosen to opt into the proposed Pair-Off Service, FICC would pair-
+down the failed obligations, resulting in a net money difference of $1 
+million debit to Dealer A and $1 million credit to Dealer B. To 
+complete the settlement process on the same day that the trade is 
+executed, the money differences would settle through intraday funds-
+only settlement. The alternative to the proposed Pair-Off Service is to 
+let the failed obligations go into the net and collect any money 
+differences on the following Business Day through the start of day FOS.
+    To implement the proposed Pair-Off Service, FICC would revise Rules 
+1, 3A, and 12. Specifically, FICC would amend Rule 1 by adding two 
+definitions, ``Pair-Off Service'' and ``Pair-Off Adjustment Payment.'' 
+FICC would initially collect this amount as a Miscellaneous Adjustment 
+Amount. Then, following development by FICC, this amount would be 
+collected as a ``Pair-Off Adjustment Payment.''
+    FICC would also revise Rule 12 to describe the proposed Pair-Off 
+Service, which would be a voluntary automated process. The proposed 
+Pair-Off Service would consist of the matching and offset of a 
+participating Netting Member's Fail Deliver Obligations and Fail 
+Receive Obligations in equal par amounts in the same Eligible Netting 
+Security. The participating Netting Member would receive either a debit 
+or credit Pair-Off Adjustment Payment, as applicable, of the difference 
+in the Settlement Values of the applicable Fail Deliver Obligations and 
+Fail Receive Obligations in the FOS process under Rule 13. Any 
+Securities Settlement Obligations remaining after the pair-off of 
+eligible obligations would constitute a Fail Net Settlement Position.
+    Rule 12 would also state that FICC would have the discretion to 
+suspend the Pair-Off Service on any Business Day due to FRB extensions 
+and/or system or operational issues. FICC would notify Members of any 
+such extension.
+    FICC would also revise Section 8 of Rule 3A to state that with 
+respect to Section 1 of Rule 12, the optional Pair-Off Service would be 
+available to Sponsored Member Trades within the meaning of section (b) 
+of that definition.
+(iv) Proposed Change To Change the Time of Intraday FOS Processing From 
+3:15 p.m. to 4:30 p.m.
+    FICC proposes to change the time of intraday FOS processing from 
+3:15 p.m. to 4:30 p.m. because FICC proposes to start the proposed 
+Pair-Off Service at approximately 3:32 p.m. and would provide Funds-
+Only Settling Banks with their intraday net FOS figures by 4:00 p.m. 
+for acknowledgment by 4:30 p.m.. The proposed rule change would also 
+provide that such time may be extended due to FRB extensions and/or 
+system or operational issues. Moving this processing time from 3:15 
+p.m. to 4:30 p.m. would enable FICC to settle any net money differences 
+that arise from the proposed Pair-Off Service.
+    To implement this change, FICC would amend the Schedule of 
+Timeframes by deleting the 3:15 p.m. time and the related description, 
+and adding a 4:30 p.m. time and a description that would state that 
+intraday FOS debits and credits would be executed via the FRB's 
+National Settlement Service for Netting Members.
+(v) Proposed Technical Changes
+    FICC also proposes to make certain technical changes. Because a 
+subsection would be added to Section 8 of Rule 5 to describe the 
+comparison, Novation, and guarantee of Same-Day Settling Trades (as 
+described in detail above), FICC would also renumber subsections that 
+follow the proposed section for consistency and accuracy.
+Implementation Timeframe
+    FICC would implement the proposed rule changes within 90 days after 
+the later of the approval of the proposed rule change and no objection 
+to the related advance notice \20\ by the Commission. FICC would 
+announce the effective date of the proposed changes by Important Notice 
+posted to its website.
+---------------------------------------------------------------------------
+
+    \20\ Supra note 3.
+---------------------------------------------------------------------------
+
+2. Statutory Basis
+    FICC believes this proposal is consistent with the requirements of 
+the Act. Specifically, FICC believes this proposal is consistent with 
+Section 17A(b)(3)(F) of the Act,\21\ which requires, in part, that the 
+rules of a registered clearing agency be designed to promote the prompt 
+and accurate clearance and settlement of securities transactions, and 
+to assure the safeguarding of securities and funds
+
+[[Page 79058]]
+
+which are in the custody or control of the clearing agency or for which 
+it is responsible, for the reasons described below.
+---------------------------------------------------------------------------
+
+    \21\ 15 U.S.C. 78q-1(b)(3)(F).
+---------------------------------------------------------------------------
+
+    FICC believes that the proposed changes described in Items 
+II(A)1(i) and II(A)1(ii) above would promote the prompt and accurate 
+clearance and settlement of securities transactions because these 
+proposed changes could increase settlement efficiencies in most 
+instances. FICC believes these proposed changes could increase 
+settlement efficiencies in most instances because Members would have 
+one settlement counterparty, FICC, with respect to these transactions. 
+As described above, specifically, FICC believes that the Same-Day 
+Settling Service could increase settlement efficiencies and decrease 
+settlement risk because it would reduce the number of securities 
+movements between Members by centralizing the settlement of the Start 
+Legs with FICC even though the Start Legs are not netted. The Same-Day 
+Settling Service would eliminate the number of bilateral movements 
+because the Start Legs would settle through FICC. FICC also believes 
+that the Same-Day Settling Service could decrease operational risk 
+because FICC believes it could decrease the number of fails of the 
+Start Legs as there would be fewer counterparties involved in the 
+settlement of the Start Legs. As such, FICC believes these proposed 
+changes would promote the prompt and accurate settlement of securities 
+transactions, consistent with Section 17A(b)(3)(F) of the Act.\22\
+---------------------------------------------------------------------------
+
+    \22\ Id.
+---------------------------------------------------------------------------
+
+    FICC also believes that the proposed changes described in Item 
+II(A)1(iii) above to introduce an optional service whereby GSD would 
+systematically pair-off certain Members' failed Securities Settlement 
+Obligations between approximately 3:32 p.m. and 4:00 p.m. would promote 
+the prompt and accurate clearance and settlement of securities 
+transactions and would assure the safeguarding of securities and funds 
+which are in the custody or control of the clearing agency or for which 
+it is responsible. As described above, each day, GSD would pair-off 
+each applicable Member's failing activity (on a per CUSIP basis). The 
+pair-off of the Receive Obligations and Deliver Obligations could 
+result in money differences because the pair-off would be irrespective 
+of the settlement amounts on these Receive Obligations and Deliver 
+Obligations. The proposed process would be structured so that the net 
+par result of the pair-offs would be zero. FICC believes that the 
+settlement of these failed obligations and the corresponding money 
+differences would reduce settlement risk to FICC because the settlement 
+process would be completed on the same day (via intraday FOS) rather 
+than on the next day (via start of day FOS). As such, because FICC 
+believes the proposed changes described in Item II(A)1(iii) above would 
+enable the settlement process to be completed on the same day (via 
+intraday FOS) rather than on the next day (via start of day FOS) and 
+would reduce settlement risk, FICC believes these proposed changes 
+would promote the prompt and accurate clearance and settlement of 
+securities transactions and would assure the safeguarding of securities 
+and funds which are in the custody or control of the clearing agency or 
+for which it is responsible., consistent with Section 17A(b)(3)(F) of 
+the Act.\23\
+---------------------------------------------------------------------------
+
+    \23\ Id.
+---------------------------------------------------------------------------
+
+    FICC believes that the proposed changes described in Item 
+II(A)1(iv) above to change the time of intraday FOS processing from 
+3:15 p.m. to 4:30 p.m. would assure the safeguarding of securities and 
+funds which are in the custody or control of the clearing agency or for 
+which it is responsible. Specifically, changing the processing time 
+from 3:15 p.m. to 4:30 p.m. would facilitate the proposed optional 
+Pair-Off Service. The proposed change to move the processing time from 
+3:15 p.m. to 4:30 p.m. would enable FICC to settle any net money 
+differences that arise from the proposed optional Pair-Off Service on 
+the same day, and facilitate the proposed optional Pair-Off Service, 
+which, as stated above, could reduce market risk to FICC. As such, FICC 
+believes the proposed changes described in Item II(A)1(iv) above would 
+assure the safeguarding of securities and funds which are in the 
+custody or control of the clearing agency or for which it is 
+responsible, consistent with Section 17A(b)(3)(F) of the Act.\24\
+---------------------------------------------------------------------------
+
+    \24\ Id.
+---------------------------------------------------------------------------
+
+    FICC believes that the proposed technical changes described in Item 
+II(A)1(v) above would promote the prompt and accurate clearance and 
+settlement of securities transactions by ensuring that the Rules remain 
+clear and accurate to Members. Having clear and accurate Rules would 
+facilitate Members' understanding of those rules and provide Members 
+with increased predictability and certainty regarding their 
+obligations. As such, FICC believes these proposed changes would 
+promote the prompt and accurate settlement of securities transactions, 
+consistent with Section 17A(b)(3)(F) of the Act.\25\
+---------------------------------------------------------------------------
+
+    \25\ Id.
+---------------------------------------------------------------------------
+
+(B) Clearing Agency's Statement on Burden on Competition
+
+    FICC does not believe that the proposed changes described in Items 
+II(A)1(i) and II(A)1(ii) above would have any impact on competition 
+because although FICC does not settle Same-Day Settling Trades today 
+(with the exception of same-day settling Start Legs of Brokered Repo 
+Transactions that fail to settle), as described above, such Same-Day 
+Settling Trades are still required to be settled in the market.\26\ The 
+proposal would result in a settlement instruction change in where such 
+trades settle. This would be no different than any counterparty 
+changing their settlement instructions, which is commonplace in the 
+market today. In addition, while FICC's risk management, Novation and 
+guarantee would apply to Same-Day Settling Trades, FICC does not 
+believe that this would have any impact on competition because the 
+Members are subject to the same risk management processes and obtain 
+the benefits of Novation and the FICC guarantee with their existing 
+activity that is submitted to FICC today. Furthermore, Repo Brokers 
+would have the option to participate in this proposed expansion of the 
+DVP Service and, as such, would no longer need to settle such 
+transactions. Such Repo Brokers would not be required to participate, 
+and if they choose not to participate, they would continue to settle 
+such trades outside of GSD. Because Repo Brokers tend to provide a 
+suite of services to their clients where facilitating the settlement of 
+a Same-Day Settling Trade is one of those services, FICC does not want 
+to cause any disruption to Repo Brokers and their clients by 
+bifurcating the existing set of services whereby FICC does the 
+settlement of the Same-Day Settling Trade and Repo Brokers continue to 
+provide the rest of their existing services to their clients. FICC 
+believes that providing optionality will allow Repo Brokers and their 
+clients to determine how and when a Repo Broker should participate in 
+the proposed Same-Day Settling Service. Therefore, FICC does not 
+believe that the proposed changes described in Items II(A)1(i) and 
+II(A)1(ii) would have any impact on competition.
+---------------------------------------------------------------------------
+
+    \26\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    FICC does not believe that the proposed optional Pair-Off Service 
+described in Item II(A)1(iii) above would have any impact on 
+competition because, as described above, it would be voluntary.\27\ 
+Members who do not wish to participate in the proposed Pair-Off
+
+[[Page 79059]]
+
+Service can choose not to do so; Members would be able to determine for 
+themselves whether or not to use the proposed Pair-Off Service. As 
+such, FICC does not believe that the proposed optional Pair-Off Service 
+would have any impact on competition.
+---------------------------------------------------------------------------
+
+    \27\ Id.
+---------------------------------------------------------------------------
+
+    FICC believes that the proposed change described in Item II(A)1(iv) 
+above to change the time of intraday FOS processing from 3:15 p.m. to 
+4:30 p.m. may impose a burden on competition \28\ because those Members 
+who are due to receive credits would receive those credits later in the 
+day than they do today. However, FICC does not believe that the 
+proposed rule change would result in a significant burden on 
+competition given that a Member's debits and credits vary from day to 
+day. Therefore, a Member may be owed a credit one day and then may have 
+to pay a debit another day. Furthermore, with the proposed change, 
+while those Members who are due to receive credits would receive them 
+later in the day than they do today, those Members who are due to pay 
+debits would be paying such debits later in the day.
+---------------------------------------------------------------------------
+
+    \28\ Id.
+---------------------------------------------------------------------------
+
+    Regardless of whether the potential burden on competition discussed 
+in the previous paragraph is significant, FICC believes that any 
+resulting burden on competition that may be created by the proposed 
+rule change described in Item II(A)1(iv) would be necessary and 
+appropriate in furtherance of the purposes of the Act, as permitted by 
+Section 17A(b)(3)(I) of the Act.\29\
+---------------------------------------------------------------------------
+
+    \29\ Id.
+---------------------------------------------------------------------------
+
+    FICC believes that any burden on competition that may be created by 
+the proposed rule change would be necessary in furtherance of the 
+purposes of the Act because, as described above, the Rules must be 
+designed to assure the safeguarding of securities and funds that are in 
+FICC's custody or control or for which it is responsible.\30\ The 
+proposed rule change described in Item II(A)1(iv) above would 
+facilitate the proposed optional Pair-Off Service because it would 
+enable FICC to settle any net money differences that arise from the 
+proposed optional Pair-Off Service on the same Business Day. Therefore, 
+the proposed rule change is designed to assure the safeguarding of 
+securities and funds which are in the custody or control of the 
+clearing agency or for which it is responsible, consistent with Section 
+17A(b)(3)(F) of the Act.\31\
+---------------------------------------------------------------------------
+
+    \30\ 15 U.S.C. 78q-1(b)(3)(F).
+    \31\ Id.
+---------------------------------------------------------------------------
+
+    FICC also believes that any burden on competition that may be 
+created by the proposed rule change described in Item II(A)1(iv) above 
+would be appropriate in furtherance of the proposes of the Act.\32\ 
+FICC believes changing the time of intraday FOS processing from 3:15 
+p.m. to 4:30 p.m. is appropriate because, as described above, this 
+proposed change would facilitate the Pair-Off Service, which would run 
+at 3:32 p.m. After the Pair-Off Service runs, FICC would need time to 
+implement its daily FOS procedures, and FICC believes this proposed 
+change reflects the shortest amount of time in which FICC would be able 
+to do so. Specifically, FICC proposes to provide the Funds-Only 
+Settling Banks with their intraday net FOS figures by 4:00 p.m. for 
+acknowledgment by 4:30 p.m. As such, the proposed change to move the 
+time of intraday FOS processing from 3:15 p.m. to 4:30 p.m. would 
+enable FICC to settle any net money differences that arise from the 
+proposed optional Pair-Off Service on the same day and facilitate the 
+proposed optional Pair-Off Service.
+---------------------------------------------------------------------------
+
+    \32\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    FICC does not believe that that the proposed technical changes 
+described in Item II(A)1(v) above would have an impact on competition. 
+These proposed technical changes would provide additional clarity, 
+consistency, and accuracy within the Rules and would not affect 
+Members' rights and obligations. As such, FICC believes that these 
+proposed rule changes would not have an impact on competition.
+
+(C) Clearing Agency's Statement on Comments on the Proposed Rule Change 
+Received From Members, Participants, or Others
+
+    FICC has not received or solicited any written comments relating to 
+this proposal. FICC will notify the Commission of any written comments 
+received by FICC.
+
+III. Date of Effectiveness of the Proposed Rule Change, and Timing for 
+Commission Action
+
+    Within 45 days of the date of publication of this notice in the 
+Federal Register or within such longer period up to 90 days (i) as the 
+Commission may designate if it finds such longer period to be 
+appropriate and publishes its reasons for so finding or (ii) as to 
+which the self-regulatory organization consents, the Commission will:
+    (A) By order approve or disapprove such proposed rule change, or
+    (B) institute proceedings to determine whether the proposed rule 
+change should be disapproved.
+    The proposal shall not take effect until all regulatory actions 
+required with respect to the proposal are completed.
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule 
+change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to [email redacted]. Please include 
+File Number SR-FICC-2020-015 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+All submissions should refer to File Number SR-FICC-2020-015. This file 
+number should be included on the subject line if email is used. To help 
+the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change that are filed with 
+the Commission, and all written communications relating to the proposed 
+rule change between the Commission and any person, other than those 
+that may be withheld from the public in accordance with the provisions 
+of 5 U.S.C. 552, will be available for website viewing and printing in 
+the Commission's Public Reference Room, 100 F Street NE, Washington, DC 
+20549 on official business days between the hours of 10:00 a.m. and 
+3:00 p.m. Copies of the filing also will be available for inspection 
+and copying at the principal office of FICC and on DTCC's website 
+(<a href="http://dtcc.com/legal/sec-rule-filings.aspx">http://dtcc.com/legal/sec-rule-filings.aspx</a>). All comments received 
+will be posted without change. Persons submitting comments are 
+cautioned that we do not redact or edit personal identifying 
+information from comment submissions. You should submit only 
+information that you wish to make available publicly. All submissions 
+should refer to File Number SR-FICC-2020-015 and should be submitted on 
+or before December 29, 2020.
+
+
+[[Page 79060]]
+
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\33\
+---------------------------------------------------------------------------
+
+    \33\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26901 Filed 12-7-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

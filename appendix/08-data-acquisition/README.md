@@ -1,28 +1,30 @@
 # Large-scale data acquisition
 
-[Webpage](https://textdata.info/toolkit/large-scale-data-acquisition/) · [All components](../README.md)
+[Explore the prototype](https://textdata.info/toolkit/large-scale-data-acquisition/) · [Use with your AI](AI-PROMPT.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+A working Federal Register adapter turns a publication window into an inventory, reading copies and verified text packs. It retains a document’s identifier when text is missing, so a sampling frame does not silently exclude unreadable documents. The included monthly inventories cover 806,941 document records from January 2000 through 15 September 2026: 806,237 with text and 704 without.
 
-## Purpose and scope
+## Try the example
 
-This workflow makes large textual sources usable for research by connecting acquisition, preparation and verification. The Federal Register collection is a data product produced through that work, distinct from the procedures and software that support its reuse.
+With Python 3.9 or later, from this folder, no network or model is needed:
 
-## Design and components
+    python3 example/run_example.py
+    python3 example/compare_sites.py
+    python3 checks/verify_counts.py
 
-The Federal Register adapter retrieves text as served by the Office of the Federal Register and the U.S. Government Publishing Office. The workflow retains original text files and prepares reading copies that preserve document headers. An inventory entry for a document offered only as a PDF records a gap. The historical collection does not contain those PDFs.
+The example covers 7–8 December 2020. The original comparison recovered all 191 identifiers: 169 raw files matched the historical inventory and 22 differed for an unresolved reason. Reading copies agreed across both official sites for all 191 documents.
 
-The distinction matters for sampling. A document identifier remains available even when no text was retrieved. Where a text file exists, the retrieval site and document header let the researcher check the context of a passage or reconsider a preparation decision.
+The supplied text is email-redacted. Its offline replay reproduces the released outputs and compares 61 unchanged / 130 changed files with historical fingerprints. That is a separate result from the original 169/22 comparison. Original fingerprint records support the historical finding; the original email-bearing text is not supplied. These research copies are not official legal editions.
 
-## Use and outputs
+## Explore the files
 
-The researcher defines a publication window and retrieves the documents listed in the provider’s index. The Federal Register adapter checks each document’s identifier, records its source and keeps an inventory entry even when the provider supplies no usable text. Reading copies retain document headers and can be traced back to the retrieved text. The workflow packages the files, checks them against the inventory and can compare a new retrieval with an earlier collection. For a study of agency obligations, the inventory defines the documents eligible for sampling and shows which could not be read. Missing text can then be distinguished from a document that contains no relevant obligation.
+- [Workflow instructions](tool/WORKFLOW.md) and [procedure](docs/PROCEDURE.md): define, retrieve, inventory, normalize, package and verify.
+- [Inventory index](data/MANIFEST_INDEX.tsv) and [collection guide](docs/COLLECTION.md): all 321 monthly inventories are included in data/inventories/.
+- [Example](example/): the two-day input, released text copies and executable replay.
+- [Availability](docs/TEXT_PACKS.md), [source/licence notice](NOTICE.md) and [release edition](docs/RELEASE_CHANGES.md).
 
-## Evidence and limitations
+## What remains proposed
 
-The historical inventory covers 806,941 document records from January 2000 through September 15, 2026. The original listing and download programs were not retained, so the historical acquisition cannot be replayed in full. For December 7–8, 2020, the rebuilt workflow returned all 191 identifiers in the historical inventory. Raw files for 169 documents matched the historical record. For the other 22 documents, neither new retrieval matched the historical record, and the historical cause remains unresolved. Comparing the two new retrievals showed that the official sites encoded email addresses differently but yielded identical reading copies for all 191 documents. The test covers one provider and a two-day window. Images remain placeholders, their count is a lower bound, and the checks do not validate content.
+Integration with research skills, adapters for additional sources and investigation of the 22 discrepancies remain proposed. The historical listing/download programs were not retained, so full historical acquisition cannot be replayed. Historical text packs are not distributed; the example supplies a small working slice. Images remain placeholders, their counts are lower bounds, and file checks do not establish content completeness or meaning.
 
-## Proposed development
-
-We will extend acquisition and checking procedures to sources identified through the source review.
-
+Project code and agent instructions use Apache-2.0; project-authored data and documents use CC BY 4.0. Federal Register text retains its own republication basis and third-party qualifications; see NOTICE.md.

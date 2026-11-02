@@ -1,0 +1,19 @@
+[
+  "README.txt",
+  "current/",
+  "current/alpha -> ../provenance/alpha-sealed",
+  "current/beta -> ../provenance/beta-sealed",
+  "move-plan.json",
+  "move-plan.sha256",
+  "post-move-report.json",
+  "pre-inventory.json",
+  "provenance/",
+  "provenance/alpha-sealed/",
+  "provenance/alpha-sealed/SHA256SUMS",
+  "provenance/alpha-sealed/payload.txt",
+  "provenance/beta-sealed/",
+  "provenance/beta-sealed/SHA256SUMS",
+  "provenance/beta-sealed/payload.txt",
+  "tampered-plan.json",
+  "tampered-plan.sha256"
+]

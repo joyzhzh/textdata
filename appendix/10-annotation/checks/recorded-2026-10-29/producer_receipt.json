@@ -1,0 +1,32 @@
+{
+  "run_id": "native-codex-fr-demo-20261029-01",
+  "annotation_provenance": "model_generated_candidate",
+  "execution_mode": "active native Codex conversation; five authored candidate records after reading frozen requests; no isolated API calls",
+  "producer": "Codex assistant in the annotation workflow seat",
+  "recorded_at": "2026-10-29T06:46:05.507676+00:00",
+  "model": {
+    "value": null,
+    "reason": "Exact backend model identifier not exposed to this artifact; configured session model unchanged"
+  },
+  "settings": {
+    "value": null,
+    "reason": "Temperature, seed, token accounting and backend revision not exposed; effort unchanged"
+  },
+  "context_limitations": [
+    "The same assistant designed the codebook and annotated the demonstration",
+    "Conversation included project briefs and methodological sources; generated requests were not isolated fresh contexts",
+    "No repeated runs, independent human reference labels or external semantic review",
+    "Code only validates and transforms these retained candidate outputs; replay does not call a model"
+  ],
+  "manifest_sha256": "08a5796b655672ee5ce58609a967d9ad959d6c5f4414b4b07a75c44d8fc6ca72",
+  "response_sha256": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463",
+  "retrieval_date": "2026-10-29",
+  "cost": {
+    "value": null,
+    "reason": "No separate annotation-call accounting available"
+  },
+  "latency": {
+    "value": null,
+    "reason": "Annotation authored within interactive development, not timed calls"
+  }
+}

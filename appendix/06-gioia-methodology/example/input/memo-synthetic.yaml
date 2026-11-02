@@ -1,0 +1,96 @@
+# SYNTHETIC EXERCISE. The passage (synthetic-episode.txt) was written for this example on
+# 1 November 2026. No participant said any of it. The proposals below were written by an AI
+# assistant following tool/skills/gioia-methodology/references/analysis.md and the
+# "Analytic decision" record in tool/skills/gioia-methodology/assets/working-templates.md.
+# No researcher has adopted, revised, rejected or deferred anything: every state is "proposed".
+# Locators come from the quotation reports in ../output/ (characters zero-based, end exclusive;
+# lines one-based).
+
+decision_id: SYN-01
+question_and_unit:
+  question: How do people account for going ahead when a reply they waited for does not come?
+  unit: one speaker turn in a synthetic interview passage
+inputs:
+  - excerpt_id: A1
+    manifestation_and_version: episode-v1 (synthetic-episode.txt), version v1
+    locator_and_hash_basis: line 2, characters 56-76 (report request-3-two-speakers, first match); whole_file_bytes
+    permitted_use: synthetic text written for this example; no restriction
+    participant_expression: "I waited for a reply"
+    context_and_translation_limits: Speaker A continues "Nobody answered, so I sent the draft anyway." Answer to "What happened after the review?"
+  - excerpt_id: B1
+    manifestation_and_version: episode-v1 (synthetic-episode.txt), version v1
+    locator_and_hash_basis: line 3, characters 134-154 (report request-3-two-speakers, second match); whole_file_bytes
+    permitted_use: synthetic text written for this example; no restriction
+    participant_expression: "I waited for a reply"
+    context_and_translation_limits: Speaker B continues "too, but I used the time to check the figures." Same question.
+  - excerpt_id: A2
+    manifestation_and_version: episode-v1 (synthetic-episode.txt), version v1
+    locator_and_hash_basis: line 5, characters 260-305 (report request-4-episode-exact); whole_file_bytes
+    permitted_use: synthetic text written for this example; no restriction
+    participant_expression: "The deadline mattered more than the sign-off."
+    context_and_translation_limits: Speaker A, answering "Did anyone object afterwards?" after "No."
+concept:
+  original_suggestion: Proceeding without sign-off
+  label: Proceeding without sign-off
+  level: proposed_researcher_concept
+  origin: model
+  state: proposed
+  rationale: >
+    A1 and A2 describe sending the draft although no reply came, and give the deadline as the
+    reason the missing sign-off did not stop the sending. The label is the assistant's, not a
+    speaker's phrase.
+  aggregation_status: unresolved
+adoption: {who: null, when: null, explicit_instruction: null, reason: null}
+alternatives:
+  - label: Using the wait
+    origin: model
+    state: proposed
+    rationale: >
+      B1 describes the same wait but spends it checking figures rather than sending. Read this
+      way, the shared words "I waited for a reply" cover two different actions, so "waiting" is
+      not one concept.
+negative_cases:
+  status: assessed_in_supplied_set
+  excerpt_refs: [B1]
+  implications: >
+    B1 complicates "Proceeding without sign-off": the same opening words are followed by not
+    sending. Any grouping of A1 and B1 under one first-order term would rest on the shared
+    wording alone, which the quotation check cannot separate (see quote_checks) and which the
+    following clauses contradict.
+exclusions_with_reasons:
+  - excerpt: line 6, "My lead said the check was the right call."
+    reason: Reported speech of a third person; kept out until the question covers approval after the fact.
+relationships:
+  - endpoints: [deadline pressure, sending the draft]
+    relation_type: causal
+    claim_status: hypothesis
+    unit_time_case: Speaker A, one episode
+    warrant_refs: [A2]
+    rival_explanations: [Speaker A would have sent regardless of the deadline; the sign-off was not expected]
+    disconfirming_refs: [B1]
+    state: warrant_missing
+literature_consultation: []
+revision:
+  predecessor_id: null
+  predecessor_hash_and_basis: null
+  changed_by: null
+  reason: null
+quote_checks:
+  - report_ref: ../output/request-3-two-speakers.report.json
+    manifestation_id: episode-v1
+    matches: 2 (lines 2 and 3); fidelity AMBIGUOUS_MATCHES, exit 1
+    gap_context_review: >
+      The checker returns both spans and chooses neither. Attribution to Speaker A or Speaker B
+      is the analyst's, from the line context; it is not something the checker establishes.
+  - report_ref: ../output/request-4-episode-exact.report.json
+    manifestation_id: episode-v1
+    matches: 1 (line 5); fidelity EXACT_SINGLE, exit 0
+    gap_context_review: >
+      Exact wording confirmed. The match does not show that the deadline caused the sending;
+      that remains the hypothesis above with its warrant missing.
+contextual_adequacy: not_assessed
+interpretive_assessment: unresolved
+unresolved_questions:
+  - Whether "proceeding without sign-off" and "using the wait" are two concepts or two cases of one.
+  - What a reply would have changed for either speaker; the passage does not say.
+  - Whether any higher-order grouping is supported; with two speakers, none is proposed.

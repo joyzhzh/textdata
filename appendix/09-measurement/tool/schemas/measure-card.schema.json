@@ -1,0 +1,481 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:textdata:toolkits:measurement:measure-card-schema:2.0",
+  "title": "Nine-section measure card v2",
+  "description": "Structural contract only. Source admission is an external v3 verdict on exact frozen records. Unknowns are explicit, not grounds for filling facts from memory.",
+  "$defs": {
+    "field": {
+      "anyOf": [
+        {
+          "type": "object",
+          "required": [
+            "status",
+            "value",
+            "reason",
+            "locator"
+          ],
+          "properties": {
+            "status": {
+              "const": "reported"
+            },
+            "value": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "reason": {
+              "type": "string"
+            },
+            "locator": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "status",
+            "value",
+            "reason",
+            "locator"
+          ],
+          "properties": {
+            "status": {
+              "const": "unknown"
+            },
+            "value": {
+              "type": "null"
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "locator": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "status",
+            "value",
+            "reason",
+            "locator"
+          ],
+          "properties": {
+            "status": {
+              "const": "not_applicable"
+            },
+            "value": {
+              "type": "null"
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "locator": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "required": [
+            "status",
+            "value",
+            "reason",
+            "locator"
+          ],
+          "properties": {
+            "status": {
+              "const": "proposed"
+            },
+            "value": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "locator": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "minLength": 1,
+                  "pattern": "\\S"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  },
+  "type": "object",
+  "required": [
+    "id",
+    "claim",
+    "source",
+    "locator",
+    "support",
+    "limitations",
+    "work_id",
+    "schema_version",
+    "record_type",
+    "rights",
+    "teaching_example",
+    "review_status",
+    "sections"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "claim": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "locator": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "support": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "limitations": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "work_id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "schema_version": {
+      "const": "2.0"
+    },
+    "record_type": {
+      "const": "measure_card"
+    },
+    "rights": {
+      "const": "permitted"
+    },
+    "teaching_example": {
+      "type": "boolean"
+    },
+    "review_status": {
+      "const": "unreviewed"
+    },
+    "sections": {
+      "type": "object",
+      "required": [
+        "identity",
+        "construct",
+        "inputs",
+        "scoring",
+        "study",
+        "validation",
+        "rivals",
+        "reproducibility",
+        "interpretation"
+      ],
+      "properties": {
+        "identity": {
+          "type": "object",
+          "required": [
+            "citation",
+            "manifestation",
+            "publication_status",
+            "corrections_retractions",
+            "access_and_inspection"
+          ],
+          "properties": {
+            "citation": {
+              "$ref": "#/$defs/field"
+            },
+            "manifestation": {
+              "$ref": "#/$defs/field"
+            },
+            "publication_status": {
+              "$ref": "#/$defs/field"
+            },
+            "corrections_retractions": {
+              "$ref": "#/$defs/field"
+            },
+            "access_and_inspection": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "construct": {
+          "type": "object",
+          "required": [
+            "intended_construct",
+            "level_and_unit",
+            "text_role",
+            "domain_and_language",
+            "relative_to_whom"
+          ],
+          "properties": {
+            "intended_construct": {
+              "$ref": "#/$defs/field"
+            },
+            "level_and_unit": {
+              "$ref": "#/$defs/field"
+            },
+            "text_role": {
+              "$ref": "#/$defs/field"
+            },
+            "domain_and_language": {
+              "$ref": "#/$defs/field"
+            },
+            "relative_to_whom": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "inputs": {
+          "type": "object",
+          "required": [
+            "text_or_features",
+            "preprocessing",
+            "representation",
+            "model_version_training_cutoff",
+            "prompt_and_decoding"
+          ],
+          "properties": {
+            "text_or_features": {
+              "$ref": "#/$defs/field"
+            },
+            "preprocessing": {
+              "$ref": "#/$defs/field"
+            },
+            "representation": {
+              "$ref": "#/$defs/field"
+            },
+            "model_version_training_cutoff": {
+              "$ref": "#/$defs/field"
+            },
+            "prompt_and_decoding": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "scoring": {
+          "type": "object",
+          "required": [
+            "formula_or_pseudocode",
+            "comparator_universe",
+            "time_window",
+            "restriction_and_weighting",
+            "null_model_and_support",
+            "aggregation",
+            "direction_and_normalization",
+            "missingness"
+          ],
+          "properties": {
+            "formula_or_pseudocode": {
+              "$ref": "#/$defs/field"
+            },
+            "comparator_universe": {
+              "$ref": "#/$defs/field"
+            },
+            "time_window": {
+              "$ref": "#/$defs/field"
+            },
+            "restriction_and_weighting": {
+              "$ref": "#/$defs/field"
+            },
+            "null_model_and_support": {
+              "$ref": "#/$defs/field"
+            },
+            "aggregation": {
+              "$ref": "#/$defs/field"
+            },
+            "direction_and_normalization": {
+              "$ref": "#/$defs/field"
+            },
+            "missingness": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "study": {
+          "type": "object",
+          "required": [
+            "population_and_sample",
+            "unit_denominator",
+            "raters_rubric_blinding",
+            "clustering_and_dependence",
+            "splits_and_leakage"
+          ],
+          "properties": {
+            "population_and_sample": {
+              "$ref": "#/$defs/field"
+            },
+            "unit_denominator": {
+              "$ref": "#/$defs/field"
+            },
+            "raters_rubric_blinding": {
+              "$ref": "#/$defs/field"
+            },
+            "clustering_and_dependence": {
+              "$ref": "#/$defs/field"
+            },
+            "splits_and_leakage": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "validation": {
+          "type": "object",
+          "required": [
+            "target",
+            "design_and_population",
+            "estimates_and_uncertainty",
+            "transport_and_invariance"
+          ],
+          "properties": {
+            "target": {
+              "$ref": "#/$defs/field"
+            },
+            "design_and_population": {
+              "$ref": "#/$defs/field"
+            },
+            "estimates_and_uncertainty": {
+              "$ref": "#/$defs/field"
+            },
+            "transport_and_invariance": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "rivals": {
+          "type": "object",
+          "required": [
+            "confounds",
+            "adverse_evidence",
+            "author_limitations"
+          ],
+          "properties": {
+            "confounds": {
+              "$ref": "#/$defs/field"
+            },
+            "adverse_evidence": {
+              "$ref": "#/$defs/field"
+            },
+            "author_limitations": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "reproducibility": {
+          "type": "object",
+          "required": [
+            "code",
+            "data",
+            "model",
+            "license_and_rights",
+            "execution_status"
+          ],
+          "properties": {
+            "code": {
+              "$ref": "#/$defs/field"
+            },
+            "data": {
+              "$ref": "#/$defs/field"
+            },
+            "model": {
+              "$ref": "#/$defs/field"
+            },
+            "license_and_rights": {
+              "$ref": "#/$defs/field"
+            },
+            "execution_status": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        },
+        "interpretation": {
+          "type": "object",
+          "required": [
+            "supported_scope",
+            "our_inference",
+            "unresolved_details",
+            "reuse_and_correction_lineage"
+          ],
+          "properties": {
+            "supported_scope": {
+              "$ref": "#/$defs/field"
+            },
+            "our_inference": {
+              "$ref": "#/$defs/field"
+            },
+            "unresolved_details": {
+              "$ref": "#/$defs/field"
+            },
+            "reuse_and_correction_lineage": {
+              "$ref": "#/$defs/field"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,252 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79033-79035]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26906]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+INTERNATIONAL TRADE COMMISSION
+
+[Investigation Nos. 701-TA-650-651 (Final)]
+
+
+Phosphate Fertilizers From Morocco and Russia; Scheduling of the 
+Final Phase of Countervailing Duty Investigations
+
+AGENCY: United States International Trade Commission.
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Commission hereby gives notice of the scheduling of the 
+final phase of countervailing duty investigation Nos. 701-TA-650-651 
+(Final) pursuant to the Tariff Act of 1930 (``the Act'') to determine 
+whether an industry in the United States is materially injured or 
+threatened with material injury, or the establishment of an industry in 
+the United States is materially retarded, by reason of imports of 
+phosphate fertilizers from Morocco and Russia, provided for in 
+3103.11.00, 3103.19.00, 3103.90.00, 3105.10.00, 3105.20.00, 3105.30.00, 
+3105.40.00, 3105.51.00, 3105.59.00, 3105.60.00, and 3105.90.00 of the 
+Harmonized Tariff Schedule of the United States preliminarily 
+determined by the Department of Commerce (``Commerce'') to be 
+subsidized.
+
+DATES: November 23, 2020.
+
+FOR FURTHER INFORMATION CONTACT: Calvin Chang (202) 205-3062), Office 
+of Investigations, U.S. International Trade Commission, 500 E Street 
+SW, Washington, DC 20436. Hearing-impaired persons can obtain 
+information on this matter by contacting the Commission's TDD terminal 
+on 202-205-1810. Persons with mobility impairments who will need 
+special assistance in gaining access to the Commission should contact 
+the Office of the Secretary at 202-205-2000. General information 
+concerning the Commission may also be obtained by accessing its 
+internet server (<a href="https://www.usitc.gov">https://www.usitc.gov</a>). The public record for these 
+investigations may be viewed on the Commission's electronic docket 
+(EDIS) at <a href="https://edis.usitc.gov">https://edis.usitc.gov</a>.
+
+SUPPLEMENTARY INFORMATION: 
+    Scope.--For purposes of this investigation, Commerce has defined 
+the subject merchandise as phosphate fertilizers in all physical forms 
+(i.e., solid or liquid form), with or without coating or additives such 
+as anti-caking agents. Phosphate fertilizers in solid form are covered 
+whether granular, prilled (i.e., pelletized), or in other solid form 
+(e.g., powdered).
+    The covered merchandise includes phosphate fertilizers in the 
+following forms: Ammonium dihydrogenorthophosphate or monoammonium 
+phosphate (MAP), chemical formula NH4H2PO4; diammonium 
+hydrogenorthophosphate or diammonium phosphate (DAP), chemical formula 
+(NH4)2HPO4; normal superphosphate (NSP), also known as ordinary 
+superphosphate or single superphosphate, chemical formula 
+Ca(H2PO4)2[middot]CaSO4; concentrated superphosphate, also known as 
+double, treble, or triple superphosphate (TSP), chemical formula 
+Ca(H2PO4)2[middot]H2O; and proprietary formulations of MAP, DAP, NSP, 
+and TSP.
+    The covered merchandise also includes other fertilizer formulations 
+incorporating phosphorous and non-phosphorous plant nutrient 
+components, whether chemically-bonded, granulated (e.g., when multiple 
+components are incorporated into granules through, e.g., a slurry 
+process), or compounded (e.g., when multiple components are compacted 
+together under high pressure), including nitrogen, phosphate, sulfur 
+(NPS) fertilizers, nitrogen, phosphorous, potassium (NPK) fertilizers, 
+nitric phosphate (also known as nitrophosphate) fertilizers, ammoniated 
+superphosphate fertilizers, and proprietary formulations thereof that 
+may or may not include other nonphosphorous plant nutrient components. 
+For phosphate fertilizers that contain nonphosphorous plant nutrient 
+components, such as nitrogen, potassium, sulfur, zinc, or other 
+nonphosphorous components, the entire article is covered, including the 
+non-phosphorous content, provided that the phosphorous content 
+(measured by available diphosphorous pentaoxide, chemical formula P2O5) 
+is at least 5% by actual weight.
+    Phosphate fertilizers that are otherwise subject to this 
+investigation are included when commingled (i.e., mixed or blended) 
+with phosphate fertilizers from sources not subject to this 
+investigation. Phosphate fertilizers that are otherwise subject to this 
+investigation are included when commingled with substances other than 
+phosphate fertilizers subject to this investigation (e.g., granules 
+containing only non-phosphate fertilizers such as potash or urea). Only 
+the subject component of such commingled products is covered by the 
+scope of this investigation.
+    The following products are specifically excluded from the scope of 
+this investigation:
+    (1) ABC dry chemical powder preparations for fire extinguishers 
+containing MAP or DAP in powdered form;
+    (2) industrial or technical grade MAP in white crystalline form 
+with available P2O5 content of at least 60% by actual weight;
+    (3) industrial or technical grade diammonium phosphate in white 
+crystalline form with available P2O5 content of at least 50% by actual 
+weight;
+    (4) liquid ammonium polyphosphate fertilizers;
+
+[[Page 79034]]
+
+    (5) dicalcium phosphate, chemical formula CaHPO4;
+    (6) monocalcium phosphate, chemical formula CaH4P2O8;
+    (7) trisodium phosphate, chemical formula Na3PO4;
+    (8) sodium tripolyphosphate, chemical formula Na5P3O10;
+    (9) prepared baking powders containing sodium bicarbonate and any 
+form of phosphate;
+    (10) animal or vegetable fertilizers not containing phosphate 
+fertilizers otherwise covered by the scope of this investigation;
+    (11) phosphoric acid, chemical formula H3PO4.
+    The Chemical Abstracts Service (CAS) numbers for covered phosphate 
+fertilizers include, but are not limited to: 7722-76-1 (MAP); 7783-28-0 
+(DAP); and 65996-95-4 (TSP).
+    The covered products may also be identified by Nitrogen-Phosphate-
+Potash composition, including but not limited to: NP 11-52-0 (MAP); NP 
+18-46-0 (DAP); and NP 0-46-0 (TSP). The covered merchandise is 
+currently classified in the Harmonized Tariff Schedule of the United 
+States (HTSUS) at subheadings 3103.11.0000; 3103.19.0000; 3105.20.0000; 
+3105.30.0000; 3105.40.0010; 3105.40.0050; 3105.51.0000; and 
+3105.59.0000. Phosphate fertilizers subject to this investigation may 
+also enter under subheadings 3103.90.0010, 3105.10.0000, 3105.60.0000, 
+3105.90.0010, and 3105.90.0050. Although the HTSUS subheadings and CAS 
+registry numbers are provided for convenience and customs purposes, the 
+written description of the scope is dispositive.
+    Background.--The final phase of these investigations is being 
+scheduled, pursuant to section 705(b) of the Tariff Act of 1930 (19 
+U.S.C. 1671d(b)), as a result of affirmative preliminary determinations 
+by Commerce that certain benefits which constitute subsidies within the 
+meaning of Sec.  703 of the Act (19 U.S.C. 1671b) are being provided to 
+manufacturers, producers, or exporters in Morocco and Russia of 
+phosphate fertilizers. The investigations were requested in petitions 
+filed on June 26, 2020, by The Mosaic Company, Plymouth, Minnesota.
+    For further information concerning the conduct of this phase of the 
+investigations, hearing procedures, and rules of general application, 
+consult the Commission's Rules of Practice and Procedure, part 201, 
+subparts A and B (19 CFR part 201), and part 207, subparts A and C (19 
+CFR part 207).
+    Participation in the investigations and public service list.--
+Persons, including industrial users of the subject merchandise and, if 
+the merchandise is sold at the retail level, representative consumer 
+organizations, wishing to participate in the final phase of these 
+investigations as parties must file an entry of appearance with the 
+Secretary to the Commission, as provided in Sec.  201.11 of the 
+Commission's rules, no later than 21 days prior to the hearing date 
+specified in this notice. A party that filed a notice of appearance 
+during the preliminary phase of the investigations need not file an 
+additional notice of appearance during this final phase. The Secretary 
+will maintain a public service list containing the names and addresses 
+of all persons, or their representatives, who are parties to the 
+investigations.
+    Please note the Secretary's Office will accept only electronic 
+filings during this time. Filings must be made through the Commission's 
+Electronic Document Information System (EDIS, <a href="https://edis.usitc.gov">https://edis.usitc.gov</a>.) 
+No in-person paper-based filings or paper copies of any electronic 
+filings will be accepted until further notice.
+    Limited disclosure of business proprietary information (BPI) under 
+an administrative protective order (APO) and BPI service list.--
+Pursuant to Sec.  207.7(a) of the Commission's rules, the Secretary 
+will make BPI gathered in the final phase of these investigations 
+available to authorized applicants under the APO issued in the 
+investigations, provided that the application is made no later than 21 
+days prior to the hearing date specified in this notice. Authorized 
+applicants must represent interested parties, as defined by 19 U.S.C. 
+1677(9), who are parties to the investigations. A party granted access 
+to BPI in the preliminary phase of the investigations need not reapply 
+for such access. A separate service list will be maintained by the 
+Secretary for those parties authorized to receive BPI under the APO.
+    Staff report.--The prehearing staff report in the final phase of 
+these investigations will be placed in the nonpublic record on January 
+27, 2020, and a public version will be issued thereafter, pursuant to 
+Sec.  207.22 of the Commission's rules.
+    Hearing.--The Commission will hold a hearing in connection with the 
+final phase of these investigations beginning at 9:30 a.m. on Tuesday, 
+February 9, 2021. Information about the place and form of the hearing, 
+including about how to participate in and/or view the hearing, will be 
+posted on the Commission's website at <a href="https://www.usitc.gov/calendarpad/calendar.html">https://www.usitc.gov/calendarpad/calendar.html</a>. Interested parties should check the 
+Commission's website periodically for updates. Requests to appear at 
+the hearing should be filed in writing with the Secretary to the 
+Commission on or before Thursday, February 4, 2021. A nonparty who has 
+testimony that may aid the Commission's deliberations may request 
+permission to present a short statement at the hearing. All parties and 
+nonparties desiring to appear at the hearing and make oral 
+presentations should attend a prehearing conference to be held at 9:30 
+a.m. on Monday, February 8, 2021. Oral testimony and written materials 
+to be submitted at the public hearing are governed by sections 
+201.6(b)(2), 201.13(f), and 207.24 of the Commission's rules. Parties 
+must submit any request to present a portion of their hearing testimony 
+in camera no later than 7 business days prior to the date of the 
+hearing.
+    Written submissions.--Each party who is an interested party shall 
+submit a prehearing brief to the Commission. Prehearing briefs must 
+conform with the provisions of Sec.  207.23 of the Commission's rules; 
+the deadline for filing is February 3, 2021. Parties may also file 
+written testimony in connection with their presentation at the hearing, 
+as provided in section 207.24 of the Commission's rules, and 
+posthearing briefs, which must conform with the provisions of Sec.  
+207.25 of the Commission's rules. The deadline for filing posthearing 
+briefs is February 17, 2021. In addition, any person who has not 
+entered an appearance as a party to the investigations may submit a 
+written statement of information pertinent to the subject of the 
+investigations, including statements of support or opposition to the 
+petition, on or before February 17, 2021. On March 4, 2021, the 
+Commission will make available to parties all information on which they 
+have not had an opportunity to comment. Parties may submit final 
+comments on this information on or before March 8, 2021, but such final 
+comments must not contain new factual information and must otherwise 
+comply with Sec.  207.30 of the Commission's rules. All written 
+submissions must conform with the provisions of Sec.  201.8 of the 
+Commission's rules; any submissions that contain BPI must also conform 
+with the requirements of Sec. Sec.  201.6, 207.3, and 207.7 of the 
+Commission's rules. The Commission's Handbook on Filing Procedures, 
+available on the Commission's website at <a href="https://www.usitc.gov/documents/handbook_on_filing_procedures.pdf">https://www.usitc.gov/documents/handbook_on_filing_procedures.pdf</a>, elaborates upon the 
+Commission's procedures with respect to filings.
+
+[[Page 79035]]
+
+    Additional written submissions to the Commission, including 
+requests pursuant to section 201.12 of the Commission's rules, shall 
+not be accepted unless good cause is shown for accepting such 
+submissions, or unless the submission is pursuant to a specific request 
+by a Commissioner or Commission staff.
+    In accordance with Sec. Sec.  201.16(c) and 207.3 of the 
+Commission's rules, each document filed by a party to the 
+investigations must be served on all other parties to the 
+investigations (as identified by either the public or BPI service 
+list), and a certificate of service must be timely filed. The Secretary 
+will not accept a document for filing without a certificate of service.
+
+    Authority: These investigations are being conducted under 
+authority of title VII of the Tariff Act of 1930; this notice is 
+published pursuant to Sec.  207.21 of the Commission's rules.
+
+    By order of the Commission.
+    Issued: December 2, 2020.
+Lisa Barton,
+Secretary to the Commission.
+[FR Doc. 2020-26906 Filed 12-7-20; 8:45 am]
+BILLING CODE 7020-02-P
+
+
+</pre></body>
+</html>

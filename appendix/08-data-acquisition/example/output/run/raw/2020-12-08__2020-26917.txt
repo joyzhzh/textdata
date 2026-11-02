@@ -1,0 +1,195 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79014-79015]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26917]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+[WC Docket No. 18-336; DA 20-1378; FRS 17262]
+
+
+Implementation of the National Suicide Hotline Improvement Act of 
+2018
+
+AGENCY: Federal Communications Commission
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The National Suicide Hotline Designation Act of 2020 (Suicide 
+Hotline Act) designates 988 as the universal telephone number within 
+the United States for the purpose of the national suicide prevention 
+and mental health crisis hotline system within one year after enactment 
+of the Suicide Hotline Act. It also directs the Federal Communications 
+Commission to submit a report on location identification. This public 
+notice seeks comment on issues to inform the location identification 
+report, which is due to Congress by April 17, 2021. This Public Notice 
+also clarifies that the designation of 988 as the universal telephone 
+number within the United States for the national suicide prevention and 
+mental health crisis hotline will take effect on October 17, 2021, 
+which is one year after the date of enactment of the Suicide Hotline 
+Act, and not on October 16, 2020.
+
+DATES: Comments are due on or before December 21, 2020 and Reply 
+Comments are due on or before January 11, 2021.
+
+ADDRESSES: You may submit comments, identified by WC Docket No. 18-336, 
+by any of the following methods:
+    [ssquf] Federal Communications Commission's website: <a href="http://apps.fcc.gov/ecfs/">http://apps.fcc.gov/ecfs/</a>. Follow the instructions for submitting comments.
+    [ssquf] Mail: Federal Communications Commission, 45 L St. NE, 
+Washington, DC 20554.
+    [ssquf] People with Disabilities: Contact the FCC to request 
+reasonable accommodations (accessible format documents, sign language 
+interpreters, CART, etc.) by email: [email redacted] or phone: 202-418-
+0530 or TTY: 202-418-0432.
+
+FOR FURTHER INFORMATION CONTACT: Michelle Sclater, 
+[email redacted] or (202) 418-0388.
+
+SUPPLEMENTARY INFORMATION: On October 17, 2020, the President signed 
+the National Suicide Hotline Designation Act of 2020 into law (Suicide 
+Hotline Act). The Suicide Hotline Act designates 988 as the universal 
+telephone number within the United States for the purpose of the 
+national suicide prevention and mental health crisis hotline system 
+within one year after enactment of the Suicide Hotline Act. It also 
+directs the Commission to submit a report on location identification. 
+By this public notice, we seek comment on issues to inform the location 
+identification report, which is due to Congress by April 17, 2021.
+    Section 5 of the Suicide Hotline Act requires the Commission to 
+submit a report to the appropriate committees ``that examines the 
+feasibility and cost of including an automatic dispatchable location 
+that would be conveyed with a 9-8-8 call, regardless of the 
+technological platform used and including with calls from multi-line 
+telephone systems,'' and as such, we seek comment on these issues 
+generally. More specifically, what is the feasibility of including 
+location information with a 988 call? What technical issues are 
+involved and how can they be overcome, including with respect to multi-
+line telephone systems? How long would an implementation process take? 
+What are the costs involved--both the financial costs and any potential 
+risks to consumer privacy or other non-monetary costs? We note that in 
+addition to soliciting written public comment by this Public Notice, we 
+will invite members of our expert advisory committee, the North 
+American Numbering Council, to discuss and provide input on the 
+feasibility and cost of including an automatic dispatchable location 
+with a 988 call at a forthcoming meeting.
+    We also take this opportunity to clarify the 988 implementation 
+date, as well as the effective date of the designation of 988 as the 
+universal telephone number within the United States for the national 
+suicide prevention and mental health crisis hotline. Prior to enactment 
+of the Suicide Hotline Act, the Commission designated 988 as the 
+universal telephone number within the United States for the national 
+suicide prevention and mental health crisis hotline in a Report and 
+Order released on July 17, 2020, and that became effective on October 
+16, 2020. (85 FR 57767 (Sept. 16, 2020)). The Report and Order also set 
+an implementation date of July 16, 2022 for all telecommunications 
+carriers, interconnected voice over internet Protocol (VoIP) providers, 
+and one-way
+
+[[Page 79015]]
+
+VoIP providers to make any network changes necessary to ensure that 
+users can dial 988 to reach the Lifeline. The Suicide Hotline Act 
+states that the 988 designation shall take effect one year after 
+enactment, but is silent on implementation. The implementation deadline 
+set forth in the Report and Order ``to allow sufficient time--but no 
+more time than necessary--for covered providers to meet the challenges 
+of implementing 10-digit dialing in 87 area codes and of making 
+necessary changes to their switches'' therefore remains unchanged by 
+the Suicide Hotline Act.
+    Although the Suicide Hotline Act does not mention the Commission's 
+earlier designation of 988 in the Report and Order, we construe 
+Congress's independent designation of 988 in the Suicide Hotline Act as 
+a ratification of the Commission's designation. Accordingly, the Report 
+and Order is unaffected by the Suicide Hotline Act, except that we now 
+clarify that the designation of 988 as the universal telephone number 
+within the United States for the national suicide prevention and mental 
+health crisis hotline will take effect on October 17, 2021, which is 
+one year after the date of enactment of the Suicide Hotline Act, and 
+not on October 16, 2020. This clarification is necessary to make the 
+Report and Order consistent with Congress's clear intent that 
+designation become effective one year after the date of enactment, as 
+stated in section 3 of the Suicide Hotline Act. To the extent 
+necessary, we hereby waive the October 16, 2020 effective date of the 
+designation in the Report and Order until one year after the date of 
+enactment of the Suicide Hotline Act. This waiver is necessary to 
+effectuate Congress's intent, and we are aware of no harm to the public 
+interest that would be caused by adopting the effective date that 
+Congress prescribed in the Suicide Hotline Act.
+    The proceeding this Notice initiates shall be treated as a 
+``permit-but-disclose'' proceeding in accordance with the Commission's 
+ex parte rules. Persons making ex parte presentations must file a copy 
+of any written presentation or a memorandum summarizing any oral 
+presentation within two business days after the presentation (unless a 
+different deadline applicable to the Sunshine period applies). Persons 
+making oral ex parte presentations are reminded that memoranda 
+summarizing the presentation must (1) list all persons attending or 
+otherwise participating in the meeting at which the ex parte 
+presentation was made, and (2) summarize all data presented and 
+arguments made during the presentation. If the presentation consisted 
+in whole or in part of the presentation of data or arguments already 
+reflected in the presenter's written comments, memoranda or other 
+filings in the proceeding, the presenter may provide citations to such 
+data or arguments in his or her prior comments, memoranda, or other 
+filings (specifying the relevant page and/or paragraph numbers where 
+such data or arguments can be found) in lieu of summarizing them in the 
+memorandum. Documents shown or given to Commission staff during ex 
+parte meetings are deemed to be written ex parte presentations and must 
+be filed consistent with rule 1.1206(b). In proceedings governed by 
+rule 1.49(f) or for which the Commission has made available a method of 
+electronic filing, written ex parte presentations and memoranda 
+summarizing oral ex parte presentations, and all attachments thereto, 
+must be filed through the electronic comment filing system available 
+for that proceeding, and must be filed in their native format (e.g., 
+.doc, .xml, .ppt, searchable .pdf). Participants in this proceeding 
+should familiarize themselves with the Commission's ex parte rules.
+    Pursuant to sections 1.415 and 1.419 of the Commission's rules, 47 
+CFR 1.415, 1.419, interested parties may file comments and reply 
+comments on or before the dates indicated on the first page of this 
+document. Comments may be filed using the Commission's Electronic 
+Comment Filing System (ECFS). See Electronic Filing of Documents in 
+Rulemaking Proceedings, 63 FR 24121 (1998).
+    <bullet> Electronic Filers: Comments may be filed electronically 
+using the internet by accessing the ECFS: <a href="http://apps.fcc.gov/ecfs/">http://apps.fcc.gov/ecfs/</a>.
+    <bullet> Paper Filers: Parties who choose to file by paper must 
+file an original and one copy of each filing.
+    <bullet> Filings can be sent by commercial overnight courier, or by 
+first-class or overnight U.S. Postal Service mail. All filings must be 
+addressed to the Commission's Secretary, Office of the Secretary, 
+Federal Communications Commission.
+    <bullet> Commercial overnight mail (other than U.S. Postal Service 
+Express Mail and Priority Mail) must be sent to 9050 Junction Drive, 
+Annapolis Junction, MD 20701. U.S. Postal Service first-class, Express, 
+and Priority mail must be addressed to 45 L Street NE, Washington, DC 
+20554.
+    <bullet> Effective March 19, 2020, and until further notice, the 
+Commission no longer accepts any hand or messenger delivered filings. 
+This is a temporary measure taken to help protect the health and safety 
+of individuals, and to mitigate the transmission of COVID-19. See FCC 
+Announces Closure of FCC Headquarters Open Window and Change in Hand-
+Delivery Policy, Public Notice, DA 20-304 (March 19, 2020). <a href="https://www.fcc.gov/document/fcc-closes-headquarters-open-window-and-changes-hand-delivery-policy">https://www.fcc.gov/document/fcc-closes-headquarters-open-window-and-changes-hand-delivery-policy</a>.
+    People with Disabilities: To request materials in accessible 
+formats for people with disabilities (braille, large print, electronic 
+files, audio format), send an email to [email redacted] or call the 
+Consumer & Governmental Affairs Bureau at 202-418-0530 (voice), 202-
+418-0432 (TTY).
+
+Federal Communications Commission.
+Daniel Kahn,
+Associate Bureau Chief, Wireline Competition Bureau.
+[FR Doc. 2020-26917 Filed 12-7-20; 8:45 am]
+BILLING CODE 6712-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,22 @@
+# Study charter template
+
+- Study ID:
+- Decision use:
+- Research question:
+- Declared methodological profile:
+- Permitted reporting label:
+- Unit of analysis:
+- Episode start rule:
+- Episode end states:
+- Authorized input snapshot:
+- Data authority and consent basis:
+- Privacy and redaction rule:
+- Model-processing rule:
+- Retention and erasure rule:
+- Analytical seat:
+- Independent reviewer:
+- Protocol revision:
+- Cycle ceiling:
+- Stop language:
+- Paper-use authority:
+- Unresolved decisions:

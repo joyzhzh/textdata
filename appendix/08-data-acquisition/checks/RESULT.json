@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-02",
+  "python": "3.9.6",
+  "seconds": 7,
+  "all_counts_match": true,
+  "counts": [
+    {
+      "what": "retained: monthly inventories",
+      "expected": 321,
+      "found": 321,
+      "ok": true
+    },
+    {
+      "what": "retained: document records",
+      "expected": 806941,
+      "found": 806941,
+      "ok": true
+    },
+    {
+      "what": "retained: records with a text file",
+      "expected": 806237,
+      "found": 806237,
+      "ok": true
+    },
+    {
+      "what": "retained: records PDF only",
+      "expected": 704,
+      "found": 704,
+      "ok": true
+    },
+    {
+      "what": "retained: raw text bytes (coverage record)",
+      "expected": 14562610396,
+      "found": 14562610396,
+      "ok": true
+    },
+    {
+      "what": "retained: packs listed",
+      "expected": 321,
+      "found": 321,
+      "ok": true
+    },
+    {
+      "what": "retained: annual releases",
+      "expected": 27,
+      "found": 27,
+      "ok": true
+    },
+    {
+      "what": "retained: packed bytes",
+      "expected": 2221531048,
+      "found": 2221531048,
+      "ok": true
+    },
+    {
+      "what": "inventories: archives",
+      "expected": 27,
+      "found": 27,
+      "ok": true
+    },
+    {
+      "what": "inventories: monthly files",
+      "expected": 321,
+      "found": 321,
+      "ok": true
+    },
+    {
+      "what": "inventories: monthly files matching the index",
+      "expected": 321,
+      "found": 321,
+      "ok": true
+    },
+    {
+      "what": "inventories: document records recounted",
+      "expected": 806941,
+      "found": 806941,
+      "ok": true
+    },
+    {
+      "what": "inventories: records with a text file",
+      "expected": 806237,
+      "found": 806237,
+      "ok": true
+    },
+    {
+      "what": "inventories: records PDF only",
+      "expected": 704,
+      "found": 704,
+      "ok": true
+    },
+    {
+      "what": "inventories: months whose text records equal their pack",
+      "expected": 321,
+      "found": 321,
+      "ok": true
+    },
+    {
+      "what": "inventories: text records from federalregister.gov",
+      "expected": 673687,
+      "found": 673687,
+      "ok": true
+    },
+    {
+      "what": "inventories: text records from govinfo.gov",
+      "expected": 132550,
+      "found": 132550,
+      "ok": true
+    },
+    {
+      "what": "inventories: documents with counted image placeholders",
+      "expected": 16000,
+      "found": 16000,
+      "ok": true
+    },
+    {
+      "what": "inventories: documents with coded e-mail addresses",
+      "expected": 457644,
+      "found": 457644,
+      "ok": true
+    },
+    {
+      "what": "inventories: text records without a fetch time",
+      "expected": 415205,
+      "found": 415205,
+      "ok": true
+    },
+    {
+      "what": "sample: identities listed by the index",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "sample: inventory lines",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "sample: text files held",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "sample: gaps (no text file)",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "sample: raw bytes",
+      "expected": 2932989,
+      "found": 2932989,
+      "ok": true
+    },
+    {
+      "what": "sample: raw files differing from their inventory line",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "sample: documents with counted image placeholders",
+      "expected": 7,
+      "found": 7,
+      "ok": true
+    },
+    {
+      "what": "sample: documents with coded e-mail addresses",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "sample: verify.py exit code over the pack",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "sample: raw files re-hashed by the verify stage",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "historical first site: identities retained in the window",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "historical first site: comparison identical_bytes",
+      "expected": 169,
+      "found": 169,
+      "ok": true
+    },
+    {
+      "what": "historical first site: comparison bytes_differ",
+      "expected": 22,
+      "found": 22,
+      "ok": true
+    },
+    {
+      "what": "historical first site: comparison only_in_this_run",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "historical first site: comparison only_in_retained",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "historical first site: identical bytes from the same site as retained",
+      "expected": 152,
+      "found": 152,
+      "ok": true
+    },
+    {
+      "what": "historical first site: identical bytes from the other site",
+      "expected": 17,
+      "found": 17,
+      "ok": true
+    },
+    {
+      "what": "replay: exit code",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "second site: inventory lines",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "second site: text files held",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "second site: files from govinfo.gov",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "historical second site: comparison identical_bytes",
+      "expected": 61,
+      "found": 61,
+      "ok": true
+    },
+    {
+      "what": "historical second site: comparison bytes_differ",
+      "expected": 130,
+      "found": 130,
+      "ok": true
+    },
+    {
+      "what": "release sites: raw bytes same from both sites",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "release sites: raw bytes differ between sites",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "release sites: reading copies same from both sites",
+      "expected": 191,
+      "found": 191,
+      "ok": true
+    },
+    {
+      "what": "release sites: reading copies differ between sites",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "release sites: retained line matches the site it names",
+      "expected": 61,
+      "found": 61,
+      "ok": true
+    },
+    {
+      "what": "release sites: retained line matches neither site",
+      "expected": 130,
+      "found": 130,
+      "ok": true
+    },
+    {
+      "what": "release sites: differing raw all have coded e-mails",
+      "expected": true,
+      "found": true,
+      "ok": true
+    },
+    {
+      "what": "historical: fingerprint-record verification exit code",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "privacy: emails in cleaned release copies",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    },
+    {
+      "what": "privacy: emails in cleaned example pack",
+      "expected": 0,
+      "found": 0,
+      "ok": true
+    }
+  ],
+  "units": {
+    "retained: *": "document records (publication date + document number) unless named bytes, files or releases",
+    "sample: *": "document records of the two-day slice; raw files are email-redacted release copies under example/output/run/raw/",
+    "historical*: *": "original retrieval fingerprint records; withheld original text is not re-hashed",
+    "privacy: *": "email-pattern occurrences in text produced by the supplied cleaner"
+  },
+  "evidence_basis": "historical-prefixed counts use original fingerprint records; sample, second-site and release-sites counts use email-redacted release copies",
+  "problems": []
+}

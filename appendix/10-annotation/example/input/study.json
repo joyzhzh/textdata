@@ -1,0 +1,30 @@
+{
+  "study_id": "fr-responsibility-illustration-v1",
+  "question": "How can explicit actor-action assignments in a historical document become source-linked candidate quantitative records?",
+  "construct": "Documented allocation of organizational responsibility in selected passages, as represented in the source text",
+  "coding_unit": "selected complete sentence or paragraph; multiple atomic relations permitted",
+  "analysis_unit": "selected passage, retaining document/family identity",
+  "selection": "Five passages selected by the workflow author to illustrate background, assignment, coordination and qualification. Not a probability sample; no empirical generalization.",
+  "researcher_decision_status": "Example designed by the assistant for this demonstration; not a researcher-ratified study codebook",
+  "permitted_inference": "Candidate interpretation of these supplied passages only; not actual behavior, present legal effect or organizational authority",
+  "reference_coding": "not_performed",
+  "documents": [
+    {
+      "document_id": "FR-2020-27065",
+      "title": "Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government",
+      "source_provider": "U.S. Government Publishing Office, GovInfo; Federal Register document 2020-27065",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2020-12-08/html/2020-27065.htm",
+      "publication_date": "2020-12-08",
+      "order_date": "2020-12-03",
+      "retrieved_date": "2026-10-29",
+      "retrieval_time_precision": "date only; curl invocation preceded this manifest",
+      "raw_path": "source/2020-27065.html",
+      "text_path": "source/2020-27065.txt",
+      "raw_sha256": "b5aebc25b9665fb743fe13094c7143cefe99f2be6f201e63b8069de585e98875",
+      "text_sha256": "88f5a24f104b140f904574274bfc9bc3e3824e594fd5ce43f86f46e235ef8533",
+      "rights": "Official United States government executive-order text; source attribution retained",
+      "transformation": "Decode UTF-8; extract HTML pre element text with HTMLParser and decoded entities; remove NUL characters; collapse Unicode whitespace to one ASCII space. Raw HTML unchanged. Offsets address normalized text, not raw HTML bytes.",
+      "corpus_relation": "Fresh direct GovInfo retrieval; not an extraction from the Federal Register release packs of component 8"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78888-78889]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26783]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90541; File No. SR-LCH SA-2020-006]
+
+
+Self-Regulatory Organizations; LCH SA; Order Approving Proposed 
+Rule Change Relating to the Amendments to LCH SA's Liquidity Risk 
+Modelling Framework
+
+December 1, 2020.
+
+I. Introduction
+
+    On October 20, 2020, Banque Centrale de Compensation, which 
+conducts business under the name LCH SA (``LCH SA''), filed with the 
+Securities and Exchange Commission (``Commission''), pursuant to 
+Section 19(b)(1) of the Securities Exchange Act of 1934 (``Act'') \1\ 
+and Rule 19b-4 thereunder,\2\ a proposed rule change to amend its 
+Liquidity Risk Modelling Framework (the ``Framework'') \3\ with respect 
+to the assignment and exercise of equity American options.\4\ The 
+Proposed Rule Change was published for comment in the Federal Register 
+on October 30, 2020.\5\ The Commission did not receive comments on the 
+proposed rule change. For the reasons discussed below, the Commission 
+is approving the proposed rule change.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ Capitalized terms used but not defined herein have the 
+meanings specified in the LCH SA CDS Clearing Rule Book, Supplement, 
+Procedures, or the Framework as applicable.
+    \4\ See Notice infra note 5, 85 FR at 68935.
+    \5\ Self-Regulatory Organizations; LCH SA; Notice of Filing of 
+Proposed Rule Change Relating to the Amendments of LCH SA Risk 
+Liquidity Modeling Framework, Exchange Act Release No. 90270 
+(October 26, 2020), 85 FR 68935 (October 30, 2020) (SR-LCH SA-2020-
+006) (``Notice'').
+---------------------------------------------------------------------------
+
+II. Description of the Proposed Rule Change
+
+    LCH SA is proposing to amend the Framework in order to address more 
+accurately its liquidity requirements arising from the physical 
+settlement of equity American options involving a defaulting clearing 
+member during any liquidation of such clearing member. The current 
+Framework accounts for liquidity provision related to the risk of 
+assignment and exercise of equity American options and equity European 
+options at expiration.\6\ Given that equity American options can be 
+exercised before their expiration dates (referred to below as 
+``expiry''), LCH SA represented that there is a resulting funding risk 
+with respect to the exercise of equity American options prior to expiry 
+during the liquidation period of a defaulting clearing member that 
+needs to be modelled and accounted for in its daily liquidity coverage 
+ratio (``LCR'') calculation.\7\
+---------------------------------------------------------------------------
+
+    \6\ See Notice, 85 FR at 68936.
+    \7\ Id.
+---------------------------------------------------------------------------
+
+    The LCR is the ratio of available assets over the liabilities of 
+LCH SA under the stressed scenario of the default of the two largest 
+clearing members (``Cover 2 scenario''), based on their liquidity 
+needs.\8\ On a daily basis, the LCR calculation identifies all of the 
+potential option positions that are in the money or at the money on 
+that day and the next business day.\9\ Given the potential option 
+exercise, the LCR calculation generates a liquidity need.\10\ LCH SA 
+represented that the proposed rule change would be an enhancement to 
+the current Framework to address the funding risk posed by the 
+potential exercise of an equity American option at any time before 
+expiry when the two largest clearing members in terms of liquidity 
+needs may face liquidity issues.\11\
+---------------------------------------------------------------------------
+
+    \8\ Id.
+    \9\ Id.
+    \10\ Id.
+    \11\ Id.
+---------------------------------------------------------------------------
+
+    To address this risk, LCH SA is proposing specific modifications to 
+the Framework that would enable its LCR calculation to generate an 
+enhanced liquidity need in a Cover 2 scenario involving the physical 
+settlement of equity American options. The proposed rule change would 
+replace the term ``expiry'' with the term ``exercise'' in both section 
+5.3.1.3 (Cash Equity) and section 5.3.4 (Cover 2 selection, Cash Equity 
+Settlement Liquidity Requirement) to account for equity settlements 
+arising from the options' exercise, rather than their expiry. The 
+proposed rule change would also revise the assumption about when equity 
+American options are considered to be exercised, which is set forth in 
+the ``Options Expiry'' paragraph of section 5.3.1.3 of the Framework. 
+In that paragraph, the proposed rule change would replace the term ``at 
+expiry'' with the phrase ``any time by defaulting members in order to 
+raise liquidity.'' \12\
+---------------------------------------------------------------------------
+
+    \12\ Id.
+---------------------------------------------------------------------------
+
+    In practice, LCH SA represents that the process under the amended 
+Framework will work as follows on a daily basis:
+    <bullet> The liquidity needs arising from the equity American 
+options that are in the money or at the money will be computed, without 
+applying a stress scenario to the equities.
+    <bullet> The liquidity needs from the equity American options that 
+are in the money or at the money will be computed, by applying a stress 
+scenario to the equities.
+    <bullet> LCH SA will select the positions consistent with the two 
+largest clearing members in terms of liquidity needs for both modes 
+described above and will retain the most punitive one.
+    <bullet> This liquidity amount that LCH SA will potentially need 
+for the settlement of equity American options (i.e., the most punitive 
+amount identified in the previous bullet) will then be added to the 
+current cash equity settlement amount in the LCR.\13\
+---------------------------------------------------------------------------
+
+    \13\ Id.
+---------------------------------------------------------------------------
+
+III. Discussion and Commission Findings
+
+    Section 19(b)(2)(C) of the Act directs the Commission to approve a 
+proposed rule change of a self-regulatory organization if it finds that 
+the proposed rule change is consistent with the requirements of the Act 
+and the rules and regulations thereunder applicable to the 
+organization.\14\ For the reasons given below, the Commission finds 
+that the proposed rule change is consistent with Section 17A(b)(3)(F) 
+of the Act \15\ and Rule 17Ad-22(e)(7)(i) thereunder.\16\
+---------------------------------------------------------------------------
+
+    \14\ 15 U.S.C. 78s(b)(2)(C).
+    \15\ 15 U.S.C. 78q-1(b)(3)(F).
+    \16\ 17 CFR 240.17Ad-22(e)(7)(i).
+---------------------------------------------------------------------------
+
+A. Consistency With Section 17A(b)(3)(F) of the Act
+
+    Section 17A(b)(3)(F) of the Act requires, among other things, that 
+the rules of LCH SA be designed to promote the prompt and accurate 
+clearance and settlement of securities transactions and, to the extent 
+applicable, derivative agreements, contracts, and transactions, to 
+assure the safeguarding of securities and funds which are in the 
+custody or control of LCH SA or for which it is responsible.\17\
+---------------------------------------------------------------------------
+
+    \17\ 15 U.S.C. 78q-1(b)(3)(F).
+---------------------------------------------------------------------------
+
+    As described above, the proposed rule change would amend the 
+Framework with specific changes in order to address more accurately LCH 
+SA's
+
+[[Page 78889]]
+
+liquidity requirements arising from the physical settlement of equity 
+American options involving a defaulting clearing member during any 
+liquidation of such clearing member. Such changes should enhance LCH 
+SA's daily LCR calculations to determine more accurate liquidity levels 
+in the event of the assignment and exercise of equity American options 
+involving a defaulting clearing member prior to expiry. The Commission 
+believes the proposed rule change should help LCH SA anticipate 
+increased liquidity needs and maintain appropriate levels of liquidity 
+in a Cover 2 scenario in which LCH SA would be required, pursuant to 
+the Framework, to step in and meet a defaulter's obligation in the 
+event of the assignment or exercise of equity American options. The 
+Commission also believes that, by anticipating and ensuring that LCH SA 
+meets its liquidity needs in this manner, the proposed rule change 
+should facilitate LCH SA's ability to meet its obligations as a central 
+counterparty in stressed situations, which, in turn, should allow LCH 
+SA to continue to meet its obligation to promptly and accurately clear 
+and settle securities transactions in such situations.
+    In addition, the proposed rule change should help mitigate the 
+funding risk that may arise when equity American options are exercised 
+before expiry and settled during the liquidation period of a defaulting 
+clearing member, which in turn should help LCH SA safeguard securities 
+and funds for which it is responsible.
+    For the reasons stated above, the Commission believes that the 
+proposed rule change is consistent with Section 17A(b)(3)(F) of the 
+Act.\18\
+---------------------------------------------------------------------------
+
+    \18\ 15 U.S.C. 78q-1(b)(3)(F).
+---------------------------------------------------------------------------
+
+B. Consistency With Rule 17Ad-22(e)(7)(i)
+
+    Rule 17Ad-22(e)(7)(i) requires that, among other things, LCH SA 
+establish, implement, maintain and enforce written policies and 
+procedures reasonably designed to, as applicable, effectively measure, 
+monitor, and manage the liquidity risk that arises in or is borne by 
+the covered clearing agency, including measuring, monitoring, and 
+managing its settlement and funding flows on an ongoing and timely 
+basis, and its use of intraday liquidity by maintaining sufficient 
+liquid resources at the minimum in all relevant currencies to effect 
+same-day, and, where appropriate, intraday and multiday settlement of 
+payment obligations with a high degree of confidence under a wide range 
+of foreseeable stress scenarios, that includes, but is not limited to, 
+the default of the participant family that would generate the largest 
+aggregate payment obligation for LCH SA in extreme but plausible market 
+conditions.\19\
+---------------------------------------------------------------------------
+
+    \19\ 17 CFR 240.17Ad-22(e)(7)(i).
+---------------------------------------------------------------------------
+
+    As discussed above, LCH SA is proposing specific modifications to 
+the Framework that would enable its daily LCR calculation to generate 
+an enhanced liquidity need in a Cover 2 scenario involving the physical 
+settlement of equity American options. By using the daily LCR 
+calculation process to determine in advance LCH SA's liquidity needs in 
+the event of the assignment and exercise of equity American options 
+arising in a Cover 2 scenario, the Commission believes the amended 
+Framework should enhance LCH SA's ability to determine whether it has 
+sufficient resources to meet its liquidity needs should such a default 
+occur, thus requiring LCH SA to step in and meet a defaulter's payment 
+obligation. The Commission believes that this should, in turn, enable 
+LCH SA to avoid any potential disruptions to its operations caused by 
+the liquidity needs arising from such a default.
+    By applying both stressed and non-stressed scenarios to the 
+underlying equities, and then selecting the option positions that are 
+consistent with the two largest clearing members in terms of liquidity 
+needs under both scenarios to determine the largest liquidity need, LCH 
+SA's daily LCR calculation process under the amended Framework should 
+help LCH SA determine a more accurate amount to add to the current cash 
+equity settlement amount in the LCR to cover a potential increase in 
+liquidity needs arising from the physical settlement of equity American 
+options that are exercised prior to expiry under stressed liquidity 
+conditions. The Commission therefore believes that the amended 
+Framework should enable LCH SA to maintain sufficient liquid resources 
+to effect settlement of its payment obligations under a wide range of 
+foreseeable stress scenarios, including the default of the participant 
+family that would generate the largest aggregate payment obligation for 
+LCH SA in extreme but plausible market conditions.
+    For the above reasons, the Commission therefore finds that the 
+proposed rule change is consistent with Rule 17Ad-22(e)(7)(i).\20\
+---------------------------------------------------------------------------
+
+    \20\ 17 CFR 240.17Ad-22(e)(7)(i).
+---------------------------------------------------------------------------
+
+IV. Conclusion
+
+    On the basis of the foregoing, the Commission finds that the 
+proposed rule change is consistent with the requirements of the Act, 
+and in particular, with the requirements of Section 17A(b)(3)(F) of the 
+Act \21\ and Rule 17Ad-22(e)(7)(i) thereunder.\22\
+---------------------------------------------------------------------------
+
+    \21\ 15 U.S.C. 78q-1(b)(3)(F).
+    \22\ 17 CFR 240.17Ad-22(e)(7)(i).
+---------------------------------------------------------------------------
+
+    It is therefore ordered pursuant to Section 19(b)(2) of the Act 
+\23\ that the proposed rule change (SR-LCH SA-2020-006) be, and hereby 
+is, approved.\24\
+---------------------------------------------------------------------------
+
+    \23\ 15 U.S.C. 78s(b)(2).
+    \24\ In approving the proposed rule change, the Commission 
+considered the proposal's impact on efficiency, competition, and 
+capital formation. 15 U.S.C. 78c(f).
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\25\
+---------------------------------------------------------------------------
+
+    \25\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26783 Filed 12-4-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre></body>
+</html>

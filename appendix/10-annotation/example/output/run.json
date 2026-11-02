@@ -1,0 +1,35 @@
+{
+  "record": "Release-derived run record of 2 November 2026, written by tool/workflow.py export; this field and original_run_sha256 were added afterwards. It is not the run record of 29 October 2026, which is kept unchanged at checks/recorded-2026-10-29/run.json.",
+  "original_run_sha256": "1d3da696254b21355788cc16592bf58f38959288fd70abbfa79e0aff5926458e",
+  "operation": "deterministic validation and candidate export",
+  "executed_at": "2026-11-02T01:16:39.758126+00:00",
+  "adapter_sha256": "3c9157efba2ed2aa07fe553e72f829873285674f9270422c75bf72435d08a5e2",
+  "input_manifest_sha256": "54657cd37c823716cbddabe8a37cd7a72c3d669c67f27aad9e8e487b58b3733c",
+  "response_sha256": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463",
+  "producer_receipt_sha256": "fce36d3274a9139a72b46585d9b4a76c2e7c857fadc290f0972fe3f0eade0bc0",
+  "output_sha256": {
+    "annotations.jsonl": "e9f8800888384afdce1565281b39cce136b5469b2422b613d962030263bc8b3b",
+    "features.csv": "5552fdc15dff1bd71ba338d3cc11180a680e89092baf06940967b2f87b7df524",
+    "producer_receipt.json": "fce36d3274a9139a72b46585d9b4a76c2e7c857fadc290f0972fe3f0eade0bc0",
+    "reference_template.jsonl": "b300f48d32d1e782bfac3ada65c4373e3961ad1791e3910fd4f8980b5ac426f0",
+    "response.jsonl": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463",
+    "summary.json": "f47bc087ba35b61bea13f4a76e3fe696a128d31b08b2801195feb051561c6422"
+  },
+  "checks": [
+    "frozen input hashes",
+    "source-contained units",
+    "response byte identity",
+    "unit identity and unique response",
+    "typed status/modality",
+    "exact unique source spans",
+    "no duplicate relations",
+    "explicit missingness",
+    "candidate provenance"
+  ],
+  "limits": [
+    "No semantic entailment check",
+    "No independent reference coding",
+    "No omission/recall estimate",
+    "No model API called by this adapter"
+  ]
+}

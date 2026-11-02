@@ -1,0 +1,85 @@
+{
+  "created_at_utc": "2026-11-01T00:00:00Z",
+  "critical_hashes_before_and_after": [
+    {
+      "sha256": "d173b921b846e854120c508f37e82a98b356a941b0db255987fb7d96046812fd",
+      "source_path": "alpha-sealed/payload.txt",
+      "target_path": "provenance/alpha-sealed/payload.txt"
+    },
+    {
+      "sha256": "ed0177654f8516d146a4fe5839a98c5f8761ccff37f09ba137cc9d4baf0b885a",
+      "source_path": "beta-sealed/payload.txt",
+      "target_path": "provenance/beta-sealed/payload.txt"
+    }
+  ],
+  "intent": "Move two sealed packages whole under provenance/ and expose them through relative aliases; copy, edit and delete nothing.",
+  "mkdirs": [
+    "provenance",
+    "current"
+  ],
+  "moves": [
+    {
+      "expected": {
+        "device_id": 16777233,
+        "directories_including_root": 1,
+        "files_with_nlink_gt_1": 0,
+        "logical_bytes": 171,
+        "nlink_distribution": {
+          "1": 2
+        },
+        "regular_files": 2,
+        "root_inode": 529901309,
+        "symlinks": 0,
+        "unique_regular_file_inodes": 2
+      },
+      "source": "alpha-sealed",
+      "target": "provenance/alpha-sealed"
+    },
+    {
+      "expected": {
+        "device_id": 16777233,
+        "directories_including_root": 1,
+        "files_with_nlink_gt_1": 0,
+        "logical_bytes": 167,
+        "nlink_distribution": {
+          "1": 2
+        },
+        "regular_files": 2,
+        "root_inode": 529901306,
+        "symlinks": 0,
+        "unique_regular_file_inodes": 2
+      },
+      "source": "beta-sealed",
+      "target": "provenance/beta-sealed"
+    }
+  ],
+  "plan_id": "example-housekeeping-plan",
+  "policy": {
+    "copy_files": false,
+    "delete_files": false,
+    "dry_run_default": true,
+    "follow_symlinks": false,
+    "overwrite_existing_paths": false,
+    "require_exact_plan_sha_for_apply": true,
+    "rewrite_sealed_content": false,
+    "same_volume_renames_only": true
+  },
+  "post_artifacts": [
+    "post-move-report.json"
+  ],
+  "required_validations": [
+    "verify_workspace.py"
+  ],
+  "schema_version": "1.0",
+  "symlinks": [
+    {
+      "path": "current/alpha",
+      "target": "../provenance/alpha-sealed"
+    },
+    {
+      "path": "current/beta",
+      "target": "../provenance/beta-sealed"
+    }
+  ],
+  "workspace_root": "<workspace>"
+}

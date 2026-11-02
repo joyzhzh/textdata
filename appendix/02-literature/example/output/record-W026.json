@@ -1,0 +1,24 @@
+{
+ "entry": {
+  "id": "annotation_checkpoint:W026",
+  "title": "Inter‐Rater Reliability of AI Scores: A Call to Move from Correlational to Factor Analytical Estimation",
+  "authors": "Andrew B. Speer",
+  "year": 2026,
+  "journal": "Personnel Psychology",
+  "doi": "10.1111/peps.70036",
+  "url": "https://doi.org/10.1111/peps.70036",
+  "source_catalogue": "annotation_checkpoint",
+  "source_record_id": "W026",
+  "abstract": null,
+  "abstract_on_file": true,
+  "abstract_source": "https://doi.org/10.1111/peps.70036",
+  "reading_note": "Reading depth: a reading recommendation; full-paper reading is not established.\nSpeer, A. B. (2026). Inter-Rater Reliability of AI Scores: A Call to Move from Correlational to Factor Analytical Estimation. Personnel Psychology. doi:10.1111/peps.70036 (catalog W026)\n*What they did:* Argues that AI and expert scores should not be treated as parallel measures. It proposes congeneric factor-model reliability, using the squared standardized AI loading, and supports it with a Monte Carlo study of incomplete rater designs.\n*Access:* CC BY 4.0 at Wiley; open it manually because of the bot check.",
+  "qualifications": "Full paper not retrieved.\nPublic availability is not redistribution permission; citation verification is not methodology validation\nAn abstract is available; this does not establish full-paper reading."
+ },
+ "held_text": {
+  "abstract_on_file": true,
+  "abstract_text_shipped": false,
+  "reading_note": true
+ },
+ "read_the_abstract_at": "https://doi.org/10.1111/peps.70036"
+}

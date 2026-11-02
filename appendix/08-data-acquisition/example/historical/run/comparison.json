@@ -1,0 +1,21 @@
+{
+  "compared_at": "2026-10-31T16:08:24Z",
+  "window": [
+    "2020-12-07",
+    "2020-12-08"
+  ],
+  "retained_manifest": "2020-12.tsv",
+  "identities_in_this_run": 191,
+  "identities_in_retained_window": 191,
+  "outcomes": {
+    "bytes_differ": 22,
+    "identical_bytes": 169
+  },
+  "identical_bytes_from_same_site": 152,
+  "identical_bytes_from_other_site": 17,
+  "retained_passes_in_window": {
+    "july_govinfo": 39,
+    "monthly_pass": 151,
+    "august_bulk": 1
+  }
+}

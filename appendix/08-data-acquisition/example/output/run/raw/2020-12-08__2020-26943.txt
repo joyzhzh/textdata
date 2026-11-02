@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79079-79080]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26943]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF VETERANS AFFAIRS
+
+[OMB Control No. 2900-0741]
+
+
+Agency Information Collection Activity Under OMB Review: 
+Department of Veterans Affairs, Office of Small and Disadvantaged 
+Business Utilization (OSDBU) VA Form 0896A, Report of Subcontracts to 
+Small and Veteran-Owned Business
+
+AGENCY: Office of Small and Disadvantaged Business Utilization, 
+Department of Veterans Affairs.
+
+[[Page 79080]]
+
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In compliance with the Paperwork Reduction Act (PRA) of 1995, 
+this notice announces that the Office of Small and Disadvantaged 
+Business Utilization, Department of Veterans Affairs, will submit the 
+collection of information abstracted below to the Office of Management 
+and Budget (OMB) for review and comment. The PRA submission describes 
+the nature of the information collection and its expected cost and 
+burden and it includes the actual data collection instrument.
+
+DATES: Written comments and recommendations for the proposed 
+information collection should be sent within 30 days of publication of 
+this notice to <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular 
+information collection by selecting ``Currently under 30-day Review--
+Open for Public Comments'' or by using the search function. Refer to 
+``OMB Control No. 2900-0741.''
+
+FOR FURTHER INFORMATION CONTACT: Danny S. Green, Enterprise Records 
+Service (005R1B), Department of Veterans Affairs, 811 Vermont Avenue 
+NW, Washington, DC 20420, (202) 421-1354 or email [email redacted]. 
+Please refer to ``OMB Control No. 2900-0741'' in any correspondence.
+
+SUPPLEMENTARY INFORMATION: 
+    Authority: Under the PRA of 1995 (Pub. L. 104-13; 44 U.S.C. 3501-
+3521).
+    Title: Department of Veterans Affairs, Office of Small and 
+Disadvantaged Business Utilization, VA Form 0896A.
+    OMB Control Number: 2900-0741.
+    Type of Review: Reinstatement with changes of a currently expired 
+approved collection.
+    Abstract: This Paperwork Reduction Act (PRA) submission seeks 
+reinstatement with changes of Office of Management and Budget (OMB) 
+approval No. 2900-0741 as follows: Due to the increased number of 
+respondents, the total annual burden hours increased by 400, from 610 
+to 1,010. However, the average burden time per response has not 
+changed. The VA Form 0896A, Report of Subcontracts to Small and 
+Veteran-owned Business is utilized to ensure that subcontract 
+information reported by prime contractors and utilized for credit 
+against subcontracting goals is accurate and includes Service-Disabled 
+Veteran-Owned Small Business (SDVOSB) and Veteran-Owned Small Business 
+(VOSB) that are verified for eligibility in the Vender Information 
+Pages database maintained by VA OSDBU. This process involves the use of 
+electronic submissions of information via email. Contractors will 
+submit information on VA Form 0896A. In the event that a contractor 
+does not have the capability to submit the form as an email attachment, 
+it can also be provided as a hardcopy. VA OSDBU personnel will confirm 
+the information reported on the form by the prime contractors through 
+the VA's Vendor Information Pages and FFATA Subaward Reporting System 
+(FSRS) databases and, when necessary, request that the SDVOSB and VOSB 
+firms subcontracted by the prime contractors review it and verify its 
+accuracy. The OSDBU will utilize the information reported by the prime 
+contractors, the FSRS, and any subcontractors in order to compile 
+annual reports to reflect the level of accuracy in the reporting being 
+accomplished by the prime contractors. This will allow the VA to comply 
+with the ``review mechanism'' requirement of Public Law 109-461. The 
+Federal Register Notice with a 60-day comment period soliciting 
+comments on this collection of information was published at 85 FR 147 
+on July 30, 2020 page 45960.
+    Affected Public: Business or other for-profit and not-for-profit 
+institutions.
+    Estimated Annual Burden: 1,010 Burden Hours.
+    Estimated Average Burden Per Respondent: 120 Minutes.
+    Frequency of Response: Annually.
+    Estimated Number of Respondents: 505.
+
+    By direction of the Secretary.
+Danny S. Green,
+Department Clearance Officer, Office of Quality, Performance and Risk, 
+Department of Veterans Affairs.
+[FR Doc. 2020-26943 Filed 12-7-20; 8:45 am]
+BILLING CODE 8320-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

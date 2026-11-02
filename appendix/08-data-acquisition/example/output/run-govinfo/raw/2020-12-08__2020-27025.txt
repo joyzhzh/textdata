@@ -1,0 +1,266 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79078-79079]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-27025]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+UNIFIED CARRIER REGISTRATION PLAN
+
+
+Sunshine Act Meeting; Unified Carrier Registration Plan Board of 
+Directors Meeting
+
+TIME AND DATE: December 10, 2020, from Noon to 3:00 p.m., Eastern time.
+
+PLACE: This meeting will be accessible via conference call and screen 
+sharing. Any interested person may call 877-853-5247 (US toll free), 
+888-788-0099 (US toll free), +1 929-205-6099 (US toll), or +1 669-900-
+6833 (US toll), Conference ID 977 6073 0690, to participate in the 
+meeting.
+
+STATUS: This meeting will be open to the public.
+
+MATTERS TO BE CONSIDERED: The Unified Carrier Registration Plan Board 
+of Directors (the ``Board'') will continue its work in developing and 
+implementing the Unified Carrier Registration Plan and Agreement. The 
+subject matter of the meeting will include:
+
+Agenda
+
+I. Welcome and Call to Order--UCR Board Chair
+
+    The UCR Board Chair will welcome attendees, call the meeting to 
+order, call roll for the Board, confirm the presence of a quorum, and 
+facilitate self-introductions.
+
+II. Verification of Meeting Notice--UCR Executive Director
+
+    The UCR Executive Director will verify publication of the meeting 
+notice on the UCR website and distribution to the UCR contact list via 
+email followed by subsequent publication of the notice in the Federal 
+Register.
+
+III. Review and Approval of Board Agenda--UCR Board Chair
+
+For Discussion and Possible Action
+    Agenda will be reviewed and the Board will consider adoption.
+Ground Rules
+[rtarr8] Board actions taken only in designated areas on agenda
+
+IV. Approval of Minutes of the November 5, 2020 UCR Board Meeting--UCR 
+Board Chair
+
+For Discussion and Possible Action
+    Draft Minutes of the November 5, 2020 UCR Board meeting will be 
+reviewed. The Board will consider action to approve.
+
+V. Report of FMCSA--FMCSA Representative
+
+    The Federal Motor Carrier Safety Administration (FMCSA) will 
+provide a report on any relevant activity.
+
+VI. Updates Concerning UCR Legislation--UCR Board Chair
+
+    The UCR Board Chair will call for any updates regarding UCR 
+legislation since the last Board meeting.
+
+VII. Discussion Regarding Development of Board Policy for the Mailing 
+of Postcards--UCR Executive Director
+
+For Discussion and Possible Action
+    The UCR Executive Director will lead a discussion regarding the 
+need for states and the Board to mail postcards to unregistered 
+carriers. Items to consider may include defining the window of time for 
+states/Board to mail postcards and require states to participate in 
+solicitation campaigns. After discussing options, the Board may decide 
+to adopt a policy regarding the requirements for mailing postcards to 
+unregistered carriers.
+
+VIII. Potential Contract Extensions for AAG3 LLC and DSL Transportation 
+Services, Inc.--UCR Board Chair
+
+For Discussion and Possible Action
+    The UCR Chair will lead a discussion of the annual renewal of 
+existing contracts with AAG3 LLC (Avelino Gutierrez) and DSL 
+Transportation Services, Inc. (Dave Lazarides). The Board may decide to 
+renew the contracts for an additional one-year term.
+
+IX. Chief Legal Officer Report--UCR Chief Legal Officer
+
+    The UCR Chief Legal Officer will provide an update on the status of 
+the March 2019 data event, the Twelve Percent Logistics litigation, 
+several cease and desist letters sent to third party permitting service 
+providers, and other matters.
+
+X. Update on the RSM Security Assessment Pertaining to the NRS Audit--
+UCR Technology Director
+
+    The UCR Technology Director will provide an update on the security 
+assessment deliverables from RSM's security team pertaining to the NRS 
+Audit.
+
+<bullet> AWS Security Assessment
+<bullet> Cloud Vulnerability and Configuration Review Sample
+<bullet> RSM Sample Penetration Testing Report
+
+XI. Subcommittee Reports
+
+Audit Subcommittee--UCR Audit Subcommittee Chair
+
+A. Next Steps Regarding the 2019 Audit Deficiencies by Idaho and Utah--
+UCR Audit Subcommittee Chair
+For Discussion and Possible Action
+    The UCR Audit Subcommittee Chair will discuss the next steps 
+regarding the 2019 Audit Deficiencies by Idaho and Utah. The Board may 
+authorize additional action to be taken against Idaho and Utah.
+B. Consideration of the Addition of a UCR Auditor/Enforcement Manager--
+UCR Audit Subcommittee Chair
+For Discussion and Possible Action
+    The UCR Audit Subcommittee Chair will lead a discussion considering 
+the potential addition of a UCR Auditor/Enforcement Manager to provide 
+mentoring and other audit assistance to participating states. The Board 
+may take action to add a UCR Auditor/Enforcement Manager and include 
+that position in the budget for fiscal year 2021.
+C. Discuss the Possible Requirement for the States to Declare in 
+Writing Their Audit Policy with Respect to UCR--UCR Audit Subcommittee 
+Chair
+    The UCR Audit Subcommittee Chair will lead a discussion of the 
+possibility of requiring the states to formally declare, in writing, 
+certain goals, objectives, and procedures with regard to their UCR 
+audit policy. In addition, the Board may discuss a desire to
+
+[[Page 79079]]
+
+maintain a system to better monitor state(s) when turnover in staff 
+leads to UCR audit and enforcement deficiencies.
+D. Independent Auditor's Final Report (2017-2018)--UCR Depository 
+Manager
+    The UCR Depository Manager will discuss the outcome of the 
+financial statement audits of the Depository for each of the 12- month 
+periods ended December 31, 2018 and 2017.
+E. Consideration of an Audit Contract of the NRS by RSM--UCR Executive 
+Director
+For Discussion and Possible Action
+    The UCR Executive Director will lead a discussion around the 
+consideration and possible approval of an audit contract of the NRS by 
+RSM. The Board may approve an audit contract between the Board and RSM.
+F. FARs Audit Procedure for Motor Carriers in Foreign Jurisdictions and 
+Non-Participating States--UCR Audit Subcommittee Chair
+For Discussion and Possible Action
+    The UCR Audit Subcommittee Chair will lead a discussion on the 
+unique issues regarding Focused Anomaly Reviews (FARs) of non-United 
+States based motor carriers and motor carriers based in non-
+participating states. The Board may take action to adopt new FARs audit 
+procedures to be utilized by participating states for these motor 
+carriers.
+G. Discussion of Vehicles Conducting Emergency Operations--UCR Audit 
+Subcommittee Chair
+    The UCR Audit Subcommittee Chair will discuss exempting electric 
+utility and other businesses operating vehicles interstate only when 
+responding to an emergency or natural disaster from UCR requirements in 
+accordance with 49 CFR part 390.23, unless the states involved in its 
+interstate travel have waived those requirements. The Board may take 
+action to exclude these carriers from Unified Carrier Registration.
+H. Update on the Audit Functionality in the National Registration 
+System--Seikosoft
+    Seikosoft will provide updates on the NRS Audit Module, 
+solicitation campaigns (new entrant, unregistered, non-universe motor 
+carriers, etc.), and other relevant topics for the Board.
+
+Finance Subcommittee--UCR Finance Subcommittee Chair
+
+A. Discussion Regarding the Board To Self-Insure Against the Risk of 
+Directors and Officers Liability Claims--UCR Chief Legal Officer and 
+UCR Depository Manager
+For Discussion and Possible Action
+    The UCR Chief Legal Officer and the UCR Depository Manager will 
+lead a discussion regarding the purpose for Officer and Directors 
+insurance and discuss the cost effectiveness of the option to self-
+insure rather than procure insurance from the marketplace. The Board 
+may decide to self-insure or obtain insurance from the insurance 
+marketplace.
+B. Review UCR Bank Balance Summary Report--UCR Depository Manager
+    The UCR Depository Manager will review the UCR Bank Balance Summary 
+Report as of November 30, 2020 and answer questions from the Board.
+C. Review 2020 Administrative Expenses Through November 30, 2020--UCR 
+Depository Manager
+    The UCR Depository Manager will present the administrative costs 
+incurred for the period of January 1, 2020 through November 30, 2020, 
+compared to the budget for the same time-period, and discuss all 
+significant variances.
+D. Presentation of the Proposed 2021 Administrative Expenses Budget--
+UCR Depository Manager
+For Discussion and Possible Action
+    The UCR Depository Manager will present the proposed administrative 
+expenses budget for calendar year 2021 to the Board. The Board may 
+consider adopting the budget.
+E. Status of 2020 and 2021 Registration Years Fee Collections and 
+Compliance Percentages--UCR Depository Manager
+    The UCR Depository Manager will provide updates on the results of 
+collections and registration compliance rates for the 2020 and 2021 
+registration years.
+
+Education and Training Subcommittee--UCR Education and Training 
+Subcommittee Chair
+
+Update on Basic Audit Training Module and Flow Chart/Decision Tree--UCR 
+Education and Training Subcommittee Chair
+    The UCR Education and Training Subcommittee Chair will provide an 
+update on the development of the Basic Audit Training Module and Flow 
+Chart/Decision Tree.
+
+XII. Contractor Reports--UCR Executive Director
+
+<bullet> UCR Executive Director
+    The UCR Executive Director will provide a report covering recent 
+activity for the UCR Plan.
+<bullet> DSL Transportation Services, Inc.
+    DSL Transportation Services, Inc. will report on the latest data 
+from the FARs program, discuss motor carrier inspection results, and 
+other matters.
+<bullet> Seikosoft
+    Seikosoft will provide an update on recent/new activity related to 
+the NRS.
+<bullet> UCR Administrator Report (Kellen)--UCR Operations and 
+Depository Managers
+
+    The UCR Administrator will provide its management report covering 
+recent activity for the Depository, Operations, and Communications.
+
+XIII. Public Comment--James Lamb
+
+    Mr. Lamb will be allotted five (5) minutes to address the UCR 
+Board.
+
+XIV. Other Business--UCR Board Chair
+
+    The UCR Board Chair will call for any business, old or new, from 
+the floor.
+
+XV. Adjournment--UCR Board Chair
+
+    The UCR Board Chair will adjourn the meeting.
+    This agenda will be available no later than 5:00 p.m. Eastern time, 
+December 3, 2020 at: <a href="https://plan.ucr.gov">https://plan.ucr.gov</a>.
+
+CONTACT PERSON FOR MORE INFORMATION: Elizabeth Leaman, Chair, Unified 
+Carrier Registration Plan Board of Directors, (617) 305-3783, 
+[email redacted].
+
+Alex B. Leath,
+Chief Legal Officer, Unified Carrier Registration Plan.
+[FR Doc. 2020-27025 Filed 12-4-20; 11:15 am]
+BILLING CODE 4910-YL-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

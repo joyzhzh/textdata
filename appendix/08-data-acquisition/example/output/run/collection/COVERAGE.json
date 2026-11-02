@@ -1,0 +1,21 @@
+{
+  "dataset": "acquisition run: federal_register",
+  "collection_pass": "email_redacted_release",
+  "coverage_start": "2020-12-07",
+  "coverage_end": "2020-12-08",
+  "first_publication_date": "2020-12-07",
+  "last_publication_date": "2020-12-08",
+  "documents": 191,
+  "with_text": 191,
+  "pdf_only": 0,
+  "packs": 1,
+  "raw_bytes": 2932989,
+  "documents_with_image_placeholders": 7,
+  "documents_with_hidden_emails": 0,
+  "by_source_site": {
+    "federalregister.gov": 191
+  },
+  "partial_test_build": [
+    "2020-12"
+  ]
+}

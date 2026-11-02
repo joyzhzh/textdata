@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/category-memo.schema.json",
+  "title": "Grounded Theory category memo",
+  "type": "object",
+  "required": [
+    "memo_id",
+    "category_id",
+    "status",
+    "definition",
+    "not_this",
+    "supporting_code_ids",
+    "comparison_ids",
+    "negative_case_ids",
+    "rival_explanations"
+  ],
+  "properties": {
+    "memo_id": {
+      "type": "string",
+      "pattern": "^MEM[0-9]{3,}$"
+    },
+    "category_id": {
+      "type": "string",
+      "pattern": "^CAT[0-9]{3,}$"
+    },
+    "status": {
+      "enum": [
+        "SENSITIZING_ONLY",
+        "EMERGING",
+        "FOCUSED",
+        "SUPERSEDED",
+        "RETIRED"
+      ]
+    },
+    "definition": {
+      "type": "string",
+      "minLength": 1
+    },
+    "not_this": {
+      "type": "string",
+      "minLength": 1
+    },
+    "supporting_code_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^CDE[0-9]{3,}$"
+      }
+    },
+    "comparison_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^CMP[0-9]{3,}$"
+      }
+    },
+    "negative_case_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^(I|E)[0-9]{3,}$"
+      }
+    },
+    "rival_explanations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "counter_search": {
+      "type": "string",
+      "minLength": 1,
+      "description": "what was searched for that should violate the category; required once FOCUSED"
+    },
+    "supersedes": {
+      "type": "string",
+      "pattern": "^MEM[0-9]{3,}$"
+    },
+    "supersession_reason": {
+      "type": "string",
+      "minLength": 1
+    },
+    "retirement_reason": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "enum": [
+              "EMERGING",
+              "FOCUSED"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "supporting_code_ids": {
+            "minItems": 1
+          },
+          "comparison_ids": {
+            "minItems": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "FOCUSED"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "counter_search"
+        ],
+        "properties": {
+          "rival_explanations": {
+            "minItems": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "required": [
+          "supersedes"
+        ]
+      },
+      "then": {
+        "required": [
+          "supersession_reason"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "RETIRED"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "retirement_reason"
+        ]
+      }
+    }
+  ]
+}

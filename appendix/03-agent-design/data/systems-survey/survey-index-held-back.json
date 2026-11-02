@@ -1,0 +1,43 @@
+{
+  "rows_kept": 22640,
+  "rows_dropped": 27,
+  "reasons": {
+    "identifying_detail_in_entry": {
+      "count": 20,
+      "ids": [
+        "I-03cab8a6e01e39086a",
+        "I-04e6d7ab8e2928ecf2",
+        "I-1e10be67ce7a91a140",
+        "I-220db9d66a17cc4852",
+        "I-327fc26c51c2334d4d",
+        "I-3e043331019cb370ad",
+        "I-44bca8a4e83e9aaa07",
+        "I-4bbd38c56630849144",
+        "I-4d99e9953b2f05b6d1",
+        "I-635503e982f7043a80",
+        "I-79cba29b0ed7f6a5db",
+        "I-83aa5052b8420b1568",
+        "I-9abe0a919f41e4ee37",
+        "I-aa4ca064bb8297ba46",
+        "I-b12f637f3d2cbeffaf",
+        "I-d1eeda24e453261c96",
+        "I-d9e63424bccc02fe00",
+        "I-f1d39e7d44c28d7f31",
+        "I-f51f021b288365a7c4",
+        "I-fbc710e2d5f5b14228"
+      ]
+    },
+    "identifying_detail_in_linked_source_occurrence": {
+      "count": 7,
+      "ids": [
+        "I-1cd559897ce2ae5781",
+        "I-41e8632af19c48cdb4",
+        "I-46a1bd22c4165c7748",
+        "I-7d899e0241538839ee",
+        "I-c643f847c9357d268e",
+        "I-df3c83de2fa8252556",
+        "I-edfef45566994c8f82"
+      ]
+    }
+  }
+}

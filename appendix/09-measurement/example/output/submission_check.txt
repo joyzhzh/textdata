@@ -1,0 +1,2 @@
+INVALID: example/input/ASKIN_MEASURE_CARD.jsonl:1: teaching example cannot be submitted
+exit status: 1

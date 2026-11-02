@@ -1,0 +1,73 @@
+{
+  "payload": {
+    "observed_at_utc": "2026-11-02T01:23:01Z",
+    "requested_hashes": {
+      "alpha-sealed/payload.txt": "d173b921b846e854120c508f37e82a98b356a941b0db255987fb7d96046812fd"
+    },
+    "schema_version": "1.0",
+    "status": "PASS_READ_ONLY_INVENTORY",
+    "top_level": [
+      {
+        "device_id": 16777233,
+        "inode": 529901312,
+        "kind": "regular-file",
+        "logical_bytes": 172,
+        "nlink": 1,
+        "path": "README.txt"
+      },
+      {
+        "device_id": 16777233,
+        "inode": 529901309,
+        "kind": "directory",
+        "path": "alpha-sealed",
+        "snapshot": {
+          "device_id": 16777233,
+          "directories_including_root": 1,
+          "files_with_nlink_gt_1": 0,
+          "logical_bytes": 171,
+          "nlink_distribution": {
+            "1": 2
+          },
+          "regular_files": 2,
+          "root_inode": 529901309,
+          "symlinks": 0,
+          "unique_regular_file_inodes": 2
+        }
+      },
+      {
+        "device_id": 16777233,
+        "inode": 529901306,
+        "kind": "directory",
+        "path": "beta-sealed",
+        "snapshot": {
+          "device_id": 16777233,
+          "directories_including_root": 1,
+          "files_with_nlink_gt_1": 0,
+          "logical_bytes": 167,
+          "nlink_distribution": {
+            "1": 2
+          },
+          "regular_files": 2,
+          "root_inode": 529901306,
+          "symlinks": 0,
+          "unique_regular_file_inodes": 2
+        }
+      }
+    ],
+    "totals": {
+      "device_id": 16777233,
+      "directories_including_root": 3,
+      "files_with_nlink_gt_1": 0,
+      "logical_bytes": 510,
+      "nlink_distribution": {
+        "1": 5
+      },
+      "regular_files": 5,
+      "root_inode": 529901305,
+      "symlinks": 0,
+      "unique_regular_file_inodes": 5
+    },
+    "workspace_root": "<workspace>"
+  },
+  "returncode": 0
+}

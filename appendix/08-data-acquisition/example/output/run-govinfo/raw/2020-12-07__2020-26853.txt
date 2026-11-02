@@ -1,0 +1,110 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78871-78872]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26853]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF LABOR
+
+
+Agency Information Collection Activities; Submission for OMB 
+Review; Comment Request; Employee Retirement Income Security Act 
+Prohibited Transaction Class Exemption 1981-8, Investment of Plan 
+Assets in Certain Types of Short-Term Investments
+
+ACTION: Notice of availability; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Labor (DOL) is submitting this Employee 
+Benefits Security Administration (EBSA)-sponsored information 
+collection request (ICR) to the Office of Management and Budget (OMB) 
+for review and approval in accordance with the Paperwork Reduction Act 
+of 1995 (PRA). Public comments on the ICR are invited.
+
+DATES: The OMB will consider all written comments that agency receives 
+on or before January 6, 2021.
+
+ADDRESSES: Written comments and recommendations for the proposed 
+information collection should be sent within 30 days of publication of 
+this notice to <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular 
+information collection by selecting ``Currently under 30-day Review--
+Open for Public Comments'' or by using the search function.
+    Comments are invited on: (1) Whether the collection of information 
+is necessary for the proper performance of the functions of the 
+Department, including whether the information will have practical 
+utility; (2) if the information will be processed and used in a timely 
+manner; (3) the accuracy of the agency's estimates of the burden and 
+cost of the collection of information, including the validity of the 
+methodology and assumptions used; (4) ways to enhance the quality, 
+utility and clarity of the information collection; and (5) ways to 
+minimize the burden of the collection of information on those who are 
+to respond, including the use of automated collection techniques or 
+other forms of information technology.
+
+FOR FURTHER INFORMATION CONTACT: Mara Blumenthal by telephone at 202-
+693-8538 (this is not a toll-free number) or by email at 
+[email redacted].
+
+SUPPLEMENTARY INFORMATION: The Employee Retirement Income Security Act 
+of 1974 (ERISA), and the Internal Revenue Code (the Code), provide that 
+the Secretary of Labor and the Secretary of Treasury, respectively, may 
+grant exemptions from certain prohibited transaction provisions under 
+ERISA and the Code. Section 408(a) of ERISA authorizes the Secretary of 
+Labor to grant administrative exemptions from the restrictions of 
+section 406 of ERISA while section 4975(c)(2) of the Code authorizes 
+the Secretary of Treasury or his delegate to grant exemptions from the 
+prohibitions of section 4975(c)(1). This class exemption (PTE 81-8), 
+exempts from the prohibited transaction restrictions the investment of 
+plan assets in certain short-term investments in debt obligations 
+issued by certain persons who provide services to the plan or are 
+affiliated with such service providers. For additional substantive 
+information about this ICR, see the related notice published in the 
+Federal Register on April 29, 2020 (85 FR 23856).
+    This information collection is subject to the PRA. A Federal agency 
+generally cannot conduct or sponsor a collection of information, and 
+the public is generally not required to respond to an information 
+collection, unless the OMB approves it and displays a currently valid 
+OMB Control Number. In addition, notwithstanding any other provisions 
+of law, no person shall generally be subject to penalty for failing to 
+comply with a collection of information that does not display a valid 
+OMB Control Number. See 5 CFR 1320.5(a) and 1320.6.
+    DOL seeks PRA authorization for this information collection for 
+three (3) years. OMB authorization for an ICR cannot be for more than 
+three (3) years without renewal. The DOL notes that information 
+collection requirements submitted to the OMB for existing ICRs receive 
+a month-to-month extension while they undergo review.
+    Agency: DOL-EBSA.
+    Title of Collection: Employee Retirement Income Security Act 
+Prohibited Transaction Class Exemption 1981-8, Investment of Plan 
+Assets in Certain Types of Short-Term Investments.
+    OMB Control Number: 1210-0061.
+
+[[Page 78872]]
+
+    Affected Public: Private Sector-- Businesses or other for-profits 
+and not-for-profit institutions.
+    Total Estimated Number of Respondents: 95,170.
+    Total Estimated Number of Responses: 475,850.
+    Total Estimated Annual Time Burden: 118,963.
+    Total Estimated Annual Other Costs Burden: $ 114,109.
+
+    Authority: 44 U.S.C. 3507(a)(1)(D).
+
+    Dated: December 2, 2020.
+Anthony May,
+Management and Program Analyst.
+[FR Doc. 2020-26853 Filed 12-4-20; 8:45 am]
+BILLING CODE 4510-29-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

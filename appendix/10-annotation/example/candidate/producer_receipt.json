@@ -1,0 +1,37 @@
+{
+  "record": "Release-derived receipt of 2 November 2026; not written by the producer. It is not the producer receipt of 29 October 2026, which is kept unchanged at checks/recorded-2026-10-29/producer_receipt.json. The fields after derivation_reason repeat that receipt, except manifest_sha256, which names the release package.",
+  "derived_at": "2026-11-02T01:16:39.631499+00:00",
+  "original_receipt_sha256": "c15162a403641a30a7cd465f2c814f34432e814475f8edc091ebef2df6ac3fe7",
+  "original_manifest_sha256": "08a5796b655672ee5ce58609a967d9ad959d6c5f4414b4b07a75c44d8fc6ca72",
+  "derivation_reason": "For anonymous review, two descriptive fields of study.json and one code comment in workflow.py were reworded, so the package was frozen again. The retained request file and the candidate responses are byte-identical to 29 October 2026. The original annotation took place in an interactive conversation that also held project briefs and method sources; that context is not reproduced by these files. See CHANGES.md.",
+  "run_id": "native-codex-fr-demo-20261029-01",
+  "annotation_provenance": "model_generated_candidate",
+  "execution_mode": "active native Codex conversation; five authored candidate records after reading frozen requests; no isolated API calls",
+  "producer": "Codex assistant in the annotation workflow seat",
+  "recorded_at": "2026-10-29T06:46:05.507676+00:00",
+  "model": {
+    "value": null,
+    "reason": "Exact backend model identifier not exposed to this artifact; configured session model unchanged"
+  },
+  "settings": {
+    "value": null,
+    "reason": "Temperature, seed, token accounting and backend revision not exposed; effort unchanged"
+  },
+  "context_limitations": [
+    "The same assistant designed the codebook and annotated the demonstration",
+    "Conversation included project briefs and methodological sources; generated requests were not isolated fresh contexts",
+    "No repeated runs, independent human reference labels or external semantic review",
+    "Code only validates and transforms these retained candidate outputs; replay does not call a model"
+  ],
+  "manifest_sha256": "54657cd37c823716cbddabe8a37cd7a72c3d669c67f27aad9e8e487b58b3733c",
+  "response_sha256": "33b063eb54b771d4ca6d0c30f9734d630ad4784b7dba907de10da32fee51e463",
+  "retrieval_date": "2026-10-29",
+  "cost": {
+    "value": null,
+    "reason": "No separate annotation-call accounting available"
+  },
+  "latency": {
+    "value": null,
+    "reason": "Annotation authored within interactive development, not timed calls"
+  }
+}

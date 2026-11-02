@@ -1,0 +1,142 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 78988-78989]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26882]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF AGRICULTURE
+
+Agricultural Marketing Service
+
+[Doc. No. AMS-FGIS-20-0080]
+
+
+Request for Extension and Revision of a Currently Approved 
+Information Collection
+
+AGENCY: Agricultural Marketing Service, USDA.
+
+ACTION: Notice and request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This notice announces the Agricultural Marketing Service's 
+(AMS) intention to request that the Office of Management and Budget 
+(OMB) approve a 3-year extension of a currently approved information 
+collection for the ``Reporting and Recordkeeping Requirements under the 
+United States Grain Standards Act (USGSA) and under the Agricultural 
+Marketing Act of 1946 (AMA).'' This approval is required under the 
+Paperwork Reduction Act of 1995 (PRA).
+
+DATES: Comments on this notice must be received by February 8, 2021 to 
+be assured of consideration.
+
+ADDRESSES: Interested persons are invited to submit comments concerning 
+this notice by using the electronic process available at 
+www.regulations gov. All comments should reference the docket number 
+(same number as above assigned by Originating Program), the date, and 
+the page number of this issue of the Federal Register. All comments 
+received will be posted without change, including any personal 
+information provided, at <a href="http://www.regulations.gov">www.regulations.gov</a> and will be included in 
+the record and made available to the public.
+
+FOR FURTHER INFORMATION CONTACT: Contact Gregory J. Giese USDA AMS; 
+Telephone: (816) 867-2451; Email: [email redacted].
+
+SUPPLEMENTARY INFORMATION: Congress enacted the United States Grain 
+Standards Act (USGSA) (7 U.S.C. 71-87k) and the Agricultural Marketing 
+Act (AMA) (7 U.S.C. 1621-1627) to facilitate the marketing of grain, 
+oilseeds, pulses, rice, and related commodities. These statutes provide 
+for the establishment of standards and terms which accurately and 
+consistently measure the quality of grain and related products, provide 
+for uniform official inspection and weighing, provide regulatory and 
+service responsibilities, and furnish the framework for commodity 
+quality improvement incentives to both domestic and foreign buyers. 
+AMS's Federal Grain Inspection Service (FGIS) establishes policies, 
+guidelines, and regulations to carry out the objectives of the USGSA 
+and the AMA. Regulations appear at 7 CFR 800, 801, and 802 for the 
+USGSA and 7 CFR 868 for the AMA.
+    The USGSA, with few exceptions, requires official inspection of 
+export grain sold by grade. Official services are provided, upon 
+request, for grain in domestic commerce. The AMA authorizes similar 
+inspection and weighing services, upon request, for rice, pulses, 
+flour, corn meal, and certain other agricultural products. Conversely, 
+the regulations promulgated under the USGSA and the AMA require 
+specific information collection and recordkeeping necessary to carry 
+out requests for official services. Applicants for official services 
+must specify the kind and level of service, the identification of the 
+product, the location, the amount, and other pertinent information in 
+order that official personnel can efficiently respond to their needs.
+    Official services under the USGSA are provided through FGIS field 
+offices and delegated and/or designated State and private agencies. 
+Delegated agencies are State agencies delegated authority under the 
+USGSA to provide official inspection service, Class X or Class Y 
+weighing services, or both, at one or more export port locations in the 
+State. Designated agencies are State or local governmental agencies or 
+persons designated under the USGSA to provide official inspection 
+services, Class X or Class Y weighing services, or both, at locations 
+other than export port locations. State and private agencies, as a 
+requirement for delegation and/or designation, must comply with all 
+regulations, procedures, and instructions in accordance with provisions 
+established under the USGSA. FGIS field offices oversee the
+
+[[Page 78989]]
+
+performance of these agencies and provide technical guidance as needed.
+    Official services under the AMA are performed, upon request, on a 
+fee basis for domestic and export shipments either by FGIS employees, 
+individual contractors, or cooperators. Contractors are persons who 
+enter into a contract with FGIS to perform specified sampling and 
+inspection services. Cooperators are agencies or departments of the 
+Federal Government which have an interagency agreement, State agencies, 
+or other entities which have a reimbursable agreement with FGIS.
+    Title: Reporting and Recordkeeping Requirements (United States 
+Grain Standards Act and Agricultural Marketing Act of 1946).
+    OMB Number: 0581-0309.
+    Expiration Date of Approval: January 31, 2021.
+    Type of Request: Extension and revision of a currently approved 
+information collection.
+    Abstract: The USGSA and the AMA authorize USDA to inspect, certify 
+and identify the class, quality, quantity and condition of agricultural 
+products shipped or received in interstate and foreign commerce.
+    Estimate of Burden: Public reporting and record keeping burden for 
+this collection of information is estimated to average .13 hours per 
+response.
+    Respondents: Grain producers, buyers, and sellers, elevator 
+operators, grain merchandisers, and official grain inspection agencies.
+    Estimated Number of Respondents: 8,666.
+    Estimated Number of Responses per Respondent: 143.
+    Estimated Total Annual Burden on Respondents: 161,614 hours.
+    As required by the PRA (44 U.S.C. 3506(c)(2)(A)) and its 
+implementing regulations (5 CFR 1320.8(d)(1)(i)), AMS specifically 
+requests comments on: (1) Whether the proposed collection of 
+information is necessary for the proper performance of the functions of 
+the agency, including whether the information will have practical 
+utility; (2) the accuracy of the agency's estimate of the burden of the 
+proposed collection of information including the validity of the 
+methodology and assumptions used; (3) ways to enhance the quality, 
+utility, and clarity of the information to be collected; and (4) ways 
+to minimize the burden of the collection of information on those who 
+are to respond, including the use of appropriate automated, electronic, 
+mechanical, or other technological collection techniques or other forms 
+of information technology.
+    All responses to this notice will be summarized and included in the 
+request for OMB approval. All comments will become a matter of public 
+record.
+
+Bruce Summers,
+Administrator, Agricultural Marketing Service.
+[FR Doc. 2020-26882 Filed 12-7-20; 8:45 am]
+BILLING CODE P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
