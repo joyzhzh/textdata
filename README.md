@@ -12,9 +12,9 @@ The website offers illustrative demonstrations and searchable resources. This re
 
 ## The design
 
-[![TextData infrastructure design](assets/textdata-design.png)](https://textdata.info/how-it-works/)
+[View the TextData infrastructure design figure](assets/textdata-design.png)
 
-*Explore the figure interactively on the website.*
+*[Explore the figure interactively on the website.](https://textdata.info/how-it-works/)*
 
 The figure shows how the infrastructure is intended to work.
 
@@ -26,7 +26,7 @@ On the **right**, development agents build and maintain the deep-research engine
 
 ## The ten components
 
-![Components and development status](assets/textdata-components.png)
+[View the components and development status figure](assets/textdata-components.png)
 
 *Components and development status. Arrows indicate the engine’s intended support for each group’s continuing development. Asterisks mark proposed additions or integration.*
 
