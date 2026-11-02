@@ -1,0 +1,12 @@
+{
+  "scope": "deterministic replay of saved candidate output, not a new model run",
+  "identical_outputs": {
+    "annotations.jsonl": true,
+    "features.csv": true,
+    "summary.json": true,
+    "reference_template.jsonl": true,
+    "response.jsonl": true,
+    "producer_receipt.json": true
+  },
+  "run_receipts": "Execution timestamp differs as expected; source code and input hashes unchanged"
+}

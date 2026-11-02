@@ -1,0 +1,55 @@
+{
+  "payload": {
+    "mode": "dry-run",
+    "moves_checked": [
+      {
+        "snapshot": {
+          "device_id": 16777233,
+          "directories_including_root": 1,
+          "files_with_nlink_gt_1": 0,
+          "logical_bytes": 171,
+          "nlink_distribution": {
+            "1": 2
+          },
+          "regular_files": 2,
+          "root_inode": 529901309,
+          "symlinks": 0,
+          "unique_regular_file_inodes": 2
+        },
+        "source": "alpha-sealed",
+        "target": "provenance/alpha-sealed"
+      },
+      {
+        "snapshot": {
+          "device_id": 16777233,
+          "directories_including_root": 1,
+          "files_with_nlink_gt_1": 0,
+          "logical_bytes": 167,
+          "nlink_distribution": {
+            "1": 2
+          },
+          "regular_files": 2,
+          "root_inode": 529901306,
+          "symlinks": 0,
+          "unique_regular_file_inodes": 2
+        },
+        "source": "beta-sealed",
+        "target": "provenance/beta-sealed"
+      }
+    ],
+    "plan_id": "example-housekeeping-plan",
+    "plan_sha256": "f0c1025a5dcc9496c3041a253195e1fd55c30b4de0b2ce9e7c45bc4b2e73112f",
+    "planned_symlinks": [
+      {
+        "path": "current/alpha",
+        "target": "../provenance/alpha-sealed"
+      },
+      {
+        "path": "current/beta",
+        "target": "../provenance/beta-sealed"
+      }
+    ],
+    "status": "PASS_PREFLIGHT"
+  },
+  "returncode": 0
+}

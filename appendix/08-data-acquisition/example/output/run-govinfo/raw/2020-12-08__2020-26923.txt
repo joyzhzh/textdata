@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 78989-78990]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26923]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF AGRICULTURE
+
+
+Submission for OMB Review; Comment Request
+
+December 3, 2020.
+    The Department of Agriculture has submitted the following 
+information collection requirement(s) to Office of Management and 
+Budget (OMB) for review and clearance under the Paperwork Reduction Act 
+of 1995, Public Law 104-13. Comments are requested regarding: Whether 
+the collection of information is necessary for the proper performance 
+of the functions of the agency, including whether the information will 
+have practical utility; the accuracy of the agency's estimate of burden 
+including the validity of the methodology and assumptions used; ways to 
+enhance the quality, utility and clarity of the information to be 
+collected; ways to minimize the burden of the collection of information 
+on those who are to respond, including through the use of appropriate 
+automated, electronic, mechanical, or other technological collection 
+techniques or other forms of information technology.
+    Comments regarding this information collection received by January 
+7, 2021 will be considered. Written comments and recommendations for 
+the proposed information collection should be submitted within 30 days 
+of the publication of this notice on the following website 
+<a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular information 
+collection by selecting ``Currently under 30-day Review--Open for 
+Public Comments'' or by using the search function.
+    An agency may not conduct or sponsor a collection of information 
+unless the collection of information displays a currently valid OMB 
+control number and the agency informs potential persons who are to 
+respond to the collection of information that such persons are not 
+required to respond to the collection of information unless it displays 
+a currently valid OMB control number.
+
+Rural Utilities Service
+
+    Title: 7 CFR part 1738 Rural Broadband Loans, Loan/Grant 
+Combinations, and Loan Guarantees.
+    OMB Control Number: 0572-0154.
+    Summary of Collection: The Rural Utilities Service (RUS), is 
+authorized by Title VI, Rural Broadband Access, of the Rural 
+Electrification Act of 1936, as amended (RE Act), to provide loans, 
+loan/grant combinations and loan guarantees to fund the cost of 
+construction, improvement, or acquisition of facilities and equipment 
+for the provision of broadband service in eligible rural areas in the 
+States and Territories of the United States. 7 CFR part 1738 prescribes 
+the types of loans available, facilities financed, and eligible 
+applicants, as well as minimum equity requirements to be considered for 
+a loan. In addition, 7 CFR part 1738 outlines the process through which 
+RUS will consider applicants under the priority consideration required 
+in Title VI.
+    The term of the loan or loan/grant combination is based on the 
+expected composite economic life based on the depreciation rates of the 
+facilities financed. The term of the loan or loan/grant combination can 
+be as high as 35 years. These loans are secured by a first lien on the 
+borrower's broadband system. In the interest of protecting loan 
+security and accomplishing the statutory objective of a sound program 
+of rural broadband service access, Title VI of the RE Act further 
+requires that RUS make or guarantee a loan only if there is reasonable 
+assurance that the loan, together with all outstanding loans and 
+obligations of the borrower, will be repaid in full within the time 
+agreed; the information gathered in this collection will help RUS 
+determine that reasonable assurance.
+    This package will replace 0572-0130 and incorporates all the new 
+requirements from the 2018 Farm Bill. This package also covers the 
+Public Notice requirements for the telecommunication infrastructure and 
+the Community Connect program. All other burden associated with those 
+two programs will remain under their current packages.
+    Need and Use of the Information: The information in the program 
+application guide--RUS Bulletin 1738-1 provides applicants with needed 
+information, definitions and details for completing and submitting an 
+application. The information in the application will be used to 
+determine: Applicant eligibility, availability of broadband service for 
+priority consideration, technical and economic feasibility of the 
+proposed project (that the funds requested are adequate to complete the 
+project taking into consideration any additional funding provided by 
+the applicant and that the loan can be repaid within the
+
+[[Page 78990]]
+
+allowable time frame), loan/grant combination eligibility, and 
+applicant compliance with certain Federal regulations and requirements.
+    Description of Respondents: Business or other for-profit; Not-for-
+profit institutions.
+    Number of Respondents: 50.
+    Frequency of Responses: Reporting: On occasion.
+    Total Burden Hours: 20,942.
+
+Levi S. Harrell,
+Departmental Information Collection Clearance Officer.
+[FR Doc. 2020-26923 Filed 12-7-20; 8:45 am]
+BILLING CODE 3410-15-P
+
+
+</pre></body>
+</html>

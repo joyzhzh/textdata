@@ -1,0 +1,1068 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Rules and Regulations]
+[Pages 78748-78769]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26698]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Medicare & Medicaid Services
+
+42 CFR Parts 405, 412, 413, 417, 476, 480, 484, and 495
+
+[CMS-1735-CN]
+RIN 0938-AU11
+
+
+Medicare Program; Hospital Inpatient Prospective Payment Systems 
+for Acute Care Hospitals and the Long-Term Care Hospital Prospective 
+Payment System and Final Policy Changes and Fiscal Year 2021 Rates; 
+Quality Reporting and Medicare and Medicaid Promoting Interoperability 
+Programs Requirements for Eligible Hospitals and Critical Access 
+Hospitals; Correction
+
+AGENCY: Centers for Medicare & Medicaid Services (CMS), Health and 
+Human Services (HHS).
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document corrects technical and typographical errors in 
+the final rule that appeared in the September 18, 2020 issue of the 
+Federal Register titled ``Medicare Program; Hospital Inpatient 
+Prospective Payment Systems for Acute Care Hospitals and the Long-Term 
+Care Hospital Prospective Payment System and Final Policy Changes and 
+Fiscal Year 2021 Rates; Quality Reporting and Medicare and Medicaid 
+Promoting Interoperability Programs Requirements for Eligible Hospitals 
+and Critical Access Hospitals''.
+
+DATES: 
+    Effective Date: This correcting document is effective on December 
+1, 2020.
+    Applicability Date: The corrections in this correcting document are 
+applicable to discharges occurring on or after October 1, 2020.
+
+FOR FURTHER INFORMATION CONTACT: Donald Thompson and Michele Hudson, 
+(410) 786-4487.
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 78749]]
+
+I. Background
+
+    In FR Doc. 2020-19637 of September 18, 2020 (85 FR 58432) there 
+were a number of technical and typographical errors that are identified 
+and corrected in the Correction of Errors section of this correcting 
+document. The corrections in this correcting document are applicable to 
+discharges occurring on or after October 1, 2020, as if they had been 
+included in the document that appeared in the September 18, 2020 
+Federal Register.
+
+II. Summary of Errors
+
+A. Summary of Errors in the Preamble
+
+    On the following pages: 58435 through 58436, 58448, 58451, 58453, 
+58459, 58464, 58471, 58479, 58487, 58495, 58506, 58509, 58520, 58529, 
+58531 through 58532, 58537, 58540 through 58541, 58553 through 58556, 
+58559 through 58560, 58580 through 58583, 58585 through 58588, 58596, 
+58599, 58603 through 58604, 58606 through 58607, 58610, 58719, 58734, 
+58736 through 58737, 58739, 58741, 58842, 58876, 58893, and 58898 
+through 58900, we are correcting inadvertent typographical errors in 
+the internal section references.
+    On page 58596, we are correcting an inadvertent typographical error 
+in the date of the MedPAR data used for developing the Medicare 
+Severity Diagnosis-Related Group (MS-DRG) relative weights.
+    On pages 58716 and 58717, we are correcting inadvertent errors in 
+the ICD-10-PCS procedure codes describing the BAROSTIM NEO[supreg] 
+System technology.
+    On pages 58721 and 58723, we are correcting inadvertent errors in 
+the ICD-10-PCS procedure codes describing the Cefiderocol technology.
+    On page 58768, due to a conforming change to the Rural Floor Budget 
+Neutrality adjustment (listed in the table titled ``Summary of FY 2021 
+Budget Neutrality Factors'' on page 59034) as discussed in section 
+II.B. of this correcting document and the conforming changes to the 
+Out-Migration Adjustment discussed in section II. D of this correcting 
+document (with regard to Table 4A), we are correcting the 25th 
+percentile wage index value across all hospitals.
+    On page 59006, in the discussion of Medicare bad debt policy, we 
+are correcting inadvertent errors in the regulatory citations and 
+descriptions.
+
+B. Summary of Errors in the Addendum
+
+    On pages 59031 and 59037, we are correcting inadvertent 
+typographical errors in the internal section references.
+    We are correcting an error in the version 38 ICD-10 MS-DRG 
+assignment for some cases in the historical claims data in the FY 2019 
+MedPAR files used in the ratesetting for the FY 2021 IPPS/LTCH PPS 
+final rule, which resulted in inadvertent errors in the MS-DRG relative 
+weights (and associated average length-of-stay (LOS)). Additionally, 
+the version 38 MS-DRG assignment and relative weights are used when 
+determining total payments for purposes of all of the budget neutrality 
+factors and the final outlier threshold. As a result, the corrections 
+to the MS-DRG assignment under the ICD-10 MS-DRG GROUPER version 38 for 
+some cases in the historical claims data in the FY 2019 MedPAR files 
+and the recalculation of the relative weights directly affected the 
+calculation of total payments and required the recalculation of all the 
+budget neutrality factors and the final outlier threshold.
+    In addition, as discussed in section II.D. of this correcting 
+document, we made updates to the calculation of Factor 3 of the 
+uncompensated care payment methodology to reflect updated information 
+on hospital mergers received in response to the final rule. Factor 3 
+determines the total amount of the uncompensated care payment a 
+hospital is eligible to receive for a fiscal year. This hospital-
+specific payment amount is then used to calculate the amount of the 
+interim uncompensated care payments a hospital receives per discharge. 
+Per discharge uncompensated care payments are included when determining 
+total payments for purposes of all of the budget neutrality factors and 
+the final outlier threshold. As a result, the revisions made to the 
+calculation of Factor 3 to address additional merger information 
+directly affected the calculation of total payments and required the 
+recalculation of all the budget neutrality factors and the final 
+outlier threshold.
+    We made an inadvertent error in the Medicare Geographic 
+Classification Review Board (MGCRB) reclassification status of one 
+hospital in the FY 2021 IPPS/LTCH PPS final rule. Specifically, CCN 
+050481 is incorrectly listed in Table 2 as reclassified to its 
+geographic ``home'' of CBSA 31084. The correct reclassification area is 
+to CBSA 37100. This correction necessitated the recalculation of the FY 
+2021 wage index for CBSA 37100 and affected the final FY 2021 wage 
+index with reclassification. The final FY 2021 IPPS wage index with 
+reclassification is used when determining total payments for purposes 
+of all budget neutrality factors (except for the MS-DRG 
+reclassification and recalibration budget neutrality factor and the 
+wage index budget neutrality adjustment factor) and the final outlier 
+threshold.
+    Due to the correction of the combination of errors listed 
+previously (corrections to the MS-DRG assignment for some cases in the 
+historical claims data and the resulting recalculation of the relative 
+weights and average length of stay, revisions to Factor 3 of the 
+uncompensated care payment methodology, and the correction to the MGCRB 
+reclassification status of one hospital), we recalculated all IPPS 
+budget neutrality adjustment factors, the fixed-loss cost threshold, 
+the final wage indexes (and geographic adjustment factors (GAFs)), the 
+national operating standardized amounts and capital Federal rate. 
+Therefore, we made conforming changes to the following:
+    <bullet> On page 59034, the table titled ``Summary of FY 2021 
+Budget Neutrality Factors''.
+    <bullet> On page 59037, the estimated total Federal capital 
+payments and the estimated capital outlier payments.
+    <bullet> On page 59040, the calculation of the outlier fixed-loss 
+cost threshold, total operating Federal payments, total operating 
+outlier payments, the outlier adjustment to the capital Federal rate 
+and the related discussion of the percentage estimates of operating and 
+capital outlier payments.
+    <bullet> On page 59042, the table titled ``Changes from FY 2020 
+Standardized Amounts to the FY 2021 Standardized Amounts''.
+    On page 59039, we are correcting a typographical error in the total 
+cases from October 1, 2018 through September 31, 2019 used to calculate 
+the average covered charge per case, which is then used to calculate 
+the charge inflation factor.
+    On pages 59047 through 59048, in our discussion of the 
+determination of the Federal hospital inpatient capital-related 
+prospective payment rate update, due to the recalculation of the GAFs 
+as well as corrections to the MS-DRG assignment for some cases in the 
+historical claims data and the resulting recalculation of the relative 
+weights and average length of stay, we have made conforming corrections 
+to the capital Federal rate, the incremental budget neutrality 
+adjustment factor for changes in the GAFs, and the outlier threshold 
+(as discussed previously). As a result of these changes, we also made 
+conforming corrections in the table showing the comparison of factors 
+and adjustments for the FY 2020 capital Federal rate and FY 2021 
+capital Federal rate. As we noted in the final rule, the capital 
+Federal rate is calculated using unrounded budget neutrality and 
+outlier
+
+[[Page 78750]]
+
+adjustment factors. The unrounded GAF/DRG budget neutrality factors and 
+the unrounded outlier adjustment to the capital Federal rate were 
+revised because of these errors. However, after rounding these factors 
+to 4 decimal places as displayed in the final rule, the rounded factors 
+were unchanged from the final rule.
+    On page 59057, we are making conforming changes to the fixed-loss 
+amount for FY 2021 site neutral payment rate discharges, and the high 
+cost outlier (HCO) threshold (based on the corrections to the IPPS 
+fixed-loss amount discussed previously).
+    On pages 59060 and 59061, we are making conforming corrections to 
+the national adjusted operating standardized amounts and capital 
+standard Federal payment rate (which also include the rates payable to 
+hospitals located in Puerto Rico) in Tables 1A, 1B, 1C, and 1D as a 
+result of the conforming corrections to certain budget neutrality 
+factors and the outlier threshold previously described.
+
+C. Summary of Errors in the Appendices
+
+    On pages 59062, 59070, 59074 through 59076, and 59085 we are 
+correcting inadvertent typographical errors in the internal section 
+references.
+    On pages 59064 through 59071, 59073 and 59074, and 59092 and 59093, 
+in our regulatory impact analyses, we have made conforming corrections 
+to the factors, values, and tables and accompanying discussion of the 
+changes in operating and capital IPPS payments for FY 2021 and the 
+effects of certain IPPS budget neutrality factors as a result of the 
+technical errors that lead to changes in our calculation of the 
+operating and capital IPPS budget neutrality factors, outlier 
+threshold, final wage indexes, operating standardized amounts, and 
+capital Federal rate (as described in section II.B. of this correcting 
+document). These conforming corrections include changes to the 
+following tables:
+    <bullet> On pages 59065 through 59069, the table titled ``Table I--
+Impact Analysis of Changes to the IPPS for Operating Costs for FY 
+2021''.
+    <bullet> On pages 59073 and 59074, the table titled ``Table II--
+Impact Analysis of Changes for FY 2021 Acute Care Hospital Operating 
+Prospective Payment System (Payments per discharge)''.
+    <bullet> On pages 59092 and 59093, the table titled ``Table III--
+Comparison of Total Payments per Case [FY 2020 Payments Compared to 
+Final FY 2021 payments]''.
+    On pages 59076 through 59079, we are correcting the discussion of 
+the ``Effects of the Changes to Uncompensated Care Payments for FY 
+2021'' for purposes of the Regulatory Impact Analysis in Appendix A of 
+the FY 2021 IPPS/LTCH PPS final rule, including the table titled 
+``Modeled Uncompensated Care Payments for Estimated FY 2021 DSHs by 
+Hospital Type: Uncompensated Care Payments ($ in Millions)*--from FY 
+2020 to FY 2021'' on pages 59077 and 59078, in light of the corrections 
+discussed in section II.D. of this correcting document.
+
+D. Summary of Errors in and Corrections to Files and Tables Posted on 
+the CMS Website
+
+    We are correcting the errors in the following IPPS tables that are 
+listed on pages 59059 and 59060 of the FY 2021 IPPS/LTCH PPS final rule 
+and are available on the internet on the CMS website at <a href="https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/index.html">https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/index.html</a>.
+    The tables that are available on the internet have been updated to 
+reflect the revisions discussed in this correcting document.
+    Table 2--Case-Mix Index and Wage Index Table by CCN-FY 2021 Final 
+Rule. As discussed in section II.B. of this correcting document, CCN 
+050481 is incorrectly listed as reclassified to its home geographic 
+area of CBSA 31084. In this table, we are correcting the columns titled 
+``Wage Index Payment CBSA'' and ``MGCRB Reclass'' to accurately reflect 
+its reclassification to CBSA 37100. This correction necessitated the 
+recalculation of the FY 2021 wage index for CBSA 37100. Also, the 
+corrections to the version 38 MS-DRG assignment for some cases in the 
+historical claims data and the resulting recalculation of the relative 
+weights and ALOS, corrections to Factor 3 of the uncompensated care 
+payment methodology, and recalculation of all of the budget neutrality 
+adjustments (as discussed in section II.B. of this correcting document) 
+necessitated the recalculation of the rural floor budget neutrality 
+factor which is the only budget neutrality factor applied to the FY 
+2021 wage indexes. Because the rural floor budget neutrality factor is 
+applied to the FY 2021 wage indexes, we are making corresponding 
+changes to the wage indexes listed in Table 2. In addition, as also 
+discussed later in this section, because the wage indexes are one of 
+the inputs used to determine the out-migration adjustment, some of the 
+out migration adjustments changed. Therefore, we are making 
+corresponding changes to some of the out-migration adjustments listed 
+in Table 2. Also, as discussed in section II.A of this correcting 
+document, we made a conforming change to the 25th percentile wage index 
+value across all hospitals. Accordingly, we are making corresponding 
+changes to the values for hospitals in the columns titled ``FY 2021 
+Wage Index Prior to Quartile and Transition'', ``FY 2021 Wage Index 
+With Quartile'', ``FY 2021 Wage Index With Quartile and Cap'' and 
+``Out-Migration Adjustment''. We also updated footnote number 6 to 
+reflect the conforming change to the 25th percentile wage index value 
+across all hospitals.
+    Table 3.--Wage Index Table by CBSA--FY 2021 Final Rule. As 
+discussed in section II.B. of this correcting document, CCN 050481 is 
+incorrectly listed in Table 2 as reclassified to its home geographic 
+area of CBSA 31084 instead of reclassified to CBSA 37100. This 
+correction necessitated the recalculation of the FY 2021 wage index for 
+CBSA 37100. Also, corrections to the version 38 MS-DRG assignment for 
+some cases in the historical claims data and the resulting 
+recalculation of the relative weights and ALOS, corrections to Factor 3 
+of the uncompensated care payment methodology, and the recalculation of 
+all of the budget neutrality adjustments (as discussed in section II.B. 
+of this correcting document) necessitated the recalculation of the 
+rural floor budget neutrality factor which is the only budget 
+neutrality factor applied to the FY 2021 wage indexes. Because the 
+rural floor budget neutrality factor is applied to the FY 2021 wage 
+indexes, we are making corresponding changes to the wage indexes and 
+GAFs of all CBSAs listed in Table 3. Specifically, we are correcting 
+the values and flags in the columns titled ``Wage Index'', ``GAF'', 
+``Reclassified Wage Index'', ``Reclassified GAF'', ``State Rural 
+Floor'', ``Eligible for Rural Floor Wage Index'', ``Pre-Frontier and/or 
+Pre-Rural Floor Wage Index'', ``Reclassified Wage Index Eligible for 
+Frontier Wage Index'', ``Reclassified Wage Index Eligible for Rural 
+Floor Wage Index'', and ``Reclassified Wage Index Pre-Frontier and/or 
+Pre-Rural Floor''.
+    Table 4A.-- List of Counties Eligible for the Out-Migration 
+Adjustment under Section 1886(d)(13) of the Act--FY 2021 Final Rule. As 
+discussed in section II.B. of this correcting document, CCN 050481 is 
+incorrectly listed in Table 2 as reclassified to its home geographic 
+area of CBSA 31084 instead of reclassified to CBSA 37100. This 
+correction necessitated the recalculation of the FY 2021 wage index for 
+CBSA 37100. Also, corrections to the version 38 MS-DRG assignment for 
+some cases
+
+[[Page 78751]]
+
+in the historical claims data and the resulting recalculation of the 
+relative weights and ALOS, corrections to Factor 3 of the uncompensated 
+care payment methodology, and the recalculation of all of the budget 
+neutrality adjustments (as discussed in section II.B. of this 
+correcting document) necessitated the recalculation of the rural floor 
+budget neutrality factor which is the only budget neutrality factor 
+applied to the FY 2021 wage indexes. As a result, as discussed 
+previously, we are making corresponding changes to the FY 2021 wage 
+indexes. Because the wage indexes are one of the inputs used to 
+determine the out-migration adjustment, some of the out migration 
+adjustments changed. Therefore, we are making corresponding changes to 
+some of the out-migration adjustments listed in Table 4A. Specifically, 
+we are correcting the values in the column titled ``FY 2021 Out 
+Migration Adjustment''.
+    Table 5.--List of Medicare Severity Diagnosis-Related Groups (MS-
+DRGs), Relative Weighting Factors, and Geometric and Arithmetic Mean 
+Length of Stay--FY 2021. We are correcting this table to reflect the 
+recalculation of the relative weights, geometric average length-of-stay 
+(LOS), and arithmetic mean LOS as a result of the corrections to the 
+version 38 MS-DRG assignment for some cases in the historical claims 
+data used in the calculations (as discussed in section II.B. of this 
+correcting document).
+    Table 7B.--Medicare Prospective Payment System Selected Percentile 
+Lengths of Stay: FY 2019 MedPAR Update--March 2020 GROUPER Version 38 
+MS-DRGs. We are correcting this table to reflect the recalculation of 
+the relative weights, geometric average LOS, and arithmetic mean LOS as 
+a result of the corrections to the version 38 MS-DRG assignment for 
+some cases in the historical claims data used in the calculations (as 
+discussed in section II.B. of this correcting document).
+    Table 18.--FY 2021 Medicare DSH Uncompensated Care Payment Factor 
+3. For the FY 2021 IPPS/LTCH PPS final rule, we published a list of 
+hospitals that we identified to be subsection (d) hospitals and 
+subsection (d) Puerto Rico hospitals projected to be eligible to 
+receive uncompensated care interim payments for FY 2021. As stated in 
+the FY 2021 IPPS/LTCH PPS final rule (85 FR 58834 and 58835), we 
+allowed the public an additional period after the issuance of the final 
+rule to review and submit comments on the accuracy of the list of 
+mergers that we identified in the final rule. Based on the comments 
+received during this additional period, we are updating this table to 
+reflect the merger information received in response to the final rule 
+and to revise the Factor 3 calculations for purposes of determining 
+uncompensated care payments for the FY 2021 IPPS/LTCH PPS final rule.
+    We are revising Factor 3 for all hospitals to reflect the updated 
+merger information received in response to the final rule. We are also 
+revising the amount of the total uncompensated care payment calculated 
+for each DSH-eligible hospital. The total uncompensated care payment 
+that a hospital receives is used to calculate the amount of the interim 
+uncompensated care payments the hospital receives per discharge; 
+accordingly, we have also revised these amounts for all DSH-eligible 
+hospitals. These corrections will be reflected in Table 18 and the 
+Medicare DSH Supplemental Data File. Per discharge uncompensated care 
+payments are included when determining total payments for purposes of 
+all of the budget neutrality factors and the final outlier threshold. 
+As a result, these corrections to uncompensated care payments impacted 
+the calculation of all the budget neutrality factors as well as the 
+outlier fixed-loss cost threshold. In section IV.C. of this correcting 
+document, we have made corresponding revisions to the discussion of the 
+``Effects of the Changes to Medicare DSH and Uncompensated Care 
+Payments for FY 2021'' for purposes of the Regulatory Impact Analysis 
+in Appendix A of the FY 2021 IPPS/LTCH PPS final rule to reflect the 
+corrections discussed previously and to correct minor typographical 
+errors.
+    The files that are available on the internet have been updated to 
+reflect the corrections discussed in this correcting document.
+
+III. Waiver of Proposed Rulemaking, 60-Day Comment Period, and Delay in 
+Effective Date
+
+    Under 5 U.S.C. 553(b) of the Administrative Procedure Act (APA), 
+the agency is required to publish a notice of the proposed rulemaking 
+in the Federal Register before the provisions of a rule take effect. 
+Similarly, section 1871(b)(1) of the Act requires the Secretary to 
+provide for notice of the proposed rulemaking in the Federal Register 
+and provide a period of not less than 60 days for public comment. In 
+addition, section 553(d) of the APA, and section 1871(e)(1)(B)(i) of 
+the Act mandate a 30-day delay in effective date after issuance or 
+publication of a rule. Sections 553(b)(B) and 553(d)(3) of the APA 
+provide for exceptions from the notice and comment and delay in 
+effective date APA requirements; in cases in which these exceptions 
+apply, sections 1871(b)(2)(C) and 1871(e)(1)(B)(ii) of the Act provide 
+exceptions from the notice and 60-day comment period and delay in 
+effective date requirements of the Act as well. Section 553(b)(B) of 
+the APA and section 1871(b)(2)(C) of the Act authorize an agency to 
+dispense with normal rulemaking requirements for good cause if the 
+agency makes a finding that the notice and comment process are 
+impracticable, unnecessary, or contrary to the public interest. In 
+addition, both section 553(d)(3) of the APA and section 
+1871(e)(1)(B)(ii) of the Act allow the agency to avoid the 30-day delay 
+in effective date where such delay is contrary to the public interest 
+and an agency includes a statement of support.
+    We believe that this correcting document does not constitute a rule 
+that would be subject to the notice and comment or delayed effective 
+date requirements. This document corrects technical and typographical 
+errors in the preamble, addendum, payment rates, tables, and appendices 
+included or referenced in the FY 2021 IPPS/LTCH PPS final rule, but 
+does not make substantive changes to the policies or payment 
+methodologies that were adopted in the final rule. As a result, this 
+correcting document is intended to ensure that the information in the 
+FY 2021 IPPS/LTCH PPS final rule accurately reflects the policies 
+adopted in that document.
+    In addition, even if this were a rule to which the notice and 
+comment procedures and delayed effective date requirements applied, we 
+find that there is good cause to waive such requirements. Undertaking 
+further notice and comment procedures to incorporate the corrections in 
+this document into the final rule or delaying the effective date would 
+be contrary to the public interest because it is in the public's 
+interest for providers to receive appropriate payments in as timely a 
+manner as possible, and to ensure that the FY 2021 IPPS/LTCH PPS final 
+rule accurately reflects our policies. Furthermore, such procedures 
+would be unnecessary, as we are not altering our payment methodologies 
+or policies, but rather, we are simply implementing correctly the 
+methodologies and policies that we previously proposed, requested 
+comment on, and subsequently finalized. This correcting document is 
+intended solely to ensure that the FY 2021 IPPS/LTCH PPS final rule 
+accurately reflects these payment methodologies and policies. 
+Therefore, we believe we have good cause to waive
+
+[[Page 78752]]
+
+the notice and comment and effective date requirements. Moreover, even 
+if these corrections were considered to be retroactive rulemaking, they 
+would be authorized under section 1871(e)(1)(A)(ii) of the Act, which 
+permits the Secretary to issue a rule for the Medicare program with 
+retroactive effect if the failure to do so would be contrary to the 
+public interest. As we have explained previously, we believe it would 
+be contrary to the public interest not to implement the corrections in 
+this correcting document because it is in the public's interest for 
+providers to receive appropriate payments in as timely a manner as 
+possible, and to ensure that the FY 2021 IPPS/LTCH PPS final rule 
+accurately reflects our policies.
+
+IV. Correction of Errors
+
+    In FR Doc. 2020-19637 of September 18, 2020 (85 FR 58432), we are 
+making the following corrections:
+
+A. Corrections of Errors in the Preamble
+
+    1. On page 58435, third column, third full paragraph, line 1, the 
+reference, ``section II.G.9.b.'' is corrected to read ``section 
+II.F.9.b.''.
+    2. On page 58436, first column, first full paragraph, line 10, the 
+reference, ``section II.G.9.c.'' is corrected to read ``section 
+II.F.9.c.''.
+    3. On page 58448, lower half of the page, second column, first 
+partial paragraph, lines 19 and 20, the reference, ``section 
+II.E.2.b.'' is corrected to read ``section II.D.2.b.''.
+    4. On page 58451, first column, first full paragraph, line 12, the 
+reference, ``section II.E.16.'' is corrected to read ``section 
+II.D.16.''.
+    5. On page 58453, third column, third full paragraph, line 13, the 
+reference, ``section II.E.2.b.'' is corrected to read ``section 
+II.D.2.b.''.
+    6. On page 58459, first column, fourth paragraph, line 3, the 
+reference, ``section II.E.1.b.'' is corrected to read ``section 
+II.D.1.b.''.
+    7. On page 58464, bottom quarter of the page, second column, 
+partial paragraph, lines 4 and 5, the phrase ``and section II.E.15. of 
+this final rule,'' is corrected to read ``and this final rule,''.
+    8. On page 58471, first column, first partial paragraph, lines 12 
+and 13, the reference, ``section II.E.15.'' is corrected to read 
+``section II.D.15.''.
+    9. On page 58479, first column, first partial paragraph:
+    a. Line 6, the reference, ``section II.E.16.'' is corrected to read 
+``section II.D.16.''.
+    b. Line 15, the reference, ``section II.E.1.b.'' is corrected to 
+read ``section II.D.1.b.''.
+    10. On page 58487, first column, first full paragraph, lines 20 
+through 21, the reference, ``section II.E.12.b.'' is corrected to read 
+``section II.D.12.b.''.
+    11. On page 58495, middle of the page, third column, first full 
+paragraph, line 5, the reference, ``section II.E.1.b.'' is corrected to 
+read ``section II.D.1.b.''.
+    12. On page 58506:
+    a. Top half of the page, second column, first full paragraph, line 
+8, the reference, ``section II.E.1.b.'' is corrected to read ``section 
+II.D.1.b.''.
+    b. Bottom half of the page:
+    (1) First column, first paragraph, line 5, the reference, ``section 
+II.E.1.b.'' is corrected to read ``section II.D.1.b.''.
+    (2) Second column, third full paragraph, line 5, the reference, 
+``section II.E.1.b.'' is corrected to read ``section II.D.1.b.''.
+    13. On page 58509:
+    a. First column, last paragraph, last line, the reference, 
+``section II.E.2.'' is corrected to read ``section II.D.2.''.
+    b. Third column, last paragraph, line 5, the reference, ``section 
+II.E.1.b.'' is corrected to read ``section II.D.1.b.''.
+    14. On page 58520, second column, second full paragraph, line 22, 
+the reference, ``section II.E.11.'' is corrected to read ``section 
+II.D.11.''.
+    15. On page 58529, bottom half of the page, first column, last 
+paragraph, lines 11 and 12, the reference, ``section II.E.12.a.'' is 
+corrected to read ``section II.D.12.a.''.
+    16. On page 58531:
+    a. Top of the page, second column, last paragraph, line 3, the 
+reference, ``section II.E.4.'' is corrected to read ``section 
+II.D.4.''.
+    b. Bottom of the page, first column, last paragraph, line 3, the 
+reference, ``section II.E.16.'' is corrected to read ``section 
+II.D.16.''.
+    17. On page 58532, top of the page, second column, first partial 
+paragraph, line 5, the reference, ``section II.E.4.'' is corrected to 
+read ``section II.D.4.''.
+    18. On page 58537:
+    a. Second column, last paragraph, line 6, the reference, ``section 
+II.E.11.c.5.'' is corrected to read ``section II.D.11.c.(5).''.
+    b. Third column, fifth paragraph:
+    (1) Lines 8 and 9, the reference, ``section II.E.11.c.1.'' is 
+corrected to read ``section II.D.11.c.(1).''.
+    (2) Line 29, the reference, ``section II.E.11.c.1.'' is corrected 
+to read ``section II.D.11.c.(1).''.
+    19. On page 58540, first column, first partial paragraph, line 19, 
+the reference, ``section II.E.13.'' is corrected to read ``section 
+II.D.13.''.
+    20. On page 58541, second column, first partial paragraph, lines 9 
+and 10, the reference, ``section II.E.1.b.'' is corrected to read 
+``section II.D.1.b.''.
+    21. On page 58553, second column, third full paragraph, line 20, 
+the reference, ``section II.E.16.'' is corrected to read ``section 
+II.D.16.''.
+    22. On page 58554, first column, fifth full paragraph, line 1, the 
+reference, ``section II.E.13.'' is corrected to read ``section 
+II.D.13.''.
+    23. On page 58555, second column, fifth full paragraph, lines 8 and 
+9, the reference, ``section II.E.13.'' is corrected to read ``section 
+II.D.13.''.
+    24. On page 58556:
+    a. First column, first partial paragraph, line 5, the reference, 
+``section II.E.16.'' is corrected to read ``section II.D.16.''.
+    b. Second column, first full paragraph:
+    (1) Line 6, the reference, ``section II.E.16.'' is corrected to 
+read ``section II.D.16.''.
+    (2) Line 38, the reference, ``section II.E.16.'' is corrected to 
+read ``section II.D.16.''.
+    25. On page 58559, bottom half of the page, third column, first 
+full paragraph, line 21, the reference, ``section II.E.12.c.'' is 
+corrected to read ``section II.D.12.c.''.
+    26. On page 58560, first column, first full paragraph, line 14, the 
+reference, ``section II.E.16.'' is corrected to read ``section 
+II.D.16.''.
+    27. On page 58580, third column, last paragraph, line 3, the 
+reference, ``section II.E.13. of this final rule,'' is corrected to 
+read ``this final rule,''.
+    28. On page 58581:
+    a. Middle of the page:
+    (1) First column, first paragraph, line 3, the reference, ``section 
+II.E.13. of this final rule,'' is corrected to read ``this final 
+rule,''.
+    (2) Third column, last paragraph, line 3, the reference, ``section 
+II.E.13. of this final rule,'' is corrected to read ``this final 
+rule,''.
+    b. Bottom of the page, third column, last paragraph, line 3, the 
+reference, ``section II.E.13. of this final rule,'' is corrected to 
+read ``this final rule,''.
+    29. On page 58582:
+    a. Middle of the page:
+    (1) First column, first paragraph, line 3, the reference, ``section 
+II.E.13. of this final rule,'' is corrected to read ``this final 
+rule,''.
+    (2) Third column, first full paragraph, line 3, the reference, 
+``section II.E.13. of this final rule,'' is corrected to read ``this 
+final rule,''.
+    b. Bottom of the page, second column, first full paragraph, lines 2 
+and 3, the reference, ``in section II.E.13. of this final rule,'' is 
+corrected to read ``this final rule,''.
+    30. On page 58583:
+    a. Top of the page, second column, last paragraph, line 3, the 
+reference,
+
+[[Page 78753]]
+
+``section II.E.13. of this final rule,'' is corrected to read ``this 
+final rule,''.
+    b. Bottom of the page:
+    (1) First column, last paragraph, line 3, the reference, ``in 
+section II.E.13. of this final rule,'' is corrected to read ``this 
+final rule,''.
+    (2) Third column, last paragraph, line 3, the reference, ``section 
+II.E.13. of this final rule,'' is corrected to read ``this final 
+rule,''.
+    31. On page 58585, top of the page, third column, last paragraph, 
+lines 3 and 4, the reference, ``in section II.E.13. of this final 
+rule,'' is corrected to read ``this final rule,''.
+    32. On page 58586:
+    a. Second column, last partial paragraph, line 4, the reference, 
+``section II.E.2.b.'' is corrected to read ``section II.D.2.b.''.
+    b. Third column:
+    (1) First partial paragraph:
+    (a) Lines 12 and 13, the reference, ``in section II.E.2.b. of this 
+final rule,'' is corrected to read ``this final rule,''.
+    (b) Lines 20 and 21, the reference, ``in section II.E.8.a. of this 
+final rule,'' is corrected to read ``this final rule,''.
+    (2) Last partial paragraph:
+    (a) Line 3, the reference, ``section II.E.4. of this final rule,'' 
+is corrected to read ``this final rule,''.
+    (b) Line 38, the reference, ``section II.E.7.b. of this final 
+rule,'' is corrected to read ``this final rule,''.
+    33. On page 58587:
+    a. Top of the page, second column, partial paragraph, line 7, the 
+reference, ``section II.E.8.a. of this final rule,'' is corrected to 
+read ``this final rule,''.
+    b. Bottom of the page:
+    (1) Second column, last partial paragraph, line 3, the reference, 
+``section II.E.2.b.'' is corrected to read ``section II.D.2.b.''.
+    (2) Third column, first partial paragraph, line 1, the reference, 
+``section II.E.8.a.'' is corrected to read ``section II.D.8.a.''.
+    34. On page 58588, first column:
+    a. First full paragraph, line 3, the reference, ``section II.E.4.'' 
+is corrected to read ``section II.D.4.''.
+    b. Third full paragraph, line 3, the reference, ``section 
+II.E.7.b.'' is corrected to read ``section II.D.7.b.''.
+    c. Fifth full paragraph, line 3, the reference, ``section 
+II.E.8.a.'' is corrected to read ``section II.D.8.a.''.
+    35. On page 58596:
+    a. First column:
+    (1) First full paragraph, line 1, the reference, ``section 
+II.E.5.a.'' is corrected to read ``section II.D.5.a.''.
+    (2) Last paragraph, line 5, the reference, ``section II.E.1.b.'' is 
+corrected to read ``section II.D.1.b.''.
+    c. Second column, first full paragraph, line 14, the date ``March 
+31, 2019'' is corrected to read ``March 31, 2020''.
+    36. On page 58599, first column, second full paragraph, line 1, the 
+reference, ``section II.E.2.b.'' is corrected to read ``section 
+II.D.2.b.''.
+    37. On page 58603, first column:
+    a. First partial paragraph, line 13, the reference, ``section 
+II.G.1.a.(2).b.'' is corrected to read ``section II.F.1.a.(2).b.''.
+    b. Last partial paragraph, line 21, the reference, ``section 
+II.G.1.a.(2).b.'' is corrected to read ``section II.F.1.a.(2).b.''.
+    38. On page 58604, third column, first partial paragraph, line 38, 
+the reference, ``section II.E.2.b.'' is corrected to read ``section 
+II.D.2.b.''.
+    39. On page 58606:
+    a. First column, second partial paragraph, line 13, the reference, 
+``section II.G.9.b.'' is corrected to read ``section II.F.9.b.''.
+    b. Second column:
+    (1) First partial paragraph, line 3, the reference, ``section 
+II.G.9.b.'' is corrected to read ``section II.F.9.b.''.
+    (2) First full paragraph:
+    (a) Line 29, the reference, ``section II.G.8.'' is corrected to 
+read ``section II.F.8.''.
+    (b) Line 36, ``section II.G.8.'' is corrected to read ``section 
+II.F.8.''.
+    e. Third column, first full paragraph:
+    (1) Lines 4 and 5, the reference, ``section II.G.9.b.'' is 
+corrected to read section ``II.F.9.b.''.
+    (2) Line 13, the reference ``section II.G.9.b.'' is corrected to 
+read ``section II.F.9.b.''.
+    40. On page 58607:
+    a. First column, first full paragraph:
+    (1) Line 7, the reference, ``section II.G.9.b.'' is corrected to 
+read ``section II.F.9.b.''.
+    (2) Line 13, the reference, ``section II.G.9.b.'' is corrected to 
+read ``section II.F.9.b.''.
+    c. Second column, first partial paragraph:
+    (1) Line 20, the reference, ``section II.G.9.c.'' is corrected to 
+read ``section II.F.9.c.''.
+    (2) Line 33, the reference, ``section II.G.9.c.'' is corrected to 
+read ``section II.F.9.c.''.
+    41. On page 58610:
+    a. Second column, last partial paragraph, lines 1 and 16, the 
+reference, ``section II.E.2.b.'' is corrected to read ``section 
+II.D.2.b.''.
+    b. Third column, first partial paragraph:
+    (1) Line 6, the reference, ``section II.G.1.a.(2).b.'' is corrected 
+to read ``section II.F.1.a.(2)b.''
+    (2) Lines 20 and 21, the reference, ``section II.G.1.a.(2)b.'' is 
+corrected to read ``section II.F.1.a.(2)b.''.
+    42. On page 58716, first column, second full paragraph, lines 14 
+through 19, the phrase, ``with 03HK0MZ (Insertion of stimulator lead 
+into right internal carotid artery, open approach) or 03HL0MZ 
+(Insertion of stimulator lead into left internal carotid artery, open 
+approach)'' is corrected to read ``with 03HK3MZ (Insertion of 
+stimulator lead into right internal carotid artery, percutaneous 
+approach) or 03HL3MZ (Insertion of stimulator lead into left internal 
+carotid artery, percutaneous approach).''.
+    43. On page 58717, first column, first partial paragraph, line 5, 
+the phrase, ``with 03HK0MZ or 03HL0MZ'' is corrected to read ``with 
+03HK3MZ or 03HL3MZ.''
+    44. On page 58719:
+    a. First column, last partial paragraph, line 12, the reference, 
+``section II.G.8.'' is corrected to read ``section II.F.8.''.
+    b. Third column, first partial paragraph, line 15, the reference, 
+``section II.G.8.'' is corrected to read ``section II.F.8.''.
+    45. On page 58721, third column, second full paragraph, line 17, 
+the phrase, ``XW03366 or XW04366'' is corrected to read ``XW033A6 
+(Introduction of cefiderocol anti-infective into peripheral vein, 
+percutaneous approach, new technology group 6) or XW043A6 (Introduction 
+of cefiderocol anti-infective into central vein, percutaneous approach, 
+new technology group 6).''.
+    46. On page 58723, second column, first partial paragraph, line 14, 
+the phrase, ``procedure codes XW03366 or XW04366'' is corrected to read 
+``procedure codes XW033A6 or XW043A6.''
+    47. On page 58734, third column, second full paragraph, line 26, 
+the reference, ``section II.G.9.b.'' is corrected to read ``section 
+II.F.9.b.''.
+    48. On page 58736, second column, first full paragraph, line 27, 
+the reference, ``II.G.9.b.'' is corrected to read ``II.F.9.b.''.
+    49. On page 58737, third column, first partial paragraph, line 5, 
+the reference, ``section II.G.1.d.'' is corrected to read ``section 
+II.F.1.d.''.
+    50. On page 58739, third column, first full paragraph, line 21, the 
+reference, ``section II.G.8.'' is corrected to read ``section 
+II.F.8.''.
+    51. On page 58741, third column, second partial paragraph, line 17, 
+the reference, ``section II.G.9.a.'' is corrected to read ``section 
+II.F.9.a.''.
+
+[[Page 78754]]
+
+    52. On page 58768, third column, first partial paragraph, line 3, 
+the figure ``0.8465'' is corrected to read ``0.8469''.
+    53. On page 58842, second column, first full paragraph, lines 19 
+and 35, the reference, ``section II.E.2.b.'' is corrected to read 
+``section II.D.2.b.''.
+    54. On page 58876, first column, first full paragraph, line 18, the 
+reference, ``section II.E.'' is corrected to read ``section II.D.''.
+    55. On page 58893, first column, second full paragraph, line 5, the 
+reference, ``section II.E.2.b.'' is corrected to read ``section 
+II.D.2.b.''.
+    56. On page 58898, third column, first full paragraph, line 9, the 
+reference, ``section II.E.'' is corrected to read ``section II.D.''.
+    57. On page 58899, third column, first full paragraph, line 24, the 
+reference, ``section II.E.1.'' is corrected to read ``section 
+II.D.1.''.
+    58. On page 58900, first column, third paragraph, line 26, the 
+reference, ``section II.E.'' is corrected to read ``section II.D.''.
+    59. On page 59006, second column, second full paragraph:
+    a. Line 4, the regulation citation, ``(c)(3)(i)'' is corrected to 
+read ``(c)(1)(ii)''.
+    b. Line 12, the regulation citation, ``(c)(3)(ii)'' is corrected to 
+read ``(c)(2)(ii)''.
+    c. Lines 17 and 18, the phrase ``charged to an uncollectible 
+receivables account'' is corrected to read, ``recorded as an implicit 
+price concession''.
+
+B. Correction of Errors in the Addendum
+
+    1. On page 59031:
+    a. First column:
+    (1) First full paragraph, line 7, the reference, ``section 
+``II.G.'' is corrected to read ``section II.E.''.
+    (2) Second partial paragraph, lines 26 and 27, the reference, 
+``section II.G.'' is corrected to read ``section II.E.''.
+    b. Second column, first partial paragraph:
+    (1) Line 5, the reference, ``section II.E.2.b.'' is corrected to 
+read ``section II.D.2.b.''.
+    (2) Line 22, the reference, ``section II.E.2.b.'' is corrected to 
+read ``section II.D.2.b.''.
+    2. On page 59034, at the top of the page, the table titled 
+``Summary of FY 2021 Budget Neutrality Factors'' is corrected to read:
+[GRAPHIC] [TIFF OMITTED] TR07DE20.007
+
+    3. On page 59037, second column:
+    a. First full paragraph, line 4, the phrase ``(estimated capital 
+outlier payments of $429,431,834 divided by (estimated capital outlier 
+payments of $429,431,834 plus the estimated total capital Federal 
+payment of $7,577,697,269))'' is corrected to read: ``(estimated 
+capital outlier payments of $429,147,874 divided by (estimated capital 
+outlier payments of $429,147,874 plus the estimated total capital 
+Federal payment of $7,577,975,637))''
+    b. Last partial paragraph, line 8, the reference, ``section 
+II.E.2.b.'' is corrected to read ``section II.D.2.b.''.
+    4. On page 59039, third column, last paragraph, lines 18 and 19, 
+the phrase ``9,519,120 cases'' is corrected to ``9,221,466 cases''.
+    5. On page 59040:
+    a. Top of the page, third column:
+    (1) First partial paragraph:
+    (a) Line 9, the figure ``$29,051'' is corrected to read 
+``$29,064''.
+    (b) Line 11, the figure ``$4,955,813,978'' is corrected to read 
+``$4,951,017,650''
+    (c) Line 12, the figure ``$92,027,177,037'' is corrected to read 
+``$91,937,666,182''.
+    (d) Line 26, the figure ``$29,108'' is corrected to read 
+``$29,121''.
+
+[[Page 78755]]
+
+    (e) Line 33, the figure ``$29,051'' is corrected to read 
+``$29,064''.
+    (2) First full paragraph, line 11, the phrase ``threshold for FY 
+2021 (which reflects our'' is corrected to read ``threshold for FY 2021 
+of $29,064 (which reflects our''.
+    b. Bottom of the page, the untitled table is corrected to read as 
+follows:
+[GRAPHIC] [TIFF OMITTED] TR07DE20.008
+
+    6. On pages 59042, the table titled ``CHANGES FROM FY 2020 
+STANDARDIZED AMOUNTS TO THE FY 2021 STANDARDIZED AMOUNTS'' is corrected 
+to read as follows:
+[GRAPHIC] [TIFF OMITTED] TR07DE20.009
+
+
+[[Page 78756]]
+
+
+    7. On page 59047:
+    a. Second column:
+    (1) Second full paragraph, line 43, the figure ``0.9984'' is 
+corrected to read ``0.9983''.
+    (2) Last paragraph:
+    (a) Line 17, the figure ``0.9984'' is corrected to read ``0.9983''.
+    (b) Line 18, the figure ``0.9984'' is corrected to read ``0.9983''.
+    b. Third column:
+    (1) Third paragraph, line 4, the figure ``0.9984'' is corrected to 
+read ``0.9983''.
+    (2) Last paragraph, line 9, the figure ``$466.22'' is corrected to 
+read ``$466.21''.
+    8. On page 59048:
+    a. The chart titled ``COMPARISON OF FACTORS AND ADJUSTMENTS: FY 
+2020 CAPITAL FEDERAL RATE AND THE FY 2021 CAPITAL FEDERAL RATE'' is 
+corrected to read as follows:
+[GRAPHIC] [TIFF OMITTED] TR07DE20.010
+
+    b. Lower half of the page, first column, second full paragraph, 
+last line, the figure ``$29,051'' is corrected to read ``$29,064''.
+    9. On page 59057, second column, second full paragraph:
+    a. Line 11, the figure ``$29,051'' is corrected to read 
+``$29,064''.
+    b. Last line, the figure ``$29,051'' is corrected to read 
+``$29,064''.
+    10. On page 59060, the table titled ``TABLE 1A--NATIONAL ADJUSTED 
+OPERATING STANDARDIZED AMOUNTS, LABOR/NONLABOR (68.3 PERCENT LABOR 
+SHARE/31.7 PERCENT NONLABOR SHARE IF WAGE INDEX IS GREATER THAN 1) --FY 
+2021'' is corrected to read as follows:
+[GRAPHIC] [TIFF OMITTED] TR07DE20.011
+
+    11. On page 59061, top of the page:
+    a. The table titled ``TABLE 1B--NATIONAL ADJUSTED OPERATING 
+STANDARDIZED AMOUNTS, LABOR/NONLABOR (62 PERCENT LABOR SHARE/38 PERCENT 
+NONLABOR SHARE IF WAGE INDEX IS LESS THAN OR EQUAL TO 1)--FY 2021'' is 
+corrected to read as follows:
+
+[[Page 78757]]
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.012
+
+    b. The table titled ``Table 1C--ADJUSTED OPERATING STANDARDIZED 
+AMOUNTS FOR HOSPITALS IN PUERTO RICO, LABOR/NONLABOR (NATIONAL: 62 
+PERCENT LABOR SHARE/38 PERCENT NONLABOR SHARE BECAUSE WAGE INDEX IS 
+LESS THAN OR EQUAL TO 1)--FY 2021'' is corrected to read as follows: 
+[GRAPHIC] [TIFF OMITTED] TR07DE20.013
+
+    c. The table titled ``TABLE 1D--CAPITAL STANDARD FEDERAL PAYMENT 
+RATE--FY 2021'' is corrected to read as follows:
+[GRAPHIC] [TIFF OMITTED] TR07DE20.014
+
+C. Corrections of Errors in the Appendices
+
+    1. On page 59062, first column, second full paragraph:
+    a. Line 9, the reference ``sections II.G.5. and 6.'' is corrected 
+to read ``sections II.F.5. and 6.''
+    b. Line 11, the reference ``section II.G.6.'' is corrected to read 
+``section II.F.6.''
+    3. On page 59064, third column, second full paragraph, last line, 
+the figures ``2,049, and 1,152'' are corrected to read ``2,050 and 
+1,151''.
+    4. On page 59065 through 59069, the table and table notes for the 
+table titled ``TABLE I.--IMPACT ANALYSIS OF CHANGES TO THE IPPS FOR 
+OPERATING COSTS FOR FY 2021'' are corrected to read as follows:
+BILLING CODE 4120-01-P
+
+[[Page 78758]]
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.015
+
+
+[[Page 78759]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.016
+
+
+[[Page 78760]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.017
+
+
+[[Page 78761]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.018
+
+BILLING CODE 4120-01-C
+
+[[Page 78762]]
+
+    5. On page 59070:
+    a. First column:
+    (1) Third full paragraph:
+    (a) Line 1, the reference, ``section II.E.'' is corrected to read 
+``section II.D.''.
+    (b) Line 11, the section reference ``II.G.'' is corrected to read 
+``II.E.''.
+    (2) Fourth full paragraph, line 6, the figure ``0.99798'' is 
+corrected to read ``0.997975''.
+    b. Third column, first full paragraph, line 26, the figure 
+``1.000426'' is corrected to read ``1.000447''.
+    6. On page 59071, lower half of the page:
+    a. First column, third full paragraph, line 6, the figure 
+``0.986583'' is corrected to read ``0.986616''.
+    b. Second column, second full paragraph, line 5, the figure 
+``0.993433'' is corrected to read ``0.993446''.
+    c. Third column, first partial paragraph, line 2, the figure 
+``0.993433'' is corrected to read ``0.993446''.
+    7. On page 59073 and 59074, the table titled ``TABLE II.--IMPACT 
+ANALYSIS OF CHANGES FOR FY 2021 ACUTE CARE HOSPITAL OPERATING 
+PROSPECTIVE PAYMENT SYSTEM (PAYMENTS PER DISCHARGE)'' is corrected to 
+read as follows:
+BILLING CODE 4120-01-P
+
+[[Page 78763]]
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.019
+
+
+[[Page 78764]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.020
+
+BILLING CODE 4120-01-C
+
+[[Page 78765]]
+
+    8. On page 59074, bottom of the page, second column, last partial 
+paragraph, line 1, the reference ``section II.G.9.b.'' is corrected to 
+read ``section II.F.9.b.''.
+    9. On page 59075:
+    a. First column:
+    (1) First full paragraph, line 1, the reference ``section 
+II.G.9.c.'' is corrected to read ``section II.F.9.c.''.
+    (2) Last partial paragraph:
+    (i) Line 1, the reference ``section II.G.4.'' is corrected to read 
+``section II.F.4.''.
+    (ii) Line 11, the reference ``section II.G.4.'' is corrected to 
+read ``section II.F.4.''.
+    b. Third column:
+    (1) First full paragraph:
+    (i) Line 1, the reference ``sections II.G.5. and 6.'' is corrected 
+to read ``sections II.F.5. and 6.''.
+    (ii) Line 12, the reference ``section II.H.6.'' is corrected to 
+read ``section II.F.6.''.
+    (2) Last paragraph, line 1, the reference ``section II.G.6.'' is 
+corrected to read ``section II.F.6.''.
+    10. On page 59076, first column, first partial paragraph, lines 2 
+and 3, the reference ``section II.G.9.c.'' is corrected to read 
+``section II.F.9.c.''.
+    11. On pages 59077 and 59078 the table titled ``Modeled 
+Uncompensated Care Payments for Estimated FY 2021 DSHs by Hospital 
+Type: Uncompensated Care Payments ($ in Millions)--from FY 2020 to FY 
+2021'' is corrected to read as follows:
+BILLING CODE 4120-01-P
+
+[[Page 78766]]
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.021
+
+
+[[Page 78767]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.022
+
+BILLING CODE 4120-01-C
+    12. On pages 59078 and 59079 in the section titled ``Effects of the 
+Changes to Uncompensated Care Payments for FY 2021'', the section's 
+language (beginning with the phrase ``Rural hospitals, in general, are 
+projected to experience'' and ending with the sentence ``Hospitals with 
+greater than 65 percent Medicare utilization are projected to receive 
+an increase of 0.62 percent.'') is corrected to read as follows: 
+``Rural hospitals, in general, are projected to experience larger 
+decreases in uncompensated care payments than their urban counterparts. 
+Overall, rural hospitals are projected to receive a 7.19 percent 
+decrease in uncompensated care payments, while urban hospitals are 
+projected to receive a 0.29 percent decrease in uncompensated care 
+payments. However, hospitals in large urban areas are projected to 
+receive a 0.75 percent increase in uncompensated care payments and 
+hospitals in other urban areas a 1.94 percent decrease.
+    By bed size, smaller rural hospitals are projected to receive the 
+largest decreases in uncompensated care payments. Rural hospitals with 
+0-99 beds are projected to receive a 9.46 percent payment decrease, and 
+rural hospitals with 100-249 beds are projected to receive a 7.44 
+percent decrease. These decreases for smaller rural hospitals are 
+greater than the overall hospital average. However, larger rural 
+hospitals with 250+ beds are projected to receive a 7.64 percent 
+payment increase. In contrast, the smallest urban hospitals (0-99 beds) 
+are projected to receive an increase in uncompensated care payments of 
+2.61 percent, while urban hospitals with 100-249 beds are projected to 
+receive a decrease of 1.05 percent, and larger urban hospitals with 
+250+ beds are projected to receive a 0.18 percent decrease in 
+uncompensated care payments, which is less than the overall hospital 
+average.
+    By region, rural hospitals are expected to receive larger than 
+average decreases in uncompensated care payments in all Regions, except 
+for rural hospitals in the Pacific Region, which are projected to 
+receive an increase in uncompensated care payments of 9.14 percent. 
+Urban hospitals are projected to receive a more varied range of payment 
+changes. Urban hospitals in the New England, the Middle Atlantic, West 
+South Central, and Mountain Regions, as well as urban hospitals in 
+Puerto Rico, are projected to receive larger than average decreases in 
+uncompensated care payments, while urban hospitals in the South 
+Atlantic, East North Central, East South Central, West North Central, 
+and Pacific Regions are projected to receive increases in uncompensated 
+care payments.
+    By payment classification, hospitals in urban areas overall are 
+expected to receive a 0.18 percent increase in uncompensated care 
+payments, with hospitals in large urban areas expected to see an 
+increase in uncompensated care payments of 1.15 percent, while 
+hospitals in other urban areas are expected to receive a decrease of 
+1.60 percent. In contrast, hospitals in rural areas are projected to 
+receive a decrease in uncompensated care payments of 3.18 percent.
+    Nonteaching hospitals are projected to receive a payment decrease 
+of 0.99 percent, teaching hospitals with fewer than 100 residents are 
+projected to receive a payment decrease of 0.83 percent, and teaching 
+hospitals with 100+ residents have a projected payment decrease of 0.41 
+percent. All of these decreases are consistent with the overall 
+hospital average. Proprietary and government hospitals are projected to 
+receive larger than average decreases of 2.42 and 1.14 percent 
+respectively, while voluntary hospitals are expected to receive a 
+payment decrease of 0.03 percent. Hospitals with less than 50 percent 
+Medicare utilization are projected to receive decreases in 
+uncompensated care payments consistent with the overall hospital 
+average percent change, while hospitals with 50 to 65 percent Medicare 
+utilization are projected to receive a larger than average decrease of 
+4.12 percent. Hospitals with greater than 65 percent Medicare 
+utilization are projected to receive an increase of 0.80 percent.''
+    13. On page 59085, lower half of the page, second column, last 
+partial paragraph, line 20, the section reference ``II.H.'' is 
+corrected to read ``IV.H.''.
+    14. On pages 59092 and 59093, the table titled ``TABLE III.--
+COMPARISON OF TOTAL PAYMENTS PER CASE [FY 2020 PAYMENTS COMPARED TO 
+FINAL FY 2021 PAYMENTS] is corrected to read as:
+BILLING CODE 4120-01-P
+
+[[Page 78768]]
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.023
+
+
+[[Page 78769]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07DE20.024
+
+
+Wilma M. Robinson,
+Deputy Executive Secretary to the Department, Department of Health and 
+Human Services.
+[FR Doc. 2020-26698 Filed 12-1-20; 4:15 pm]
+BILLING CODE 4120-01-C
+
+
+</pre></body>
+</html>

@@ -1,0 +1,4311 @@
+{
+  "component": 8,
+  "title": "Large-scale data acquisition",
+  "website": "https://textdata.info/toolkit/large-scale-data-acquisition/",
+  "entry_points": [
+    "README.md",
+    "AI-PROMPT.md",
+    "tool/WORKFLOW.md",
+    "example/run_example.py",
+    "checks/verify_counts.py"
+  ],
+  "example": "191 document identities; historical comparison 169 matches and 22 unresolved differences. Supplied text is an email-redacted derivative.",
+  "licences": {
+    "code_and_agent_instructions": "Apache-2.0",
+    "project_documents_and_data": "CC BY 4.0",
+    "source_text": "Federal Register republication basis; see NOTICE.md"
+  },
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1428,
+      "sha256": "878c1747f51cdc334bc2265381cb0afc155e7c6bf7c1a5869424a854dcf99393"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 2847,
+      "sha256": "47ae8b25852b86a33adfe3305f086ca67c87109f852825cfdb10df84d0b2c2b6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2607,
+      "sha256": "3e890ee1b929691ee997ded35e85b0b70b2168b6d33580fec9561e5e9f750319"
+    },
+    {
+      "path": "checks/RESULT.json",
+      "bytes": 7742,
+      "sha256": "a818295d2dec15e32e3d0d865f1211c9fcc2b53a70e320f5a129fa2529bb37d1"
+    },
+    {
+      "path": "checks/expected.json",
+      "bytes": 2743,
+      "sha256": "6db775ebc39595c703585b3e96d21684282a4e7c17c850533a3d9b69d964dec2"
+    },
+    {
+      "path": "checks/verify_counts.py",
+      "bytes": 14789,
+      "sha256": "5a420e2f3463ab5b1737b288f27990d3e47037e0b6aba83913921737b194c068"
+    },
+    {
+      "path": "data/COVERAGE.json",
+      "bytes": 3199,
+      "sha256": "b9582eb979f43585d270df914b7b8a9f7b76fb22252454d0e5c50b5868621858"
+    },
+    {
+      "path": "data/MANIFEST_INDEX.tsv",
+      "bytes": 29577,
+      "sha256": "ca94def772c6e9264218042b90bf9213f3edabf353d1ca85ad5adef808b95736"
+    },
+    {
+      "path": "data/inventories/inventory-2000.tar.xz",
+      "bytes": 1300508,
+      "sha256": "b0399fc600ae34ad36b9e410d9cad157260461c195b0eaa4e01cc00d6dad3fcc"
+    },
+    {
+      "path": "data/inventories/inventory-2001.tar.xz",
+      "bytes": 1267540,
+      "sha256": "4b591916aa29aa5dff50b8d12331b0ba50c46a2d2d705224b405c38761148b58"
+    },
+    {
+      "path": "data/inventories/inventory-2002.tar.xz",
+      "bytes": 1313196,
+      "sha256": "effc9ab5cefea22d45f9800e305e9c23bfb0df1569406c5b9ba3ab9afca6a6eb"
+    },
+    {
+      "path": "data/inventories/inventory-2003.tar.xz",
+      "bytes": 1302312,
+      "sha256": "8a07a191025eb55c7209a8da1fe5c1b8f93bdc1ed82c5f5403601accc4d9b1e9"
+    },
+    {
+      "path": "data/inventories/inventory-2004.tar.xz",
+      "bytes": 1288508,
+      "sha256": "028591823ea0202be9a84eb1cd09f140c969cefc9dad679daebdcbfc3177b6d7"
+    },
+    {
+      "path": "data/inventories/inventory-2005.tar.xz",
+      "bytes": 1282792,
+      "sha256": "639939a0dc515a28c1ce2f7397f4410c37cf8b2ac9bf0d1b6c0fb29a42e9429a"
+    },
+    {
+      "path": "data/inventories/inventory-2006.tar.xz",
+      "bytes": 1257724,
+      "sha256": "d993e65b0ed4e2f57a9a6fae63be6bdf37ad055cb21b7a6722f9a76fca1e092d"
+    },
+    {
+      "path": "data/inventories/inventory-2007.tar.xz",
+      "bytes": 1230860,
+      "sha256": "7c842f47e3c750e94f638de212fcb13ebb6f5f94bc062de17951e2e962ccc80d"
+    },
+    {
+      "path": "data/inventories/inventory-2008.tar.xz",
+      "bytes": 1271712,
+      "sha256": "55a940c58c41919f279a418a16c743d79b1a1fcd7c1318ea2e66364467a1e3a3"
+    },
+    {
+      "path": "data/inventories/inventory-2009.tar.xz",
+      "bytes": 1223160,
+      "sha256": "5c36db5eb165ffb54c2b0d0a5e7015b27b6b4b487cf4c0f3387fb6714f877507"
+    },
+    {
+      "path": "data/inventories/inventory-2010.tar.xz",
+      "bytes": 1318548,
+      "sha256": "347cc6b16d00a72459e4b7608102ef877ec1400cbaa2c4771166e4f713d92eab"
+    },
+    {
+      "path": "data/inventories/inventory-2011.tar.xz",
+      "bytes": 1366788,
+      "sha256": "21128ebaf3cbb75763516e0f252b3ba404f6077653fc4a1f667a9581d1e72f8b"
+    },
+    {
+      "path": "data/inventories/inventory-2012.tar.xz",
+      "bytes": 1275056,
+      "sha256": "7911fbf854faa81accd8b16b5b5dcec02012e3664a05b722f5ce4912f078216d"
+    },
+    {
+      "path": "data/inventories/inventory-2013.tar.xz",
+      "bytes": 1270332,
+      "sha256": "7d56a09befe3a908c09b0362892d82dd7efa8b9f5d47c67f989f6d9f7db24538"
+    },
+    {
+      "path": "data/inventories/inventory-2014.tar.xz",
+      "bytes": 1246748,
+      "sha256": "db24735355b4847a83073e1e6dbb38870896e57993643a9a2af0e58b8abc596d"
+    },
+    {
+      "path": "data/inventories/inventory-2015.tar.xz",
+      "bytes": 1238388,
+      "sha256": "4722052f004a5b03b11f0847f3362b54e3d21a33b2ec660b34d5856cbe933037"
+    },
+    {
+      "path": "data/inventories/inventory-2016.tar.xz",
+      "bytes": 1286384,
+      "sha256": "eb64da3d06937cead52e5d509b2bdde589bcab94ffef98e1ff4bc2c71d51a7a8"
+    },
+    {
+      "path": "data/inventories/inventory-2017.tar.xz",
+      "bytes": 1135972,
+      "sha256": "17ce8cfedb44003528102af5bdc44e4d6e9ffd6481f513ec315bb25471526bcb"
+    },
+    {
+      "path": "data/inventories/inventory-2018.tar.xz",
+      "bytes": 1145976,
+      "sha256": "fb0ba8f1ad151228526e834176a4de18c8ae5151dfe83a3d2fbafc0ab20f5e09"
+    },
+    {
+      "path": "data/inventories/inventory-2019.tar.xz",
+      "bytes": 1121844,
+      "sha256": "e1a235b4cf84a21715d89a1392b408a3ee186eafbffb2408e0011211a5e0f23f"
+    },
+    {
+      "path": "data/inventories/inventory-2020.tar.xz",
+      "bytes": 1173696,
+      "sha256": "dd66df9d698429bafa8cd7a432b2121a2b3b256b5ce2f02816f58590e3161356"
+    },
+    {
+      "path": "data/inventories/inventory-2021.tar.xz",
+      "bytes": 1146396,
+      "sha256": "cde747a2bc08cb2a872e420d0cb223a8cf3bab1140591d9fa5a4e724fd2df5b9"
+    },
+    {
+      "path": "data/inventories/inventory-2022.tar.xz",
+      "bytes": 1160084,
+      "sha256": "699be9a79c9c626141254eea806f2084531428bacf086b411238ff2b668939aa"
+    },
+    {
+      "path": "data/inventories/inventory-2023.tar.xz",
+      "bytes": 1171356,
+      "sha256": "670f23e39380dfff828d9a235ac95b380342c11a5bb67bc1acb53fbb40a390bc"
+    },
+    {
+      "path": "data/inventories/inventory-2024.tar.xz",
+      "bytes": 1271576,
+      "sha256": "891477301db48b5f5abd3485c0d45e6a9af6baff1a05c77b4f8ea7ab19d067ba"
+    },
+    {
+      "path": "data/inventories/inventory-2025.tar.xz",
+      "bytes": 973576,
+      "sha256": "a5de8ef90d2bdb9a54d8e2417c74c095e0674d58b5855854ce400defa68b0a7e"
+    },
+    {
+      "path": "data/inventories/inventory-2026.tar.xz",
+      "bytes": 755660,
+      "sha256": "25108d80a5a88a6eece32babb4944a68080fb9844e2ccf1d4f74e527efc57ba3"
+    },
+    {
+      "path": "data/packs.tsv",
+      "bytes": 37616,
+      "sha256": "408512024fac8b42600ef1ca6fac464ba2eb521f4f05bd97aadab376c9ce333a"
+    },
+    {
+      "path": "docs/COLLECTION.md",
+      "bytes": 1235,
+      "sha256": "caa7548d183c09e3c708df9bdf3c760702eb6bf93f36a3ed95ba58e4d5d20246"
+    },
+    {
+      "path": "docs/PROCEDURE.md",
+      "bytes": 2099,
+      "sha256": "13da21fb66eac06bdcb29442f45bd538a7302fd0b5ef8f0958630214279ed6ac"
+    },
+    {
+      "path": "docs/RELEASE_CHANGES.md",
+      "bytes": 1196,
+      "sha256": "7cdf3585daf87588cbf1620f43985b3cf66a2e027459d2695b529588b666508f"
+    },
+    {
+      "path": "docs/TEXT_PACKS.md",
+      "bytes": 1028,
+      "sha256": "ce76a6dbd11bd5da0c1d85886544f67b2d0a4402bc068dae953a06cdf4ad385e"
+    },
+    {
+      "path": "example/RELEASE_PROVENANCE.json",
+      "bytes": 172433,
+      "sha256": "e40204abdab9030bf05db170adb051dcdea8dad06eac684b2139275094ae8236"
+    },
+    {
+      "path": "example/compare_sites.py",
+      "bytes": 6098,
+      "sha256": "57b9b68226077cf38b6df166835b11ab236c15783e90ce26c49e5b560e172bd9"
+    },
+    {
+      "path": "example/historical/README.md",
+      "bytes": 1229,
+      "sha256": "3b08a3cbfdbea63ab932a97699b712d28e48bb8926b2a33ea0da17da685ac6b1"
+    },
+    {
+      "path": "example/historical/SITES.json",
+      "bytes": 1179,
+      "sha256": "6f6661721faa7083b29ea0728d68ac2cb90613ce0b50b9cf5cf7a4c9d7693c2e"
+    },
+    {
+      "path": "example/historical/SITES.tsv",
+      "bytes": 19558,
+      "sha256": "f0c1ffa6a192ce541c7fd9e6faaf065e55f374354f130ced629774d8266ddf94"
+    },
+    {
+      "path": "example/historical/run/clean/INDEX.tsv",
+      "bytes": 18405,
+      "sha256": "24fac9a28f0865dcdceba964bfd57adee3637ef6f408e64bd500fc2ad19cd9e6"
+    },
+    {
+      "path": "example/historical/run/comparison.json",
+      "bytes": 471,
+      "sha256": "ad0418d02e9280e5e73b0cdef1eb83d092e973ea30b9a318d564f56e2cd7d57e"
+    },
+    {
+      "path": "example/historical/run/comparison.tsv",
+      "bytes": 41925,
+      "sha256": "cdcb9e989b8a8914064274f45f9a84ac964fe8a0a91935f08b0d64ba365f6e3f"
+    },
+    {
+      "path": "example/historical/run/inventory.tsv",
+      "bytes": 30750,
+      "sha256": "6e461f3058eaf4c92f01c6b503973f58494d719a8bdea7b55b72d7215e13bb97"
+    },
+    {
+      "path": "example/historical/run/inventory_summary.json",
+      "bytes": 284,
+      "sha256": "7ec9ec3dae4d12fe4c212a79675d7c19b6a6bb50d027ccdb54dc3c006227572b"
+    },
+    {
+      "path": "example/historical/run/source.json",
+      "bytes": 503,
+      "sha256": "e1cf07535fdabbab94916e3f1afd054711e3182c070b9376b9effabf38e47ef2"
+    },
+    {
+      "path": "example/historical/run-govinfo/clean/INDEX.tsv",
+      "bytes": 18405,
+      "sha256": "24fac9a28f0865dcdceba964bfd57adee3637ef6f408e64bd500fc2ad19cd9e6"
+    },
+    {
+      "path": "example/historical/run-govinfo/comparison.json",
+      "bytes": 470,
+      "sha256": "078720f6652c7574b20a54de110801e0ff86ca67c9d8e803b5e38345cc3b92ef"
+    },
+    {
+      "path": "example/historical/run-govinfo/comparison.tsv",
+      "bytes": 40073,
+      "sha256": "866e494e88fa72adc238d45823b79779431111603c0f662821d4b93972d364d8"
+    },
+    {
+      "path": "example/historical/run-govinfo/inventory.tsv",
+      "bytes": 30750,
+      "sha256": "e85bcee22446ebab1c64c068ad0c1debaa57ffe73509cd985402cc90c2ab2de0"
+    },
+    {
+      "path": "example/historical/run-govinfo/inventory_summary.json",
+      "bytes": 276,
+      "sha256": "1bbc7abf4ee68d0ace52538e1c5789b2af56f59ba314e463d6203cc6c79e9957"
+    },
+    {
+      "path": "example/historical/run-govinfo/source.json",
+      "bytes": 511,
+      "sha256": "bddcd07b7eb6f1dae4c776e4dfcaa917740195f6cdaf39fdff5acce16741be2e"
+    },
+    {
+      "path": "example/input/2020-12.tsv",
+      "bytes": 370946,
+      "sha256": "17f5df32cac821b721d4f5e83ea3e3a36c40e42ddda35cd814384d361fe3f94d"
+    },
+    {
+      "path": "example/output/REPLAY.json",
+      "bytes": 506,
+      "sha256": "9d1e7eba929bcdf604668880e0be893fcbb03d9d9093f30949a1a4ef10f513b6"
+    },
+    {
+      "path": "example/output/SITES.json",
+      "bytes": 1293,
+      "sha256": "644dd2be104d8ace7183107f5f8d1bfc6747a11c0c3f2c1c04844d32992387ef"
+    },
+    {
+      "path": "example/output/SITES.tsv",
+      "bytes": 17938,
+      "sha256": "ec2a41f2697187c0cd7b976e493626220a63986bb3098dfd67b5891f412b6640"
+    },
+    {
+      "path": "example/output/run/clean/INDEX.tsv",
+      "bytes": 18405,
+      "sha256": "ca3b0372fe7a96f87a6fbdc9303e05e06e155bcb8d3e6313b283d65043bbbe99"
+    },
+    {
+      "path": "example/output/run/collection/COVERAGE.json",
+      "bytes": 526,
+      "sha256": "3f98c947a1d17e846d30d1f0e1724c6c09cba0c419b0ec29285e056e5c9f1663"
+    },
+    {
+      "path": "example/output/run/collection/manifest/2020-12.tsv",
+      "bytes": 31702,
+      "sha256": "bd2f8c63772aa4890156c425001b46d93f9136f0c9793ca04f7b78a70720163d"
+    },
+    {
+      "path": "example/output/run/collection/packs.tsv",
+      "bytes": 165,
+      "sha256": "579fe2c39e600985d5c79c5c38312988cf91ada3b067eccc041bcf3e47c2086d"
+    },
+    {
+      "path": "example/output/run/comparison.json",
+      "bytes": 584,
+      "sha256": "9b15e63d8ed18df08a0b75480f4a762b63309544718c449b85822516f4594992"
+    },
+    {
+      "path": "example/output/run/comparison.tsv",
+      "bytes": 41601,
+      "sha256": "3fce10f31a6e7d6fb0c2c1c33316941b423a08b66b71026f0ead5d6919a3f3e5"
+    },
+    {
+      "path": "example/output/run/defects_extra.tsv",
+      "bytes": 4635,
+      "sha256": "34af884f1a042862e5092e823095c6f449c93495511ebf5915cd1b04b5791931"
+    },
+    {
+      "path": "example/output/run/frame.tsv",
+      "bytes": 21540,
+      "sha256": "c2233d85576f3f5676148a35d89ce1fc16bf9c7cd466a1a59cfe14efa83357fb"
+    },
+    {
+      "path": "example/output/run/inventory.tsv",
+      "bytes": 31702,
+      "sha256": "bd2f8c63772aa4890156c425001b46d93f9136f0c9793ca04f7b78a70720163d"
+    },
+    {
+      "path": "example/output/run/inventory_summary.json",
+      "bytes": 396,
+      "sha256": "bbbe82f1576c05e742dbb7ec01994ac569bf0348a91b91c5ad6efb9d2cd7f8db"
+    },
+    {
+      "path": "example/output/run/packs/text-2020-12.tar.xz",
+      "bytes": 537212,
+      "sha256": "08d7957bd5e5538880661ea3d671b0eb09449bc88749d935d2263f4105e89aec"
+    },
+    {
+      "path": "example/output/run/problems.tsv",
+      "bytes": 17,
+      "sha256": "afc54313cc0b1cdd35fabccf65bfc678c6d325b83106afa6fcedfbca3fa4008b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-23810.txt",
+      "bytes": 208424,
+      "sha256": "5f70225d8444511c7f3e056565947e5e8b9b235c2172a73759ba7622669727d0"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-23810.txt.json",
+      "bytes": 1019,
+      "sha256": "8077255aea85c5063953bbcaca9b6c27cb28922de0f851c2ca4222421b50c95e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-24936.txt",
+      "bytes": 37201,
+      "sha256": "3e0de84513f4bc4ac9165bd07407e3b2875edda0070d6638620fbb72ec844af0"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-24936.txt.json",
+      "bytes": 1017,
+      "sha256": "47b09e8ab14335729fdd13864804fdf5d6856f860916d89d6d2d230dff35d960"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-25145.txt",
+      "bytes": 3411,
+      "sha256": "f7f54eb0eb0df8f4a5f9ef84707506b3759f09d07443c0f9fd76ff68c6f8f3aa"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-25145.txt.json",
+      "bytes": 1014,
+      "sha256": "e38a1a57353f151bbeafaa397a90e8aea6359d62c24835463c3e69f0275015b4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-25830.txt",
+      "bytes": 99004,
+      "sha256": "ffd8cb8a55b057ec88fcd1bcb6bb27aa5e05c69ad92f33f67c0bb1ee2438b60a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-25830.txt.json",
+      "bytes": 1016,
+      "sha256": "d47bdd9fafcd65df65a779bbc88a8a0d21aad6ad5d02a852877f4baa2a26aa0f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26003.txt",
+      "bytes": 38760,
+      "sha256": "eee3c9d3caeaf5678b69a0b1c3d1bce40fecaea34f0b2a3e59facdec61229a81"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26003.txt.json",
+      "bytes": 1016,
+      "sha256": "8d10f8b2b642585e0476ca6098c2513ac55daa380cd6d8ba891362eca9eed9d9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26033.txt",
+      "bytes": 43359,
+      "sha256": "2fa9bf40bdfc5ba2f80df1f04c8a77e7a277a70a69d3ebcd6da5404b9a6750f1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26033.txt.json",
+      "bytes": 1016,
+      "sha256": "dae0269013101b0a4cc4b62d9dc4d7f79504c89c1ae8712df5ded70116dd8d23"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26181.txt",
+      "bytes": 2621,
+      "sha256": "a5805cb56bb35859ffdcae1f754daeca035ce759977efde02aafb868d9d6cd20"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26181.txt.json",
+      "bytes": 1014,
+      "sha256": "e47ffaa65d526d0e12c899787cc61c53a6048439f070fdff448f1391b80f44f0"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26209.txt",
+      "bytes": 8994,
+      "sha256": "22c2472dc229a1931fdd563b1be1189ceb163fd382c36f894e63b19d9a6e96c5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26209.txt.json",
+      "bytes": 1013,
+      "sha256": "c38d5ac720c8a5f0c663504a7d81501c07ce1d4c4bf6a96940fefd5215c6fcbb"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26386.txt",
+      "bytes": 9444,
+      "sha256": "97652a515deee2b463f84bf5aa8883bb6a5c232c6e0b77083d4c6461a1df3160"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26386.txt.json",
+      "bytes": 1013,
+      "sha256": "dfa3111a9a5f7ddf5ccde2ffd02ffa8ceffa101599f156a1021a87e43d0a9809"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26416.txt",
+      "bytes": 89535,
+      "sha256": "273ab1f5809cdf5c05ffd47e5e6b527909951517326d61491d50d842c268fde0"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26416.txt.json",
+      "bytes": 1016,
+      "sha256": "aebd5f24735210a5646138f73662432e5abccbbb40622c2253b1a4e251b85c14"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26633.txt",
+      "bytes": 3510,
+      "sha256": "a6f8e72b788ea358570d75d07ffda5f5068dcab3dac190c3ebb6d73b8559a9c5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26633.txt.json",
+      "bytes": 1013,
+      "sha256": "289206263bad0ec8e4cc482b57739f527d53729ee5580b9edd970b7cfbe87d27"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26698.txt",
+      "bytes": 54294,
+      "sha256": "57864c3abb18e4b731ab3c31890ae5f0d05d433645caf8250a56f55b61f59da9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26698.txt.json",
+      "bytes": 1017,
+      "sha256": "4d9b0767bf6eb6c20e8c0233ccd6a16721a866c3f2a8cb219da45299c3f6fcf8"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26718.txt",
+      "bytes": 9750,
+      "sha256": "5d9677020bb103ddaa0aaf4607cefe8b0f936f9a588412085436cf28e36832b7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26718.txt.json",
+      "bytes": 1015,
+      "sha256": "0e1d8ab85122110ffbe79d41590aa73633d45b092b0dc3c68a38cd2d8291344a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26763.txt",
+      "bytes": 4505,
+      "sha256": "a54f4c99c7394145637fd05870d599046d2b23038bb6d38c0fba35d18e605b43"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26763.txt.json",
+      "bytes": 1013,
+      "sha256": "a46f0ae55dace3f2c091a84dc657548fbf636f51383894af0b522c692fcce2eb"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26764.txt",
+      "bytes": 18087,
+      "sha256": "a619f7a530fb6f990ef8dd47b8b3454dcb464155ed0c456c54c168bbd8e8eb57"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26764.txt.json",
+      "bytes": 1016,
+      "sha256": "a022bf39c175ce6b0a35a6e3677f29f3818756d18d48e1e4b6253275fa3ac33d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26765.txt",
+      "bytes": 22911,
+      "sha256": "e95814342e4006998fcc5c3177f177462e33789e03a93f5e2b48428c8baf159a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26765.txt.json",
+      "bytes": 1138,
+      "sha256": "156cb7f6ecd69e508f76309b3476c79509ed5daf6dac41110d4d9d3c13f16257"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26766.txt",
+      "bytes": 5240,
+      "sha256": "4a178fabc8e3939d9aff6ccfa7713afdd4f596e961e95b9b08f92394afe449c7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26766.txt.json",
+      "bytes": 1013,
+      "sha256": "494cbda4941fedd1ff445d2e8a65068e189900479cdde3bb203cb4da40f8a815"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26767.txt",
+      "bytes": 30925,
+      "sha256": "34e845ed8ba8ea06f58d79edd339048d836de77f80643be452d8d179b1273278"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26767.txt.json",
+      "bytes": 1016,
+      "sha256": "58378876f0ba8c541b0c29c26330e4e8d824ff745651d2fa5ff970170b9c4178"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26769.txt",
+      "bytes": 4710,
+      "sha256": "3dd7f8081fb94422add64da003de33c45861fcd8a41a84eedec802fae4f07939"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26769.txt.json",
+      "bytes": 1013,
+      "sha256": "4e3a8cacfde78bac99fdbeb8f28abbf7d96cb243d0c7a43d009a4c7ffa9f2de2"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26770.txt",
+      "bytes": 23399,
+      "sha256": "2c890773c0bbcc22cf0a508aa08223f97aaffd8f3f088c4f4b6ebb169aad2502"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26770.txt.json",
+      "bytes": 1016,
+      "sha256": "c668217c8cf68d7b0338c00443a22cea4e3c6f2ac66cf824b3627ccef87cb082"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26771.txt",
+      "bytes": 18376,
+      "sha256": "a0214e019e10bfe32394d0436c494e55759ab2c708ddc65ea84a892d872171a7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26771.txt.json",
+      "bytes": 1016,
+      "sha256": "9b970295b5d2bca25a8275db15a0149dd4a026d8556adbbaf49e196f944a25e1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26772.txt",
+      "bytes": 22933,
+      "sha256": "5715d19810a1b11427db0fcc92322b0ec22954820db1c66b09a01b743f8da69c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26772.txt.json",
+      "bytes": 1017,
+      "sha256": "b4e52a546d41fa168d5015b8976e2060e1ccc5cd21487355ea840df444383bf2"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26773.txt",
+      "bytes": 19069,
+      "sha256": "1398dd6af2172d1619cb26e7ccd2cc8adc720ec0b2b4fab2a9f0a20406f9865b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26773.txt.json",
+      "bytes": 1016,
+      "sha256": "e96bf818e628279f9a00246027f248510843a6f3e4a704612c8b945f9ce5df80"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26774.txt",
+      "bytes": 7388,
+      "sha256": "5403e367662027a3fccbb26d63de1c0e7953ee5b8c5bc961ce9ccc65603ab8af"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26774.txt.json",
+      "bytes": 1013,
+      "sha256": "bada3c1da162f6e3fac3972ea208da00bb0be1c822d2c25cc909c23caefc6d19"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26775.txt",
+      "bytes": 30446,
+      "sha256": "a3b020766e43a95c0a2aab990df71097b77e93dd762ca467f589cbf5d6cf8c75"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26775.txt.json",
+      "bytes": 1017,
+      "sha256": "10aa6b82e5e9d1ab66ce9ffe6fb25c6692a5d4499fafe62fbb99c55eaf8d346e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26776.txt",
+      "bytes": 4677,
+      "sha256": "3234d7571132a61ac6a4d1f01a057adc4c3c5337b8ee3f7a450282329d8d1018"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26776.txt.json",
+      "bytes": 1014,
+      "sha256": "9909c3a97acc97fa2b4ee483f2d99238679a43409d65144f1addb28c38709817"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26778.txt",
+      "bytes": 22557,
+      "sha256": "30c82aae57fafb084dbb14a51589348fd826888107b2c1764ad09e1e5dce71eb"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26778.txt.json",
+      "bytes": 1017,
+      "sha256": "4729448da027630cb1f7875338f14ad8b2b42d67e2cab87d9006f12486ddffe2"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26779.txt",
+      "bytes": 13496,
+      "sha256": "a8039e4cec07f2d055aef9796e35259cb337a740fa1e11f2dd4dcd16e87b661c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26779.txt.json",
+      "bytes": 1016,
+      "sha256": "de16547cfedb2249ca024b35b17089883eae9bfd1d8bf8e6c53614b8b446efbd"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26780.txt",
+      "bytes": 13904,
+      "sha256": "e9bcaff83d99c52ec267cd948b4fb7bd3288e56641540b26cbd7295c2f2142e2"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26780.txt.json",
+      "bytes": 1016,
+      "sha256": "ac243b2ea2d86234dd7e27122d02eec92f9445fafd74c4bccc748e073c32083a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26782.txt",
+      "bytes": 7394,
+      "sha256": "1d7d452c8b9bb3a3784269550cdcf1cd09be84d64329f4cfee918b79310fa5ab"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26782.txt.json",
+      "bytes": 1013,
+      "sha256": "330410d87a5175d382672c7c9ef50fe4792958d606e28045776dc8c13c078d11"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26783.txt",
+      "bytes": 14695,
+      "sha256": "0461e02197951e00da064f9b82d35ebbbb739a1c0809b3d75cdef8b5e8f520dc"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26783.txt.json",
+      "bytes": 1017,
+      "sha256": "94a2a7b46103ec758783bca5115c8e87f7504063f2c861e869ccd1aacdfff340"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26784.txt",
+      "bytes": 21031,
+      "sha256": "4fa9d90e4b304b304dfc7467de18ebd763794adffef895e8ecb3819b74dce027"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26784.txt.json",
+      "bytes": 1016,
+      "sha256": "98e390b04337d943b963393a32299c8534582f39dc6682aafeba55ed1dcad8a8"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26785.txt",
+      "bytes": 41610,
+      "sha256": "a8baf41390fb2ca4ab77d8b8b5b56325f6583313654c561022fc446fd8e298c1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26785.txt.json",
+      "bytes": 1016,
+      "sha256": "7b87f580405396db2a1fd4ad4bcb302c51d905d3cfe23045b7036fb4869111ef"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26786.txt",
+      "bytes": 39098,
+      "sha256": "b02688562dd3e22b5f04dc125572b689973a9ef9ded0497937fd0f8857c955d4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26786.txt.json",
+      "bytes": 1016,
+      "sha256": "06c8f666e76718953c6625150cfc2e12df961fa20892d55af864ae5c6429fadf"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26787.txt",
+      "bytes": 50995,
+      "sha256": "cbe4fa9c92ada51d5b15f4e6d56b8c2e4700fd98c100369ce6c4750a1e19fdde"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26787.txt.json",
+      "bytes": 1016,
+      "sha256": "180e86a10d45e1fdfdb6e3f0d5685f9ca1401f8cfafb55008e1afc14759b1d7c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26788.txt",
+      "bytes": 3627,
+      "sha256": "df60c9c795f54797e09f49e41da58677482614e7a9c2a9456472310d80328828"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26788.txt.json",
+      "bytes": 1014,
+      "sha256": "7131cfc1c24e2eaadb443b182617db909c78399de6fc389255d9622b91b1bf67"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26790.txt",
+      "bytes": 28060,
+      "sha256": "6cec503fa2bb7925aa7cecb4cbdb37c37b6db054d251dacc8b0e14fb7d65986b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26790.txt.json",
+      "bytes": 1016,
+      "sha256": "3f8114550cd7690d09d134829dda1c1c523f7c400da4eda605139d0fc76ecce1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26794.txt",
+      "bytes": 23026,
+      "sha256": "d35171e665264184274fb963ce01838ccad4fc3e4120a0b9ca6b452652eec8e5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26794.txt.json",
+      "bytes": 1016,
+      "sha256": "b9c9d137de2a621a089857149a7ed0e4b3ba400a8cc5d456fa2b41146618ea27"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26795.txt",
+      "bytes": 3616,
+      "sha256": "406e546719b6f18d5122021ecf1c9fcf7e782e43c52f35072cca77124904bb15"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26795.txt.json",
+      "bytes": 1013,
+      "sha256": "6accac0a3c59c02f961f11de54a5b9da0e2aaec46bc855d9d7fb035e6ead67e9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26797.txt",
+      "bytes": 7843,
+      "sha256": "ad627ff4dcd1e7c7947d7bd277cb0390529611c3a8de7352bcec8909b1fa562e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26797.txt.json",
+      "bytes": 1013,
+      "sha256": "ed7d31890f42e3ea3f41780f534c67ffc98e4c9644816ff4af14bfd5e4068cef"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26799.txt",
+      "bytes": 48117,
+      "sha256": "23687b26316a5b3e25232a3bf23ff19b28a40ebbb4bcf85ecf583deb2b6495e4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26799.txt.json",
+      "bytes": 1016,
+      "sha256": "e28f7de69a4788cb2a193fbe65884b6bf29f70c2971eff87c0fb3a87def2c4fd"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26800.txt",
+      "bytes": 4201,
+      "sha256": "e36d5c87cf395b950f89282d207cfc953d63d8b65e1cb3f334877dd38bbc76d9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26800.txt.json",
+      "bytes": 1013,
+      "sha256": "55f3042f59583d86e5bd02158df37790c6572e0ca4ed1f8516261b7f15b80a47"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26801.txt",
+      "bytes": 3551,
+      "sha256": "a92949d23d17103819ef2724f675afdb8a6a548d2ac6e3cf64dd756bd9b7a7bc"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26801.txt.json",
+      "bytes": 1013,
+      "sha256": "86cd4abcf0981619befba5c769f8b78ee2a5307028ca84aa69d59fa399b0888f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26802.txt",
+      "bytes": 2711,
+      "sha256": "668d71eda8016d2bb6af7af5cccc92080e2f7732e637d966f40b742182e44552"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26802.txt.json",
+      "bytes": 1014,
+      "sha256": "52c6bacdbf6f7965d2ee2421b0616987d3ab93b6139d56bd9c17c7d03a12ba9a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26803.txt",
+      "bytes": 5372,
+      "sha256": "bd733322cf6e75f452b9a3fafee35c01bf461b685d5236d3af7138a4da490008"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26803.txt.json",
+      "bytes": 1014,
+      "sha256": "6b67ee9f528afc5245eed5e8b8d99c6eb9317dc3b504fb8f83569ea11bf0a09c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26804.txt",
+      "bytes": 2415,
+      "sha256": "9608a9c250e65289921b82bbe9a8489edc03ba164497a5fde90949dd6761ddd9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26804.txt.json",
+      "bytes": 1013,
+      "sha256": "f20d80b87c1fc886b8c227af75f486ab0ee2a38cd7535247a36918564d08d1a9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26805.txt",
+      "bytes": 2252,
+      "sha256": "a6d1319730e759e8d553879aecb7d19f9ca28fa32fa567e611b61eb6e2ae3d1a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26805.txt.json",
+      "bytes": 1014,
+      "sha256": "c5072e86e4ac6abc6b6699df1f187594b2738c70bc1d66c1032dde5b87a4ce10"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26806.txt",
+      "bytes": 3746,
+      "sha256": "c1b5690bf30ccf75805458c90ff83a8a7a58615774b466e50fcdbd2192845f64"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26806.txt.json",
+      "bytes": 1013,
+      "sha256": "3e12b49401efc1ff1f16a30d6e5a4a12d81879915c2d802dfd046c4d32b0f09d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26807.txt",
+      "bytes": 7211,
+      "sha256": "14f683401d70f76513e6f44ddd50d02b91c85981a9571aeda002ec19695d317a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26807.txt.json",
+      "bytes": 1014,
+      "sha256": "b8c7869d4cc25edf3a4fa35643110d6ba4fa1b3d0180276046d6b1c3bd7e0101"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26808.txt",
+      "bytes": 3484,
+      "sha256": "3d936565b517d03ba11b6b7cf7e263fa92a27a7c922af23ca79dc5f3b92583d9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26808.txt.json",
+      "bytes": 1013,
+      "sha256": "2e6b9149d90031732e88ea10e48ef4906d90b6af2de5bbb297025b9a51ba2d26"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26809.txt",
+      "bytes": 3041,
+      "sha256": "104324ddb9a3a853df3ae91b4a0ddbc368a0e2cd139e0c8caa40231c65a1250d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26809.txt.json",
+      "bytes": 1014,
+      "sha256": "79613f738f2cf62bdd5bc637d2714a4fe8309a6e40f7860f44c5cc97d5ab217e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26810.txt",
+      "bytes": 6019,
+      "sha256": "b119fc8f958e4dc2e48034815578c6ce291e90fe2fb076d67b43f2c0dfe33325"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26810.txt.json",
+      "bytes": 1013,
+      "sha256": "24944e108b73ffc35e284e8113691b1adabd3af8ead1228c44250d4169531620"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26811.txt",
+      "bytes": 10349,
+      "sha256": "d4d471bbed2d03d3d60f8265a251991769ac9af55e2349239e5b6cfffaf1f3f6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26811.txt.json",
+      "bytes": 1017,
+      "sha256": "1e1dd9fed871a43d6ff9f57bfb7b5752ae9ff1ca20879960f7e75430ed531e34"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26814.txt",
+      "bytes": 3826,
+      "sha256": "6d8cc109328e6d85a07cac13458a21df1e3ff2975313ae5cb85ec0282103ea4d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26814.txt.json",
+      "bytes": 1013,
+      "sha256": "ead119255497c8d44e4afafa923acf2ce1c8ce13776925fbe2395e273e206091"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26816.txt",
+      "bytes": 15612,
+      "sha256": "bfd176f8f6087c2d2ef8d1eed0d87002847803e7af2d6d55fe5d9ba9b2f5e641"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26816.txt.json",
+      "bytes": 1016,
+      "sha256": "e855ed7be9669db24d291e0134e54952b266491898351820817feac46cbc0630"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26817.txt",
+      "bytes": 4247,
+      "sha256": "83e514cb192702bbdc6f504e69b399867b52c0f41befe8fd8a9f30a70d92173a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26817.txt.json",
+      "bytes": 1013,
+      "sha256": "ab4505b3269f6b63b27f9ab14e1b15eae47f55a22d5bf336fe642c65700a0616"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26818.txt",
+      "bytes": 15489,
+      "sha256": "0d8f41a15735920984971540d4d053b88dab05a413c6781dfe4452a989e6f074"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26818.txt.json",
+      "bytes": 1016,
+      "sha256": "51743f22b1b99c31b0f56278e194bb01c143fca6d74a81b64b278527fb8f3d9f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26820.txt",
+      "bytes": 3227,
+      "sha256": "c9938cd17a652e255b127a11c9b29ccf80c929dd0164c806ddca0dba17e4c750"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26820.txt.json",
+      "bytes": 1013,
+      "sha256": "342c21bee8813e82cbc7cb097a7c0a5398416b6d8442b458a976abbab9e2f158"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26821.txt",
+      "bytes": 10907,
+      "sha256": "dd943a5da5d0b24fa52cfdd0ce857edd0ca7170096a7b134d6c75fda37550410"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26821.txt.json",
+      "bytes": 1016,
+      "sha256": "a45b4a7f6c00a26131010a5d914d609f78ec898465910e106bcf443d74295d5c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26822.txt",
+      "bytes": 5301,
+      "sha256": "dc9a448c3617818de2475b2b14154820226bdf3c1ad5be511ddaaf3966786f0c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26822.txt.json",
+      "bytes": 1014,
+      "sha256": "88c95954745c1ac594363913b019881814a0a79922bc8768dbc7d697e325fc97"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26823.txt",
+      "bytes": 10032,
+      "sha256": "b32a7650de5785094ed0b9a2867394455394700276b80fdf041e050f088cb7d7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26823.txt.json",
+      "bytes": 1016,
+      "sha256": "145c95749a53d96e15f17f935373162ea8e9e8e4d35f3356bfb4d934343fec35"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26824.txt",
+      "bytes": 10796,
+      "sha256": "223a751b589a1d893d8c28cb000a4935adc40e772fec638c56e598fb5803117a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26824.txt.json",
+      "bytes": 1017,
+      "sha256": "6e6fb60069f8460af7d93603fc70cf1153af9924b1421c850ad5ee4004e307bd"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26825.txt",
+      "bytes": 5507,
+      "sha256": "86f1083b60c1987d8ffec0c14f97134bca901e6f2605d7e554f74656bc02fe2c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26825.txt.json",
+      "bytes": 1013,
+      "sha256": "b5a48a2a175e79e1c563a61365cf725c21683b2318bbe8409cb28f8f5433c793"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26826.txt",
+      "bytes": 8625,
+      "sha256": "eb6841706b84f1f496557879638e9ffe2e18cfaf24123f587c33e7bce8fdf54c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26826.txt.json",
+      "bytes": 1014,
+      "sha256": "0d46a2b0ff5f372130ffb0ba029c2ff2e76fc87a91d9076b1fd08bd877de7f4d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26827.txt",
+      "bytes": 3213,
+      "sha256": "59416375061def9f28f343a32232a73cfcce2b00d70c65bccc174352b499ef7d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26827.txt.json",
+      "bytes": 1013,
+      "sha256": "8af45bd2c19aa3c88aeab256dac45ca4881c7dcff39ad99b280bc48c60b7b6a1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26828.txt",
+      "bytes": 6390,
+      "sha256": "a1bf2b2a0c67739fec7f707b962b7b12fd5c3953ec0396d1db63b12aa6937c7d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26828.txt.json",
+      "bytes": 1014,
+      "sha256": "321af2eff6cb093671d0a884ae28c1fb6d8cea5ff8f90a194740e31bda30aa8e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26829.txt",
+      "bytes": 10283,
+      "sha256": "9cb895ee4a01f0f689421441325c84df3000e33d5e303d21b689270299401919"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26829.txt.json",
+      "bytes": 1017,
+      "sha256": "74da05555f2b2f510172d7858f224368bf9be2258f3526f9fa2bf5249f9a77af"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26830.txt",
+      "bytes": 8076,
+      "sha256": "7a2939708b16e8fc54c55ca6c6675a0fd3a4f0b6a2f1a5b407475a0500b5c519"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26830.txt.json",
+      "bytes": 1014,
+      "sha256": "c220df07a4849aa0904711f88fd7388480052c5e403e55a2896a038cd3df233b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26831.txt",
+      "bytes": 11876,
+      "sha256": "0626e162c36cdc72d2f18ff8735998c7667e49514d991a9cbffbe030dee7064b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26831.txt.json",
+      "bytes": 1017,
+      "sha256": "728fac7dd0b805d11a76db7018252ab257f6cd028191e83aeba4f1f1c2f6723c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26832.txt",
+      "bytes": 125226,
+      "sha256": "b1d5477800f3bb96db1035f1aed1ac94981ee018652136d153023e1bd07a7fa1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26832.txt.json",
+      "bytes": 1019,
+      "sha256": "14cdd73e30f849c2aac7b2e1f4d0c6a43cae0ee4b4746a039a7fc19eb263c7ac"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26833.txt",
+      "bytes": 6987,
+      "sha256": "280f62fb72ae5cbeaebdca299f29bb97fa3e28371a140e90f1b51404e16e436b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26833.txt.json",
+      "bytes": 1013,
+      "sha256": "e7236d695e8f7c2386dad4d2f8e365aa4523d9549519e2edb636945c25898785"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26834.txt",
+      "bytes": 6949,
+      "sha256": "c9dfb3ccf05bc77894421c401779a190002adc3c75f312682b007869ea347221"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26834.txt.json",
+      "bytes": 1013,
+      "sha256": "c675c069639cc4cec1aef542031ab2fffe803b3f9f2d55737e9574878f693768"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26835.txt",
+      "bytes": 6928,
+      "sha256": "da7106d262f934de8f00441ffbe8fe5966c51175f653a3c2f690af8a3a809ebc"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26835.txt.json",
+      "bytes": 1013,
+      "sha256": "6375076c2803e2ca8b5eec159451b5bd0b8ac4549c929bb6e69d7e1778679eaa"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26836.txt",
+      "bytes": 6870,
+      "sha256": "8b870f56477b5a7231e81e39a5f9884f2638687d84edb069063660883fb767e4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26836.txt.json",
+      "bytes": 1013,
+      "sha256": "62839a2bfffc743d8e9c13a69d9f18b1b7c77ac66f36a357d0871ec0e3f0e720"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26837.txt",
+      "bytes": 6946,
+      "sha256": "f5c024d5932fc9873d807be674fbace2aa2a1550bf200c67ee85cf1e74d52508"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26837.txt.json",
+      "bytes": 1013,
+      "sha256": "c4204081e4366af16ed186333faadf74171ddf0ab5e1d591a07537d122b04874"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26838.txt",
+      "bytes": 7004,
+      "sha256": "8978b2c479d2b0d1dc59327f6fe5d88b17567332bb124c2a5f43e0a9bdd9406d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26838.txt.json",
+      "bytes": 1013,
+      "sha256": "c7fa9141377a231a156216df15f1cfe35b9c6df02f3b1ccbe86b88d3a41cad0d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26839.txt",
+      "bytes": 6902,
+      "sha256": "0ad03f62c24a2cde04e9b4e13c30fc3226a7acdabd0be047af8d24d4a05d74da"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26839.txt.json",
+      "bytes": 1013,
+      "sha256": "8d4bbb90c0f7f1a68dec8670e11e8ca323c6f852ec0522e6a6fea3f096cc70de"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26840.txt",
+      "bytes": 6879,
+      "sha256": "ff07ad09d65573fdc79d4753f6e02151bb5ad16ae304b373fcb7b034dc4ddf2b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26840.txt.json",
+      "bytes": 1013,
+      "sha256": "79a1f9e6915cb3b6e83d87a9dfa308f0b8f407e4f604fab825b4132278254c68"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26841.txt",
+      "bytes": 7231,
+      "sha256": "082f5d3f3f38088bc449866e5276d82e885b770d4c152eefcc450e754bbbf1b6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26841.txt.json",
+      "bytes": 1013,
+      "sha256": "49f21981bef6f87902090019af4ef3cfe5d92dddcc3f889b5b9d01caca225d98"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26842.txt",
+      "bytes": 7286,
+      "sha256": "8777ad629632554f86ff82f160c14cdcba0b0a056ad810b07071f8b56f2e31b6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26842.txt.json",
+      "bytes": 1013,
+      "sha256": "db8e02b805314dd03057fb525766c32c6b64fd4faf78b2c7abd3c572ff1efa29"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26843.txt",
+      "bytes": 6850,
+      "sha256": "f14208b4dae4bf2490effc7d30655aed183b4e4e8fa2fbacd2b87374cf28645a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26843.txt.json",
+      "bytes": 1013,
+      "sha256": "b33383c8a6851d48842fd50a9901b75523be98ed1057d2d359acfb949e2bcd57"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26844.txt",
+      "bytes": 9507,
+      "sha256": "58c84071005f3c1cb2f53673d02660aba58e511d5164d2a567f122f1ad3e27f9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26844.txt.json",
+      "bytes": 1015,
+      "sha256": "e2c033c3a0805df28d8196f5cea980362d9af940261a7681957e0245cc7c196f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26846.txt",
+      "bytes": 35971,
+      "sha256": "eeb9f7ef0d888b2e5399af18b1adb62c5fac7910a0e37c491419d12ae5fcc610"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26846.txt.json",
+      "bytes": 1016,
+      "sha256": "1a61f4c8a80635f3770e23385f72987a1827179f17c0df3ca3d5519a7e7b74b5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26848.txt",
+      "bytes": 5063,
+      "sha256": "11459d3dc5234aef18440963b76cb503cb08d9ab0c281a8d7544792379cb7c21"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26848.txt.json",
+      "bytes": 1014,
+      "sha256": "52c2a68896c43d88cceb58b7798ce6094c9e632e5710aa58f8d3dd15384eeec0"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26849.txt",
+      "bytes": 5428,
+      "sha256": "051128c175336ce14660bc3c226c60ef29c3bb45590fac9a507e95057428a1bd"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26849.txt.json",
+      "bytes": 1014,
+      "sha256": "44644882afd74e8284a9e8f2bdbbb9f1ebca47c5be44f130f30a6467829657ec"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26850.txt",
+      "bytes": 4932,
+      "sha256": "0b68aa997a1ea8f30664535e172424644e7a7ecd0d276e7ed513cd6c01512ad4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26850.txt.json",
+      "bytes": 1014,
+      "sha256": "c2eea4b79267ce6c4fd67a5b079c1bcb3aa8be0e868dfc0e47221718ed2fbdb4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26852.txt",
+      "bytes": 4634,
+      "sha256": "1d26950cc4366af6498fb39aab75348fbacf372b79b9b288d1283b3a2dc2a497"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26852.txt.json",
+      "bytes": 1013,
+      "sha256": "46512298bd3f6c0428742d97b1ff68a1eea6ec93dcaa7e15a8a8b71ec2e1407e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26853.txt",
+      "bytes": 5327,
+      "sha256": "fe6d2391ac831c7a101c9366df90023a6c08f8301cd7b204628dab20100ef132"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26853.txt.json",
+      "bytes": 1013,
+      "sha256": "149380a1aff598dfe33cf946c772f91f5c1270211cb8cbb6856e04da4a492b0e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26854.txt",
+      "bytes": 5290,
+      "sha256": "0834d53c7dec93c6f4e0e6a70da101d9c1bc97e31ed9d0ea8c125431d5526298"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26854.txt.json",
+      "bytes": 1013,
+      "sha256": "28b4478a751e1be695b6b4b6d487796088480d00cc15655df18afcc6ac473689"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26855.txt",
+      "bytes": 3311,
+      "sha256": "fb6fcd33050032022c884deb9d3a94f4e59376a47ce535a980c135a7f5ee1d47"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26855.txt.json",
+      "bytes": 1014,
+      "sha256": "118544e4bc7f6e3b0ac33e926dd5042fdfad1ff29a1df163cf33151c0742407f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26857.txt",
+      "bytes": 9066,
+      "sha256": "90430fe00fc85b2055cf7b3eb226a2e45f51dbd6b4e905953f331d4837e3490c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26857.txt.json",
+      "bytes": 1013,
+      "sha256": "7d1cd26deab472b94ce1a462e63a9723b7d64f413e7d4f55a90a0c97cb999dca"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26858.txt",
+      "bytes": 9335,
+      "sha256": "e6dcfef34f44efe77a87dcd31f04cdc1ae114dc4773cae1aca42549c85d7abd3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26858.txt.json",
+      "bytes": 1013,
+      "sha256": "9e8ea04afffa3aa88225ba6e9debfda6b5bf066eaecd3f6aad3eb5e653aa7a7a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26859.txt",
+      "bytes": 7256,
+      "sha256": "115ec7d224390556642cd61ab7b3889da5360c7effc5ca753e35cbebddde3495"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26859.txt.json",
+      "bytes": 1014,
+      "sha256": "f4e74578e5b68b28eaed12656be340d4eeb4386e980fd708bc69455e17d42319"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26861.txt",
+      "bytes": 8967,
+      "sha256": "c9ff0aea9092efad08998731583225e8938fbecf0c79319e5ab1b5846391f8e9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26861.txt.json",
+      "bytes": 1013,
+      "sha256": "e0011c75c2595c5b997b95faac2e51d9e10fa2eac5bcfd29f3e212f5502e3527"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26862.txt",
+      "bytes": 11991,
+      "sha256": "e6c98d086e85315fe80b6aaa915d5a22884ea50f12627e7226722dc00f13d06a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26862.txt.json",
+      "bytes": 1017,
+      "sha256": "97a88013a4c716347e427698c776eade1c8c304758f6de6b1c6a10c7b3e9116f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26863.txt",
+      "bytes": 3964,
+      "sha256": "bf20e0e3beb4f2d5761faec5a3a356d3f1d55f8b3d24142c19f96ef799eb5b99"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26863.txt.json",
+      "bytes": 1013,
+      "sha256": "92c7ecd8999fc15f79bc491ffe3f9d28e99c1f2d0570c3e6cd939366fec39e9e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26883.txt",
+      "bytes": 12088,
+      "sha256": "3ffc32e35c2c034ccb3c812748b4b7152e863e31659af85bed974eb430e15ed9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26883.txt.json",
+      "bytes": 1016,
+      "sha256": "465ff4d57afa7fc76c1ade2ef8d2fba93b05e121764a64559a54048d81508e31"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26892.txt",
+      "bytes": 2452,
+      "sha256": "1e50390ca301bd906b0e5a0e38d1688ea1343ba8d07ca9f9241b2ba29a149c86"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26892.txt.json",
+      "bytes": 1014,
+      "sha256": "c60180303bb742cf5dc0846f085e1a90b1fdb6deec5d43483e95649cedb10593"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26895.txt",
+      "bytes": 1219,
+      "sha256": "05c3551818a35994d97bbcab430aff8214402d29b5008f6572ebd0584023de75"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26895.txt.json",
+      "bytes": 1014,
+      "sha256": "08470e2fe1f677f236fc4c2bab36f155e58c6e66f9f6bebf650d1163b0a85428"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26899.txt",
+      "bytes": 2301,
+      "sha256": "6ae4586e6546850a10bc0ce8567083afba75245910119972902c54228a0bf5a6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26899.txt.json",
+      "bytes": 1014,
+      "sha256": "35f45d037510cde97666e0adb56e1f9114d43c9e5818a8385c7724d08bba8146"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26927.txt",
+      "bytes": 1561,
+      "sha256": "1c4ab447007c731251dc8cad7226027863e1adf8c6a3ce2b81164583f94e9878"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-07__2020-26927.txt.json",
+      "bytes": 1014,
+      "sha256": "076f8c815b8f256fa260127de9a2c64835a5425b0ea381663a6bb79936b67230"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-25623.txt",
+      "bytes": 43289,
+      "sha256": "b1404fb4d3e332cdb2d98940c06bc283bf89b2ff05883af4ff99cad112b7aea1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-25623.txt.json",
+      "bytes": 1017,
+      "sha256": "21fd681969b529776e3de261d983a2009ad1ffa21e6021f2706c582da48e9a14"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26376.txt",
+      "bytes": 48778,
+      "sha256": "cbab301ad9f45ae777a7b3e19083e61fbc116b2b71babb6b45b28862ce70855d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26376.txt.json",
+      "bytes": 1016,
+      "sha256": "94586b4caddd7f7ea2a0872c9dd7be95c861401d47dc874b63d5e17528a001af"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26722.txt",
+      "bytes": 25931,
+      "sha256": "20ff15b131ceba391df51ccb2abf0e7539c8eff9a97cac0668a1e34957854021"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26722.txt.json",
+      "bytes": 1016,
+      "sha256": "fc333df2787af08ef295f42a8e8a8044dee6fefc3f9ca75af41099125caaff6c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26747.txt",
+      "bytes": 193529,
+      "sha256": "b8e40e8df0e36e03c9f0a68aace32da1acf98da3249526afd00d438741c6a550"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26747.txt.json",
+      "bytes": 1019,
+      "sha256": "01a9b911009ef1be30c86566c9d0046c4052d742657d5ae3c8476018e1355da6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26856.txt",
+      "bytes": 18998,
+      "sha256": "84b4515a068bc5825110a4ca1c2b6ccdbf1322078c6b5ac04e293a2bdf14509e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26856.txt.json",
+      "bytes": 1016,
+      "sha256": "2a046b68d2b557103d827f291fe29e9ae7f752b1985f6084fc321793faf5f426"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26864.txt",
+      "bytes": 20798,
+      "sha256": "962fa1caebaf001dfc26f808901d6100fbe335084e981c9bbe6fb60bc76131b7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26864.txt.json",
+      "bytes": 1016,
+      "sha256": "952f9dbd0c13507e6b64599ad3d950b98383bb100e29a553e482abfc76719ef4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26865.txt",
+      "bytes": 2773,
+      "sha256": "94289cd1da7571a8874beed11cb889dfcca4e4c777131572ebb8a504b4e3e40e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26865.txt.json",
+      "bytes": 1013,
+      "sha256": "cd28c9b5dbff9eff435105ea364c49e9c7a1804fc401d4ca3a2697b683eb116b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26867.txt",
+      "bytes": 19645,
+      "sha256": "fec873ce9114c0ff79b72527eafc30e7f85054f6d344b22915b819540c3f9b5e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26867.txt.json",
+      "bytes": 1016,
+      "sha256": "10e87c8bce02af7a90e696b94458b8ec2492e83d273db0cdc1ba9b7250d5fcfc"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26868.txt",
+      "bytes": 3018,
+      "sha256": "5cd10baaf3d86315f2af351ad3f70484191b1d4617d07658936921d0dc906f16"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26868.txt.json",
+      "bytes": 1013,
+      "sha256": "50736d093031b2ee8693bcec1c9c529308a0aa1f4fc28750ef27d37a4fdd6e59"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26870.txt",
+      "bytes": 19574,
+      "sha256": "f4b582fe3df29d544c379283eba0cbf9ffe47a764d578f52ae08adb297215032"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26870.txt.json",
+      "bytes": 1016,
+      "sha256": "0a3b3c5002c66e1a28571df40c52fc6c68e74119356679250525a49257586027"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26871.txt",
+      "bytes": 43148,
+      "sha256": "ba12282cd0cd7941b8b2634c6bc7d90c9a5c4fd080a1fed1205fbb525bc7d424"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26871.txt.json",
+      "bytes": 1016,
+      "sha256": "ac6e37a29ad029d270e18160b680caa4b5742b9649c46c60e45710b1df795806"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26872.txt",
+      "bytes": 17456,
+      "sha256": "09a823684c9f917e71c76fb2d19774a7077cf2c9d27ee40f88d15d7528303082"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26872.txt.json",
+      "bytes": 1016,
+      "sha256": "def0ee2b0ece20753a07bd031ed85962ce422ac250c4a071140bc20c66d21d1b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26873.txt",
+      "bytes": 4781,
+      "sha256": "ca909baeaae1f2ee1a46b3163d8787ca8b76cfc0d8299fd019925f1f79fcac2e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26873.txt.json",
+      "bytes": 1013,
+      "sha256": "791c5ed4d124bfa78b8d4c1b761b7c2b79af3ec66a6aacf2afbdaee1b369eac3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26876.txt",
+      "bytes": 7799,
+      "sha256": "f670fd9687d063d8141f2678babf8d727f7abdade7b8f66e4eee2e9f3dc64a0f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26876.txt.json",
+      "bytes": 1013,
+      "sha256": "258f9656f917e1f388d3db23b734bb0a2e256a9cd2988f97cd8d2357a31340df"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26877.txt",
+      "bytes": 9009,
+      "sha256": "3acfaf4255b392024d9602d2e4ae540330b40beee3e6c000aa322b5406570806"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26877.txt.json",
+      "bytes": 1013,
+      "sha256": "544593285f32b5aeb4c73c60b45e50b301c36bb2a47dc2ab21072e91b1d58c5f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26878.txt",
+      "bytes": 4196,
+      "sha256": "3f2ef045324b2d7dfd3db9bd83b7ccbf7cf7e8301307de927e56f8381520984c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26878.txt.json",
+      "bytes": 1013,
+      "sha256": "d7560b830c632b95cf63d9df4b1e5134c2ac151828243baf810883d5e1165dcd"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26879.txt",
+      "bytes": 3815,
+      "sha256": "9008b993442ff48ccb551dc50c036ddb72bc95515b45bacceb6205c65a4e3c78"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26879.txt.json",
+      "bytes": 1013,
+      "sha256": "10a9c454a886be74ca6de28c54e600ec7a2547f1526b6da8a3ae8300e7c216d1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26881.txt",
+      "bytes": 3133,
+      "sha256": "3265cba661c3a70410071b4386b5987b2bc3d14e195a42451926da3f9c4e9cfb"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26881.txt.json",
+      "bytes": 1013,
+      "sha256": "89792a51f0ede01f098cab903c2c19942c46aaa240cdfd8d17a5e0959bf41587"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26882.txt",
+      "bytes": 7263,
+      "sha256": "fb26ccbe131c9c9b73724fc069e092884c59009737b0a676cd732694640df4c6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26882.txt.json",
+      "bytes": 1013,
+      "sha256": "15c85f3ae090a43c755c55936dd7ec08b28bd39aef8af78bcc246f650b693578"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26884.txt",
+      "bytes": 8840,
+      "sha256": "8fb8359577e12c17db949e86beaaf44ffa709f9def49add33c111997c71a2f4e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26884.txt.json",
+      "bytes": 1013,
+      "sha256": "f1b9a996beadb0da1b3dbb307d4f4d2009353319ae61ec48be221388ca34f665"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26885.txt",
+      "bytes": 20003,
+      "sha256": "5de5e94e3197248a7ca84b692c94f5d05b7a251a6b7bf9d7054581f2a9535a68"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26885.txt.json",
+      "bytes": 1016,
+      "sha256": "62fff01309a27bc76eb0703ff2880b60aea029da56f7ff2503e74efde80e07fc"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26886.txt",
+      "bytes": 3546,
+      "sha256": "121a19627ef20cd31e323a7cb0b49eb251db0b51cb8014b16bb625c34b84fc81"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26886.txt.json",
+      "bytes": 1013,
+      "sha256": "9b2a65b7cbd23b20e1e775757aeb0a47211b869bd7e94298496ac6eac735faa5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26887.txt",
+      "bytes": 3426,
+      "sha256": "2b27c99859aee7f8bf17a8e8f4a43f63c46db5ff7ed6928fbb5f4af8add11653"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26887.txt.json",
+      "bytes": 1013,
+      "sha256": "539be1d1ecf41bf86627077782dccb3b1cbf5ff009446e53806da15c39376e2c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26888.txt",
+      "bytes": 4747,
+      "sha256": "92581b97c28b10269e2c395586db2af51cae96089787ef3d99e6eccfcc781b18"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26888.txt.json",
+      "bytes": 1013,
+      "sha256": "84decf7da4b2f18c3f4bf26b871e0688ea397ac556b2ccd97b6e803341cad45e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26889.txt",
+      "bytes": 7878,
+      "sha256": "5e91e65904472aa3b6354e4981ce09152391ba3fabf4b71aa22a0c8feaf28ed7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26889.txt.json",
+      "bytes": 1013,
+      "sha256": "09b34d0e0d66625ef36974db541f923fcaedaf891be10895a969461e10b6bbfa"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26890.txt",
+      "bytes": 7095,
+      "sha256": "b8b4912105e7198814ccef9462c6e1dd2af2d7f6ce4978a7a5402dccf905f497"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26890.txt.json",
+      "bytes": 1014,
+      "sha256": "d636f805796ec8d02fae48041a059a996d1f14e5dbe6be8eb596cba92de778b3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26891.txt",
+      "bytes": 4803,
+      "sha256": "cc24943c3910564043218d95e6f0445c720a457f39f15a8232b102801a6671e3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26891.txt.json",
+      "bytes": 1014,
+      "sha256": "119177496edaa2c4088b61ee2cc96c4131159ada05575f8f7f3f02621b7877ad"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26894.txt",
+      "bytes": 5135,
+      "sha256": "d4b2ae9fc60edb7368f8062cce22a841abb59988f9ad765e22c734220c4092b8"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26894.txt.json",
+      "bytes": 1013,
+      "sha256": "873b525d82e7d408777a8e452d7c92f211b4cc3be30bba184380ff50fc4ec367"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26896.txt",
+      "bytes": 21212,
+      "sha256": "24d45b7eb0d4a57135442218af685ed6de981366264cf3a1aad4b2e5ad414be9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26896.txt.json",
+      "bytes": 1016,
+      "sha256": "eed6bcbd8665dbc91135c42c4fb41221fe34608a3d3a73fc34ac9e065baf47b3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26897.txt",
+      "bytes": 5674,
+      "sha256": "89cc44a28e030c2960da5c7c4fb7ec2cb6b8c84d8e2d6cb288d52d05ff6def09"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26897.txt.json",
+      "bytes": 1014,
+      "sha256": "481ecea8eb45972d4016ebb9cd641dcb25285852fdcaa0246f337f2d10e31932"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26898.txt",
+      "bytes": 5784,
+      "sha256": "edeb98f88407cf89535dce66efac6e27cf07454b7ca0d39f8bbfe0b0c5ffe6f9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26898.txt.json",
+      "bytes": 1014,
+      "sha256": "e2e30c9a6dcdef79bc3cd5166c42fb41117c194790142f776b9853c88ac1c4ef"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26900.txt",
+      "bytes": 4386,
+      "sha256": "ddca7a312ac0f6f9a9b81172a42ab03a231927c81205cc63035e357c05bfb878"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26900.txt.json",
+      "bytes": 1013,
+      "sha256": "f9d7508fd36e464d07708bc019df8a17622afd576d93ddaba48092ab8f101568"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26901.txt",
+      "bytes": 69013,
+      "sha256": "962368a0a92693bf89b6cfd4dd613d558f0fefe3835c896be3dd9b5f3050eb74"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26901.txt.json",
+      "bytes": 1016,
+      "sha256": "8185e38ea63219558f1bb842e047cf6e1217ad42d57358d2fae73a05f940d943"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26902.txt",
+      "bytes": 25033,
+      "sha256": "c6177136fb48b1dc02992b3b3dd0864ca07aef802eb7c05fed2675f971c61fe6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26902.txt.json",
+      "bytes": 1016,
+      "sha256": "bee861d91b9314693646cf2d3bb5aca8b3b92d6acaf557d938f8af7ea266dbef"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26903.txt",
+      "bytes": 6508,
+      "sha256": "d733cadfe381a6fc803c2b2e40679d2ded8ea996539211ab096a314237a1d648"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26903.txt.json",
+      "bytes": 1014,
+      "sha256": "9ec98887e4d2783de13852f36676973364073d4bd8cb382b181ea07304238ef5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26904.txt",
+      "bytes": 6592,
+      "sha256": "389a627c801ea683f223088ac0983def71207a5bddfa266f0cd66602f0b7d5d7"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26904.txt.json",
+      "bytes": 1014,
+      "sha256": "10842a8d2830630c434a77cf3e603f3db24754aa1aaf6a4fdec94feed6592c7a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26905.txt",
+      "bytes": 6563,
+      "sha256": "5b8a833094cd75140991ae0df98cc3732f0859d30c13fd6355fe348b0516d60c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26905.txt.json",
+      "bytes": 1014,
+      "sha256": "b3607150b356e717ac5cf673f955b46f8291cf51098840dddfbfe726fe7986e6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26906.txt",
+      "bytes": 14395,
+      "sha256": "b97c560e3ac4c94e6e6feaad9fc519d19dcf4591611fe6b88dd111c05e18761f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26906.txt.json",
+      "bytes": 1017,
+      "sha256": "a6e51f12cd06abe66b5c97b6d12ee6f0e3d31284d8ac3cf249d037c67bd957f5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26908.txt",
+      "bytes": 2960,
+      "sha256": "eeaf744b506076127f1ecd083387bc77d81e3593f0eb1c6e5acecfd6c8b91f1f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26908.txt.json",
+      "bytes": 1014,
+      "sha256": "cca4fc94edbef55bf87b37374fc2627eaf844201650a89f2265c355c94b7708d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26909.txt",
+      "bytes": 5584,
+      "sha256": "6458a41d4315fe765592251f0057086ac51a0f310ac13e08802e856370872d2a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26909.txt.json",
+      "bytes": 1013,
+      "sha256": "f3ca7dc0e05d8a8369ae6facdbfe5eee9a6a8040a3100a8b4192bb96bbf91b0f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26910.txt",
+      "bytes": 25853,
+      "sha256": "763141b5528b06927dff912ad001a596ba0b90d5cadd858b42c9b363588aa313"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26910.txt.json",
+      "bytes": 1016,
+      "sha256": "2b321ac32895db42228e6cc3f1a7e5d349f6b521b0446cf4358a5a271839e101"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26911.txt",
+      "bytes": 5679,
+      "sha256": "b4c7645808ef8991b24410d6362bb5ecaddd771548a6bb18d73e1b19f1b7e16c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26911.txt.json",
+      "bytes": 1014,
+      "sha256": "2cf7694d98672bec6e93e1ea0562a1558d8577242783dc40604e35aa46956c13"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26912.txt",
+      "bytes": 3704,
+      "sha256": "44a7ebad2cb5da4815f0e252ff1c19ca2e361285702ed4d6839e0db7cae9fb07"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26912.txt.json",
+      "bytes": 1014,
+      "sha256": "c55656300639b71b26b0495ecc6376c4a55614cd8897ccc2c71df850f5f2e278"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26913.txt",
+      "bytes": 12394,
+      "sha256": "e709e8d0b8b1a9d01d2d86b7f8d55269f894e7fbee4dfc230683d4d19d1ba237"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26913.txt.json",
+      "bytes": 1016,
+      "sha256": "288dd19d9c4f7dc0063fd425953f7890e3be93f540107e829ccff3801ccd1318"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26916.txt",
+      "bytes": 6636,
+      "sha256": "e434b315d1b0f24d3537f26578b2668cfee85c43f31f00c40277a36b106a7b9a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26916.txt.json",
+      "bytes": 1013,
+      "sha256": "86a10cc5edab223e34502a39aebe414aac7785c6e829febeaed59d7cbbf681d3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26917.txt",
+      "bytes": 11241,
+      "sha256": "f2c2455af8f05ac290b7448d6f33fd0735d0693ead070f219cd07142fd756207"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26917.txt.json",
+      "bytes": 1016,
+      "sha256": "d923bc79a93294f4519b2f3a0aafb7efe9d26dc512781a89a9fc8d8dbf5e7f58"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26921.txt",
+      "bytes": 6692,
+      "sha256": "30f280f97a617fe02a6efcfff9adcec6d18c05e15328c1054747ea220b30140d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26921.txt.json",
+      "bytes": 1014,
+      "sha256": "2684afac3059b821137bc1f54449fb29fc8437a5222663d938ff623747d277d3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26922.txt",
+      "bytes": 4299,
+      "sha256": "783b4fc98cd5bd736b4efd81f35acfcf8b057511c7e620ac7f0a3343caa863c8"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26922.txt.json",
+      "bytes": 1013,
+      "sha256": "8a37f1fae1e22aa29f853d3523b69b105975752ade1d72996f9dbbc7557d7c89"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26923.txt",
+      "bytes": 5527,
+      "sha256": "9932a28f4bc61d67bd5602be47943c38992e71981bac871f2228c4f8a934e1ac"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26923.txt.json",
+      "bytes": 1014,
+      "sha256": "7a215e094ab0959ee988bd086e1901adb99040d63dd867098e1e6cd79d67336c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26924.txt",
+      "bytes": 7308,
+      "sha256": "7dd3f54b137e4d66c81e316d80c396c2ffb1cfa663ba4f8bdd32b152485f0872"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26924.txt.json",
+      "bytes": 1013,
+      "sha256": "2711c991109f3db1c7084960c97a76e5dcadacf1518a42be11d111431bdcf418"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26925.txt",
+      "bytes": 6883,
+      "sha256": "c326d0a2f952c7e2ea6a0e7090fbd42216a8c495083c05f6625bb8bbf8dc8d1a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26925.txt.json",
+      "bytes": 1013,
+      "sha256": "d803bc92199dd72ae0dc6e0e6975425a4dc36c9202db9eff3ea4d33a2f3aacfd"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26926.txt",
+      "bytes": 7094,
+      "sha256": "0cc8630e3d42d149fe540368ea15a49d9d000b08246f7134300d188722c4b338"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26926.txt.json",
+      "bytes": 1013,
+      "sha256": "ddc33e8fbb1fe543ccbde755213fece0af704340ab7928944d2fef0961cafa8f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26928.txt",
+      "bytes": 5023,
+      "sha256": "0288eab2445f4995b028d271450b321f8fdaa32deca5d1c570149933ff59a839"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26928.txt.json",
+      "bytes": 1014,
+      "sha256": "37fa60af346c3938343d5495d1d55f41791f28f934cb05daebb2672f8e468b63"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26929.txt",
+      "bytes": 14664,
+      "sha256": "14d755a10791c42b1553caa5394cdc6d9491d734073bc7bb753cd9da6db0b097"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26929.txt.json",
+      "bytes": 1016,
+      "sha256": "ae7f52756802f48729e6a302010ae35bcc89b6f3160650457da342b6a1da21d8"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26930.txt",
+      "bytes": 6560,
+      "sha256": "54b82a962b5a02da383e469c3a67f4298fd16b00f2323ba56cebdad6e7fed729"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26930.txt.json",
+      "bytes": 1013,
+      "sha256": "06a2dc1e7fc6874fcddab907d46ee17eb485dd63fe2b79b37dc1729822885df4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26931.txt",
+      "bytes": 8306,
+      "sha256": "1f4c3edd385dbac887098aa9a785d31bf833f50165906ca8e06e26146818d657"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26931.txt.json",
+      "bytes": 1013,
+      "sha256": "e3b8a5af259f6f6cfc58adf47126b79cc1b76ff76e08a8216714dc17d2280d84"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26932.txt",
+      "bytes": 6312,
+      "sha256": "2332b9f23e23164d921b6162d2f79c65b73ae60e0edbd7bafd2e6543ebd4250c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26932.txt.json",
+      "bytes": 1014,
+      "sha256": "f750f3f438823ed893a08f10e62be6bd524282564aec29aee87d9a1434005a5f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26933.txt",
+      "bytes": 7433,
+      "sha256": "022b5dcc51c60a45079a4735de689015dca5f5de61336c58a13f797ff8a1e42f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26933.txt.json",
+      "bytes": 1014,
+      "sha256": "bfda0c7105f463b7b547e94fce419bf11c9d915b7fc84c23ddd93c336c327407"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26934.txt",
+      "bytes": 6270,
+      "sha256": "12c541ea8e02bc44e77888249b5982bf3c07e15fef1136273b5ae880128221d5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26934.txt.json",
+      "bytes": 1013,
+      "sha256": "056de72917c7f9f03a9095eb8ab47e2b851603cc73910274bb7bc63ebe766cba"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26935.txt",
+      "bytes": 4406,
+      "sha256": "6e282ff4603950952302e85be713c497197d80690575f16021626432da1e0b3b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26935.txt.json",
+      "bytes": 1014,
+      "sha256": "179508c18c3153e432f5c0947789d8728e77be73b4bea73ffc5fbcfcf40a1986"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26937.txt",
+      "bytes": 6216,
+      "sha256": "f5bac3d838fbb72528e8c3b3288aea8edf109c919fec1dfafc42dc0ede31a2a5"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26937.txt.json",
+      "bytes": 1014,
+      "sha256": "a18f15762787252f13bf1e619ebd384012f3ed8e82bed513cba46cf0c8af17c2"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26938.txt",
+      "bytes": 4910,
+      "sha256": "664178c18bb02312183dfdc6d288a18d829f65bd62dd85ad52ca89c32ef17208"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26938.txt.json",
+      "bytes": 1014,
+      "sha256": "da7aa65173fa60884c42239f1277c1588ce66e3910aed7b2eeae423dcf6a74ba"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26939.txt",
+      "bytes": 5297,
+      "sha256": "1c7bc1c2d2971e4b230cb890918a80bbce6a4fe5c8bca429fa1ff97e8fa19611"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26939.txt.json",
+      "bytes": 1013,
+      "sha256": "2ff158c89fc24f01eecc8d51e42056dd9c848cc70e6d634df173350b50480084"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26940.txt",
+      "bytes": 4922,
+      "sha256": "462ef2e802e32f0cc73ccc73b8ba04f7984a276dea6f028f0f31dda7a6d75c74"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26940.txt.json",
+      "bytes": 1013,
+      "sha256": "d812a633dacbe838c2b4906c9b45e922125fce878dda970fc1fb0c4d7767fab4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26941.txt",
+      "bytes": 4281,
+      "sha256": "b5645cd50dd8569ed76a5916fc4b4bdf533a42ce9946f8b4b88e241dbd47a106"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26941.txt.json",
+      "bytes": 1014,
+      "sha256": "ceed0670e113ea105c77518656b91ae87a9f70bd19aa454ba185747a460cc4bf"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26943.txt",
+      "bytes": 5068,
+      "sha256": "c6b813d5b0d473c21d66756c3df9395244212fe31bcbc767419913e421cb2d60"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26943.txt.json",
+      "bytes": 1013,
+      "sha256": "f56dd7c4b38540c005fb4fc0884e43e1a1c62d6f6dbff709d08dfcd475a323e6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26944.txt",
+      "bytes": 3569,
+      "sha256": "18c6fed070d04a720499e9d196d485b24c49df62769a86d5c38fb40924d59828"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26944.txt.json",
+      "bytes": 1013,
+      "sha256": "f3fd1a266c50c63a9cc3d4255889c36da234cf4c094469716781407726670744"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26945.txt",
+      "bytes": 5448,
+      "sha256": "bd58f2d5632cfbeee4c0f157fe6e6265f7ce1ff7885a9e847d54679e4bfd67f9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26945.txt.json",
+      "bytes": 1014,
+      "sha256": "8ac693b3166d36942fef6136a87cfd961410e5c287565f6320aa25b5626eaf16"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26948.txt",
+      "bytes": 35938,
+      "sha256": "b9edb6b577c32e0c9e6b6831a25ff7d5a28b331dcd7e48f698fac4669fd170aa"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26948.txt.json",
+      "bytes": 1017,
+      "sha256": "eecbeac82b41cf4905490fc5a23749fd29595602c4f95c4343ff976badc00122"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26951.txt",
+      "bytes": 5497,
+      "sha256": "19ed2984bc9962944f1de2f61f9bc715a80f40ac25fd7db1b0cf8f59f9063701"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26951.txt.json",
+      "bytes": 1013,
+      "sha256": "87db62da025f232f4356c4fcd46f6a54a23d890d4ea9e44266fbaf78decd32c4"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26952.txt",
+      "bytes": 2329,
+      "sha256": "c2e7b2a1e45dbbaff3d6120f437bef30911f516534a122232353ab65da5dba1f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26952.txt.json",
+      "bytes": 1014,
+      "sha256": "47b2a823da3821f966bdc621cbd8daf171a49af7787cae6706e1b714c5d1ed8d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26953.txt",
+      "bytes": 2094,
+      "sha256": "ecf0a45e3a1bd70aa60d2da2df289feb8d9af0d9d5f524d0335dd6f14a2972e0"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26953.txt.json",
+      "bytes": 1013,
+      "sha256": "07e38ef8dd3b16ddddd735c3d48b31c7a9a2ae8f0e04f9076517065c8c70c878"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26955.txt",
+      "bytes": 2767,
+      "sha256": "b42a8431747f64d15920725a0269277cda23173c3de80f7646896a650c4ca21c"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26955.txt.json",
+      "bytes": 1013,
+      "sha256": "079288539b94f5a8a8cb7041be33927919cc45d02343fb4bd776dae1513dccfc"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26956.txt",
+      "bytes": 7190,
+      "sha256": "ed6333d4b865bc9679e39745485401e922863297b5e85a43824b13dea166feaa"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26956.txt.json",
+      "bytes": 1013,
+      "sha256": "65ea43325e3baf3092772e08d4f9becacea23bb2dc7f0ee27d80bf86b458e7f6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26958.txt",
+      "bytes": 2511,
+      "sha256": "2a04e7046d5df2bb7476e702aaf3edc06055c1a2bcb187bf8917c6abe5180bd2"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26958.txt.json",
+      "bytes": 1013,
+      "sha256": "4b780f4068baca201ccf7a7a1212f2fef273caaee02a979a916e3ebcf8059b3d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26959.txt",
+      "bytes": 3355,
+      "sha256": "88193df8c3bf384fa4b55705c9a06655fc999e187c2b0dd64bb1fcab9f5941e9"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26959.txt.json",
+      "bytes": 1013,
+      "sha256": "acde9664cb35336bf51cdca7d9890402d5837f8ab98c4a6f3fbbb47bbc89928b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26961.txt",
+      "bytes": 2669,
+      "sha256": "6b965bc416793aeb60d51b95cb9f21ec06ce00f9b97ac4dd643ed11189932c30"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26961.txt.json",
+      "bytes": 1013,
+      "sha256": "09a5eb897dc673adc520366f6fe6c049b2af27085cc400f9a5e9c918fcc85ef1"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26963.txt",
+      "bytes": 4277,
+      "sha256": "841fcb2ea3d3d9009ff66f356be09ef7cd5c76aeba8e5c3dc619bbe4438feb7e"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26963.txt.json",
+      "bytes": 1013,
+      "sha256": "e5eb52da538f88ea341f1c7d691872cff6ae6a8ecb360287417144b1c78d8ed3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26966.txt",
+      "bytes": 7222,
+      "sha256": "c712fe996878480355f76356f92a9d2804e4dfaf5dc243d806d4d188abdec02d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26966.txt.json",
+      "bytes": 1014,
+      "sha256": "79b31cb94c134cfef152bf7aac8dafbae365ba9d14e91a6f3a2601762a8ab29a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26967.txt",
+      "bytes": 6527,
+      "sha256": "a8c01d28382d421542689fe7d40e70f045af7b590f8bc2d82367445b9e777aad"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26967.txt.json",
+      "bytes": 1013,
+      "sha256": "0d3d7f97abc681f9b2d1bd85a98da9a9f0d717a08de2f7d453b466530b093bb6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26968.txt",
+      "bytes": 13289,
+      "sha256": "3ccc4cfe473857226e46bec1bf4d8ff59a9dfc519cc4c80938b94f9187b4cb7a"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26968.txt.json",
+      "bytes": 1016,
+      "sha256": "e00f38a60f49ac1b3a2a0a99fed9eb4860c70aec118ea332730f39d222c6a179"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26969.txt",
+      "bytes": 27413,
+      "sha256": "8164def3e655e9eda601aad10aa3820387ddef23f8ac46786ca472f7382406a6"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26969.txt.json",
+      "bytes": 1016,
+      "sha256": "6f9c639e29147c45403c90e574a100cf4d324132d21c2949fd2ab2fc51999271"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26970.txt",
+      "bytes": 3135,
+      "sha256": "e9d7437117174d5977f0209646496577aa13b204ab93b8915b2406c2c4631b61"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26970.txt.json",
+      "bytes": 1013,
+      "sha256": "024372970734aa9e076251a07ef3a5ba63acdc9bf7b3874893381c84e1671977"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26986.txt",
+      "bytes": 58640,
+      "sha256": "ac57d400ef92761a02a072d08baf9538a2dee3d8ec6bb3151f6cb5bee757d15b"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26986.txt.json",
+      "bytes": 1016,
+      "sha256": "510a0b7c0bdb1b379183ba16b17d4287dc5232bb344ce3580b1de03ab935da8d"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26987.txt",
+      "bytes": 59546,
+      "sha256": "f75c6487b01a4d662fd85ae23c957a8fe97b8ab6f1f6fae1f3d38df638f479ec"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-26987.txt.json",
+      "bytes": 1016,
+      "sha256": "04fe17514e7fc42ae7697b50de77997fe77452016558a319ba4065c3ad969323"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27025.txt",
+      "bytes": 11252,
+      "sha256": "3961ba1c174ff2e831f216627e9c36c570a91a261d0086e6cc0c19ad910351db"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27025.txt.json",
+      "bytes": 1016,
+      "sha256": "6e361a656ffa7f5d80958f21e043470d7f23786731a4d5b7fa7712497913f965"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27065.txt",
+      "bytes": 23146,
+      "sha256": "b5aebc25b9665fb743fe13094c7143cefe99f2be6f201e63b8069de585e98875"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27065.txt.json",
+      "bytes": 1017,
+      "sha256": "6b1aed307479aa8de16e0a11b73dc6a2c23409d2b5e3a6fc5092c83aa78cf537"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27068.txt",
+      "bytes": 7053,
+      "sha256": "a7539dacafe8545cef1a5db07778ccd2f8388726c8d02a42e6506288f644458f"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27068.txt.json",
+      "bytes": 1014,
+      "sha256": "46e8336e8cbecb38b4258afaf4bfce0442b2609e474f5914f07d5287517e6cf3"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27069.txt",
+      "bytes": 7780,
+      "sha256": "ede47caa913ce6e9f9479c1e41011dfc4319644d947719d4c4b8fa6bffc28084"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27069.txt.json",
+      "bytes": 1014,
+      "sha256": "8ade0b1a7a68ca5643f74fb98640af9ba1c07a891d44320a842aadc62c30a511"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27093.txt",
+      "bytes": 1732,
+      "sha256": "34cee462b8ebdd0070990959c1fc60abc4646d9d86d4a9ee07b1a1ba688bfa46"
+    },
+    {
+      "path": "example/output/run/raw/2020-12-08__2020-27093.txt.json",
+      "bytes": 1014,
+      "sha256": "ad839b488f5d9f6d391d55e8b8e4923e59a13ca21db32c729fedcc2d671b24e5"
+    },
+    {
+      "path": "example/output/run/source.json",
+      "bytes": 661,
+      "sha256": "d027475d5c20e16054d658a41ab5a8f418d319d2b18cf9ce49daf5348ba7d87b"
+    },
+    {
+      "path": "example/output/run/verify.json",
+      "bytes": 325,
+      "sha256": "b6159db860430c8b5272cbfc218c04250d5611de7919ab2b911f409c67aa34d3"
+    },
+    {
+      "path": "example/output/run-govinfo/clean/INDEX.tsv",
+      "bytes": 18405,
+      "sha256": "ca3b0372fe7a96f87a6fbdc9303e05e06e155bcb8d3e6313b283d65043bbbe99"
+    },
+    {
+      "path": "example/output/run-govinfo/comparison.json",
+      "bytes": 584,
+      "sha256": "8049534c029b45bc06eb943c0382fd9d0bf1573225e20a631c2e843756c0c91b"
+    },
+    {
+      "path": "example/output/run-govinfo/comparison.tsv",
+      "bytes": 40073,
+      "sha256": "b49569f7c2bc7a8fafbd181149fd22f4fce11257ed46613eb1169dfd521ab6e6"
+    },
+    {
+      "path": "example/output/run-govinfo/defects_extra.tsv",
+      "bytes": 4635,
+      "sha256": "34af884f1a042862e5092e823095c6f449c93495511ebf5915cd1b04b5791931"
+    },
+    {
+      "path": "example/output/run-govinfo/frame.tsv",
+      "bytes": 21540,
+      "sha256": "c2233d85576f3f5676148a35d89ce1fc16bf9c7cd466a1a59cfe14efa83357fb"
+    },
+    {
+      "path": "example/output/run-govinfo/inventory.tsv",
+      "bytes": 31702,
+      "sha256": "57a279743944e31a152e38403805e17896f874f1bbad2a6cef09a7555ec531dc"
+    },
+    {
+      "path": "example/output/run-govinfo/inventory_summary.json",
+      "bytes": 388,
+      "sha256": "4590e990946f18ba4c2b8032254d33a70ba0860bf3cbaa43e50735f3d8e07dc7"
+    },
+    {
+      "path": "example/output/run-govinfo/problems.tsv",
+      "bytes": 17,
+      "sha256": "afc54313cc0b1cdd35fabccf65bfc678c6d325b83106afa6fcedfbca3fa4008b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-23810.txt",
+      "bytes": 208424,
+      "sha256": "5f70225d8444511c7f3e056565947e5e8b9b235c2172a73759ba7622669727d0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-23810.txt.json",
+      "bytes": 977,
+      "sha256": "d88b6cb3b3a56558c58c2d0a00fa61eb76bf8edeff448ccc8a242016f11ae68c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-24936.txt",
+      "bytes": 37201,
+      "sha256": "3e0de84513f4bc4ac9165bd07407e3b2875edda0070d6638620fbb72ec844af0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-24936.txt.json",
+      "bytes": 975,
+      "sha256": "14cf1392aae98a2d30ac03f442f74ff0c081d9cccf5311e2fb21011dd309935e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-25145.txt",
+      "bytes": 3411,
+      "sha256": "f7f54eb0eb0df8f4a5f9ef84707506b3759f09d07443c0f9fd76ff68c6f8f3aa"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-25145.txt.json",
+      "bytes": 972,
+      "sha256": "ef51476b1e29dd7d398805ecd5b708bab02455074f63088c93ec632fe2a48760"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-25830.txt",
+      "bytes": 99004,
+      "sha256": "ffd8cb8a55b057ec88fcd1bcb6bb27aa5e05c69ad92f33f67c0bb1ee2438b60a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-25830.txt.json",
+      "bytes": 974,
+      "sha256": "cc0fb7705b956318497bb57545cafb228a404a4e1c68d74f67abc4687b943d15"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26003.txt",
+      "bytes": 38760,
+      "sha256": "eee3c9d3caeaf5678b69a0b1c3d1bce40fecaea34f0b2a3e59facdec61229a81"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26003.txt.json",
+      "bytes": 974,
+      "sha256": "53ed3209ab6c6d47f064dedf46f85fbed7f9878175c0b965243ea240a57bdb7a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26033.txt",
+      "bytes": 43359,
+      "sha256": "2fa9bf40bdfc5ba2f80df1f04c8a77e7a277a70a69d3ebcd6da5404b9a6750f1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26033.txt.json",
+      "bytes": 974,
+      "sha256": "246ef486ac264c98a0a45cd32ba88d567f97cfbe28f2f525dc3a792cf536e465"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26181.txt",
+      "bytes": 2621,
+      "sha256": "a5805cb56bb35859ffdcae1f754daeca035ce759977efde02aafb868d9d6cd20"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26181.txt.json",
+      "bytes": 972,
+      "sha256": "3bf5773f874299d979a1eb90db59912100a6c26e00dbe46365a0e1d99e62391f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26209.txt",
+      "bytes": 8994,
+      "sha256": "22c2472dc229a1931fdd563b1be1189ceb163fd382c36f894e63b19d9a6e96c5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26209.txt.json",
+      "bytes": 971,
+      "sha256": "8638a8ee402075b2d0e68034e03c18c839d40fabc2dd6eb7ad7c5dc59c4d77b5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26386.txt",
+      "bytes": 9444,
+      "sha256": "97652a515deee2b463f84bf5aa8883bb6a5c232c6e0b77083d4c6461a1df3160"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26386.txt.json",
+      "bytes": 971,
+      "sha256": "20a26b818a2e301e1365ed1c4965c383b83ec0e2014a1d068dc8128e32a02ef3"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26416.txt",
+      "bytes": 89535,
+      "sha256": "273ab1f5809cdf5c05ffd47e5e6b527909951517326d61491d50d842c268fde0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26416.txt.json",
+      "bytes": 974,
+      "sha256": "cf25bc622c99df238764ac81e79bd7eac3eefd94455bacdc37d89854bf34588f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26633.txt",
+      "bytes": 3510,
+      "sha256": "a6f8e72b788ea358570d75d07ffda5f5068dcab3dac190c3ebb6d73b8559a9c5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26633.txt.json",
+      "bytes": 971,
+      "sha256": "52efdadf11127408d88244bf01eeef96b73f477bdf6ad2d79a29e951bf494ee5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26698.txt",
+      "bytes": 54294,
+      "sha256": "57864c3abb18e4b731ab3c31890ae5f0d05d433645caf8250a56f55b61f59da9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26698.txt.json",
+      "bytes": 975,
+      "sha256": "fb3bf37c2258cd848bb4305ab7b30774a2f23f33225e3f953182a13cdff6625f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26718.txt",
+      "bytes": 9750,
+      "sha256": "5d9677020bb103ddaa0aaf4607cefe8b0f936f9a588412085436cf28e36832b7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26718.txt.json",
+      "bytes": 973,
+      "sha256": "ec5c94600f1c075305061742265c14adaf92fd97615c046b140fd4426941781c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26763.txt",
+      "bytes": 4505,
+      "sha256": "a54f4c99c7394145637fd05870d599046d2b23038bb6d38c0fba35d18e605b43"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26763.txt.json",
+      "bytes": 971,
+      "sha256": "088b25bc376b4b1807bc627cca54fa7b4d89e23d74af0a3080cc77003a8f932f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26764.txt",
+      "bytes": 18087,
+      "sha256": "a619f7a530fb6f990ef8dd47b8b3454dcb464155ed0c456c54c168bbd8e8eb57"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26764.txt.json",
+      "bytes": 974,
+      "sha256": "38afd5693e49a6e02c09c0a98578c2fb5691e9b4757aca727b9bf1ba65fd7458"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26765.txt",
+      "bytes": 22911,
+      "sha256": "e95814342e4006998fcc5c3177f177462e33789e03a93f5e2b48428c8baf159a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26765.txt.json",
+      "bytes": 1096,
+      "sha256": "574dc33382ff8e477a256b036bbe9510e8fec8c6e03a45e8c880f6bc48121204"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26766.txt",
+      "bytes": 5240,
+      "sha256": "4a178fabc8e3939d9aff6ccfa7713afdd4f596e961e95b9b08f92394afe449c7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26766.txt.json",
+      "bytes": 971,
+      "sha256": "dd07550e4310ed40217f3c4a5a7f4af92e9251dcf7361426a8a2e4624a5462ed"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26767.txt",
+      "bytes": 30925,
+      "sha256": "34e845ed8ba8ea06f58d79edd339048d836de77f80643be452d8d179b1273278"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26767.txt.json",
+      "bytes": 974,
+      "sha256": "d637cc9de2f63bbb1766b0a924d64f4b4d2c6923643852095853fb82a8883148"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26769.txt",
+      "bytes": 4710,
+      "sha256": "3dd7f8081fb94422add64da003de33c45861fcd8a41a84eedec802fae4f07939"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26769.txt.json",
+      "bytes": 971,
+      "sha256": "393962ee9174708ab5e706ac5b7016f0056ec68f00eb9756cf8b0d48c72b9883"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26770.txt",
+      "bytes": 23399,
+      "sha256": "2c890773c0bbcc22cf0a508aa08223f97aaffd8f3f088c4f4b6ebb169aad2502"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26770.txt.json",
+      "bytes": 974,
+      "sha256": "1c751cea3b28196e221ccf9004700411652044ea3a2ea4c84a955f6a77e03c21"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26771.txt",
+      "bytes": 18376,
+      "sha256": "a0214e019e10bfe32394d0436c494e55759ab2c708ddc65ea84a892d872171a7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26771.txt.json",
+      "bytes": 974,
+      "sha256": "f66a856cbf35c2553d5247620b84771e5f35d9b8847a68b830f1120c3927655f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26772.txt",
+      "bytes": 22933,
+      "sha256": "5715d19810a1b11427db0fcc92322b0ec22954820db1c66b09a01b743f8da69c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26772.txt.json",
+      "bytes": 975,
+      "sha256": "4254940297418125d2d52d8d4bc8693bfc0b3963dab0c875681e2662ea94c3e6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26773.txt",
+      "bytes": 19069,
+      "sha256": "1398dd6af2172d1619cb26e7ccd2cc8adc720ec0b2b4fab2a9f0a20406f9865b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26773.txt.json",
+      "bytes": 974,
+      "sha256": "440e6b3e0913034be04fe2dfe8ca22f9ed5d448d444abf2a1ea61e96ec354b48"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26774.txt",
+      "bytes": 7388,
+      "sha256": "5403e367662027a3fccbb26d63de1c0e7953ee5b8c5bc961ce9ccc65603ab8af"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26774.txt.json",
+      "bytes": 971,
+      "sha256": "52b30910ab020128155e2a1298b07c9b188abebbbe2b48e835a6146ffa8702de"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26775.txt",
+      "bytes": 30446,
+      "sha256": "a3b020766e43a95c0a2aab990df71097b77e93dd762ca467f589cbf5d6cf8c75"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26775.txt.json",
+      "bytes": 975,
+      "sha256": "c65eef1047a1a08505d927652211f6e3d18c72aff093249686640fe7425763a5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26776.txt",
+      "bytes": 4677,
+      "sha256": "3234d7571132a61ac6a4d1f01a057adc4c3c5337b8ee3f7a450282329d8d1018"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26776.txt.json",
+      "bytes": 972,
+      "sha256": "679ad9cdf2c63a67072d94092be8e08a8e83ea218196f5e500f1b3426ea7fcb1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26778.txt",
+      "bytes": 22557,
+      "sha256": "30c82aae57fafb084dbb14a51589348fd826888107b2c1764ad09e1e5dce71eb"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26778.txt.json",
+      "bytes": 975,
+      "sha256": "998dce1438df5dbc546a7b512633e667ef04e716a38ebf4be31398632fb0a1d3"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26779.txt",
+      "bytes": 13496,
+      "sha256": "a8039e4cec07f2d055aef9796e35259cb337a740fa1e11f2dd4dcd16e87b661c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26779.txt.json",
+      "bytes": 974,
+      "sha256": "02ee7688a2c4728a59ba54016cdcf3c560f5d06091fcf62358c0b18ca94ee5d1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26780.txt",
+      "bytes": 13904,
+      "sha256": "e9bcaff83d99c52ec267cd948b4fb7bd3288e56641540b26cbd7295c2f2142e2"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26780.txt.json",
+      "bytes": 974,
+      "sha256": "7a233bb5854763fdc6da9782618c829513394f81e1f650c8c96c7c877919e811"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26782.txt",
+      "bytes": 7394,
+      "sha256": "1d7d452c8b9bb3a3784269550cdcf1cd09be84d64329f4cfee918b79310fa5ab"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26782.txt.json",
+      "bytes": 971,
+      "sha256": "44a547d6d2c7bcb6e63db74a289ec9da9710c12f96e534950d453d3c4145754c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26783.txt",
+      "bytes": 14695,
+      "sha256": "0461e02197951e00da064f9b82d35ebbbb739a1c0809b3d75cdef8b5e8f520dc"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26783.txt.json",
+      "bytes": 975,
+      "sha256": "a8fff4e19bbe16c249207a74ba8acaa9957700cadcb6f18388edef294be5a558"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26784.txt",
+      "bytes": 21031,
+      "sha256": "4fa9d90e4b304b304dfc7467de18ebd763794adffef895e8ecb3819b74dce027"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26784.txt.json",
+      "bytes": 974,
+      "sha256": "d7e80ce47032f20e7c91f5c784daa6d0201846e9f9cea28eec9be18e5871b1be"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26785.txt",
+      "bytes": 41610,
+      "sha256": "a8baf41390fb2ca4ab77d8b8b5b56325f6583313654c561022fc446fd8e298c1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26785.txt.json",
+      "bytes": 974,
+      "sha256": "51a8c62296fbefc6ead6557fde5b484aedbf3f005541d0065bf69369d93a70a2"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26786.txt",
+      "bytes": 39098,
+      "sha256": "b02688562dd3e22b5f04dc125572b689973a9ef9ded0497937fd0f8857c955d4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26786.txt.json",
+      "bytes": 974,
+      "sha256": "856dafa1dc6172a1db7faf61e91e0b1030a091710f7b332bd74ac4cceb456758"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26787.txt",
+      "bytes": 50995,
+      "sha256": "cbe4fa9c92ada51d5b15f4e6d56b8c2e4700fd98c100369ce6c4750a1e19fdde"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26787.txt.json",
+      "bytes": 974,
+      "sha256": "3805b91524f1546d9ab8948eb8e8362971a65293e927cfd5d9d62e606405176f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26788.txt",
+      "bytes": 3627,
+      "sha256": "df60c9c795f54797e09f49e41da58677482614e7a9c2a9456472310d80328828"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26788.txt.json",
+      "bytes": 972,
+      "sha256": "582d650d284db5890102bb3c6b45df037f1c0c8dc464aeda090a354b18518f5f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26790.txt",
+      "bytes": 28060,
+      "sha256": "6cec503fa2bb7925aa7cecb4cbdb37c37b6db054d251dacc8b0e14fb7d65986b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26790.txt.json",
+      "bytes": 974,
+      "sha256": "5ca34d24417d6cbc11025dbfd7fe8dfb8b8354ca145a91cfae7291f3c161d42b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26794.txt",
+      "bytes": 23026,
+      "sha256": "d35171e665264184274fb963ce01838ccad4fc3e4120a0b9ca6b452652eec8e5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26794.txt.json",
+      "bytes": 974,
+      "sha256": "3a3f78a8ee4721cfa6b37c0cc872c88fc8ac5361e5582edf10470c93e1107530"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26795.txt",
+      "bytes": 3616,
+      "sha256": "406e546719b6f18d5122021ecf1c9fcf7e782e43c52f35072cca77124904bb15"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26795.txt.json",
+      "bytes": 971,
+      "sha256": "e2148904c1e3f03284cdce036dd61a4a60cc066f6c3bd53a0752a547ecb9b9dc"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26797.txt",
+      "bytes": 7843,
+      "sha256": "ad627ff4dcd1e7c7947d7bd277cb0390529611c3a8de7352bcec8909b1fa562e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26797.txt.json",
+      "bytes": 971,
+      "sha256": "dd60a59bf379a28f98a1fe61087d5fdc14bb078229e17dec84eebe147ab76789"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26799.txt",
+      "bytes": 48117,
+      "sha256": "23687b26316a5b3e25232a3bf23ff19b28a40ebbb4bcf85ecf583deb2b6495e4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26799.txt.json",
+      "bytes": 974,
+      "sha256": "7b114a98ebe477af4380fa6f35862e92e28ffdca8bba35737d481958f0df35d8"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26800.txt",
+      "bytes": 4201,
+      "sha256": "e36d5c87cf395b950f89282d207cfc953d63d8b65e1cb3f334877dd38bbc76d9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26800.txt.json",
+      "bytes": 971,
+      "sha256": "aca4a10e4acf2fb5c58b77924cd04695fd9e191adef29770b67358aee543dbb5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26801.txt",
+      "bytes": 3551,
+      "sha256": "a92949d23d17103819ef2724f675afdb8a6a548d2ac6e3cf64dd756bd9b7a7bc"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26801.txt.json",
+      "bytes": 971,
+      "sha256": "333e4aa78a0f007963da023c199a208e42b41d3e05dc413af2781072efb2458f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26802.txt",
+      "bytes": 2711,
+      "sha256": "668d71eda8016d2bb6af7af5cccc92080e2f7732e637d966f40b742182e44552"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26802.txt.json",
+      "bytes": 972,
+      "sha256": "2c40188de774844cfab57bba8c329b311cd2052d0a858f9a664a07c9c0cf6403"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26803.txt",
+      "bytes": 5372,
+      "sha256": "bd733322cf6e75f452b9a3fafee35c01bf461b685d5236d3af7138a4da490008"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26803.txt.json",
+      "bytes": 972,
+      "sha256": "8152edc72463a3bf932ebbf9d87a1acc9f5bd74dc4cb47d7bfd9bc69cbd94f44"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26804.txt",
+      "bytes": 2415,
+      "sha256": "9608a9c250e65289921b82bbe9a8489edc03ba164497a5fde90949dd6761ddd9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26804.txt.json",
+      "bytes": 971,
+      "sha256": "a73ea94d161cb58a64e6bcc1a1a28e16132dec943d2443daf0f0b85ea224cd49"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26805.txt",
+      "bytes": 2252,
+      "sha256": "a6d1319730e759e8d553879aecb7d19f9ca28fa32fa567e611b61eb6e2ae3d1a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26805.txt.json",
+      "bytes": 972,
+      "sha256": "962ac6b014b6634d888ca83737946db3b3279c7594b88a18ee9dd2b285bcc946"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26806.txt",
+      "bytes": 3746,
+      "sha256": "c1b5690bf30ccf75805458c90ff83a8a7a58615774b466e50fcdbd2192845f64"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26806.txt.json",
+      "bytes": 971,
+      "sha256": "b31e1d4f354b015aca2195b870cce25283a5039684e435378cf7ddafb8a14f05"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26807.txt",
+      "bytes": 7211,
+      "sha256": "14f683401d70f76513e6f44ddd50d02b91c85981a9571aeda002ec19695d317a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26807.txt.json",
+      "bytes": 972,
+      "sha256": "19608ae2c2242064ef10dadb678ab6d2011deccc08bb066a54c805afc14f2cb4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26808.txt",
+      "bytes": 3484,
+      "sha256": "3d936565b517d03ba11b6b7cf7e263fa92a27a7c922af23ca79dc5f3b92583d9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26808.txt.json",
+      "bytes": 971,
+      "sha256": "35e37052cfbdecdb0d776ef3282ee06f99f778476337b68c290084aa9e55add5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26809.txt",
+      "bytes": 3041,
+      "sha256": "104324ddb9a3a853df3ae91b4a0ddbc368a0e2cd139e0c8caa40231c65a1250d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26809.txt.json",
+      "bytes": 972,
+      "sha256": "ab66e386a1ea1a2e2e99481923619e3e6b826631d0002705bf11d19c7134033c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26810.txt",
+      "bytes": 6019,
+      "sha256": "b119fc8f958e4dc2e48034815578c6ce291e90fe2fb076d67b43f2c0dfe33325"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26810.txt.json",
+      "bytes": 971,
+      "sha256": "6385d604712515b368185c323d5024496dd81d323c4ee19ec346db04406ad75d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26811.txt",
+      "bytes": 10349,
+      "sha256": "d4d471bbed2d03d3d60f8265a251991769ac9af55e2349239e5b6cfffaf1f3f6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26811.txt.json",
+      "bytes": 975,
+      "sha256": "6e87c915db1af5a91254be96648797c2bfa082bd5880c684036b5c15f24cb610"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26814.txt",
+      "bytes": 3826,
+      "sha256": "6d8cc109328e6d85a07cac13458a21df1e3ff2975313ae5cb85ec0282103ea4d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26814.txt.json",
+      "bytes": 971,
+      "sha256": "6d9a42b78e7a7cdbd41d0d3b512cb3e38a14f62bbce572c4db4f222d64e6f1b7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26816.txt",
+      "bytes": 15612,
+      "sha256": "bfd176f8f6087c2d2ef8d1eed0d87002847803e7af2d6d55fe5d9ba9b2f5e641"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26816.txt.json",
+      "bytes": 974,
+      "sha256": "c825c1bbea13011503467c9c897819fbc17d1562e62b00d0fc8237d6dcb241d0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26817.txt",
+      "bytes": 4247,
+      "sha256": "83e514cb192702bbdc6f504e69b399867b52c0f41befe8fd8a9f30a70d92173a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26817.txt.json",
+      "bytes": 971,
+      "sha256": "f1aac75ac47d16c52821ea7b6fa4619b0eb342495f8ff1f11f147e019120bc52"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26818.txt",
+      "bytes": 15489,
+      "sha256": "0d8f41a15735920984971540d4d053b88dab05a413c6781dfe4452a989e6f074"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26818.txt.json",
+      "bytes": 974,
+      "sha256": "152b45e9eda38270bc0222683958a9eaed3fe059017f1a76a53d72405b1811e1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26820.txt",
+      "bytes": 3227,
+      "sha256": "c9938cd17a652e255b127a11c9b29ccf80c929dd0164c806ddca0dba17e4c750"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26820.txt.json",
+      "bytes": 971,
+      "sha256": "2b4b3ca48e2e5b0a1a5076d05d6479b22a4fe5b9689358ec476c2191f03c5790"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26821.txt",
+      "bytes": 10907,
+      "sha256": "dd943a5da5d0b24fa52cfdd0ce857edd0ca7170096a7b134d6c75fda37550410"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26821.txt.json",
+      "bytes": 974,
+      "sha256": "d6ff52f6a4f24c9c7313ca9b1a8937ffedbbeb56b043a6ea61259ff79f22b17b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26822.txt",
+      "bytes": 5301,
+      "sha256": "dc9a448c3617818de2475b2b14154820226bdf3c1ad5be511ddaaf3966786f0c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26822.txt.json",
+      "bytes": 972,
+      "sha256": "6c0168dfcf966a48bd58215735bf2b46eba8a07a7a66542e28a69e5225c2b9ab"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26823.txt",
+      "bytes": 10032,
+      "sha256": "b32a7650de5785094ed0b9a2867394455394700276b80fdf041e050f088cb7d7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26823.txt.json",
+      "bytes": 974,
+      "sha256": "86d31ce25c6f8de5ef58203729bb58427cb3bc0b7278de1f073783fbd4a000ca"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26824.txt",
+      "bytes": 10796,
+      "sha256": "223a751b589a1d893d8c28cb000a4935adc40e772fec638c56e598fb5803117a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26824.txt.json",
+      "bytes": 975,
+      "sha256": "67d4d7f29524acecc9371e3e17db29c342704900c3cdc0de6255b11ab49e74fe"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26825.txt",
+      "bytes": 5507,
+      "sha256": "86f1083b60c1987d8ffec0c14f97134bca901e6f2605d7e554f74656bc02fe2c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26825.txt.json",
+      "bytes": 971,
+      "sha256": "0412f8c1cab4ad992fdcda4c45a37133f12f3b99ce3fa7bcf4a56b55996fbab4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26826.txt",
+      "bytes": 8625,
+      "sha256": "eb6841706b84f1f496557879638e9ffe2e18cfaf24123f587c33e7bce8fdf54c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26826.txt.json",
+      "bytes": 972,
+      "sha256": "3ab5f48fa630d72dfd659e180d2e5e844ba2751b63c71b19cad335daa652a646"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26827.txt",
+      "bytes": 3213,
+      "sha256": "59416375061def9f28f343a32232a73cfcce2b00d70c65bccc174352b499ef7d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26827.txt.json",
+      "bytes": 971,
+      "sha256": "3701979e00877a1ae6a4c900eac3afd4d2b60800871bae6eadc16571af673b88"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26828.txt",
+      "bytes": 6390,
+      "sha256": "a1bf2b2a0c67739fec7f707b962b7b12fd5c3953ec0396d1db63b12aa6937c7d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26828.txt.json",
+      "bytes": 972,
+      "sha256": "5f3b27603b1466592a09bc7581e9a989a49ff09297bdf5f4cc235741fa43a8aa"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26829.txt",
+      "bytes": 10283,
+      "sha256": "9cb895ee4a01f0f689421441325c84df3000e33d5e303d21b689270299401919"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26829.txt.json",
+      "bytes": 975,
+      "sha256": "024a16fc6e1db11b78b5c551b0da75c1630f51a406a4359b04ff88537e733499"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26830.txt",
+      "bytes": 8076,
+      "sha256": "7a2939708b16e8fc54c55ca6c6675a0fd3a4f0b6a2f1a5b407475a0500b5c519"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26830.txt.json",
+      "bytes": 972,
+      "sha256": "e970ea94d0cd54abfb5442811b1cbb23e9f2511fab8704b3683e05c66687a020"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26831.txt",
+      "bytes": 11876,
+      "sha256": "0626e162c36cdc72d2f18ff8735998c7667e49514d991a9cbffbe030dee7064b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26831.txt.json",
+      "bytes": 975,
+      "sha256": "c0420ec71964c5ebbeb5e3e259a8cd85767ffbe6a50650999fb97aaf4f48388a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26832.txt",
+      "bytes": 125226,
+      "sha256": "b1d5477800f3bb96db1035f1aed1ac94981ee018652136d153023e1bd07a7fa1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26832.txt.json",
+      "bytes": 977,
+      "sha256": "8f79d09cf5e7d974c0b80ecde6c0a8e834ed4348dc9cc6fe1381912a62fe14da"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26833.txt",
+      "bytes": 6987,
+      "sha256": "280f62fb72ae5cbeaebdca299f29bb97fa3e28371a140e90f1b51404e16e436b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26833.txt.json",
+      "bytes": 971,
+      "sha256": "0004dd22120597a4a04ae5058119c79b0d863e39450388ebc229d6615171b6a6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26834.txt",
+      "bytes": 6949,
+      "sha256": "c9dfb3ccf05bc77894421c401779a190002adc3c75f312682b007869ea347221"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26834.txt.json",
+      "bytes": 971,
+      "sha256": "918d2065ad5452ae1507d6f39d4a56f46a5fd1fd9128f995f44b6906bd465ed9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26835.txt",
+      "bytes": 6928,
+      "sha256": "da7106d262f934de8f00441ffbe8fe5966c51175f653a3c2f690af8a3a809ebc"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26835.txt.json",
+      "bytes": 971,
+      "sha256": "0560c865de9ca82b7c2329a5cb561f4f6f7a54855281b68369c621cc15ea8dc4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26836.txt",
+      "bytes": 6870,
+      "sha256": "8b870f56477b5a7231e81e39a5f9884f2638687d84edb069063660883fb767e4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26836.txt.json",
+      "bytes": 971,
+      "sha256": "a54f7634482cebbdbdd51ac7b6a33adc049750119fd3bf7188a75512db89548d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26837.txt",
+      "bytes": 6946,
+      "sha256": "f5c024d5932fc9873d807be674fbace2aa2a1550bf200c67ee85cf1e74d52508"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26837.txt.json",
+      "bytes": 971,
+      "sha256": "227341bf56c84100253883f5a86703f78d86f4cb4f9333d0208dbc71c915e0cb"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26838.txt",
+      "bytes": 7004,
+      "sha256": "8978b2c479d2b0d1dc59327f6fe5d88b17567332bb124c2a5f43e0a9bdd9406d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26838.txt.json",
+      "bytes": 971,
+      "sha256": "9c5e705f7cd0a84e5e3d5e9840b6c306d36821598f65e097a70c6e56be25d4c9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26839.txt",
+      "bytes": 6902,
+      "sha256": "0ad03f62c24a2cde04e9b4e13c30fc3226a7acdabd0be047af8d24d4a05d74da"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26839.txt.json",
+      "bytes": 971,
+      "sha256": "4c8254cdf5598b26140cb97ef3c3f41509cea232b8057b7c111c245b0607ea65"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26840.txt",
+      "bytes": 6879,
+      "sha256": "ff07ad09d65573fdc79d4753f6e02151bb5ad16ae304b373fcb7b034dc4ddf2b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26840.txt.json",
+      "bytes": 971,
+      "sha256": "ed137ba3f4eca04685c71d549e4b74e8bfa6ba0c793a0b367177f46d3d99a1d7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26841.txt",
+      "bytes": 7231,
+      "sha256": "082f5d3f3f38088bc449866e5276d82e885b770d4c152eefcc450e754bbbf1b6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26841.txt.json",
+      "bytes": 971,
+      "sha256": "59efab56fbaf6680d86b7405e39ee2f1442428401b4bd92d6f10617bc25a1a56"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26842.txt",
+      "bytes": 7286,
+      "sha256": "8777ad629632554f86ff82f160c14cdcba0b0a056ad810b07071f8b56f2e31b6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26842.txt.json",
+      "bytes": 971,
+      "sha256": "41344729442a40f133ad7d3e0784f3a9670693227a436586dee44675e241019e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26843.txt",
+      "bytes": 6850,
+      "sha256": "f14208b4dae4bf2490effc7d30655aed183b4e4e8fa2fbacd2b87374cf28645a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26843.txt.json",
+      "bytes": 971,
+      "sha256": "4f7a1bb5b9cb0e1700ab85edf12f0f15e2072142b45b9c4857fbdc0839fef783"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26844.txt",
+      "bytes": 9507,
+      "sha256": "58c84071005f3c1cb2f53673d02660aba58e511d5164d2a567f122f1ad3e27f9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26844.txt.json",
+      "bytes": 973,
+      "sha256": "138561c62c96cdeb762fd8308d8b19387f0e9a03579f89ecba514d888c73c1d7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26846.txt",
+      "bytes": 35971,
+      "sha256": "eeb9f7ef0d888b2e5399af18b1adb62c5fac7910a0e37c491419d12ae5fcc610"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26846.txt.json",
+      "bytes": 974,
+      "sha256": "978567c729d92d9c4985e8c921d2f082a52589dd5cff70f82817732b7bebe4c2"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26848.txt",
+      "bytes": 5063,
+      "sha256": "11459d3dc5234aef18440963b76cb503cb08d9ab0c281a8d7544792379cb7c21"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26848.txt.json",
+      "bytes": 972,
+      "sha256": "43b063586e65d33b747d2113d94e683e559d028872075faa0527050716e65f9f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26849.txt",
+      "bytes": 5428,
+      "sha256": "051128c175336ce14660bc3c226c60ef29c3bb45590fac9a507e95057428a1bd"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26849.txt.json",
+      "bytes": 972,
+      "sha256": "83c60214e703b2cea2a516ae8a187cecd0404991ff5082a277f3b73bf0ba6669"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26850.txt",
+      "bytes": 4932,
+      "sha256": "0b68aa997a1ea8f30664535e172424644e7a7ecd0d276e7ed513cd6c01512ad4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26850.txt.json",
+      "bytes": 972,
+      "sha256": "8894d0fc6afeae79b9691733dd9fc536ebe37b80b90c189d4043618001ed114f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26852.txt",
+      "bytes": 4634,
+      "sha256": "1d26950cc4366af6498fb39aab75348fbacf372b79b9b288d1283b3a2dc2a497"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26852.txt.json",
+      "bytes": 971,
+      "sha256": "ad5fadff388436deb6e6857021a2e59ca5ee7c7931f7340e759f5d9db75b8c4e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26853.txt",
+      "bytes": 5327,
+      "sha256": "fe6d2391ac831c7a101c9366df90023a6c08f8301cd7b204628dab20100ef132"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26853.txt.json",
+      "bytes": 971,
+      "sha256": "0005e5189523e06eeb90222dd68ff56b749cfafea6f1bb2a9bcc13fa31c83eee"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26854.txt",
+      "bytes": 5290,
+      "sha256": "0834d53c7dec93c6f4e0e6a70da101d9c1bc97e31ed9d0ea8c125431d5526298"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26854.txt.json",
+      "bytes": 971,
+      "sha256": "cb4a233289bfb107788eb5db0b9e0bd0276d58bd15706449284d868e2143012f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26855.txt",
+      "bytes": 3311,
+      "sha256": "fb6fcd33050032022c884deb9d3a94f4e59376a47ce535a980c135a7f5ee1d47"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26855.txt.json",
+      "bytes": 972,
+      "sha256": "140fe51098ccda2166821428a6183f2c8b101faecc185a4cfcc5c2891d66cf66"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26857.txt",
+      "bytes": 9066,
+      "sha256": "90430fe00fc85b2055cf7b3eb226a2e45f51dbd6b4e905953f331d4837e3490c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26857.txt.json",
+      "bytes": 971,
+      "sha256": "fb2b7eed4c28bdbd7a84a3470821427b619325e70e2c00dd1c02e94d3400fdce"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26858.txt",
+      "bytes": 9335,
+      "sha256": "e6dcfef34f44efe77a87dcd31f04cdc1ae114dc4773cae1aca42549c85d7abd3"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26858.txt.json",
+      "bytes": 971,
+      "sha256": "7a5cd70286fa4c874ae01ce12e3ea57d81fb994a3471bd2f2da5deea924682cf"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26859.txt",
+      "bytes": 7256,
+      "sha256": "115ec7d224390556642cd61ab7b3889da5360c7effc5ca753e35cbebddde3495"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26859.txt.json",
+      "bytes": 972,
+      "sha256": "dca3bb695618f3766609c97e1af376aa3d7b56e79394ca86ea3147800c09ce2c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26861.txt",
+      "bytes": 8967,
+      "sha256": "c9ff0aea9092efad08998731583225e8938fbecf0c79319e5ab1b5846391f8e9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26861.txt.json",
+      "bytes": 971,
+      "sha256": "7ec738da012927088250c3be090cd89e3837c2c69daa59794c792a09b5147a98"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26862.txt",
+      "bytes": 11991,
+      "sha256": "e6c98d086e85315fe80b6aaa915d5a22884ea50f12627e7226722dc00f13d06a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26862.txt.json",
+      "bytes": 975,
+      "sha256": "e845eefc8ad2c9d12ac20b86acce5d78d11cabcd211b10a31f93dde7c5464801"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26863.txt",
+      "bytes": 3964,
+      "sha256": "bf20e0e3beb4f2d5761faec5a3a356d3f1d55f8b3d24142c19f96ef799eb5b99"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26863.txt.json",
+      "bytes": 971,
+      "sha256": "542b4d14c771d2be441ce36de0c8a72b1130f81f7706ebd4d52404739a5aefc3"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26883.txt",
+      "bytes": 12088,
+      "sha256": "3ffc32e35c2c034ccb3c812748b4b7152e863e31659af85bed974eb430e15ed9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26883.txt.json",
+      "bytes": 974,
+      "sha256": "50295fa89a748ec579d2abad0a6e617a4a3fe3368c9350d3ec6eca4d2109969f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26892.txt",
+      "bytes": 2452,
+      "sha256": "1e50390ca301bd906b0e5a0e38d1688ea1343ba8d07ca9f9241b2ba29a149c86"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26892.txt.json",
+      "bytes": 972,
+      "sha256": "42a3f88273a7475f37b54505d2b223f281a8cc9646c2a4dff48a3461779e6895"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26895.txt",
+      "bytes": 1219,
+      "sha256": "05c3551818a35994d97bbcab430aff8214402d29b5008f6572ebd0584023de75"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26895.txt.json",
+      "bytes": 972,
+      "sha256": "57dd373bc320dbfe0a3ae53b8c0d4613e96143ce5851970ca2ef05f45db8c92e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26899.txt",
+      "bytes": 2301,
+      "sha256": "6ae4586e6546850a10bc0ce8567083afba75245910119972902c54228a0bf5a6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26899.txt.json",
+      "bytes": 972,
+      "sha256": "5904e523db2aa03c119e01c0df5708b9abb00c5dcdd2fdb5fac31a405febb055"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26927.txt",
+      "bytes": 1561,
+      "sha256": "1c4ab447007c731251dc8cad7226027863e1adf8c6a3ce2b81164583f94e9878"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-07__2020-26927.txt.json",
+      "bytes": 972,
+      "sha256": "cbfe7172eceadeb5d05c9579208512d22330733336c3a470cfdc4f088469fff8"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-25623.txt",
+      "bytes": 43289,
+      "sha256": "b1404fb4d3e332cdb2d98940c06bc283bf89b2ff05883af4ff99cad112b7aea1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-25623.txt.json",
+      "bytes": 975,
+      "sha256": "eb4bdf150c8a6f821c000cd196e79cfe5a231e12bf1e4fac417ca85bf809c6c2"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26376.txt",
+      "bytes": 48778,
+      "sha256": "cbab301ad9f45ae777a7b3e19083e61fbc116b2b71babb6b45b28862ce70855d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26376.txt.json",
+      "bytes": 974,
+      "sha256": "4724048b3aa40531ab99679d78dba85d821b3946ffbb9630ef8e4e6a269bd110"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26722.txt",
+      "bytes": 25931,
+      "sha256": "20ff15b131ceba391df51ccb2abf0e7539c8eff9a97cac0668a1e34957854021"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26722.txt.json",
+      "bytes": 974,
+      "sha256": "6ff185674aef9910a7e5e712cfeb9decbba6a3e4a3b6f070398e682b2e0c0ed4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26747.txt",
+      "bytes": 193529,
+      "sha256": "b8e40e8df0e36e03c9f0a68aace32da1acf98da3249526afd00d438741c6a550"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26747.txt.json",
+      "bytes": 977,
+      "sha256": "d5a5a0351235e57c46e3951e97f128276a4ff69384e77af3b5e7e7c59f2d0e52"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26856.txt",
+      "bytes": 18998,
+      "sha256": "84b4515a068bc5825110a4ca1c2b6ccdbf1322078c6b5ac04e293a2bdf14509e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26856.txt.json",
+      "bytes": 974,
+      "sha256": "5a3a897221975a35b9abb9d1f314086195f9f08dd3ddd588121502599c5305e7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26864.txt",
+      "bytes": 20798,
+      "sha256": "962fa1caebaf001dfc26f808901d6100fbe335084e981c9bbe6fb60bc76131b7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26864.txt.json",
+      "bytes": 974,
+      "sha256": "ec191ca294d6649b8c3a87024ba9b97be5851edbf8b5d9a2d787bdce9aac7c77"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26865.txt",
+      "bytes": 2773,
+      "sha256": "94289cd1da7571a8874beed11cb889dfcca4e4c777131572ebb8a504b4e3e40e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26865.txt.json",
+      "bytes": 971,
+      "sha256": "931f8e535a16a83a823d2eb607d56778baa4eaa56ecac66bba2f8f7629a84448"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26867.txt",
+      "bytes": 19645,
+      "sha256": "fec873ce9114c0ff79b72527eafc30e7f85054f6d344b22915b819540c3f9b5e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26867.txt.json",
+      "bytes": 974,
+      "sha256": "5a954089b3ab01f7f47b87c0946e7cd1bf30452b8e132809f5cdd35989bf6e41"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26868.txt",
+      "bytes": 3018,
+      "sha256": "5cd10baaf3d86315f2af351ad3f70484191b1d4617d07658936921d0dc906f16"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26868.txt.json",
+      "bytes": 971,
+      "sha256": "ce4ac2d1aa2b72648663049aad9fdaeeb483464a12da92b4c0d744ada8808171"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26870.txt",
+      "bytes": 19574,
+      "sha256": "f4b582fe3df29d544c379283eba0cbf9ffe47a764d578f52ae08adb297215032"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26870.txt.json",
+      "bytes": 974,
+      "sha256": "b6726e9c2e768044cfc519f15e01fd45319507afc562cf31064b40b4dd4596ae"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26871.txt",
+      "bytes": 43148,
+      "sha256": "ba12282cd0cd7941b8b2634c6bc7d90c9a5c4fd080a1fed1205fbb525bc7d424"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26871.txt.json",
+      "bytes": 974,
+      "sha256": "96d3fb2883371bc49a9d1abe1f3bbac8ac2786845634dea0acc5c3590f848804"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26872.txt",
+      "bytes": 17456,
+      "sha256": "09a823684c9f917e71c76fb2d19774a7077cf2c9d27ee40f88d15d7528303082"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26872.txt.json",
+      "bytes": 974,
+      "sha256": "b843fa2132cfca8dc7499c9c047b6a6cccddc8cb3cfaebf8439c6b45ef248d07"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26873.txt",
+      "bytes": 4781,
+      "sha256": "ca909baeaae1f2ee1a46b3163d8787ca8b76cfc0d8299fd019925f1f79fcac2e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26873.txt.json",
+      "bytes": 971,
+      "sha256": "92f1f7cd272926dc784d3b83bb7b5e57d01ae9ad44cb25b1697dc5c98af96776"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26876.txt",
+      "bytes": 7799,
+      "sha256": "f670fd9687d063d8141f2678babf8d727f7abdade7b8f66e4eee2e9f3dc64a0f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26876.txt.json",
+      "bytes": 971,
+      "sha256": "e49a6a8b24198c6e12c7f13f11bfc3d77cb1caa78bd2aa4ebf60ad507fc940c1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26877.txt",
+      "bytes": 9009,
+      "sha256": "3acfaf4255b392024d9602d2e4ae540330b40beee3e6c000aa322b5406570806"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26877.txt.json",
+      "bytes": 971,
+      "sha256": "4ba27d00e6e1e0697b50f5e0bf40cc75791886d75cc60d999b55ddb19d2c3c5d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26878.txt",
+      "bytes": 4196,
+      "sha256": "3f2ef045324b2d7dfd3db9bd83b7ccbf7cf7e8301307de927e56f8381520984c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26878.txt.json",
+      "bytes": 971,
+      "sha256": "84cf8c9e31d4a4f983910adf911136cdeb95732abb646838b1830491868f970d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26879.txt",
+      "bytes": 3815,
+      "sha256": "9008b993442ff48ccb551dc50c036ddb72bc95515b45bacceb6205c65a4e3c78"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26879.txt.json",
+      "bytes": 971,
+      "sha256": "a89a1c7db8869cf2d57fbb413da47e7c1f828e4c6cea51a505293e74e3e2dbf6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26881.txt",
+      "bytes": 3133,
+      "sha256": "3265cba661c3a70410071b4386b5987b2bc3d14e195a42451926da3f9c4e9cfb"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26881.txt.json",
+      "bytes": 971,
+      "sha256": "bb0860cfe5ef6f154e424025fcc519c2a6228e1771fa34462fc4f6036579254a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26882.txt",
+      "bytes": 7263,
+      "sha256": "fb26ccbe131c9c9b73724fc069e092884c59009737b0a676cd732694640df4c6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26882.txt.json",
+      "bytes": 971,
+      "sha256": "38c1020b34a8ea89d666632752a0bd1a7516daf59f2e81239f70a29069d39cc1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26884.txt",
+      "bytes": 8840,
+      "sha256": "8fb8359577e12c17db949e86beaaf44ffa709f9def49add33c111997c71a2f4e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26884.txt.json",
+      "bytes": 971,
+      "sha256": "dfce2144b19abc462774d9a5ec0945b39b2029ec4e01d09f9420413ced9c6397"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26885.txt",
+      "bytes": 20003,
+      "sha256": "5de5e94e3197248a7ca84b692c94f5d05b7a251a6b7bf9d7054581f2a9535a68"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26885.txt.json",
+      "bytes": 974,
+      "sha256": "e5abb57a88b121260807df0157d08ccfb1c044028cea860a264fff3dba8cb3a9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26886.txt",
+      "bytes": 3546,
+      "sha256": "121a19627ef20cd31e323a7cb0b49eb251db0b51cb8014b16bb625c34b84fc81"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26886.txt.json",
+      "bytes": 971,
+      "sha256": "47649049c6a7bad58dc4caf7ce566b7a00777f46dce6eeb4c5a53306d9b2ec80"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26887.txt",
+      "bytes": 3426,
+      "sha256": "2b27c99859aee7f8bf17a8e8f4a43f63c46db5ff7ed6928fbb5f4af8add11653"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26887.txt.json",
+      "bytes": 971,
+      "sha256": "b6daabfe9c92935f1d50cf3e78f1d4a7003bcb0bffc83e4b549185cb719df619"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26888.txt",
+      "bytes": 4747,
+      "sha256": "92581b97c28b10269e2c395586db2af51cae96089787ef3d99e6eccfcc781b18"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26888.txt.json",
+      "bytes": 971,
+      "sha256": "09d7824eebe755290e2e95f0e3d2f6ea54a6d37c55be0251a9511b5d87420166"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26889.txt",
+      "bytes": 7878,
+      "sha256": "5e91e65904472aa3b6354e4981ce09152391ba3fabf4b71aa22a0c8feaf28ed7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26889.txt.json",
+      "bytes": 971,
+      "sha256": "5dfc7cbd3b6efb17897de4cb022de0d057f3e5010e4e0502910a0ded3e41e043"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26890.txt",
+      "bytes": 7095,
+      "sha256": "b8b4912105e7198814ccef9462c6e1dd2af2d7f6ce4978a7a5402dccf905f497"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26890.txt.json",
+      "bytes": 972,
+      "sha256": "df0886ca955d7c39183e0e37d0333682490e78ec32cf2e13b3889014e6a174d5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26891.txt",
+      "bytes": 4803,
+      "sha256": "cc24943c3910564043218d95e6f0445c720a457f39f15a8232b102801a6671e3"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26891.txt.json",
+      "bytes": 972,
+      "sha256": "1c5a757d32fe20495abb2154046e77c0d9ff8a498cfd018a059249d7c0cff197"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26894.txt",
+      "bytes": 5135,
+      "sha256": "d4b2ae9fc60edb7368f8062cce22a841abb59988f9ad765e22c734220c4092b8"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26894.txt.json",
+      "bytes": 971,
+      "sha256": "b4a1489215c2e7867030d0d4ee54cbb12ae67b9ae045738cc6800f6991854671"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26896.txt",
+      "bytes": 21212,
+      "sha256": "24d45b7eb0d4a57135442218af685ed6de981366264cf3a1aad4b2e5ad414be9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26896.txt.json",
+      "bytes": 974,
+      "sha256": "1ee493792cfc0a959455baa6eab83629fddd91b0652ac635ddb3499986e22b49"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26897.txt",
+      "bytes": 5674,
+      "sha256": "89cc44a28e030c2960da5c7c4fb7ec2cb6b8c84d8e2d6cb288d52d05ff6def09"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26897.txt.json",
+      "bytes": 972,
+      "sha256": "eab3436f32132c39dd70432a6234da2ea9cd30db6860ec41044dedbe61bd2823"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26898.txt",
+      "bytes": 5784,
+      "sha256": "edeb98f88407cf89535dce66efac6e27cf07454b7ca0d39f8bbfe0b0c5ffe6f9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26898.txt.json",
+      "bytes": 972,
+      "sha256": "3c99313b15baa3428772dfd742f96cc7e80226699817fa13d1f65b4277c35c2d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26900.txt",
+      "bytes": 4386,
+      "sha256": "ddca7a312ac0f6f9a9b81172a42ab03a231927c81205cc63035e357c05bfb878"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26900.txt.json",
+      "bytes": 971,
+      "sha256": "dd303ebacddfc0f109528120622bd8212f9f56551cef6e11b0c1e56a3333c5fd"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26901.txt",
+      "bytes": 69013,
+      "sha256": "962368a0a92693bf89b6cfd4dd613d558f0fefe3835c896be3dd9b5f3050eb74"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26901.txt.json",
+      "bytes": 974,
+      "sha256": "f0642d66ebbbea952fd67083406b907e49e1dd93a295e1e54a721c7f2dcf2f61"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26902.txt",
+      "bytes": 25033,
+      "sha256": "c6177136fb48b1dc02992b3b3dd0864ca07aef802eb7c05fed2675f971c61fe6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26902.txt.json",
+      "bytes": 974,
+      "sha256": "b8c4064b35361ccb4696759b6b5f75001de512ca7bef05fa76c1c6cbbe64202b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26903.txt",
+      "bytes": 6508,
+      "sha256": "d733cadfe381a6fc803c2b2e40679d2ded8ea996539211ab096a314237a1d648"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26903.txt.json",
+      "bytes": 972,
+      "sha256": "9cab769ec5f26dcfceff7661da22e0ba655aea0cda1de0511621321172d634d9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26904.txt",
+      "bytes": 6592,
+      "sha256": "389a627c801ea683f223088ac0983def71207a5bddfa266f0cd66602f0b7d5d7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26904.txt.json",
+      "bytes": 972,
+      "sha256": "3934ba168f310d16262a908024c3981a2aaccd15ff1bb02abe21cd8b900bfe74"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26905.txt",
+      "bytes": 6563,
+      "sha256": "5b8a833094cd75140991ae0df98cc3732f0859d30c13fd6355fe348b0516d60c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26905.txt.json",
+      "bytes": 972,
+      "sha256": "d8b1e58fc028656e6a476828037f464840c7ea2bf37e2f6634fed02f3b3d9dcf"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26906.txt",
+      "bytes": 14395,
+      "sha256": "b97c560e3ac4c94e6e6feaad9fc519d19dcf4591611fe6b88dd111c05e18761f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26906.txt.json",
+      "bytes": 975,
+      "sha256": "675698df309e25a87cf429e4f6d368468896d49f2eab5bcec662368c49d9717e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26908.txt",
+      "bytes": 2960,
+      "sha256": "eeaf744b506076127f1ecd083387bc77d81e3593f0eb1c6e5acecfd6c8b91f1f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26908.txt.json",
+      "bytes": 972,
+      "sha256": "0ff3c53ec6249cd39bedcdc660485df0efb4393916702883551cf30ecf37743a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26909.txt",
+      "bytes": 5584,
+      "sha256": "6458a41d4315fe765592251f0057086ac51a0f310ac13e08802e856370872d2a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26909.txt.json",
+      "bytes": 971,
+      "sha256": "5d867fd9db96e870ea76441e8792dd6c2f5c5950ac3603b227ea10950a4b210d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26910.txt",
+      "bytes": 25853,
+      "sha256": "763141b5528b06927dff912ad001a596ba0b90d5cadd858b42c9b363588aa313"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26910.txt.json",
+      "bytes": 974,
+      "sha256": "53a9ef1bd2c5e0bc36fc2635dba46a5d5be2d8bb6f91bd8ff379f903c28f6058"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26911.txt",
+      "bytes": 5679,
+      "sha256": "b4c7645808ef8991b24410d6362bb5ecaddd771548a6bb18d73e1b19f1b7e16c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26911.txt.json",
+      "bytes": 972,
+      "sha256": "adaed1b05658c2dbf944d5bba849940ba4b132ccc6a9f36b4172d368154e2a2c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26912.txt",
+      "bytes": 3704,
+      "sha256": "44a7ebad2cb5da4815f0e252ff1c19ca2e361285702ed4d6839e0db7cae9fb07"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26912.txt.json",
+      "bytes": 972,
+      "sha256": "3a921f2036a7fd84f151bbaae965d719a8d79a7099f5f55d8654616dc05742f5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26913.txt",
+      "bytes": 12394,
+      "sha256": "e709e8d0b8b1a9d01d2d86b7f8d55269f894e7fbee4dfc230683d4d19d1ba237"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26913.txt.json",
+      "bytes": 974,
+      "sha256": "d57984ae2a6e8ce53d270249a0f4f3c24583dcf51adfb256f60506a964d639ea"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26916.txt",
+      "bytes": 6636,
+      "sha256": "e434b315d1b0f24d3537f26578b2668cfee85c43f31f00c40277a36b106a7b9a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26916.txt.json",
+      "bytes": 971,
+      "sha256": "5de1c746ed43ee3497e02851adb3fdd1aa82752ca2ee4de58ea0c2b3afd38e70"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26917.txt",
+      "bytes": 11241,
+      "sha256": "f2c2455af8f05ac290b7448d6f33fd0735d0693ead070f219cd07142fd756207"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26917.txt.json",
+      "bytes": 974,
+      "sha256": "0a40ab4799d73de0d67f8759e29fecab43eb66e7bbc0008f510d70619098db5d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26921.txt",
+      "bytes": 6692,
+      "sha256": "30f280f97a617fe02a6efcfff9adcec6d18c05e15328c1054747ea220b30140d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26921.txt.json",
+      "bytes": 972,
+      "sha256": "1772c054aeeededf6baa832d21ec43a22a7fda589597b4b30404354af0c4c98b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26922.txt",
+      "bytes": 4299,
+      "sha256": "783b4fc98cd5bd736b4efd81f35acfcf8b057511c7e620ac7f0a3343caa863c8"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26922.txt.json",
+      "bytes": 971,
+      "sha256": "9e4dd265e82d7f2b9c0111e4112dd40a26e48295985c10762990ca4a9dfb73af"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26923.txt",
+      "bytes": 5527,
+      "sha256": "9932a28f4bc61d67bd5602be47943c38992e71981bac871f2228c4f8a934e1ac"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26923.txt.json",
+      "bytes": 972,
+      "sha256": "aadad0da782c8c1fcd59a9241e00beec5f366cb19c7a97333fb9d600ef97a8e6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26924.txt",
+      "bytes": 7308,
+      "sha256": "7dd3f54b137e4d66c81e316d80c396c2ffb1cfa663ba4f8bdd32b152485f0872"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26924.txt.json",
+      "bytes": 971,
+      "sha256": "7c60fa3a36f5448d1ed851917ce0b568ba22ce9338473974be4cee6cdbe8c36b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26925.txt",
+      "bytes": 6883,
+      "sha256": "c326d0a2f952c7e2ea6a0e7090fbd42216a8c495083c05f6625bb8bbf8dc8d1a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26925.txt.json",
+      "bytes": 971,
+      "sha256": "0d165e204cb078d0a0b4a366b133fb031969da97d48ca623372fe91879d42faa"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26926.txt",
+      "bytes": 7094,
+      "sha256": "0cc8630e3d42d149fe540368ea15a49d9d000b08246f7134300d188722c4b338"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26926.txt.json",
+      "bytes": 971,
+      "sha256": "72eb3236dfdfefa432d7c8b8f0a75c08d656a2c4fc29b3db9f0b85bfb2d75b74"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26928.txt",
+      "bytes": 5023,
+      "sha256": "0288eab2445f4995b028d271450b321f8fdaa32deca5d1c570149933ff59a839"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26928.txt.json",
+      "bytes": 972,
+      "sha256": "ebbc5b9fe95a758350a188ecba72d0b3a8a86c310f08fe797f3276579a1f605b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26929.txt",
+      "bytes": 14664,
+      "sha256": "14d755a10791c42b1553caa5394cdc6d9491d734073bc7bb753cd9da6db0b097"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26929.txt.json",
+      "bytes": 974,
+      "sha256": "7b2ffa765adbe76e6b1ae2c067bfb8452ce36ecf170ebf851f1cae3d65cd8277"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26930.txt",
+      "bytes": 6560,
+      "sha256": "54b82a962b5a02da383e469c3a67f4298fd16b00f2323ba56cebdad6e7fed729"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26930.txt.json",
+      "bytes": 971,
+      "sha256": "3a7ac022271bb5b9744bda5a0a52b8ab5aa5ffd8666f520620ee1be31a0866a6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26931.txt",
+      "bytes": 8306,
+      "sha256": "1f4c3edd385dbac887098aa9a785d31bf833f50165906ca8e06e26146818d657"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26931.txt.json",
+      "bytes": 971,
+      "sha256": "5692fe428af1c001d843245bf698fea10cda4b61681e53ee01e03526c11c9ac0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26932.txt",
+      "bytes": 6312,
+      "sha256": "2332b9f23e23164d921b6162d2f79c65b73ae60e0edbd7bafd2e6543ebd4250c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26932.txt.json",
+      "bytes": 972,
+      "sha256": "9433abf920cc027e428472fc39107c9ace2568bbf931bc2e362fe6f8e584fc22"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26933.txt",
+      "bytes": 7433,
+      "sha256": "022b5dcc51c60a45079a4735de689015dca5f5de61336c58a13f797ff8a1e42f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26933.txt.json",
+      "bytes": 972,
+      "sha256": "6a6988ebcae194ebefea07050863891b8e5f4083275c6322ccaa3907cfdad1b4"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26934.txt",
+      "bytes": 6270,
+      "sha256": "12c541ea8e02bc44e77888249b5982bf3c07e15fef1136273b5ae880128221d5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26934.txt.json",
+      "bytes": 971,
+      "sha256": "e66d7112867cefc800600f27e81df52e6f215a758e8f818e2e1554b2c80bdcd0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26935.txt",
+      "bytes": 4406,
+      "sha256": "6e282ff4603950952302e85be713c497197d80690575f16021626432da1e0b3b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26935.txt.json",
+      "bytes": 972,
+      "sha256": "765f816cd1d0c6ba56798a4a39f9c299e21239dd9e9b144ce078b83c5e9fa202"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26937.txt",
+      "bytes": 6216,
+      "sha256": "f5bac3d838fbb72528e8c3b3288aea8edf109c919fec1dfafc42dc0ede31a2a5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26937.txt.json",
+      "bytes": 972,
+      "sha256": "39a3abf659db3ea36bc787d4cc1573fc951314568ca2fbfd15234426a53b47a1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26938.txt",
+      "bytes": 4910,
+      "sha256": "664178c18bb02312183dfdc6d288a18d829f65bd62dd85ad52ca89c32ef17208"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26938.txt.json",
+      "bytes": 972,
+      "sha256": "48bd191d235e13696a1aafd38bb7a1b0f1681cfd76a4e322537ed822d953379e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26939.txt",
+      "bytes": 5297,
+      "sha256": "1c7bc1c2d2971e4b230cb890918a80bbce6a4fe5c8bca429fa1ff97e8fa19611"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26939.txt.json",
+      "bytes": 971,
+      "sha256": "8e8d7392f98f30e441560d2a06e4eef518c02c959ef859db89f168871fce5051"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26940.txt",
+      "bytes": 4922,
+      "sha256": "462ef2e802e32f0cc73ccc73b8ba04f7984a276dea6f028f0f31dda7a6d75c74"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26940.txt.json",
+      "bytes": 971,
+      "sha256": "544c6fa921884d6488d9f3e87f09fdd30b9f3453eaaf5547e3de7491ad22eb37"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26941.txt",
+      "bytes": 4281,
+      "sha256": "b5645cd50dd8569ed76a5916fc4b4bdf533a42ce9946f8b4b88e241dbd47a106"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26941.txt.json",
+      "bytes": 972,
+      "sha256": "04ad8ed5addcff58c1410ef2e4f4397f2dc5bf4cf9abf584024c5ad6c841b3a1"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26943.txt",
+      "bytes": 5068,
+      "sha256": "c6b813d5b0d473c21d66756c3df9395244212fe31bcbc767419913e421cb2d60"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26943.txt.json",
+      "bytes": 971,
+      "sha256": "f4eb436d9fbd9116a74cfd663392ad4c647a9e06efbd53679f1dd9ce8dca80a7"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26944.txt",
+      "bytes": 3569,
+      "sha256": "18c6fed070d04a720499e9d196d485b24c49df62769a86d5c38fb40924d59828"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26944.txt.json",
+      "bytes": 971,
+      "sha256": "134e963f47e2dab6388b872b126ff2257539bb0a8bdac40053c5c05a85d7764e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26945.txt",
+      "bytes": 5448,
+      "sha256": "bd58f2d5632cfbeee4c0f157fe6e6265f7ce1ff7885a9e847d54679e4bfd67f9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26945.txt.json",
+      "bytes": 972,
+      "sha256": "d4fbf403e260490836c3dce5d3fe6e7576dd73f70a4e0fe78468c05d0b02f0fd"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26948.txt",
+      "bytes": 35938,
+      "sha256": "b9edb6b577c32e0c9e6b6831a25ff7d5a28b331dcd7e48f698fac4669fd170aa"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26948.txt.json",
+      "bytes": 975,
+      "sha256": "ab9d63e2234c4c7738aa8007ed5bba9bc3acfab28140a68931ec663620536878"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26951.txt",
+      "bytes": 5497,
+      "sha256": "19ed2984bc9962944f1de2f61f9bc715a80f40ac25fd7db1b0cf8f59f9063701"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26951.txt.json",
+      "bytes": 971,
+      "sha256": "73004fd34c4ad135c728d629880c11229d4fff29110bb287ce7e16df92e1e586"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26952.txt",
+      "bytes": 2329,
+      "sha256": "c2e7b2a1e45dbbaff3d6120f437bef30911f516534a122232353ab65da5dba1f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26952.txt.json",
+      "bytes": 972,
+      "sha256": "3d4ed26c305f74fbe817177093dba37fd627fde23248cdc22f2e429bea1f6099"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26953.txt",
+      "bytes": 2094,
+      "sha256": "ecf0a45e3a1bd70aa60d2da2df289feb8d9af0d9d5f524d0335dd6f14a2972e0"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26953.txt.json",
+      "bytes": 971,
+      "sha256": "8335f9b98a3678e21e934e127dcb1b74790e2e3802a8e1ff286d03326135fc92"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26955.txt",
+      "bytes": 2767,
+      "sha256": "b42a8431747f64d15920725a0269277cda23173c3de80f7646896a650c4ca21c"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26955.txt.json",
+      "bytes": 971,
+      "sha256": "17106edbdb3abcbb648b15ce4031b6a0aad9ca32e2ec66a77f120f5b78001568"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26956.txt",
+      "bytes": 7190,
+      "sha256": "ed6333d4b865bc9679e39745485401e922863297b5e85a43824b13dea166feaa"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26956.txt.json",
+      "bytes": 971,
+      "sha256": "2f0471c76496d9810aeae6d75dca260522380ca05f71edcc485852718fa51f80"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26958.txt",
+      "bytes": 2511,
+      "sha256": "2a04e7046d5df2bb7476e702aaf3edc06055c1a2bcb187bf8917c6abe5180bd2"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26958.txt.json",
+      "bytes": 971,
+      "sha256": "9cac1bf796d8d9d82ef741060269e5cfb3ca54d6d7d1d64b2ba8522f12daf7d6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26959.txt",
+      "bytes": 3355,
+      "sha256": "88193df8c3bf384fa4b55705c9a06655fc999e187c2b0dd64bb1fcab9f5941e9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26959.txt.json",
+      "bytes": 971,
+      "sha256": "77c0923078c728d2688fa370b5f5e1882a04d2387ce588f276c57e47291c94d2"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26961.txt",
+      "bytes": 2669,
+      "sha256": "6b965bc416793aeb60d51b95cb9f21ec06ce00f9b97ac4dd643ed11189932c30"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26961.txt.json",
+      "bytes": 971,
+      "sha256": "ca2f2c114f51dbb89c21ca219af5f0bee43b72877e64a7185ba4c0149240ff24"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26963.txt",
+      "bytes": 4277,
+      "sha256": "841fcb2ea3d3d9009ff66f356be09ef7cd5c76aeba8e5c3dc619bbe4438feb7e"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26963.txt.json",
+      "bytes": 971,
+      "sha256": "fde1a89b6bcb3f6c55118956a2a3cc94db193661ab2de74a418c5841216a8cb8"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26966.txt",
+      "bytes": 7222,
+      "sha256": "c712fe996878480355f76356f92a9d2804e4dfaf5dc243d806d4d188abdec02d"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26966.txt.json",
+      "bytes": 972,
+      "sha256": "701387190b1f9246d2a991d162de2b3c489164a1aa2e84cf5f2759aa6ba435d5"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26967.txt",
+      "bytes": 6527,
+      "sha256": "a8c01d28382d421542689fe7d40e70f045af7b590f8bc2d82367445b9e777aad"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26967.txt.json",
+      "bytes": 971,
+      "sha256": "bfcbaab161b129d745654d889d44e8c91834fdd360f53fc9fde6dee8ebf0a7dc"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26968.txt",
+      "bytes": 13289,
+      "sha256": "3ccc4cfe473857226e46bec1bf4d8ff59a9dfc519cc4c80938b94f9187b4cb7a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26968.txt.json",
+      "bytes": 974,
+      "sha256": "20cf29576c8ec51995af5775ac427ea7aecf5650ae4c8050ba2ca489d31d0201"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26969.txt",
+      "bytes": 27413,
+      "sha256": "8164def3e655e9eda601aad10aa3820387ddef23f8ac46786ca472f7382406a6"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26969.txt.json",
+      "bytes": 974,
+      "sha256": "f975c2076b06401da2f2c2acf876a5724e76355f4de1d027e0b33bfe236785d9"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26970.txt",
+      "bytes": 3135,
+      "sha256": "e9d7437117174d5977f0209646496577aa13b204ab93b8915b2406c2c4631b61"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26970.txt.json",
+      "bytes": 971,
+      "sha256": "89c1a07665bc9a71ca5b54464bc92d8ac901e0db4a07a12665208953bc306702"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26986.txt",
+      "bytes": 58640,
+      "sha256": "ac57d400ef92761a02a072d08baf9538a2dee3d8ec6bb3151f6cb5bee757d15b"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26986.txt.json",
+      "bytes": 974,
+      "sha256": "2008b74c208dd2bc537e0becc22555a6952c382e3dfc2d7f49b8d374ac26087a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26987.txt",
+      "bytes": 59546,
+      "sha256": "f75c6487b01a4d662fd85ae23c957a8fe97b8ab6f1f6fae1f3d38df638f479ec"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-26987.txt.json",
+      "bytes": 974,
+      "sha256": "8158651d914183278e88bbc38140ee0bc7514140fa3fa827e37dfe3b0ffab783"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27025.txt",
+      "bytes": 11252,
+      "sha256": "3961ba1c174ff2e831f216627e9c36c570a91a261d0086e6cc0c19ad910351db"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27025.txt.json",
+      "bytes": 974,
+      "sha256": "7eec9c52ffdfbd03fe8d3a5d360112e3b87a793e868125f697f38b1f7ba14422"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27065.txt",
+      "bytes": 23146,
+      "sha256": "b5aebc25b9665fb743fe13094c7143cefe99f2be6f201e63b8069de585e98875"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27065.txt.json",
+      "bytes": 975,
+      "sha256": "b9dba42ae5083118a7229c9c2566b66560f624814285196fd2b6db06a922e44f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27068.txt",
+      "bytes": 7053,
+      "sha256": "a7539dacafe8545cef1a5db07778ccd2f8388726c8d02a42e6506288f644458f"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27068.txt.json",
+      "bytes": 972,
+      "sha256": "72c785a5b69ee0074402b0913fb0cc6e8580b1ca813f297c11b59024c234d36a"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27069.txt",
+      "bytes": 7780,
+      "sha256": "ede47caa913ce6e9f9479c1e41011dfc4319644d947719d4c4b8fa6bffc28084"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27069.txt.json",
+      "bytes": 972,
+      "sha256": "026cedee75c7f70316055ed9790c7d3a2c1fea1710b0e0f63ed53135d8df9939"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27093.txt",
+      "bytes": 1732,
+      "sha256": "34cee462b8ebdd0070990959c1fc60abc4646d9d86d4a9ee07b1a1ba688bfa46"
+    },
+    {
+      "path": "example/output/run-govinfo/raw/2020-12-08__2020-27093.txt.json",
+      "bytes": 972,
+      "sha256": "eb5e08aa054716f6f736fdf49bae47a5b6bfd51b624b30d45e9080be5713ccd3"
+    },
+    {
+      "path": "example/output/run-govinfo/source.json",
+      "bytes": 669,
+      "sha256": "32a9b70a61f822852d74cf274402cf1c489e053cc7d13dfc9d629c86c0b217d6"
+    },
+    {
+      "path": "example/run_example.py",
+      "bytes": 4729,
+      "sha256": "dd844dd561095654f515eb7d902905f277b1bea3ab67a64d8257e5114b201ac7"
+    },
+    {
+      "path": "example/verify_historical.py",
+      "bytes": 4701,
+      "sha256": "97d6cd10099194f230551020b5473eb1c953a3ff81ec6c70ba53eeedb0e6fa4f"
+    },
+    {
+      "path": "tool/WORKFLOW.md",
+      "bytes": 5339,
+      "sha256": "b61311ee38379d4643924ce07c9151cd225690e7c78f4e5023f0aeeede9e0071"
+    },
+    {
+      "path": "tool/acquire.py",
+      "bytes": 23818,
+      "sha256": "4b3f64782f04269a4a0cd9eaac1b90ebe569e3a91018174fa3a6e4fa5a286eb3"
+    },
+    {
+      "path": "tool/adapters/__init__.py",
+      "bytes": 130,
+      "sha256": "b146ae8ed68ffb95910b81fba50427b467cf9081147aba0d6a8093173fafb38b"
+    },
+    {
+      "path": "tool/adapters/federal_register.py",
+      "bytes": 4706,
+      "sha256": "4c131fe9a29ebe3addc3f35d4198135342ad3e16b3aed31b7854f395501e8e7f"
+    },
+    {
+      "path": "tool/clean_text.py",
+      "bytes": 3509,
+      "sha256": "9e449ba455e316627a373481ca87300ba60258d0b376324a62e696f2477a900d"
+    },
+    {
+      "path": "tool/historical/build_manifest.py",
+      "bytes": 23330,
+      "sha256": "ee681b3d94af960360c4a81709b66504dd693aeee067051bfa22a1632460beda"
+    },
+    {
+      "path": "tool/historical/build_packs.py",
+      "bytes": 6332,
+      "sha256": "748d9d45da436896bd74aa6b342e77a4ecb14f9b1a5e88db15b8ba5089afcfac"
+    },
+    {
+      "path": "tool/verify.py",
+      "bytes": 10362,
+      "sha256": "fbe38a0839642a3cba1f91da5cf079993388e5939c06bb6095562ef6a88f9f56"
+    }
+  ],
+  "file_count": 859
+}

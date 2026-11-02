@@ -1,0 +1,26 @@
+{
+  "counts": {
+    "method_families": 14,
+    "application_settings": 35,
+    "research_lanes": 61,
+    "missions": 12,
+    "applicability_entries": 490,
+    "registry_specifications": 6,
+    "browsable_records": 110,
+    "observed_novelty_results_in_this_release": 0
+  },
+  "sqlite_counts": {
+    "missions": 12,
+    "lanes": 61,
+    "methods": 14,
+    "applications": 35,
+    "applicability": 490,
+    "registries": 6,
+    "catalogue_records": 110,
+    "sources": 11
+  },
+  "integrity_check": "ok",
+  "foreign_key_check": "ok",
+  "source_statuses_preserved": true,
+  "novelty_scoring_run": false
+}

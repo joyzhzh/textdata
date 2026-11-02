@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/code.schema.json",
+  "title": "Grounded Theory initial code",
+  "type": "object",
+  "required": ["code_id", "label", "level", "status", "incident_ids"],
+  "properties": {
+    "code_id": {"type": "string", "pattern": "^CDE[0-9]{3,}$"},
+    "label": {"type": "string", "minLength": 1},
+    "level": {"enum": ["FIRST_ORDER", "IN_VIVO"]},
+    "status": {"enum": ["CURRENT", "SUPERSEDED", "RETIRED"]},
+    "incident_ids": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "pattern": "^I[0-9]{3,}$"}},
+    "supersedes": {"type": "string", "pattern": "^CDE[0-9]{3,}$"},
+    "supersession_reason": {"type": "string", "minLength": 1},
+    "retirement_reason": {"type": "string", "minLength": 1}
+  },
+  "allOf": [
+    {"if": {"required": ["supersedes"]}, "then": {"required": ["supersession_reason"]}},
+    {"if": {"properties": {"status": {"const": "RETIRED"}}}, "then": {"required": ["retirement_reason"]}}
+  ]
+}

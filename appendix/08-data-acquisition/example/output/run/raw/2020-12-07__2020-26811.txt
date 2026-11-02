@@ -1,0 +1,198 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78913-78914]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26811]
+
+
+
+[[Page 78913]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+SURFACE TRANSPORTATION BOARD
+
+[Docket No. FD 36448]
+
+
+Canadian Pacific Railway Company--Control Exemption--Detroit 
+River Tunnel Company
+
+    On October 16, 2020, Canadian Pacific Railway Company (CPRC),\1\ a 
+Class I carrier, filed a petition under 49 U.S.C. 10502 for exemption 
+from the prior approval requirements of 49 U.S.C. 11323-24 to allow 
+CPRC and its wholly owned noncarrier subsidiary, DRTP Holdings ULC, 
+``to acquire certain partnership interests'' from Borealis 
+Transportation Infrastructure Trust (BTIT) \2\ in the Detroit River 
+Tunnel Partnership (the Partnership), which indirectly owns the Detroit 
+River Tunnel a/k/a the Michigan Central Railway Tunnel (Tunnel), and 
+``to continue in control of the Tunnel.'' (Pet. 1.) \3\ The Board will 
+grant CPRC's petition for exemption, subject to standard labor 
+protective conditions.
+---------------------------------------------------------------------------
+
+    \1\ CPRC is the Canadian rail operating subsidiary of Canadian 
+Pacific Railway Ltd. CPRC and its U.S. rail operating subsidiaries 
+do business as Canadian Pacific (CP).
+    \2\ BTIT is an indirect subsidiary of OMERS Administration 
+Corporation. (Pet. 2.)
+    \3\ CPRC filed its petition as a continuance-in-control 
+exemption. It appears, however, that the transaction involves CPRC 
+acquiring BTIT's 83.5% ownership interest, and as such, it has been 
+captioned as a control exemption.
+---------------------------------------------------------------------------
+
+Background
+
+    Detroit River Tunnel Company (DRTC), which is indirectly owned by 
+the Partnership,\4\ owns the Tunnel, a two-bore rail tunnel that 
+connects Windsor, Ont., and Detroit, Mich. DRTC's rail line extends 
+3.24 miles, between milepost 228.08 in Detroit and milepost 224.84 in 
+Windsor, of which approximately 1.79 miles are located within the 
+United States. (Pet. 1-2.) Pursuant to a 2001 Operating, Management, 
+and Maintenance Agreement (OMM Agreement) and a 2009 Amended and 
+Restated Partnership Agreement (Partnership Agreement) between CPRC and 
+BTIT, CPRC currently exercises operational control over the Tunnel. 
+(Id. at 3.) Under the OMM Agreement, CPRC maintains the Tunnel and 
+dispatches and controls Tunnel rail operations.\5\ (Id.) CPRC is also 
+responsible for ensuring that other railroads can use the Tunnel 
+pursuant to each railroad's Tunnel User Agreement.\6\ (See Pet., Ex. 3, 
+OMM Agreement, Article 2.4.) CPRC currently owns 16.5% of the ownership 
+interests in the Partnership; BTIT owns the remaining 83.5%. (Pet. 2.)
+---------------------------------------------------------------------------
+
+    \4\ CPRC states that the Partnership owns the Detroit River 
+Tunnel Holding Corporation, which owns DRTC. (Pet. 2, n.1.)
+    \5\ In 2001, the Board exempted a control transaction under 
+which CPRC held 50% of ownership interests in the newly created 
+Partnership as well as ``increased operational control of the 
+Tunnel.'' See Borealis Infrastructure Trust Mgmt. Inc.--Acquis. 
+Exemption--Detroit River Tunnel Co., FD 33984 et al., slip op. at 7 
+(STB served Dec. 19, 2001). BTIT also acquired the remaining 50% of 
+ownership interests in the Partnership from Canadian National 
+Railway Company (CN). Id. at 3, 5 (finding that BTIT did not require 
+Board authorization to acquire its 50% share in the Partnership). 
+CPRC states that, in 2009, BTIT acquired an additional 33.5% 
+ownership interest in the Partnership from CPRC, increasing its 
+ownership to its current 83.5% share and reducing CPRC's ownership 
+interest to 16.5%, and that the OMM Agreement, under which CPRC 
+dispatches trains and controls operations, continued in effect. 
+(Pet. 2-3.)
+    \6\ CPRC states that operations in the Tunnel, including CPRC's, 
+are pursuant to DRTC-granted trackage rights. See, e.g., Canadian 
+Pac. R.R.--Trackage Rights Exemption--Detroit River Tunnel Co., FD 
+34006 (STB served Mar. 16, 2001). CPRC notes that CP traffic 
+currently accounts for approximately 98% of all Tunnel traffic and 
+that, currently, CSX Transportation, Inc. (CSXT), is the only 
+carrier with an active Tunnel User Agreement. CPRC further notes 
+that CN's occasional use of the Tunnel has been pursuant to detour 
+agreements and that CN primarily moves traffic via a nearby Paul M. 
+Tellier Tunnel. (Pet. 3, nn.6 & 8.)
+---------------------------------------------------------------------------
+
+    Under the proposed transaction, CPRC's acquisition of BTIT's 83.5% 
+ownership interest in the Partnership would result in CPRC, directly 
+and via DRTP Holdings ULC, holding 100% of the ownership interests in 
+the Tunnel. (Pet. 4.) CPRC states that it would continue to dispatch, 
+operate, and maintain the Tunnel, as the Partnership Agreement and OMM 
+Agreement would remain in effect. (Id. at 3.) CPRC notes that other 
+railroads would continue to maintain their access to the Tunnel. CPRC 
+thus states that the transaction would not have an adverse effect on 
+service levels and that no significant operational changes are planned. 
+(Id. at 3-4.)
+
+Discussion and Conclusions
+
+    Under 49 U.S.C. 11323(a)(3), the acquisition of control of a rail 
+carrier by any number of rail carriers requires prior Board approval. 
+Under section 10502(a), however, the Board must exempt a transaction or 
+service from regulation if it finds that: (1) Regulation is not 
+necessary to carry out the rail transportation policy (RTP) of 49 
+U.S.C. 10101; and (2) either the transaction or service is limited in 
+scope, or regulation is not needed to protect shippers from the abuse 
+of market power.
+    In this case, an exemption from the prior approval requirements of 
+sections 11323-24 is consistent with the standards of section 10502. 
+Detailed scrutiny of the proposed transaction through an application 
+for review and approval under sections 11323-24 is not necessary here 
+to carry out the RTP. Approval of the transaction would result in CPRC 
+increasing its ownership share of the Partnership with no lessening of 
+competition or change in dispatch and operations of the Tunnel. An 
+exemption would promote the RTP by: Minimizing the need for federal 
+regulatory control over the transaction, section 10101(2); ensuring the 
+development and continuation of a sound rail transportation system that 
+would continue to meet the needs of the public, section 10101(4); 
+fostering sound economic conditions in transportation, section 
+10101(5); encouraging efficient management, section 10101(9); and 
+providing for the expeditious resolution of this proceeding, section 
+10101(15). Other aspects of the RTP would not be adversely affected.
+    Regulation of the control transaction is not needed to protect 
+shippers from an abuse of market power.\7\ Nothing in the record 
+indicates that any shipper would lose an existing rail service option 
+as a result of the proposed transaction. According to CPRC, it would 
+continue to dispatch, operate, and maintain the Tunnel, as it has since 
+2001. CPRC also states that, pursuant to the terms of the OMM 
+Agreement, other railroads would continue to be able to use the Tunnel 
+pursuant to Tunnel User Agreements. Currently, CP traffic accounts for 
+approximately 98% of all Tunnel traffic and CSXT is the only carrier 
+with an active Tunnel User Agreement. The transaction thus would not 
+result in any shipper losing access to rail service or foreclose any 
+transportation options currently available to shippers. Moreover, no 
+shipper (or any other entity) has objected to the control transaction.
+---------------------------------------------------------------------------
+
+    \7\ Given this finding, the Board need not determine whether the 
+transaction is limited in scope. See 49 U.S.C. 10502(a).
+---------------------------------------------------------------------------
+
+    Under 49 U.S.C. 10502(g), the Board may not use its exemption 
+authority to relieve a carrier of its statutory obligation to protect 
+the interests of employees. Accordingly, as a condition to granting 
+this exemption, the Board will impose the standard employee protective 
+conditions in New York Dock Railway--Control--Brooklyn Eastern District 
+Terminal, 360 I.C.C 60, aff'd New York Dock Railway v. United States, 
+609 F.2d 83 (2d Cir. 1979).
+    The control transaction is exempt from environmental reporting 
+requirements under 49 CFR 1105.6(c)(1)(i) because it will not result in 
+any significant change in carrier operations. Similarly, the 
+transaction is exempt from the historic reporting
+
+[[Page 78914]]
+
+requirements under 49 CFR 1105.8(b)(3), because it will not 
+substantially change the level of maintenance of railroad properties.
+    CPRC requests authority to control the Tunnel by December 15, 2020, 
+so that the parties can close the transaction before the end of the 
+year. The exemption will be effective December 15, 2020, and petitions 
+to stay will be due by December 10, 2020. Petitions to reopen will be 
+due by December 22, 2020.
+    It is ordered:
+    1. Under 49 U.S.C. 10502, the Board exempts from the prior approval 
+requirements of 49 U.S.C. 11323-25 the control transaction described 
+above, subject to the employee protective conditions in New York Dock 
+Railway--Control--Brooklyn Eastern District Terminal, 360 I.C.C 60, 
+aff'd New York Dock Railway v. United States, 609 F.2d 83 (2d Cir. 
+1979).
+    2. Notice of the exemption will be published in the Federal 
+Register.
+    3. The exemption will become effective on December 15, 2020. 
+Petitions for stay must be filed by December 10, 2020. Petitions to 
+reopen must be filed by December 22, 2020.
+
+    Decided: December 1, 2020.
+
+    By the Board, Board Members Begeman, Fuchs, and Oberman.
+Tammy Lowery,
+Clearance Clerk.
+[FR Doc. 2020-26811 Filed 12-4-20; 8:45 am]
+BILLING CODE 4915-01-P
+
+
+</pre></body>
+</html>

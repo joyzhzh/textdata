@@ -1,28 +1,38 @@
 # Rich textual-data sources review
 
-[Webpage](https://textdata.info/foundation/textual-data-sources/) · [All components](../README.md)
+Choose a source by the observations it can support. This working prototype brings together **25 dated source profiles**, a searchable catalogue, a comparative review and an offline profile renderer. It makes coverage, linking fields, access and reuse limits visible before data acquisition.
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+[Explore the catalogue](https://textdata.info/foundation/textual-data-sources/) · [Use the AI exploration prompt](AI-PROMPT.md)
 
-## Purpose and scope
+## An illustrative selection decision
 
-This catalogue helps researchers identify what can be observed in a source and whether those observations fit their question. It broadens the range of evidence they can consider while making the consequences of source choice explicit.
+The Consumer Financial Protection Bureau database looked promising for complaint–response research. Its [D17 profile](example/output/D17.md) records that the provider’s September 2026 release removed complaint narratives. Structured complaint fields remain, but they cannot support the proposed narrative task.
 
-## Design and components
+[Google Local (D02)](data/profiles/D02.md) is the review’s next candidate: it documents review text and dated business responses. Its reuse terms remain unresolved. The example shows a source decision changing before acquisition; it does not demonstrate a completed empirical study.
 
-The review covers source families spanning regulation, corporate disclosures, work, products, interviews and platform interactions, alongside complementary structured data. Profiles describe units, coverage, available content, access, reuse conditions and research possibilities. It is a resource produced by a review workflow, distinct from the datasets that later acquisition may produce.
+## What works now
 
-A source profile connects access to observability: who produced the text, what event or entity it represents, when it was recorded, and what can change later. This matters when combining sources. A corporate disclosure, an interview account and an interaction trace may concern the same organization but preserve different aspects of its activity.
+- [The catalogue](data/catalogue.json), also available as [CSV](data/catalogue.csv), describes 25 source families: 18 in [12 research arenas](data/arenas.json), six structured complements and one former narrative source.
+- [All 25 readable profiles](data/profiles/README.md) give units, coverage, identifiers, access, reuse, limits and a proposed first task.
+- [The comparison](docs/comparison.md) explains which sources suit different demonstrations and why.
+- [Source evidence](data/evidence.jsonl) links 70 claims to provider pages, papers or archive records. [Ten provider-page checks](data/provider_checks.json) cover nine families.
 
-## Use and outputs
+Profiles are dated 11 October 2026; the provider checks are dated 29 October. These are documentation-based assessments, not 25 included datasets.
 
-Source selection starts with the observation a study needs. A study of how organizations respond to complaints, for example, needs the narrative or response itself as well as the date and identity of the record. The source profiles identify what one record represents, what its dates mean, which fields can be linked, and what the provider permits a researcher to obtain or reuse. A comparison across source types and a written selection decision accompany the profiles. In that decision, stable issuer and filing identifiers made securities filings suitable for following an organization over time. Time-aligned meeting transcripts supported a different question about the sequence of discussion.
+## Run the prototype
 
-## Evidence and limitations
+From this folder, with Python 3.9 or later:
 
-The dated consumer-complaint profile changed the selection decision before data collection. The September 2026 official release had dropped the narratives needed for the proposed analysis, although the structured complaint and response fields remained. For a related question about how businesses respond, the review identified a dataset with dated reviews and business responses. Its reuse terms remained unresolved. The profile gives the provider’s release notice and field documentation. The review covered a representative selection of sources, acquired no data and did not test their suitability in a study. The Federal Register collection in Appendix 8 predates its source profile. Acquisition guided by this review remains proposed.
+```sh
+python3 -I tool/render_profile.py D17 --out example/output
+python3 -I tool/render_profile.py --all --out data/profiles
+python3 -I checks/verify_counts.py
+```
 
-## Proposed development
+The renderer uses the included records, requires no network or model, and reproduces the shipped Markdown profiles. The check verifies the counts, source mappings, JSON/CSV agreement, rendered output and file manifest; success prints `all checks pass`.
 
-We will assess coverage and suitability as new questions arise, update changing source information and use the review to guide further acquisition.
+## What remains proposed
 
+Acquiring source datasets, running the suggested tasks and testing their fit in a study remain future work. The review is representative, not exhaustive. Source releases and terms can change; public access alone does not grant reuse rights. The [notice](NOTICE.md) credits providers and separates their terms from the licenses for this component’s text and code.
+
+[Repository folder](https://github.com/joyzhzh/textdata/tree/main/appendix/04-data-sources)

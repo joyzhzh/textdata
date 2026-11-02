@@ -1,0 +1,213 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78853-78855]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26862]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Medicare & Medicaid Services
+
+[Document Identifier: CMS-10265, CMS-10171 and CMS-P-0015A]
+
+
+Agency Information Collection Activities: Submission for OMB 
+Review; Comment Request
+
+AGENCY: Centers for Medicare & Medicaid Services, Health and Human 
+Services (HHS).
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Centers for Medicare & Medicaid Services (CMS) is 
+announcing an opportunity for the public to comment on CMS' intention 
+to collect information from the public. Under the Paperwork Reduction 
+Act of 1995 (PRA), federal agencies are required to publish notice in 
+the Federal Register concerning each proposed collection of 
+information, including each proposed extension or reinstatement of an 
+existing collection of information, and to allow a second opportunity 
+for public comment on the notice. Interested persons are invited to 
+send comments regarding the burden estimate or any other aspect of this 
+collection of information, including the necessity and utility of the 
+proposed information collection for the proper performance of the 
+agency's functions, the accuracy of the estimated burden, ways to 
+enhance the quality, utility, and clarity of the information to be 
+collected, and the use of automated collection techniques or other 
+forms of information technology to minimize the information collection 
+burden.
+
+DATES: Comments on the collection(s) of information must be received by 
+the OMB desk officer by January 6, 2021.
+
+ADDRESSES: Written comments and recommendations for the proposed 
+information collection should be sent within 30 days of publication of 
+this notice to <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular 
+information collection by selecting ``Currently under 30-day Review--
+Open for Public Comments'' or by using the search function.
+    To obtain copies of a supporting statement and any related forms 
+for the proposed collection(s) summarized in this notice, you may make 
+your request using one of following:
+    1. Access CMS' website address at <a href="https://www.cms.gov/Regulations-and-Guidance/Legislation/PaperworkReductionActof1995/PRA-Listing.html">https://www.cms.gov/Regulations-and-Guidance/Legislation/PaperworkReductionActof1995/PRA-Listing.html</a>.
+    2. Call the Reports Clearance Office at (410) 786-1326.
+
+FOR FURTHER INFORMATION CONTACT: William Parham at (410) 786-4669.
+
+SUPPLEMENTARY INFORMATION: Under the Paperwork Reduction Act of 1995 
+(PRA) (44 U.S.C. 3501-3520), federal agencies must obtain approval from 
+the Office of Management and Budget (OMB) for each collection of 
+information they conduct or sponsor. The term ``collection of 
+information'' is defined in 44 U.S.C. 3502(3) and 5 CFR 1320.3(c) and 
+includes agency requests or requirements that members of the public 
+submit reports, keep records, or provide information to a third party. 
+Section 3506(c)(2)(A) of the PRA (44 U.S.C.
+
+[[Page 78854]]
+
+3506(c)(2)(A)) requires federal agencies to publish a 30-day notice in 
+the Federal Register concerning each proposed collection of 
+information, including each proposed extension or reinstatement of an 
+existing collection of information, before submitting the collection to 
+OMB for approval. To comply with this requirement, CMS is publishing 
+this notice that summarizes the following proposed collection(s) of 
+information for public comment:
+    1. Type of Information Collection Request: Revision with change of 
+a currently approved collection; Title of Information Collection: 
+Mandatory Insurer Reporting Requirements of Section 111 of the 
+Medicare, Medicaid and SCHIP Act of 2007; Use: The Centers for Medicare 
+& Medicaid Services (CMS) collects various data elements from the 
+applicable reporting entities (see supporting documents) for purposes 
+of carrying out the mandatory MSP reporting requirements of Section 111 
+of the Medicare, Medicaid and SCHIP Extension Act. This information is 
+used to ensure that Medicare makes payment in the proper order and/or 
+takes necessary recovery actions. 42 U.S.C. 1395y(b)(7)(A)(i)(II) was 
+updated by the Substance Use-Disorder Prevention that Promotes Opioid 
+Recovery and Treatment (SUPPORT) for Patients and Communities Act. 
+Section 4002 of the SUPPORT Act also applies to Section 111 that 
+requires Group Health Plan (GHP) reporting of primary prescription drug 
+coverage.
+    MSP is generally divided into ``pre-payment'' and ``post-payment'' 
+activities. Pre-payment activities are generally designed to stop 
+mistaken primary payments in situations where Medicare should be 
+secondary. Medicare post-payment activities are designed to recover 
+mistaken payments or conditional payments made by Medicare where there 
+is a contested liability insurance (including self-insurance), no-fault 
+insurance, or workers' compensation which has resulted in a settlement, 
+judgment, award, or other payment. CMS specialty contractors perform 
+most of the MSP activity pre-payment.
+    The information is collected from applicable reporting entities for 
+the purpose of coordination of benefits and the recovery of mistaken 
+and conditional payments. Section 111 mandates the reporting of 
+information in the form and manner specified by the Secretary, DHHS. 
+Data the Secretary collects is necessary for both pre-payment and post-
+payment coordination of benefit purposes, including necessary recovery 
+actions.
+    Both GHP and NGHP entities have had and continue to have the 
+responsibility for determining when they are primary to Medicare and to 
+pay appropriately, even without the mandatory Section 111 process. 
+Insurers should always collect the NGHP, GHP and GHP prescription drug 
+information that CMS requires in connection with Section 111 of the 
+MMSEA. Form Number: CMS-10265 (OMB control number: 0938-1074); 
+Frequency: Yearly; Affected Public: Private Sector, Business or other 
+for-profits; Number of Respondents: 21,141; Total Annual Responses: 
+8,079,697; Total Annual Hours: 618,060. (For policy questions regarding 
+this collection contact Richard Mazur at 410-786-1418.)
+    2. Type of Information Collection Request: Revision with change of 
+a currently approved collection; Title of Information Collection: Part 
+D Coordination of Benefits Data; Use: Sections 1860D-23 and 1860D-24 of 
+the Act require the Secretary to establish requirements for 
+prescription drug plans to promote effective coordination between Part 
+D plans and SPAPs and other payers. These Part D Coordination of 
+Benefits (COB) requirements have been codified into the Code of Federal 
+Regulations at 42 CFR 423.464. In particular, CMS' requirements relate 
+to the following elements: (1) Enrollment file sharing; (2) claims 
+processing and payment; (3) claims reconciliation reports; (4) 
+application of the protections against high out-of-pocket expenditures 
+by tracking TrOOP expenditures; and (5) other processes that the 
+Secretary determines.
+    This information collection assists CMS, pharmacists, Part D plans, 
+and other payers coordinate prescription drug benefits at the point-of-
+sale and track beneficiary True out-of-pocket (TrOOP) expenditures 
+using the Part D Transaction Facilitator (PDTF).
+    The collected information will be used by Part D plans, other 
+health insurers or payers, pharmacies and CMS to coordinate 
+prescription drug benefits provided to the Medicare beneficiary. Part D 
+plans share data with each other and with CMS. The types of data 
+collected for sharing include enrollment data, other health insurance 
+information, TrOOP and Gross drug spending and supplemental payer data. 
+Form Number: CMS-10171 (OMB control number: 0938-0978); Frequency: 
+Yearly; Affected Public: State, Local, or Tribal Governments; Number of 
+Respondents: 63,910; Total Annual Responses: 770,855,926; Total Annual 
+Hours: 938,065. (For policy questions regarding this collection contact 
+Chad Buskirk at 410-786-1630.)
+    3. Type of Information Collection Request: Revision of a currently 
+approved collection; Title of Information Collection: Medicare Current 
+Beneficiary Survey; Use: CMS is the largest single payer of health care 
+in the United States. The agency plays a direct or indirect role in 
+administering health insurance coverage for more than 120 million 
+people across the Medicare, Medicaid, CHIP, and Exchange populations. A 
+critical aim for CMS is to be an effective steward, major force, and 
+trustworthy partner in supporting innovative approaches to improving 
+quality, accessibility, and affordability in healthcare. CMS also aims 
+to put patients first in the delivery of their health care needs.
+    The Medicare Current Beneficiary Survey (MCBS) is the most 
+comprehensive and complete survey available on the Medicare population 
+and is essential in capturing data not otherwise collected through our 
+operations. The MCBS is a nationally-representative, longitudinal 
+survey of Medicare beneficiaries that we sponsor and is directed by the 
+Office of Enterprise Data and Analytics (OEDA). The survey is usually 
+conducted in-person but can also be conducted by phone. It captures 
+beneficiary information whether aged or disabled, living in the 
+community or facility, or serviced by managed care or fee-for-service. 
+Data produced as part of the MCBS are enhanced with our administrative 
+data (e.g., fee-for-service claims, prescription drug event data, 
+enrollment, etc.) to provide users with more accurate and complete 
+estimates of total health care costs and utilization. The MCBS has been 
+continuously fielded for more than 28 years, encompassing over 1 
+million interviews and more than 100,000 survey participants. 
+Respondents participate in up to 11 interviews over a four-year period. 
+This gives a comprehensive picture of health care costs and utilization 
+over a period of time.
+    The MCBS continues to provide unique insight into the Medicare 
+program and helps CMS and our external stakeholders better understand 
+and evaluate the impact of existing programs and significant new policy 
+initiatives. In the past, MCBS data have been used to assess potential 
+changes to the Medicare program. For example, the MCBS was instrumental 
+in supporting the development and implementation of the Medicare 
+prescription drug benefit by providing a means to evaluate prescription 
+drug costs and out-of-pocket burden for these drugs to Medicare 
+beneficiaries. Beginning in 2021, this proposed revision to the
+
+[[Page 78855]]
+
+clearance will add a few new measures to existing questionnaire 
+sections and will add a new COVID-19 Questionnaire section previously 
+approved by OMB on August 7, 2020 under Emergency Clearance 0938-1379. 
+The revisions will result in an increase in respondent burden due to 
+the addition of the new items.
+    Form Number: CMS-P-0015A (OMB: 0938-0568); Frequency: Occasionally; 
+Affected Public: Business or other for-profits and Not-for-profit 
+institutions; Number of Respondents: 13,656; Total Annual Responses: 
+35,998; Total Annual Hours: 53,176 (For policy questions regarding this 
+collection contact William Long at 410-786-7927.)
+
+    Dated: December 2, 2020.
+William N. Parham, III,
+Director, Paperwork Reduction Staff, Office of Strategic Operations and 
+Regulatory Affairs.
+[FR Doc. 2020-26862 Filed 12-4-20; 8:45 am]
+BILLING CODE 4120-01-P
+
+
+</pre></body>
+</html>

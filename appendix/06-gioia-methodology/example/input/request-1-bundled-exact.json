@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "quote": "I waited for a reply.",
+  "manifestations": [
+    {
+      "id": "synthetic-v1",
+      "kind": "self_authored_synthetic_text",
+      "version": "v1",
+      "text_path": "synthetic.txt",
+      "sha256": "594dc30789116899421a9e73275fc6022b7d65906d9c4ada8d6b32a2b9cf0fa2",
+      "hash_basis": "whole_file_bytes",
+      "access": "available",
+      "permissions": {
+        "local_processing": "permitted",
+        "local_processing_basis": "Self-authored synthetic demonstration; no participant data",
+        "quote_reuse": "unknown"
+      }
+    }
+  ]
+}

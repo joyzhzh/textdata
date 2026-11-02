@@ -1,0 +1,4 @@
+{"body": "Synthetic descriptive memo: E001 contains two invented submissions and one invented statement.", "memo_id": "MEMO001", "memo_type": "DESCRIPTIVE", "refs": ["E001"], "status": "WORKING"}
+{"body": "Synthetic comparison memo: the repeated submission is identical in both invented incidents.", "memo_id": "MEMO002", "memo_type": "COMPARISON", "refs": ["CMP001"], "status": "WORKING"}
+{"body": "Synthetic methodological memo: this fixture exists only to exercise the validator.", "memo_id": "MEMO003", "memo_type": "METHODOLOGICAL", "refs": [], "status": "WORKING"}
+{"body": "Synthetic theoretical memo: CAT001 remains emerging pending an invented contrast.", "memo_id": "MEMO004", "memo_type": "THEORETICAL", "refs": ["CAT001", "CMP001"], "status": "WORKING"}

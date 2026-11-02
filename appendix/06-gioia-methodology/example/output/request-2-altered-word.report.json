@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "fidelity": "NO_EXACT_MATCH",
+  "matching_manifestation_ids": [],
+  "scope_complete": true,
+  "observed_match_count": 0,
+  "unchecked_manifestation_count": 0,
+  "quote_sha256": "576f1000a62484d092283242152a52331c31905ad6b90e6ea41fea2f8bac81ea",
+  "quote_bytes": 24,
+  "matching_policy": "exact_utf8_bytes_no_normalization",
+  "locator_basis": "zero_based_start_inclusive_end_exclusive; lines_one_based_LF; not_PDF_pages",
+  "interpretive_assessment": "NOT_ASSESSED",
+  "contextual_adequacy": "NOT_ASSESSED",
+  "reuse_clearance": "NOT_DETERMINED",
+  "permission_basis": "User declarations only; not independently verified",
+  "source_authenticity": "NOT_ASSESSED",
+  "results": [
+    {
+      "manifestation": {
+        "id": "synthetic-v1",
+        "kind": "self_authored_synthetic_text",
+        "version": "v1",
+        "text_path": "synthetic.txt",
+        "sha256": "594dc30789116899421a9e73275fc6022b7d65906d9c4ada8d6b32a2b9cf0fa2",
+        "hash_basis": "whole_file_bytes",
+        "access": "available",
+        "permissions": {
+          "local_processing": "permitted",
+          "local_processing_basis": "Self-authored synthetic demonstration; no participant data",
+          "quote_reuse": "unknown"
+        }
+      },
+      "match_count": 0,
+      "matches": [],
+      "observed_sha256": "594dc30789116899421a9e73275fc6022b7d65906d9c4ada8d6b32a2b9cf0fa2",
+      "status": "NO_EXACT_MATCH"
+    }
+  ],
+  "request_sha256": "f04b052bfe7dbd7be3c3a32eeba1e9c95bcc58127599b78149f6012d04821856"
+}

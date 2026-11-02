@@ -1,0 +1,19 @@
+{
+  "replayed_at": "2026-11-02T04:36:48Z",
+  "python": "3.9.6",
+  "seconds": 1,
+  "reproduced": {
+    "inventory.tsv": true,
+    "problems.tsv": true,
+    "clean/INDEX.tsv": true,
+    "collection/packs.tsv": true,
+    "comparison outcomes": true,
+    "verify.py over the rebuilt pack": true
+  },
+  "all_reproduced": true,
+  "comparison_outcomes": {
+    "bytes_differ": 130,
+    "identical_bytes": 61
+  },
+  "evidence_basis": "email-redacted release copies; historical original-file results are separate"
+}

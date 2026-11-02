@@ -1,0 +1,147 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78931-78932]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26782]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Pipeline and Hazardous Materials Safety Administration
+
+[Docket No. PHMSA-2020-0135]
+
+
+Pipeline Safety: Random Drug Testing Rate; Management Information 
+System Reporting; and Obtaining Drug and Alcohol Management Information 
+System Sign-In Information
+
+AGENCY: Pipeline and Hazardous Materials Safety Administration (PHMSA), 
+DOT.
+
+ACTION: Notice of calendar year 2021 minimum annual percentage rate for 
+random drug testing, reminder for operators to report contractor 
+management information system (MIS) data using PHMSA supplemental 
+instructions, and reminder of method for operators to obtain user name 
+and password for electronic reporting.
+
+-----------------------------------------------------------------------
+
+SUMMARY: PHMSA has determined that the minimum random drug testing rate 
+for covered employees will remain at 50 percent during calendar year 
+2021. Operators are reminded that drug and alcohol (D&A) testing 
+information must be submitted for contractors who are performing or are 
+ready to perform covered functions. For calendar year 2020 reporting, 
+the user name and password for the Drug and Alcohol Management 
+Information System (DAMIS) will be available in the PHMSA Portal.
+
+DATES: Effective January 1, 2021, through December 31, 2021.
+
+FOR FURTHER INFORMATION CONTACT: Wayne Lemoi, Drug & Alcohol Program 
+Manager, Office of Pipeline Safety, by phone at 909-937-7232 or by 
+email at [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+Notice of Calendar Year 2021 Minimum Annual Percentage Rate for Random 
+Drug Testing
+
+    Operators of natural gas, hazardous liquid, and carbon dioxide 
+pipelines, liquefied natural gas (LNG) facilities, and underground 
+natural gas storage facilities must randomly select and test a 
+percentage of all covered employees for prohibited drug use in 
+accordance with 49 CFR part 199. Pursuant to Sec.  199.105(c)(1), the 
+PHMSA minimum annual random drug testing rate for all covered employees 
+is 50 percent. The Administrator can adjust this random drug testing 
+rate based on the reported positive rate in the pipeline industry's 
+random drug tests, which is submitted in operators' annual Management 
+Information System (MIS) reports as required by Sec.  199.119(a). In 
+accordance with Sec.  199.105(c)(3), if the reported positive drug test 
+rate is below 1 percent for 2 consecutive years, the Administrator can 
+reduce the random drug testing rate to 25 percent of all covered 
+employees. In calendar year 2019, the random drug test positive rate 
+for the entire pipeline industry was reported at greater than 1 
+percent; therefore, the minimum annual random drug testing rate for 
+calendar year 2021 is maintained at 50 percent of all covered 
+employees.
+
+Reminder for Operators To Report Contractor MIS Data
+
+    PHMSA developed and released online new PHMSA Supplemental 
+Instructions for DOT Drug & Alcohol Management Information System 
+Reporting. These instructions provide operators with the appropriate 
+process for collecting and reporting annual D&A MIS testing data for 
+contractors. The Supplemental Instructions help ensure that PHMSA can 
+identify all the contractors who performed D&A covered functions for a 
+specific pipeline operator; identify all the pipeline operators for 
+whom a specific contractor performed D&A covered functions; and, has 
+received a complete and accurate D&A MIS report for each contractor who 
+performed D&A covered functions on any PHMSA regulated pipeline or 
+facility in the applicable calendar year.
+    Pursuant to Sec. Sec.  199.119(a) and 199.229(a), an operator 
+having more than 50 covered employees is a large operator and an 
+operator having 50 or fewer covered employees is a small operator. 
+While contractor employees are covered employees per the regulations in 
+Sec.  199.3 and must be treated as such with regards to part 199, 
+contractor employees are not included
+
+[[Page 78932]]
+
+in the calculation to determine if an operator is a large or small 
+operator.
+    Large operators are always required to submit annual MIS reports 
+whereas small operators are only required to submit MIS reports upon 
+written request from PHMSA. If a small operator has submitted a MIS 
+report in or after calendar year 2018, the PHMSA Portal message may 
+state that no MIS report is required for calendar year 2020. If a small 
+operator has grown to more than 50 covered employees during calendar 
+year 2020, the PHMSA Portal message will include instructions for how 
+to obtain a DAMIS user name and password for the 2020 calendar year 
+reporting period.
+    If an operator is required to submit a MIS report in accordance 
+with part 199, that report is not complete until PHMSA receives a MIS 
+data report for each contractor that performed covered functions as 
+defined in Sec.  199.3. Operators must submit operator and contractor 
+employee testing data in separate MIS reports to avoid duplicative 
+reporting and inaccurate data that could affect the positive rate for 
+the entire industry.
+
+Reminder of Method for Operators To Obtain User Name and Password for 
+Electronic Reporting
+
+    By early January 2021, the user name and password required for an 
+operator to access DAMIS and enter calendar year 2020 data will be 
+available to all operator staff with access to the PHMSA Portal. 
+Pipeline operators have been submitting reports required by 49 CFR 
+parts 191 and 195 through the PHMSA Portal (<a href="https://portal.phmsa.dot.gov/pipeline">https://portal.phmsa.dot.gov/pipeline</a>) since 2011. PHMSA determined that 
+distributing information via the Portal would be more effective than 
+the previous mailing process.
+    When the DAMIS user name and password are available in the PHMSA 
+Portal, all registered users will receive an email to that effect. If 
+operator staff responsible for submitting MIS reports do not receive 
+the DAMIS information, they should coordinate with other registered 
+PHMSA Portal users within their company to obtain the DAMIS user name 
+and password. Registered PHMSA Portal users for an operator typically 
+include operator staff or consultants who submit annual and incident 
+reports through PHMSA F 7000- and 7100-series forms.
+    Operators that have not previously registered staff in the PHMSA 
+Portal for the reporting purposes of parts 191 and 195 can register 
+users by following the instructions at: <a href="https://portal.phmsa.dot.gov/PHMSAPortal2/staticContentRedesign/howto/PortalAccountCreation.pdf">https://portal.phmsa.dot.gov/PHMSAPortal2/staticContentRedesign/howto/PortalAccountCreation.pdf</a>.
+
+    Issued in Washington, DC, on December 1, 2020, under authority 
+delegated in 49 CFR 1.97.
+Alan K. Mayberry,
+Associate Administrator for Pipeline Safety.
+[FR Doc. 2020-26782 Filed 12-4-20; 8:45 am]
+BILLING CODE 4910-60-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

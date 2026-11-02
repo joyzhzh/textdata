@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "fidelity": "EXACT_SINGLE",
+  "matching_manifestation_ids": [
+    "episode-v1"
+  ],
+  "scope_complete": true,
+  "observed_match_count": 1,
+  "unchecked_manifestation_count": 0,
+  "quote_sha256": "260743df7fdce803660b4eae8d6a839ab57d79ea97266eaec9cba162876982d3",
+  "quote_bytes": 45,
+  "matching_policy": "exact_utf8_bytes_no_normalization",
+  "locator_basis": "zero_based_start_inclusive_end_exclusive; lines_one_based_LF; not_PDF_pages",
+  "interpretive_assessment": "NOT_ASSESSED",
+  "contextual_adequacy": "NOT_ASSESSED",
+  "reuse_clearance": "NOT_DETERMINED",
+  "permission_basis": "User declarations only; not independently verified",
+  "source_authenticity": "NOT_ASSESSED",
+  "results": [
+    {
+      "manifestation": {
+        "id": "episode-v1",
+        "kind": "self_authored_synthetic_text",
+        "version": "v1",
+        "text_path": "synthetic-episode.txt",
+        "sha256": "3491496b4e08aee2eb6bb40cebfc039dd7a79dd8916fc548cf2ea14753d3ea76",
+        "hash_basis": "whole_file_bytes",
+        "access": "available",
+        "permissions": {
+          "local_processing": "permitted",
+          "local_processing_basis": "Synthetic passage written for this example; no participant data",
+          "quote_reuse": "unknown"
+        }
+      },
+      "match_count": 1,
+      "matches": [
+        {
+          "byte_start": 260,
+          "byte_end": 305,
+          "character_start": 260,
+          "character_end": 305,
+          "line_start": 5,
+          "line_end": 5
+        }
+      ],
+      "observed_sha256": "3491496b4e08aee2eb6bb40cebfc039dd7a79dd8916fc548cf2ea14753d3ea76",
+      "status": "EXACT_SINGLE"
+    }
+  ],
+  "request_sha256": "9181a6b7f2ccfc1a4a83932aad1ab0b3f75e0ad8119fec89ba5a7888bfd86918"
+}

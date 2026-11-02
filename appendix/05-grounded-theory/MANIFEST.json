@@ -1,0 +1,561 @@
+{
+  "component": 5,
+  "slug": "grounded-theory",
+  "title": "Grounded Theory",
+  "appendix_item": 5,
+  "website": "https://textdata.info/toolkit/grounded-theory/",
+  "release": "Proposal prototype: see README.md for use and limits.",
+  "status": {
+    "built": true,
+    "demonstrated": "empirical (22 interviews, three cycles) and synthetic",
+    "validated": false
+  },
+  "contents": [
+    {
+      "path": "tool/",
+      "what": "the toolkit's agent skill: instructions, six references, eight schemas, three helpers, three templates, a synthetic fixture and input text, two test files (50 tests)",
+      "edition": "release edition; modifications noted in CHANGES.md"
+    },
+    {
+      "path": "example/input/study/",
+      "what": "the sealed third-cycle records of the 22-interview study, the two selection records, the analytical account, the review and the producers' dispositions",
+      "edition": "release inspection edition: seven original analytical files unchanged; duplicate handoff omitted; INPUT_MANIFEST.json and MANIFEST.json are declared derivatives; original and release fingerprints are separate"
+    },
+    {
+      "path": "example/trace_comparison.py, example/output/TRACE.md",
+      "what": "the worked example: one analytical chain traced through the records",
+      "edition": "written for this release"
+    },
+    {
+      "path": "checks/",
+      "what": "the verification a reviewer runs, and the script that regenerates this manifest",
+      "edition": "written for this release"
+    },
+    {
+      "path": "README.md, NOTICE.md, CHANGES.md, data/README.md, example/README.md",
+      "what": "the technical account, credits and licences, the change note, and what is and is not here",
+      "edition": "written for this release"
+    }
+  ],
+  "entry_points": [
+    "tool/SKILL.md",
+    "tool/AGENT_STARTER.md",
+    "tool/scripts/analysis_cycle.py",
+    "tool/scripts/validate_analysis_packet.py",
+    "tool/examples/synthetic/workflow.py",
+    "example/trace_comparison.py",
+    "checks/verify_counts.py"
+  ],
+  "example": {
+    "input": [
+      "example/input/study/snapshots/C003/COMPARISONS.jsonl",
+      "example/input/study/snapshots/C003/CATEGORY_MEMOS.jsonl",
+      "example/input/study/snapshots/C003/INCIDENTS.jsonl",
+      "example/input/study/snapshots/C003/EPISODES.jsonl",
+      "example/input/study/snapshots/C003/CODES.jsonl",
+      "example/input/study/snapshots/C003/MEMOS.jsonl",
+      "example/input/study/snapshots/C003/SAMPLING_REQUESTS.jsonl",
+      "example/input/study/snapshots/C003/MANIFEST.json",
+      "example/input/study/snapshots/C003/INPUT_MANIFEST.json",
+      "example/input/study/snapshots/C003/SHA256SUMS",
+      "example/input/study/snapshots/C003/RELEASE_DERIVATION.json",
+      "example/input/study/snapshots/C003/RELEASE_SHA256SUMS",
+      "example/input/study/C002_SELECTION.json",
+      "example/input/study/C003_SELECTION.json",
+      "example/input/study/C003_ANALYSIS.md",
+      "example/input/study/SAMPLE_AND_CHANGES.md",
+      "example/input/study/audit/INDEPENDENT_REVIEW.md",
+      "example/input/study/audit/DISPOSITIONS.md"
+    ],
+    "output": [
+      "example/output/TRACE.md"
+    ],
+    "command": "python3 example/trace_comparison.py",
+    "needs_network": false,
+    "needs_model": false,
+    "python": "3.9+ standard library"
+  },
+  "checks": [
+    {
+      "command": "python3 checks/verify_counts.py",
+      "needs": "Python 3.9+ standard library; offline; no model",
+      "expects": "all checks passed"
+    },
+    {
+      "command": "python3 -B -m unittest discover -s tests (run in tool/)",
+      "needs": "jsonschema; the folder inside a Git checkout (the helpers record the Git revision and refuse to run without one)",
+      "expects": "OK, 50 tests"
+    }
+  ],
+  "data": [
+    {
+      "source": "22 interview transcripts of a published podcast (credited in NOTICE.md)",
+      "rights": "copyright of their owners; licence unknown; referenced only by file name, line locators and SHA-256",
+      "included": false
+    },
+    {
+      "source": "the study's analytical records",
+      "rights": "the project's own records; CC BY 4.0 (repository LICENSE-docs)",
+      "included": true
+    },
+    {
+      "source": "the synthetic fixture and synthetic input text",
+      "rights": "wholly invented; Apache License 2.0 with the code (repository LICENSE)",
+      "included": true
+    }
+  ],
+  "held": [
+    {
+      "what": "interview transcripts",
+      "why": "no redistribution right claimed"
+    },
+    {
+      "what": "private development records and duplicate handoff",
+      "why": "not required to use the prototype"
+    }
+  ],
+  "counts": [
+    {
+      "what": "interviews after cycle 1 (pilot)",
+      "value": 6,
+      "unit": "bound interviews not named by either selection record",
+      "where": "example/input/study/C002_SELECTION.json, example/input/study/C003_SELECTION.json, example/input/study/snapshots/C003/INPUT_MANIFEST.json"
+    },
+    {
+      "what": "interviews after cycle 2",
+      "value": 14,
+      "unit": "the pilot's plus those the C002 selection record names",
+      "where": "example/input/study/C002_SELECTION.json, example/input/study/C003_SELECTION.json, example/input/study/snapshots/C003/INPUT_MANIFEST.json"
+    },
+    {
+      "what": "interviews after cycle 3",
+      "value": 22,
+      "unit": "the above plus those the C003 selection record names",
+      "where": "example/input/study/C002_SELECTION.json, example/input/study/C003_SELECTION.json, example/input/study/snapshots/C003/INPUT_MANIFEST.json"
+    },
+    {
+      "what": "bound interview transcripts",
+      "value": 22,
+      "unit": "transcript files bound by SHA-256 (cumulative over three cycles: 6, 14, 22); not included",
+      "where": "example/input/study/snapshots/C003/INPUT_MANIFEST.json"
+    },
+    {
+      "what": "incident records",
+      "value": 234,
+      "unit": "incident rows; speakers' accounts, none directly observed",
+      "where": "example/input/study/snapshots/C003/INCIDENTS.jsonl"
+    },
+    {
+      "what": "incidents with exact quotation hashes",
+      "value": 78,
+      "unit": "incident rows carrying the SHA-256 of the quoted lines (stated interpretations)",
+      "where": "example/input/study/snapshots/C003/INCIDENTS.jsonl"
+    },
+    {
+      "what": "incidents coded as directly observed action",
+      "value": 0,
+      "unit": "incident rows with epistemic_class OBSERVED_ACTION",
+      "where": "example/input/study/snapshots/C003/INCIDENTS.jsonl"
+    },
+    {
+      "what": "comparison records",
+      "value": 43,
+      "unit": "comparison rows",
+      "where": "example/input/study/snapshots/C003/COMPARISONS.jsonl"
+    },
+    {
+      "what": "category versions",
+      "value": 15,
+      "unit": "category-memo rows, all versions retained",
+      "where": "example/input/study/snapshots/C003/CATEGORY_MEMOS.jsonl"
+    },
+    {
+      "what": "current categories",
+      "value": 6,
+      "unit": "categories whose latest version is not superseded",
+      "where": "example/input/study/snapshots/C003/CATEGORY_MEMOS.jsonl"
+    },
+    {
+      "what": "memo versions",
+      "value": 14,
+      "unit": "memo rows across four memo types",
+      "where": "example/input/study/snapshots/C003/MEMOS.jsonl"
+    },
+    {
+      "what": "sampling requests",
+      "value": 3,
+      "unit": "request rows",
+      "where": "example/input/study/snapshots/C003/SAMPLING_REQUESTS.jsonl"
+    },
+    {
+      "what": "sampling requests left PROPOSED",
+      "value": 3,
+      "unit": "request rows with status PROPOSED; none executed by the tool",
+      "where": "example/input/study/snapshots/C003/SAMPLING_REQUESTS.jsonl"
+    },
+    {
+      "what": "episode versions",
+      "value": 89,
+      "unit": "episode rows (account envelopes), all versions",
+      "where": "example/input/study/snapshots/C003/EPISODES.jsonl"
+    },
+    {
+      "what": "current account envelopes",
+      "value": 86,
+      "unit": "episodes not superseded; not independent observations",
+      "where": "example/input/study/snapshots/C003/EPISODES.jsonl"
+    },
+    {
+      "what": "current envelopes with UNKNOWN ending",
+      "value": 62,
+      "unit": "current episodes whose outcome_status is UNKNOWN",
+      "where": "example/input/study/snapshots/C003/EPISODES.jsonl"
+    },
+    {
+      "what": "code versions",
+      "value": 235,
+      "unit": "initial-code rows, all versions",
+      "where": "example/input/study/snapshots/C003/CODES.jsonl"
+    },
+    {
+      "what": "current codes",
+      "value": 234,
+      "unit": "code rows not superseded",
+      "where": "example/input/study/snapshots/C003/CODES.jsonl"
+    }
+  ],
+  "file_count": 66,
+  "size_bytes": 797815,
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1208,
+      "sha256": "534ad9b7b05389b0126a986ad175e4736beb2429d38254bff5b71689d68fa1b4"
+    },
+    {
+      "path": "CHANGES.md",
+      "bytes": 1335,
+      "sha256": "7ab576e233ad1af9043b785181714c15f3e9ea672d84b5c1b242cc5488d2e3af"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 7383,
+      "sha256": "fa06b48888934c5b218425c54b6edbb4ceee77c8de65c2866b09ac3d147af156"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5285,
+      "sha256": "6ae3ca22ae8e08688016824b43e65b86e28ef432d5a8a579a78b1760ac4b4efb"
+    },
+    {
+      "path": "checks/build_manifest.py",
+      "bytes": 8822,
+      "sha256": "ab864a1dd1dc5ecc01b6a5c188770e41cddd265c6d4c86804a6b087e14b831d3"
+    },
+    {
+      "path": "checks/verify_counts.py",
+      "bytes": 10364,
+      "sha256": "293a4a3685b21d6b4b6d8e445a86d94191f056b24291e664a9757825861ef92b"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 1431,
+      "sha256": "bfd2d0a0b6ff821de5405ba44df0e9191448994d85e7269075223fbc9d88c37e"
+    },
+    {
+      "path": "example/README.md",
+      "bytes": 1206,
+      "sha256": "09f83504fb7f062ff26b8f6e088cdf60f3ed774e78281e34ee1d02e8146c9b64"
+    },
+    {
+      "path": "example/input/study/C002_SELECTION.json",
+      "bytes": 5964,
+      "sha256": "dfef23b2ff5cc792667c7cbac5649800899062ccbd10796b168d4bd203765a6e"
+    },
+    {
+      "path": "example/input/study/C003_ANALYSIS.md",
+      "bytes": 12308,
+      "sha256": "a91abd56f7bd4128075d0fba6d75b8cf18c832d13c777cbc179da8d4bbe25fdc"
+    },
+    {
+      "path": "example/input/study/C003_SELECTION.json",
+      "bytes": 4929,
+      "sha256": "fba91c1150154631ecc9d3340a528400836417b417771012a5633fc13196e97f"
+    },
+    {
+      "path": "example/input/study/SAMPLE_AND_CHANGES.md",
+      "bytes": 4569,
+      "sha256": "38aebf7dbaafe4db1072009af3b1c4c3cfbbaeceaa3b38c606e2a4f95ca884bc"
+    },
+    {
+      "path": "example/input/study/audit/DISPOSITIONS.md",
+      "bytes": 1699,
+      "sha256": "6f8d14a5482044cb028e452e1211f8a61f9af71582e33cdc2a8ccf7c1c23d853"
+    },
+    {
+      "path": "example/input/study/audit/INDEPENDENT_REVIEW.md",
+      "bytes": 3709,
+      "sha256": "64b875cb82ad17fadae62d17e58ac548448aadfb93dcca8d186eda65be446f4d"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/CATEGORY_MEMOS.jsonl",
+      "bytes": 26846,
+      "sha256": "9e029e585a1bed59b82abbfacf5da478cd6c547b399b56291a53b97bd77b3db0"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/CODES.jsonl",
+      "bytes": 114661,
+      "sha256": "6b8b19e06e2d657e7e899f648546be9dac61da3a9bf7269e3380ac844a31af59"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/COMPARISONS.jsonl",
+      "bytes": 39269,
+      "sha256": "4a7d796be90cffaee875207024bbc6aee2f1cf3f8c4b231db5aab84da3728cd1"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/EPISODES.jsonl",
+      "bytes": 121297,
+      "sha256": "50fa5b090c412952d2be13e79f1788c2fbb64481e6c34b6b32b234d79d26b914"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/INCIDENTS.jsonl",
+      "bytes": 212894,
+      "sha256": "23903544322d79b1853abc40b5ebacb439819cc2eb9ad7ca37e8e4a590099049"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/INPUT_MANIFEST.json",
+      "bytes": 10269,
+      "sha256": "222b3bd99f1016eccb94395343817ad2074db0562d8df3eb7e1b0630a103614c"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/MANIFEST.json",
+      "bytes": 2031,
+      "sha256": "79f5f03f3363aa0aa99c0f477b6e0e455db141a36a9c1c506eac7f068b1f1ab4"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/MEMOS.jsonl",
+      "bytes": 10158,
+      "sha256": "78187772a1922300714e26e7a80a00caf371d7748338714049e264e2c425cf29"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/RELEASE_DERIVATION.json",
+      "bytes": 1710,
+      "sha256": "f7cc3fbd1b0a9bbb54f9565c759eed842e54a25f5c1fbd9d32b953d04e4c6bce"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/RELEASE_SHA256SUMS",
+      "bytes": 913,
+      "sha256": "00ae841bf4fd7964278398f629f371942e88ab70f723876f66f52f1e436f7ba4"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/SAMPLING_REQUESTS.jsonl",
+      "bytes": 8279,
+      "sha256": "710422194fd4434647473b98d1aaf2f074cef137830eb9cfe7a1a0848a5ef1bd"
+    },
+    {
+      "path": "example/input/study/snapshots/C003/SHA256SUMS",
+      "bytes": 823,
+      "sha256": "b2f361cdaef18fbdf497667c273b83996facfc88e9361a7f09a4c980a1f55d88"
+    },
+    {
+      "path": "example/output/TRACE.md",
+      "bytes": 19620,
+      "sha256": "a32b0807f19770dd1a57975b7091ead95e5bd194b300ea4f3e5d3e8b70214d17"
+    },
+    {
+      "path": "example/trace_comparison.py",
+      "bytes": 15733,
+      "sha256": "93e146d3928d2d79310923ec4b63ac91d31afd5422f499b7b717f3b7e9eb3876"
+    },
+    {
+      "path": "tool/AGENT_STARTER.md",
+      "bytes": 2745,
+      "sha256": "07dd534d82e92542b3aafdfee0e4b4c61872fc1478de06e1c6fb86fc25a0ceda"
+    },
+    {
+      "path": "tool/PROTOCOL.lock.json",
+      "bytes": 1017,
+      "sha256": "da781e12f6f6e0383435f821430b2587f32aaaf22b3700844f4707b59be12c9e"
+    },
+    {
+      "path": "tool/SKILL.md",
+      "bytes": 6647,
+      "sha256": "9e5cb0c8c1259a063304def2c1eb8d3d24929d41e36d182d7d614f8f3161c855"
+    },
+    {
+      "path": "tool/STATUS.md",
+      "bytes": 660,
+      "sha256": "9af3e31520a7df71a33dc95f1ce1d423eebc343a3c38b3aae2f580b814743857"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/CATEGORY_MEMOS.jsonl",
+      "bytes": 763,
+      "sha256": "ba5af0039c6711c1f54a192ad9436c3674115c6efcbdabbe5d3810fdc44381e2"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/CODES.jsonl",
+      "bytes": 384,
+      "sha256": "3501bc5272fa4379d98f8d88cdd9839a40d1aa8f792daaddc955a7a9c09d8cbe"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/COMPARISONS.jsonl",
+      "bytes": 744,
+      "sha256": "0cc1f48208ebbd0c5ed472d384f47fa4652016d35b8cff23c621a4a9fe526020"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/EPISODES.jsonl",
+      "bytes": 427,
+      "sha256": "83e249597f4d808e296b3aa3636d8858a9b1c2f36daaa0baaf9b74ebde6755c0"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/INCIDENTS.jsonl",
+      "bytes": 1455,
+      "sha256": "ae6d7b8041818c0c78be43de7d89a9bcb68a958802a17d8c5fbb9122f4c7e8ad"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/MANIFEST.json",
+      "bytes": 847,
+      "sha256": "ad6fb9e3c99ecbdad02f76a04a73ace011d1862d443bbc6c088f4ba8a2069aaf"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/MEMOS.jsonl",
+      "bytes": 766,
+      "sha256": "929320f8a6ca3660b839c880f2001391c59c738152958b08587b0c1399934647"
+    },
+    {
+      "path": "tool/examples/synthetic/C001/SAMPLING_REQUESTS.jsonl",
+      "bytes": 812,
+      "sha256": "8c774ef5f76ee565edc4c40881d5b8e229d8a18be20eb3a1b4a9ca5cf2ad786c"
+    },
+    {
+      "path": "tool/examples/synthetic/README.md",
+      "bytes": 974,
+      "sha256": "e0f8137b5b58624858168845a71e2f9d06835f322f2f45973ef6ba9c0145295c"
+    },
+    {
+      "path": "tool/examples/synthetic/cloud_post.txt",
+      "bytes": 3673,
+      "sha256": "8d5e16444b06fdc47590cccb51114fcb3da49fcd2280c790ebca5c4906012899"
+    },
+    {
+      "path": "tool/examples/synthetic/workflow.py",
+      "bytes": 10387,
+      "sha256": "554e6cf9b35f3e57b02f932711495764bc981ac41810233e4aebb92e6c9da0e3"
+    },
+    {
+      "path": "tool/references/analysis-packet-contract.md",
+      "bytes": 6179,
+      "sha256": "77af1c065b437305ffdcbff88a4bfd4660af2c503e461d2320a47235f213d57c"
+    },
+    {
+      "path": "tool/references/grounded-theory-contract.md",
+      "bytes": 4072,
+      "sha256": "ba59baa7fdc7da13a3179b6c09147126f6ce4935e8b5d61b35f09154317fd99e"
+    },
+    {
+      "path": "tool/references/methods-basis.md",
+      "bytes": 3673,
+      "sha256": "0cc2fd1332ba6fd7916c4297eb49db7d92c52139a4cc114ec90bb795f75cab2d"
+    },
+    {
+      "path": "tool/references/vault-interface.md",
+      "bytes": 2849,
+      "sha256": "cf0150154dcae42b2915ff03ba8be40c4c65bda56858dd90dbef9a40af949989"
+    },
+    {
+      "path": "tool/references/vocabulary-crosswalk.md",
+      "bytes": 3730,
+      "sha256": "a45ec79a7224aa0aac5da2eee3dd0207da77f14a2e5398d04a8f2bafebffdd54"
+    },
+    {
+      "path": "tool/references/workflow.md",
+      "bytes": 8870,
+      "sha256": "4cd5ccbf93d7ae962b45caa97dbb8fe0a81ae9af98d556fe04b299e6698648cb"
+    },
+    {
+      "path": "tool/requirements.txt",
+      "bytes": 20,
+      "sha256": "4046ca1e3a64f4ea791fb4fb3d8566242086ff1c8e2431e2c349e1052ffc6ba0"
+    },
+    {
+      "path": "tool/schemas/category-memo.schema.json",
+      "bytes": 3109,
+      "sha256": "a80589ed9d88714820110e876960a4e59a3893366ee27af6a60ff41c0be1234e"
+    },
+    {
+      "path": "tool/schemas/code.schema.json",
+      "bytes": 1064,
+      "sha256": "b3a9f073446827738eddd258dad3c7a386f07a3f1c961ce632609904560b805d"
+    },
+    {
+      "path": "tool/schemas/comparison.schema.json",
+      "bytes": 1658,
+      "sha256": "b95a42f25ef4d177c12a41dafa19f0dc9335c4baced6eacdca6aa871477417c0"
+    },
+    {
+      "path": "tool/schemas/episode.schema.json",
+      "bytes": 1740,
+      "sha256": "0c14b53e60d58fa929ce0313dab83c1448a9be55df3f42c525da9b857fb19232"
+    },
+    {
+      "path": "tool/schemas/incident.schema.json",
+      "bytes": 3685,
+      "sha256": "ac77c78a327666018e49e111ec4c0dd1e93cf75cea0a2ab57446c875e95e0c70"
+    },
+    {
+      "path": "tool/schemas/manifest.schema.json",
+      "bytes": 3548,
+      "sha256": "0f18eda4c94ced82b93fb84a0a21ecf25f1b411e04c683521cac6cd406d2a367"
+    },
+    {
+      "path": "tool/schemas/memo.schema.json",
+      "bytes": 1447,
+      "sha256": "218738902a10f384f77cc0db16fb88e9bde7f48b064059e330a9ae31e8537365"
+    },
+    {
+      "path": "tool/schemas/sampling-request.schema.json",
+      "bytes": 3536,
+      "sha256": "9f285322e290af0f475636e040dbb1a116a7e8a7461b789dd95e2a878c17636d"
+    },
+    {
+      "path": "tool/scripts/analysis_cycle.py",
+      "bytes": 11727,
+      "sha256": "03720325cecb33ca051cb1761d231399cee39ae5df178a5b8939eff18cee23d4"
+    },
+    {
+      "path": "tool/scripts/source_bound.py",
+      "bytes": 10881,
+      "sha256": "b3df09910c2682c2b369e25f2f06c9cb32139b441a08067b0dce0c2dff4f5c10"
+    },
+    {
+      "path": "tool/scripts/validate_analysis_packet.py",
+      "bytes": 12765,
+      "sha256": "665707472c03ff60f78f7098858c3040b4e8e06e8be3fa61553121c7b80609ef"
+    },
+    {
+      "path": "tool/templates/PAPER_DRAFT_CHARTER.md",
+      "bytes": 814,
+      "sha256": "15ce6bd7d4753a30f3ed61567a48cce3368683ce17a1b6d38e779a11c65ccdc9"
+    },
+    {
+      "path": "tool/templates/STUDY_CHARTER.md",
+      "bytes": 498,
+      "sha256": "803f2ec1b41ee036ff17bc8b2fda8768a0c1116f095744fc8f7f75bd5d66bec8"
+    },
+    {
+      "path": "tool/templates/THEORY_MEMO.md",
+      "bytes": 522,
+      "sha256": "3ac0b0873a77449d2756affccc2355048213b9ddaf4cb44bda57cf15a8e87502"
+    },
+    {
+      "path": "tool/tests/test_source_bound_workflow.py",
+      "bytes": 9445,
+      "sha256": "0235f4620bc274684cc2f89881a16ef0067f15267b4b00a282e0bb6a090813fa"
+    },
+    {
+      "path": "tool/tests/test_validate_analysis_packet.py",
+      "bytes": 14967,
+      "sha256": "0cdce53d9ef8625596075bcf74d1f629c253d55730ad57be394320114d589929"
+    }
+  ]
+}

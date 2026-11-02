@@ -1,0 +1,181 @@
+{
+  "component": 6,
+  "folder": "06-gioia-methodology",
+  "title": "Gioia Methodology",
+  "skill_version": "0.1.1",
+  "website": "https://textdata.info/toolkit/gioia-methodology/",
+  "demonstration": "One synthetic analytic memo, with no researcher decisions. Empirical evaluation is proposed.",
+  "source": "Project-authored skill and tests, bundled practice text, synthetic worked example and AI exploration prompt. See NOTICE.md for sources and licences.",
+  "inventory_basis": "Whole-file SHA-256 of every release file except MANIFEST.json itself. Generated replay and test fixtures are outside the inventory.",
+  "counts": {
+    "quotation requests in example/input": 4,
+    "reports in example/output": 4,
+    "test definitions in tool/tests": 39,
+    "files in tool/": 13,
+    "methodological references in bibliography.md": 7,
+    "guides besides the bibliography": 4,
+    "working record templates": 4,
+    "checker request templates": 1,
+    "synthetic texts": 2,
+    "synthetic analytic memos": 1
+  },
+  "payload_files": 31,
+  "payload_bytes": 103351,
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1855,
+      "sha256": "1ac600dbff05c1cbe2bba5614ded2a1f7cdebcfefbbc38dd632619303761a536"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1861,
+      "sha256": "615785be75791e56d6053f1cb26589aa6e1846738bae9d1428043149f8ba786c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3774,
+      "sha256": "562a2e13bff038b4be6fe507df90e09490c266eae083d40bef788d8e27723f35"
+    },
+    {
+      "path": "checks/verify.py",
+      "bytes": 8185,
+      "sha256": "c0703a0d9b6db0e940ba5e582c4aa0ccdfcf52f6741f77df15de74df59c23b0d"
+    },
+    {
+      "path": "docs/USAGE.md",
+      "bytes": 4764,
+      "sha256": "d46d57c6757e05db760cb6b9c3faa1ceebde0d73fa97570396a91099bbaa4b9c"
+    },
+    {
+      "path": "example/input/memo-synthetic.yaml",
+      "bytes": 5156,
+      "sha256": "8b428c25c43ca7aa7bff95fc4e18cb6f55b0b8d7073f8d3520a4dbd8151d3a63"
+    },
+    {
+      "path": "example/input/request-1-bundled-exact.json",
+      "bytes": 588,
+      "sha256": "54978d99ea754476b7dcf71df2839631920fe808ff04c9622155ca91e996e3b2"
+    },
+    {
+      "path": "example/input/request-2-altered-word.json",
+      "bytes": 591,
+      "sha256": "f04b052bfe7dbd7be3c3a32eeba1e9c95bcc58127599b78149f6012d04821856"
+    },
+    {
+      "path": "example/input/request-3-two-speakers.json",
+      "bytes": 598,
+      "sha256": "d4e8edfe48147dd1000aaf2f2bb1eb4248b47553cf36f364fb9170087f2b6e7f"
+    },
+    {
+      "path": "example/input/request-4-episode-exact.json",
+      "bytes": 623,
+      "sha256": "9181a6b7f2ccfc1a4a83932aad1ab0b3f75e0ad8119fec89ba5a7888bfd86918"
+    },
+    {
+      "path": "example/input/synthetic-episode.txt",
+      "bytes": 360,
+      "sha256": "3491496b4e08aee2eb6bb40cebfc039dd7a79dd8916fc548cf2ea14753d3ea76"
+    },
+    {
+      "path": "example/input/synthetic.txt",
+      "bytes": 45,
+      "sha256": "594dc30789116899421a9e73275fc6022b7d65906d9c4ada8d6b32a2b9cf0fa2"
+    },
+    {
+      "path": "example/output/SUMMARY.json",
+      "bytes": 912,
+      "sha256": "4d97b362710bc47d66097898ff0f640a66927943d62c39b0d30325914b89f3e8"
+    },
+    {
+      "path": "example/output/request-1-bundled-exact.report.json",
+      "bytes": 1740,
+      "sha256": "4badd1ef7938d9175065e454760d971a869e408b6c0b0b1f462e4aa562cec014"
+    },
+    {
+      "path": "example/output/request-2-altered-word.report.json",
+      "bytes": 1528,
+      "sha256": "5c48fc76eee1105a2b997e3c88b2517729b81f18f0b9e65f5d1993fe881a7504"
+    },
+    {
+      "path": "example/output/request-3-two-speakers.report.json",
+      "bytes": 1955,
+      "sha256": "d5a622a3ee9b48cfdb3a0d47743ed39c6329d2b175b793300078e3c3b1c1970c"
+    },
+    {
+      "path": "example/output/request-4-episode-exact.report.json",
+      "bytes": 1755,
+      "sha256": "a1bb40db96d0cae6ef2a21fbd4f06f500013a3c2319cad570d49d0cf586f9729"
+    },
+    {
+      "path": "example/run_example.py",
+      "bytes": 2338,
+      "sha256": "d1ce23dede106b53971c6a8692215c57e1ca5a3ef88f37956270a9f205ac3b4c"
+    },
+    {
+      "path": "tool/.gitignore",
+      "bytes": 62,
+      "sha256": "fc1bfa4d3577d68b5e139b8f82afa8a9dc78633cd00feae5e11ccf38eeef96e8"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/SKILL.md",
+      "bytes": 4322,
+      "sha256": "9f17779f1434764449cf8d0132c3fd0599176c99b8731922d88ba531705deceb"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/agents/openai.yaml",
+      "bytes": 280,
+      "sha256": "4e5359cbf62280398027569c2cd66517593f47130a2c61c637fdeb132356d1d9"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/assets/quote-request.json",
+      "bytes": 876,
+      "sha256": "6e9d63ef47d5f25d68e80283c5cbe3a174b7b883ee8217f8bf3adfe55f795acf"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/assets/working-templates.md",
+      "bytes": 3557,
+      "sha256": "a836c9255176ff0bc624b31dc14c35b1a79620de1e5981ff96e3c8ffe39df0da"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/references/analysis.md",
+      "bytes": 5535,
+      "sha256": "8131235994c1d254df359149be1c96d323364b58956c220eeb1bb1d8984307ec"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/references/bibliography.md",
+      "bytes": 3838,
+      "sha256": "e6daba04312d3eed04c058277d7b0079e8eac8c030fbca048d4d61c1f558ea6a"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/references/corpus.md",
+      "bytes": 4586,
+      "sha256": "db8537cdb138864ae9336abe4fe0e72f15cdca9f00ff1d2968fbce786fa273fd"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/references/limits.md",
+      "bytes": 3204,
+      "sha256": "e46b0cd69653e4ce0da56e5012359c4290dd479affc6ddf2414d1f0e1893d01d"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/references/quote-check.md",
+      "bytes": 7622,
+      "sha256": "439dd16c4cbccba3bbd9c5008fa8db264d870b226866f2d74b8408dcd13bf2a3"
+    },
+    {
+      "path": "tool/skills/gioia-methodology/scripts/check_quote.py",
+      "bytes": 9920,
+      "sha256": "3d8b9c8ae2b6c01dbc09390b387d5e53780bb065c0615d9e1dfca4c045cfb70d"
+    },
+    {
+      "path": "tool/tests/test_quote_helper.py",
+      "bytes": 11556,
+      "sha256": "505fbfcb7aefaf2ec36817dd7fe852dc56e5d46af158272529cb8ec55207730b"
+    },
+    {
+      "path": "tool/tests/test_revision.py",
+      "bytes": 9365,
+      "sha256": "322af32fa53c9b6a0729b15cd71a9b77e16fabcbbda37573fc414e0db4d5d68e"
+    }
+  ]
+}

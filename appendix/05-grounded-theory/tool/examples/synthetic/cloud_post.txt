@@ -1,0 +1,19 @@
+SYNTHETIC / INVENTED / NON_RELEASE. Every person, date, event, prompt, quote and result below is fictional; this is not research evidence.
+Scenario: illustrator Mira is preparing four chapter-opening vignettes for the fictional Cloud Post tabletop-game booklet. Event dates below belong to an invented production day, 2031-04-12. A–D are separate briefs, not one hidden retry chain.
+A brief, 09:00 — Generate the Arrival vignette: a courier carrying three visibly separate folded parcels. The parcel count conveys three deliveries and must remain three.
+A1 event, 09:02 — Attempt ID arrival-1; parent none; prompt asks for three separate parcels. Fictional preview log: their outlines merge into one bundle.
+A2 event, 09:05 — Attempt ID arrival-2; explicit revision of arrival-1 for the same Arrival brief. Mira changes only the instruction to place gaps of sky between the parcels and leaves the parcel-count requirement unchanged. Preview log: three separate parcel outlines are visible.
+A decision, 09:07 — Mira: "I choose arrival-2. The three deliveries are readable now; I changed the spacing instruction, not the number in the story."
+B brief, 09:15 — Generate the Whisper Grove vignette: an ordinary tree with a twig shaped like an arrow pointing toward a mailbox. Its role is mood-setting, not a game rule.
+B1 event, 09:17 — Attempt ID grove-1; parent none; belongs to Whisper Grove. Preview log: the tree's branches resemble a hand pointing toward the mailbox rather than an ordinary twig arrow.
+B interpretation, 09:19 — Mira: "The pointing hand makes the grove feel alive. I can change the caption to a tree that gives directions; the caption is mine to change."
+B decision, 09:20 — Mira changes the intended depiction from an ordinary twig-arrow tree to a living guide tree, changes the caption, and explicitly chooses grove-1 without another generation. No claim that the original ordinary-tree intention was met.
+C brief, 09:30 — Generate the Two Exits bridge diagram: exactly two marked ways off the bridge, matching the booklet's fixed two-choice puzzle rule. Decorative treatment can change; the count of exits cannot.
+C1 event, 09:32 — Attempt ID bridge-1; parent none; belongs to Two Exits. Preview log: three marked exits appear.
+C2 event, 09:35 — Attempt ID bridge-2; explicit revision of bridge-1 for the same Two Exits brief. Mira removes decorative prompts and requests two plain exits. Preview log: only one exit appears.
+C countercase, 09:37 — Mira: "I could invent a story about a hidden exit, as I changed the tree caption, but that would teach the wrong puzzle. I still have time and two unused generations; time and credits are not why I am stopping."
+C decision, 09:38 — Mira: "I abandon the generated bridge route. I will draw the two exits myself and keep the puzzle rule." Neither bridge-1 nor bridge-2 is chosen. The later hand drawing is outside this trace.
+D brief, 09:45 — Generate a quiet Night Desk vignette with an empty chair and a closed envelope under a blue lamp. This is a separate mood illustration.
+D1 event, 09:47 — Attempt ID desk-1; parent none; belongs to Night Desk. Preview log: the envelope is open. Mira records, "The open flap might work, but I have not decided."
+D2 event, 09:49 — Attempt ID desk-2; explicit revision of desk-1 for Night Desk; requests a sealed envelope and a darker lamp. Fictional queue status is pending; no preview or selection is recorded.
+Trace end, 09:50 — Export ends after desk-2 enters the queue. No later decision for Night Desk, no finished hand-drawn bridge, and no independently observed viewer response is supplied. Missing events remain unknown.

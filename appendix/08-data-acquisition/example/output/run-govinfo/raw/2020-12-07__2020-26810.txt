@@ -1,0 +1,128 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Page 78851]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26810]
+
+
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+[EPA-HQ-OPP-2020-0052; FRL-10017-72]
+
+
+Pesticide Product Registration; Receipt of Applications for New 
+Uses (November 2020)
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: EPA has received applications to register a new use for a 
+pesticide product containing currently registered active ingredients. 
+Pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act 
+(FIFRA), EPA is hereby providing notice of receipt and opportunity to 
+comment on these applications.
+
+DATES: Comments must be received on or before January 6, 2021.
+
+ADDRESSES: Submit your comments, identified by the docket 
+identification (ID) number and the File Symbol of the EPA registration 
+number of interest as shown in the body of this document, by one of the 
+following methods:
+    <bullet> Federal eRulemaking Portal: <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+Follow the online instructions for submitting comments. Do not submit 
+electronically any information you consider to be Confidential Business 
+Information (CBI) or other information whose disclosure is restricted 
+by statute.
+    <bullet> Mail: OPP Docket, Environmental Protection Agency Docket 
+Center (EPA/DC), (28221T), 1200 Pennsylvania Ave. NW, Washington, DC 
+20460-0001.
+    <bullet> Hand Delivery: To make special arrangements for hand 
+delivery or delivery of boxed information, please follow the 
+instructions at <a href="https://www.epa.gov/dockets/where-send-comments-epa-dockets">https://www.epa.gov/dockets/where-send-comments-epa-dockets</a>.
+    Additional instructions on commenting or visiting the docket, along 
+with more information about dockets generally, is available at <a href="https://www.epa.gov/dockets/about-epa-dockets">https://www.epa.gov/dockets/about-epa-dockets</a>.
+    Due to the public health concerns related to COVID-19, the EPA 
+Docket Center (EPA/DC) and Reading Room is closed to visitors with 
+limited exceptions. The staff continues to provide remote customer 
+service via email, phone, and webform. For the latest status 
+information on EPA/DC services and docket access, visit <a href="https://www.epa.gov/dockets">https://www.epa.gov/dockets</a>.
+
+FOR FURTHER INFORMATION CONTACT: Marietta Echeverria, Registration 
+Division (7505P), main telephone number: (703) 305-7090, email address: 
+[email redacted]. The mailing address is: Office of Pesticide 
+Programs, Environmental Protection Agency, 1200 Pennsylvania Ave. NW, 
+Washington, DC 20460-0001. As part of the mailing address, include the 
+contact person's name, division, and mail code.
+
+SUPPLEMENTARY INFORMATION:
+
+I. General Information
+
+A. Does this action apply to me?
+
+    You may be potentially affected by this action if you are an 
+agricultural producer, food manufacturer, or pesticide manufacturer. 
+The following list of North American Industrial Classification System 
+(NAICS) codes is not intended to be exhaustive, but rather provides a 
+guide to help readers determine whether this document applies to them. 
+Potentially affected entities may include:
+    <bullet> Crop production (NAICS code 111).
+    <bullet> Animal production (NAICS code 112).
+    <bullet> Food manufacturing (NAICS code 311).
+    <bullet> Pesticide manufacturing (NAICS code 32532).
+
+B. What should I consider as I prepare my comments for EPA?
+
+    1. Submitting CBI. Do not submit this information to EPA through 
+<a href="http://regulations.gov">regulations.gov</a> or email. Clearly mark the part or all of the 
+information that you claim to be CBI. For CBI information in a disk or 
+CD-ROM that you mail to EPA, mark the outside of the disk or CD-ROM as 
+CBI and then identify electronically within the disk or CD-ROM the 
+specific information that is claimed as CBI. In addition to one 
+complete version of the comment that includes information claimed as 
+CBI, a copy of the comment that does not contain the information 
+claimed as CBI must be submitted for inclusion in the public docket. 
+Information so marked will not be disclosed except in accordance with 
+procedures set forth in 40 CFR part 2.
+    2. Tips for preparing your comments. When preparing and submitting 
+your comments, see the commenting tips at <a href="https://www.epa.gov/dockets/commenting-epa-dockets">https://www.epa.gov/dockets/commenting-epa-dockets</a>.
+
+II. Registration Applications
+
+    EPA has received applications to register new uses for pesticide 
+products containing currently registered active ingredients. Pursuant 
+to the provisions of FIFRA section 3(c)(4) (7 U.S.C. 136a(c)(4)), EPA 
+is hereby providing notice of receipt and opportunity to comment on 
+these applications. Notice of receipt of these applications does not 
+imply a decision by the Agency on these applications.
+
+Notice of Receipts--New Uses
+
+    EPA Registration Numbers: 87895-2 and 87895-4. Docket ID number: 
+EPA-HQ-OPP-2020-0600. Applicant: AgLogic Chemical, LLC., 121 S Estes 
+Dr. Ste. 101, Chapel Hill, NC 27514. Active ingredient: Aldicarb. 
+Product type: Insecticide. Proposed uses: Oranges and grapefruit in 
+Florida and Texas. Contact: RD.
+
+    Authority: 7 U.S.C. 136 et seq.
+
+    Dated: November 20, 2020.
+Hamaad Syed,
+Acting Director, Information Technology and Resources Management 
+Division, Office of Pesticide Programs.
+[FR Doc. 2020-26810 Filed 12-4-20; 8:45 am]
+BILLING CODE 6560-50-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

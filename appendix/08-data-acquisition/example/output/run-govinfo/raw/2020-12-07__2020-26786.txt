@@ -1,0 +1,686 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78904-78909]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26786]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90544; File No. SR-FICC-2020-014]
+
+
+Self-Regulatory Organizations; Fixed Income Clearing Corporation; 
+Notice of Filing and Immediate Effectiveness of a Proposed Rule Change, 
+as Modified by Amendment No. 1, To Modify the Clearance Maintenance 
+Fee, Reduce the End of Day Position Fee of the Government Securities 
+Division, and Describe the Current Rebate Policy
+
+December 1, 2020.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(``Act'') \1\ and Rule 19b-4 thereunder,\2\ notice is hereby given that 
+on November 16, 2020, Fixed Income Clearing Corporation (``FICC'') 
+filed with the Securities and Exchange Commission (``Commission'') the 
+proposed rule change. On November 30, 2020, FICC filed Amendment No. 1 
+to the proposed rule change, which revised a portion of the rule text 
+and corresponding description in the notice relating to FICC's current 
+policy regarding the issuance of rebates to its members. FICC filed the 
+proposed rule change, as modified by Amendment No. 1, pursuant to 
+Section 19(b)(3)(A) of the Act \3\ and Rule 19b-4(f)(2) thereunder.\4\ 
+The proposed rule change, as modified by Amendment No. 1 is hereinafter 
+referred to as the ``Proposed Rule Change.'' The Proposed Rule Change 
+is described in Items I, II, and III below, which Items have been 
+prepared primarily by FICC. The Commission is publishing this notice to 
+solicit comments on the Proposed Rule Change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ 15 U.S.C. 78s(b)(3)(A).
+    \4\ 17 CFR 240.19b-4(f)(2).
+---------------------------------------------------------------------------
+
+I. Clearing Agency's Statement of the Terms of Substance of the 
+Proposed Rule Change
+
+    The Proposed Rule Change consists of modifications to FICC's 
+Mortgage-Backed Securities Division (``MBSD'') Clearing Rules (``MBSD 
+Rules'') and Government Securities Division (``GSD'') Rulebook (``GSD 
+Rules'' and together with the MBSD Rules, the ``Rules'') in order to 
+(i) modify the respective Clearing Fund Maintenance Fee (``Maintenance 
+Fee'') of GSD and MBSD, (ii) reduce the end of day position fee of GSD, 
+and (iii) include a description of FICC's current policy regarding the 
+issuance of rebates to GSD Members and MBSD Clearing Members, as 
+described in greater detail below.\5\
+---------------------------------------------------------------------------
+
+    \5\ Capitalized terms not defined herein are defined in the GSD 
+Rules and the MBSD Rules, as applicable, available at <a href="http://www.dtcc.com/legal/rules-and-procedures">http://www.dtcc.com/legal/rules-and-procedures</a>.
+---------------------------------------------------------------------------
+
+II. Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change
+
+    In its filing with the Commission, the clearing agency included 
+statements concerning the purpose of and basis for the Proposed Rule 
+Change and discussed any comments it received on the Proposed Rule 
+Change. The text of these statements may be examined at the places 
+specified in Item IV below. The clearing agency has prepared summaries, 
+set forth in sections A, B, and C below, of the most significant 
+aspects of such statements.
+
+(A) Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change
+
+1. Purpose
+    FICC is proposing to amend the MBSD Rules and the GSD Rules in 
+order to (i) modify the respective Maintenance Fee of GSD and MBSD, 
+(ii) reduce the end of day position fee of GSD, and (iii) include a 
+description of FICC's current policy regarding the issuance of rebates 
+to GSD Members and MBSD Clearing Members, as described in greater 
+detail below.
+
+[[Page 78905]]
+
+(i) Background
+    FICC operates a cost plus low margin pricing model and has in place 
+procedures to control costs and to regularly review pricing levels 
+against costs of operation. It reviews pricing levels against its costs 
+of operation typically during the annual budget process. The budget is 
+approved annually by the Board. FICC's fees are cost-based plus a 
+markup as approved by the Board or management (pursuant to authority 
+delegated by the Board), as applicable. This markup or ``low margin'' 
+is applied to recover development costs and operating expenses and to 
+accumulate capital sufficient to meet regulatory and economic 
+requirements.
+a. Maintenance Fee
+    FICC implemented the Maintenance Fee in 2016 in order to (i) 
+diversify FICC's revenue sources, mitigating its dependence on revenues 
+driven by settlement volumes, and (ii) add a stable revenue source that 
+would contribute to FICC's operating margin by offsetting increasing 
+costs and expenses.\6\ The Maintenance Fees for MBSD and GSD are 
+effectively the same and charged to MBSD Clearing Members and GSD 
+Netting Members (collectively, ``Members'') in proportion to the 
+Member's deposit in their respective MBSD or GSD Clearing Fund 
+(collectively, ``Clearing Fund''), as described below.
+---------------------------------------------------------------------------
+
+    \6\ Securities Exchange Act Release No. 78529 (August 10, 2016), 
+81 FR 54626 (August 16, 2016) (SR-FICC-2016-004).
+---------------------------------------------------------------------------
+
+    The Maintenance Fee is calculated monthly, in arrears, as the 
+product of (A) 0.25 percent and (B) the average of the Member's cash 
+deposit balance in the Clearing Fund as of the end of each day, for the 
+month, multiplied by the number of days in that month and divided by 
+360. However, by its terms, the fee is waived if the monthly rate of 
+return on FICC's investment of the cash deposit balance of the Clearing 
+Fund is less than 0.25 percent for the month (``Waiver Provision'').
+    The Waiver Provision was included for the benefit of Members. FICC 
+believed that if its monthly rate of return on the investment of the 
+cash deposit balance in the Clearing Fund was less than 0.25 percent, 
+then Members would likely be experiencing similarly low interest income 
+on their deposits, including excess reserves, if applicable; in which 
+case, FICC would waive the fee. Although this approach exposed FICC to 
+the risk of not receiving revenue from the Maintenance Fee, FICC did 
+not believe that such an exposure would be common, significant, or 
+long-term.
+b. End of Day Position Fee
+    Currently, the Fee Structure of the GSD Rules includes the end of 
+day position fee, which is a position management fee. FICC implemented 
+the end of day position fee in 2018.\7\ The current end of day position 
+fee is $0.115 per million par value. This end of day position fee is 
+calculated for a GSD Member each Business Day based on the end of day 
+gross position of the GSD Member (including positions of any GSD Non-
+Member that the GSD Member is clearing for) that Business Day. FICC 
+determines the end of day gross position of a GSD Member by netting the 
+par value of all compared buy/sell transactions, Repo Transactions, and 
+unsettled obligations of the GSD Member (including any such activity 
+submitted by the GSD Member for a GSD Non-Member that the GSD Member is 
+clearing for) at the end of the Business Day by CUSIP Number and taking 
+the sum of the absolute par value of each such CUSIP Number.
+---------------------------------------------------------------------------
+
+    \7\ Securities Exchange Act Release No. 83401 (June 8, 2018), 83 
+FR 27812 (June 14, 2018) (SR-FICC-2018-003).
+---------------------------------------------------------------------------
+
+    The end of day position fee aims to align pricing with the costs of 
+services provided by FICC because the end of day position fee is driven 
+by position management. The end of day position fee aims to reflect the 
+costs associated with end of day processing, overnight position 
+management, and various risk and operational activities required to 
+assure the ability of FICC to continue to provide a dependable, stable 
+and efficient clearing and settlement service for GSD Members.
+c. Rebate
+    FICC is also proposing to amend Section XII of the Fee Structure of 
+the GSD Rules, the Important Note under Section I of the FICC MBSD 
+Schedule of Charges Broker Account Group (``Schedule of Charges Broker 
+Account Group'') of the MBSD Rules and Section I of the FICC MSBD 
+Schedule of Charges Dealer Account Group (``Schedule of Charges Dealer 
+Account Group'') of the MBSD Rules. The Proposed Rule Change would 
+replace a current description of FICC's policy on providing GSD Members 
+and MBSD Clearing Members with a discount or surcharge with a 
+description of its current policy regarding the issuance of rebates to 
+GSD Members and MBSD Clearing Members. In connection with this change, 
+the Proposed Rule Change would also change the title of Section XII of 
+the Fee Structure of the GSD Rules from ``Capital Base, Pricing and 
+Rebate Policy'' to ``Rebate Policy'' to better describe the policy 
+described in this section.
+(ii) Proposed Changes
+a. Proposed Modification to the Maintenance Fee
+    Due to the coronavirus global pandemic and overall reaction by the 
+financial markets, the rate of return on FICC's investment of the cash 
+deposit balance in the Clearing Fund has fallen below 0.25 percent, 
+triggering the Waiver Provision. However, application of the Waiver 
+Provision in this instance has proven to be longer and more significant 
+than what FICC originally contemplated when drafting the provision, 
+resulting in a drop in FICC's revenues. If unaddressed, FICC's revenue 
+could continue to deteriorate and negatively impact FICC's long-term 
+financial health.
+    To address this issue, FICC is removing the Waiver Provision so 
+that FICC would be able to generate revenue from the Maintenance Fee 
+even if FICC's monthly rate of return on the investment of the cash 
+deposit balance in the Clearing Fund is less than 0.25 percent. The 
+ability to generate such revenue under such circumstances is important 
+in helping FICC offset its costs and expenses in many economic 
+environments. Additionally, the Proposed Rule Change would help provide 
+consistent pricing between FICC and its affiliate clearing agencies, 
+National Securities Clearing Corporation (``NSCC'') and The Depository 
+Trust Company (``DTC''),\8\ as both NSCC and DTC have filed proposed 
+rule changes concurrently with this filing that would result in the 
+same calculation of their respective Maintenance Fee.\9\
+---------------------------------------------------------------------------
+
+    \8\ The Depository Trust & Clearing Corporation (``DTCC'') is 
+the parent company of DTC, NSCC, and FICC. DTCC operates on a shared 
+services model for DTC, NSCC, and FICC. Most corporate functions are 
+established and managed on an enterprise-wide basis pursuant to 
+intercompany agreements under which it is generally DTCC that 
+provides a relevant service to DTC, NSCC, or FICC.
+    \9\ See File No. SR-DTC-2020-014 and File No. SR-NSCC-2020-018 
+available at <a href="https://www.dtcc.com/legal/sec-rule-filings">https://www.dtcc.com/legal/sec-rule-filings</a>.
+---------------------------------------------------------------------------
+
+    To effectuate the proposed change described above, the Waiver 
+Provision would be removed from (i) the Maintenance Fee in Section I 
+(Fees) of the Schedule of Charges Broker Account Group in the MBSD 
+Rules, (ii) the Maintenance Fee of Section 1(Fees) of the Schedule of 
+Charges Dealer Account Group in the MBSD Rules, and (iii) Section XIII 
+(Clearing Fund
+
+[[Page 78906]]
+
+Maintenance Fee) of the Fee Structure in the GSD Rules.
+b. Proposed Reduction of End of Day Position Fee
+    FICC is proposing to reduce the end of day position fee from $0.115 
+per million par value to $0.105 per million par value.
+    FICC believes that this proposed reduction in the end of day 
+position fee would be consistent with FICC's cost plus low-margin 
+pricing model. As described above, FICC regularly reviews pricing 
+levels against its costs of operation typically during the annual 
+budget process. FICC determined during the 2020 annual budget process 
+that the proposed reduction in the end of day position fee would help 
+better align costs to revenue and be consistent with its cost plus low-
+margin pricing model. In addition, FICC believes a proposed reduction 
+in one fee (rather than in a number of fees) is a more simple and clear 
+way for FICC to continue to generate sufficient revenues to cover its 
+operating costs plus generate a low net income operating margin (i.e., 
+to be consistent with its pricing model).
+    Furthermore, FICC believes that, with the proposed reduction in the 
+end of day position fee, all GSD Members would benefit from a lower end 
+of day position fee while, as described above, still enabling FICC to 
+continue to generate sufficient revenues to cover its operating costs 
+plus generate a low net income operating margin. As described above, 
+because the end of day position fee is calculated based on the gross 
+position of the GSD Members, GSD Members that generate higher levels of 
+activity and make greater use of FICC's services would generally be 
+subject to a higher overall amount in terms of the end of day position 
+fee (similar to the Maintenance Fee described above). Conversely, GSD 
+Members that generate lower levels of activity and use FICC's services 
+less would generally be subject to smaller overall amount in terms of 
+their end of day position fee. Therefore, some GSD Members may see a 
+greater reduction in the overall amount of the fee given that it is 
+based on the level of their activity. The described change would not 
+adjust that allocation.
+    To effectuate the proposed change described above, FICC would 
+revise the end of day position fee from $0.115 per million par value to 
+$0.105 per million par value in Section II.B of the Fee Structure of 
+the GSD Rules.
+c. Proposed Changes to the Rebate Policy
+    FICC is also proposing to amend Section XII of the Fee Structure of 
+the GSD Rules, the Important Note under Section I of the Schedule of 
+Charges Broker Account Group of the MBSD Rules and the Important Note 
+under Section I of the Schedule of Charges Dealer Account Group of the 
+MBSD Rules. The Proposed Rule Change would replace a current 
+description of FICC's policy on providing GSD Members and MBSD Clearing 
+Members with a discount or surcharge with a description of its current 
+policy regarding the issuance of rebates to GSD Members and MBSD 
+Clearing Members.
+    Currently, Section XII of the Fee Structure of the GSD Rules, the 
+Important Note under Section I of the Schedule of Charges Broker 
+Account Group of the MBSD Rules and the Important Note under Section I 
+of the Schedule of Charges Dealer Account Group of the MBSD Rules all 
+include an outdated description of FICC's policy to adjust GSD Members' 
+and MBSD Clearing Members' invoices based on FICC's revenues. This 
+description states that FICC may adjust invoices down in the form of a 
+discount or up in the form of a surcharge, based on its revenues. FICC 
+did historically provide GSD Members and MBSD Clearing Members with a 
+discount on their invoices, but it does not have any record of 
+adjusting invoices up, in the form of a surcharge, in the past.
+    FICC views its practice of providing a rebate to GSD Members and 
+MBSD Clearing Members as a corporate function, and not related to its 
+operation as a self-regulatory organization. An FICC rebate is 
+essentially a return of the revenue that FICC collects through the fees 
+it charges GSD Members and MBSD Clearing Members for its services (as 
+set forth in the Fee Structure of the GSD Rules, the Schedule of 
+Charges Broker Account Group of the MBSD Rules and Schedule of Charges 
+Dealer Account Group of the MBSD Rules). Rebates are not related to the 
+amounts GSD Members and MBSD Clearing Members deposit with FICC as 
+their Required Fund Deposits, which are made up of risk-based margin 
+charges. The determination to provide a rebate is made at the 
+corporation-level, based on a number of factors and considerations, as 
+described below, and is not a separate determination made for each 
+individual GSD Member and MBSD Clearing Member.
+    Following the financial recession of 2008, FICC ceased providing 
+such discounts in connection with the implementation of a financial 
+strategy to strengthen its financial position and health. As a result 
+of that strategy and improved financial markets, in 2019, FICC 
+determined to reinstitute its practice of discounting GSD Members' and 
+MBSD Clearing Members' invoices, in the form of a rebate, based on its 
+financial performance. In connection with this decision, FICC is 
+proposing to replace the language regarding adjustment of invoices in 
+Section XII of the Fee Structure of the GSD Rules, the Important Note 
+under Section I of the Schedule of Charges Broker Account Group of the 
+MBSD Rules and the Important Note under Section I of the Schedule of 
+Charges Dealer Account Group of the MBSD Rules to describe its current 
+rebate practice. This proposed change would not change FICC's current 
+rebate practice but would provide GSD Members and MBSD Clearing Members 
+with transparency into this practice and the governance around rebates.
+    First, the Proposed Rule Change would change the title of Section 
+XII of the Fee Structure of the GSD Rules from ``Capital Base, Pricing 
+and Rebate Policy'' to ``Rebate Policy'' to better describe the policy 
+described in this section.
+    Second, the proposed language would describe that FICC may provide 
+GSD Members and MBSD Clearing Members with a rebate of excess net 
+income, and would define excess net income as income of either FICC or 
+related to one business line of FICC after application of expenses, 
+capitalization costs, and applicable regulatory requirements. The 
+language would also state that a rebate is discretionary, to make it 
+clear that FICC is not obligated to provide a rebate.
+    Third, the proposed language would state that a rebate would be 
+approved by the Board. The proposed language would also state that, in 
+determining whether a rebate is appropriate, the Board would consider 
+one or more of the following, as appropriate: FICC's regulatory capital 
+requirements,\10\ anticipated expenses, investment needs, anticipated 
+future expenses with respect to improvement or maintenance of FICC's 
+operations, cash balances, financial projections, and appropriate level 
+of shareholders' equity.
+---------------------------------------------------------------------------
+
+    \10\ FICC manages its general business risk by holding 
+sufficient liquid net assets funded by equity to cover potential 
+general business losses so it can continue operations and services 
+as going concerns if those losses materialize, in compliance with 
+the requirements of Rule 17Ad-22(e)(15). 17 CFR 240.17Ad-22(e)(15). 
+FICC maintains a Clearing Agency Policy on Capital Requirements 
+which defines the amount of capital it must maintain for this 
+purpose and sets forth the manner in which this amount is 
+calculated. See Securities Exchange Act Release No. 89363 (July 21, 
+2020), 85 FR 45276 (July 27, 2020) (SR-FICC-2020-008) (amending 
+original filing).
+---------------------------------------------------------------------------
+
+    Fourth, the proposed language would state that, if the Board 
+determined to
+
+[[Page 78907]]
+
+issue a rebate, it would set a rebate period and a rebate payment date, 
+both of which are used to determine which GSD Members and MBSD Clearing 
+Members are eligible for a rebate. The proposed language would state 
+that GSD Members and MBSD Clearing Members that maintain their 
+membership during all or a portion of the rebate period and on the 
+rebate payment date are eligible for a rebate.
+    Finally, the proposed language would describe how rebates are 
+applied to the invoices of eligible GSD Members and MBSD Clearing 
+Members. The proposed language would state that rebates are applied to 
+all eligible GSD Members and MBSD Clearing Members on a pro-rata basis 
+based on such GSD Members' and MBSD Clearing Members' gross fees paid 
+to FICC within the applicable rebate period, excluding pass-through 
+fees and interest earned on cash deposits to the Clearing Fund. The 
+proposed language would also state that rebates are applied to eligible 
+Members' invoices on the rebate payment date as either a reduction in 
+fees owed or, if fees owed are lower than the allocated rebate amount, 
+a payment of such difference. The proposed language would also note 
+that rebate amounts may be adjusted for miscellaneous charges and 
+discounts.
+(iii) Expected Member Impact
+    The Proposed Rule Change is expected to increase FICC's annual 
+revenue by approximately $14.5 million.
+    In general, FICC anticipates that the proposal would result in fee 
+decreases for approximately 27% of impacted affiliated family of 
+Members and fee increases for approximately 73% of impacted affiliated 
+family of Members. Of the impacted affiliated family of Members that 
+may have their fees decrease, 100% of those affiliated family of 
+Members would have a decrease between $1,000 and $100,000 per year. Of 
+the impacted affiliated family of Members that may have their fees 
+increase, approximately 2% of those impacted affiliated family of 
+Members would have an increase of less than $1,000 per year, 
+approximately 60% of those impacted affiliated family of Members would 
+have an increase of $1,000 to $100,000 per year, approximately 32% of 
+those impacted affiliated family of members would have an increase of 
+$100,000 to $1 million per year, and approximately 6% of those impacted 
+affiliated family of Members would have an increase of $1 million or 
+greater per year.
+(iv) Member Outreach
+    FICC has conducted ongoing outreach to each Member in order to 
+provide them with notice of the proposed changes and the anticipated 
+impact for the Member. As of the date of this filing, no written 
+comments relating to the proposed changes have been received in 
+response to this outreach. The Commission will be notified of any 
+written comments received.
+Implementation Timeframe
+    FICC would implement this proposal on January 1, 2021. As proposed, 
+a legend would be added to the Fee Structure of the GSD Rules, the 
+Schedule of Charges Broker Account Group of the MBSD Rules and the 
+Schedule of Charges Dealer Account Group of the MBSD Rules, as 
+appropriate, stating there are changes that became effective upon 
+filing with the Commission but have not yet been implemented. The 
+proposed legend would include the date on which such changes would be 
+implemented and the file number of this proposal, and state that once 
+this proposal is implemented, the legend would automatically be 
+removed.
+2. Statutory Basis
+    FICC believes this proposal is consistent with the requirements of 
+the Act, and the rules and regulations thereunder applicable to a 
+registered clearing agency. Specifically, FICC believes the proposed 
+changes to (i) modify the respective Maintenance Fee of GSD and MBSD 
+and (ii) reduce the end of day position fee of GSD are consistent with 
+Section 17A(b)(3)(D) of the Act \11\ and the Proposed Rule Change to 
+include a description of FICC's current policy regarding the issuance 
+of rebates to GSD Members and MBSD Clearing Members is consistent with 
+Rule 17Ad-22(e)(23)(ii),\12\ as promulgated under the Act, for the 
+reasons described below.
+---------------------------------------------------------------------------
+
+    \11\ 15 U.S.C. 78q-1(b)(3)(D).
+    \12\ 17 CFR.17Ad-22(e)(23)(ii).
+---------------------------------------------------------------------------
+
+    Section 17A(b)(3)(D) of the Act requires that the rules of a 
+clearing agency, such as FICC, provide for the equitable allocation of 
+reasonable dues, fees, and other charges among its participants.\13\ 
+FICC believes that the proposed changes to the Maintenance Fee and the 
+end of day position fee are consistent with this provision of the 
+Act.\14\
+---------------------------------------------------------------------------
+
+    \13\ 15 U.S.C. 78q-1(b)(3)(D).
+    \14\ Id.
+---------------------------------------------------------------------------
+
+    As described above, the proposal would modify the Maintenance Fee 
+to remove the Waiver Provision. Because the proposed change would not 
+alter how the Maintenance Fee is currently allocated (i.e., charged) to 
+Members, FICC believes the fee would continue to be equitably 
+allocated. More specifically, as mentioned above, the Maintenance Fee 
+is and would continue to be charged to all Members in proportion to the 
+Member's cash deposit balance in the Clearing Fund. As such, and as is 
+currently the case, Members that make greater use of FICC's services 
+would generally be subject to a larger Maintenance Fee because such 
+Member would typically be required to maintain a larger Clearing Fund 
+deposit pursuant to the respective MBSD Rules or GSD Rules.\15\ 
+Conversely, Members that use FICC's services less would generally be 
+subject to a smaller Maintenance Fee because such Members would 
+typically be required to maintain a smaller Clearing Fund deposit 
+pursuant to the respective MBSD Rules or GSD Rules.\16\ The described 
+change would not adjust that allocation. For this reason, FICC believes 
+the Maintenance Fee would continue to be equitably allocated among 
+Members.
+---------------------------------------------------------------------------
+
+    \15\ See Rule 4, GSD Rules and Rule 4, MBSD Rules, supra note 5.
+    \16\ Id.
+---------------------------------------------------------------------------
+
+    Similarly, FICC believes that the Maintenance Fee would continue to 
+be a reasonable fee under the proposed change described above. Although 
+removal of the Waiver Provision means that Members could be assessed a 
+Maintenance Fee at times when they may not otherwise have been assessed 
+the fee, the removal of the provision would enable FICC to collect 
+needed revenue from the fee even in a difficult economic environment. 
+Additionally, the proposed change would help establish consistent 
+pricing between FICC and its affiliates, NSCC and DTC, regarding each 
+of their respective Maintenance Fees, as concurrent proposals by NSCC 
+and DTC would result in the same calculation.\17\ For this reason, FICC 
+believes the Maintenance Fee would continue to be reasonable.
+---------------------------------------------------------------------------
+
+    \17\ See supra note 9.
+---------------------------------------------------------------------------
+
+    In addition, FICC believes the proposed change to reduce the end of 
+day position fee in the GSD Rules is consistent with Section 
+17A(b)(3)(D).\18\ The proposal would provide for the equitable 
+allocation of fees among participants because the proposal would apply 
+to all participants, such that all Members would be subject to this 
+proposed reduction of the end of the day position fee following the 
+implementation of the proposed change. The end of day position fee is 
+and
+
+[[Page 78908]]
+
+would continue to be charged to all GSD Members.
+---------------------------------------------------------------------------
+
+    \18\ 15 U.S.C. 78q-1(b)(3)(D).
+---------------------------------------------------------------------------
+
+    Because these proposed changes would not alter how the end of day 
+position fee is currently allocated (i.e., charged) to Members, FICC 
+believes these fees would continue to be equitably allocated. More 
+specifically, as mentioned above, the end of day position fee is and 
+would continue to be charged to all GSD Members based on their end of 
+day gross positions. As such, and is currently the case, GSD Members 
+that have more activity and make greater use of FICC's services would 
+generally be subject to a greater overall amount in terms of their end 
+of day position fee. Conversely, GSD Members that generate lower levels 
+of activity and use FICC's services less would generally be subject to 
+smaller overall amount in terms of their end of day position fee. For 
+this reason, FICC believes the end of day position fee would continue 
+to be equitably allocated among GSD Members.
+    Similarly, FICC believes that the end of day position fee would 
+continue to be a reasonable fee under the proposed change described 
+above. The proposed reduction of the end of the day position fee would 
+be consistent with FICC's cost plus low-margin pricing model. With the 
+proposed reduction of the end of day position fee, FICC believes it 
+would still be able to continue to generate sufficient revenues to 
+cover its operating costs plus generate a low net income operating 
+margin while also enabling all GSD Members to benefit from a lower end 
+of day position fee. For this reason, FICC believes the end of day 
+position fee would continue to be reasonable.
+    Based on the forgoing, FICC believes the Proposed Rule Change is 
+consistent with Section 17A(b)(3)(D).\19\
+---------------------------------------------------------------------------
+
+    \19\ Id.
+---------------------------------------------------------------------------
+
+    Rule 17Ad-22(e)(23)(ii) under the Act requires that FICC establish, 
+implement, maintain and enforce written policies and procedures 
+reasonably designed to provide sufficient information to enable 
+participants to identify and evaluate the risks, fees, and other 
+material costs they incur by participating in the covered clearing 
+agency.\20\ The Proposed Rule Change would replace an outdated 
+description of FICC's past practice of adjusting GSD Members' and MBSD 
+Clearing Members' invoices, with an updated description of its current 
+rebate practice, which, when applicable, results in a reduction to the 
+amount of fees a GSD Member and MBSD Clearing Member owes to FICC. By 
+updating Section XII of the Fee Structure of the GSD Rules, the 
+Important Note under Section I of the Schedule of Charges Broker 
+Account Group of the MBSD Rules and the Important Note under Section I 
+of the Schedule of Charges Dealer Account Group of the MBSD Rules with 
+a clear, transparent description of FICC's current rebate practice, the 
+Proposed Rule Change would provide GSD Members and MBSD Clearing 
+Members with sufficient information to evaluate the fees they may incur 
+by participating in FICC. Therefore, FICC believes the Proposed Rule 
+Change would be consistent with the requirements of Rule 17Ad-
+22(e)(23)(ii).\21\
+---------------------------------------------------------------------------
+
+    \20\ 17 CFR 240.17Ad-22(e)(23)(ii).
+    \21\ Id.
+---------------------------------------------------------------------------
+
+(B) Clearing Agency's Statement on Burden on Competition
+
+    FICC does not believe that the Proposed Rule Changes to (i) modify 
+the Maintenance Fee of GSD and MBSD and (ii) update and enhance the 
+transparency of FICC's policy regarding the issuance of rebates to GSD 
+Members and MBSD Clearing Members in the GSD Rules and MBSD Rules would 
+have any impact, or impose any burden, on competition among its Members 
+for the reasons described below. FICC believes that the proposed change 
+to reduce the end of day position fee could promote competition among 
+GSD Members for the reasons described below.
+    FICC does not believe that the proposed change to the Maintenance 
+Fee would have an impact on competition among its Members. As described 
+above, the Maintenance Fee is charged ratably based on Members' use of 
+FICC's services, as reflected in Members' cash deposit balances to the 
+Clearing Fund. Thus, the fee is designed to be reflective of each 
+Member's individual activity at FICC. Nevertheless, if removal of the 
+Waiver Provision, and the resulting imposition of the Maintenance Fee 
+at a time when a Member would not have otherwise been assessed the fee, 
+would create a competitive burden for a Member, FICC believes such a 
+burden would not be significant, given that the amount assessed would 
+be the same but for application of the Waiver Provision. Moreover, FICC 
+believes that any such burden would be necessary and appropriate in 
+furtherance of the purposes of the Act, as permitted by Section 
+17A(b)(3)(I) of the Act.\22\
+---------------------------------------------------------------------------
+
+    \22\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    The burden would be necessary because it is essential that FICC 
+offset some of its costs and expenses with stable revenue generated 
+from the Maintenance Fee, regardless of the economic environment. As 
+described above, not doing so could adversely affect FICC's financial 
+health. The burden would be appropriate because, as described above, 
+the Maintenance Fee is calculated, using a balanced formula, to assess 
+a fee that is reflective of the Member's use of FICC's services, so 
+that FICC can defray some of its costs and expenses in providing those 
+services.
+    FICC believes that the proposed reduction of the end of day 
+position fee could promote competition among GSD Members by potentially 
+reducing GSD Members' operating costs. As described above, the proposed 
+reduction of the end of day position fee would apply equally to all GSD 
+Members.
+    In addition, FICC does not believe the Proposed Rule Change to 
+describe its current rebate practice would have any impact, or impose 
+any burden, on competition among its Members. As described above, this 
+Proposed Rule Change would replace information currently in Section XII 
+of the Fee Structure of the GSD Rules, the Important Note under Section 
+I of the Schedule of Charges Broker Account Group of the MBSD Rules and 
+Section I of the Schedule of Charges Dealer Account Group of the MBSD 
+Rules, with a description of FICC's current rebate practice. As 
+described in the proposed language, under its current practice, rebates 
+are allocated to eligible Members on a pro-rata basis based on such 
+Members' gross fees paid to FICC within the applicable rebate period. 
+Therefore, the current practice is applied equally to all eligible 
+Members. The Proposed Rule Change to provide Members with transparency 
+into this practice would not cause any increase or decrease in the 
+rebates Members may receive. Therefore, this Proposed Rule Change would 
+not have any impact, or impose any burden, on competition among 
+Members.
+
+(C) Clearing Agency's Statement on Comments on the Proposed Rule Change 
+Received From Members, Participants, or Others
+
+    FICC has not received or solicited any written comments relating to 
+this proposal. FICC will notify the Commission of any written comments 
+received by FICC.
+
+III. Date of Effectiveness of the Proposed Rule Change, and Timing for 
+Commission Action
+
+    The foregoing rule change has become effective pursuant to Section 
+19(b)(3)(A) \23\ of the Act and paragraph
+
+[[Page 78909]]
+
+(f) \24\ of Rule 19b-4 thereunder. At any time within 60 days of the 
+filing of the Proposed Rule Change, the Commission summarily may 
+temporarily suspend such rule change if it appears to the Commission 
+that such action is necessary or appropriate in the public interest, 
+for the protection of investors, or otherwise in furtherance of the 
+purposes of the Act.
+---------------------------------------------------------------------------
+
+    \23\ 15 U.S.C. 78s(b)(3)(A).
+    \24\ 17 CFR 240.19b-4(f).
+---------------------------------------------------------------------------
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views and 
+arguments concerning the foregoing, including whether the Proposed Rule 
+Change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to [email redacted]. Please include 
+File Number SR-FICC-2020-014 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+All submissions should refer to File Number SR-FICC-2020-014. This file 
+number should be included on the subject line if email is used. To help 
+the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the Proposed Rule Change that are filed with 
+the Commission, and all written communications relating to the Proposed 
+Rule Change between the Commission and any person, other than those 
+that may be withheld from the public in accordance with the provisions 
+of 5 U.S.C. 552, will be available for website viewing and printing in 
+the Commission's Public Reference Room, 100 F Street NE, Washington, DC 
+20549 on official business days between the hours of 10:00 a.m. and 
+3:00 p.m. Copies of the filing also will be available for inspection 
+and copying at the principal office of FICC and on DTCC's website 
+(<a href="http://dtcc.com/legal/sec-rule-filings.aspx">http://dtcc.com/legal/sec-rule-filings.aspx</a>). All comments received 
+will be posted without change. Persons submitting comments are 
+cautioned that we do not redact or edit personal identifying 
+information from comment submissions. You should submit only 
+information that you wish to make available publicly. All submissions 
+should refer to File Number SR-FICC-2020-014 and should be submitted on 
+or before December 28, 2020.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\25\
+---------------------------------------------------------------------------
+
+    \25\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26786 Filed 12-4-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

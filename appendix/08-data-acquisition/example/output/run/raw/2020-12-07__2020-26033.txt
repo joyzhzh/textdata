@@ -1,0 +1,762 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Rules and Regulations]
+[Pages 78787-78792]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26033]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Administration for Children and Families
+
+45 CFR Parts 1304
+
+RIN 0970-AC85
+
+
+Flexibility for Head Start Designation Renewals in Certain 
+Emergencies
+
+AGENCY: Office of Head Start (OHS), Administration for Children and 
+Families (ACF), Department of Health and Human Services (HHS).
+
+ACTION: Interim final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This interim final rule adds a new provision to the Head Start 
+Program Performance Standards (HSPPS) to establish parameters by which 
+ACF may make designation renewal determinations during a federally 
+declared major disaster, emergency, or public health emergency (PHE) 
+and in the absence of all normally required data.
+
+DATES: This interim final rule is effective on December 7, 2020.
+    Comment date: To be assured consideration, comments on this final 
+rule must be received on or before February 5, 2021.
+
+ADDRESSES: You may submit comments, identified by [docket number and/or 
+RIN number], by any of the following methods:
+    <bullet> Federal eRulemaking Portal: <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+Follow the instructions for submitting comments.
+    <bullet> Mail: Office of Head Start, Attention: Director of Policy 
+and Planning, 330 C Street SW, 4th Floor, Washington, DC 20201.
+    Instructions: All submissions received must include the agency name 
+and docket number or RIN for this rulemaking. All comments received 
+will be posted without change to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including 
+any personal information provided.
+
+FOR FURTHER INFORMATION CONTACT: Colleen Rathgeb, Office of Head Start, 
+at [email redacted] or 1-866-763-6481. Deaf and hearing impaired 
+individuals may call the Federal Dual Party Relay Service at 1-800-877-
+8339 between 8 a.m. and 7 p.m. Eastern Standard Time.
+
+SUPPLEMENTARY INFORMATION:
+
+Table of Contents
+
+I. Statutory Authority
+II. Executive Summary
+    A. Purpose of the Interim Final Rule
+    B. Interim Final Rule Justification
+III. Background
+IV. Provisions of the Interim Final Rule
+V. Regulatory Process Matters
+    Regulatory Flexibility Act
+    Unfunded Mandates Reform Act
+    Treasury and General Government Appropriations Act of 1999
+    Federalism Assessment Executive Order 13132
+    Congressional Review
+    Paperwork Reduction Act of 1995
+    Regulatory Planning and Review Executive Order 12866, Executive 
+Order 13563, and Executive Order 13771
+VI. Regulatory Impact Analysis
+
+Tribal Consultation Statement
+
+I. Statutory Authority
+
+    ACF publishes this interim final rule under the authority granted 
+to the Secretary of Health and Human Services (the Secretary) by 
+sections 641(a), 641(c), and 644(c), of the Head Start Act, as amended 
+by the Improving Head Start for School Readiness Act of 2007 (Pub. L. 
+110-134).
+
+II. Executive Summary
+
+Purpose of the Interim Final Rule
+
+    The Improving Head Start for School Readiness Act of 2007 (the 2007 
+Reauthorization) of the Head Start Act (the Act) required ACF to 
+establish a system for determining whether Head Start (including Early 
+Head Start) grantees are delivering high-quality and comprehensive 
+services to the children and families they serve. In 2011, ACF issued a 
+regulation (76 FR 70009) to establish the Designation Renewal System 
+(DRS) to meet this requirement. Under the DRS, all Head Start grants 
+were transitioned from indefinite to 5-year grant periods, and any 
+grant that meets one or more of seven specified conditions during the 
+5-year project period is subject to an open competition for continued 
+funding. Any Head Start grant that does not meet one of the seven DRS 
+conditions becomes eligible for a new noncompetitive 5-year grant. The 
+Act lays out the types of data that must be considered as part of these 
+DRS determinations. Three of the seven conditions of the DRS were 
+revised through a final rule published on August 28, 2020. Due to the 
+ongoing 2019 Novel Coronavirus (COVID-19) pandemic, the ability of ACF 
+to collect all data on grants required for making determinations under 
+the DRS has been severely impaired. This issue is described further in 
+the following paragraph. Furthermore, there may be major disasters, 
+emergencies, or PHEs in the future that similarly impact ACF's ability 
+to collect all information required for making DRS determinations.
+    Therefore, this interim final rule adds a new section to the HSPPS 
+regulation under Part 1304 Subpart B, Designation Renewal. This new 
+section, Sec.  1304.17, establishes parameters by which ACF may make a 
+designation renewal determination when certain federally declared 
+emergencies prevent collection of all normally required data. As with 
+COVID-19, a major disaster or emergency declared by the President under 
+section 401 or 501 of the Robert T. Stafford Disaster Relief and 
+Emergency Assistance Act (42 U.S.C.
+
+[[Page 78788]]
+
+5170 and 5191) or another PHE declared by the Secretary of Health and 
+Human Services (HHS) under section 319 of the Public Health Service Act 
+(42 U.S.C. 247d) may necessitate extended, unanticipated program 
+closures or temporary shifts to different program models or service 
+delivery mechanisms, which can make certain monitoring or data 
+collection activities unsafe, impossible, and/or invalid. In these 
+situations, ACF may lack certain required data to make designation 
+renewal determinations. In cases where a grantee's 5-year grant is 
+ending and all required data are not available due to the impacts of a 
+federally declared disaster or emergency, Sec.  1304.17 allows ACF to 
+still determine if an open competition is required, or if the grant may 
+be renewed noncompetitively based on the conditions for which ACF has 
+data. Without Sec.  1304.17, ACF would not be able to make DRS 
+determinations, which could result in the loss of critical Head Start 
+services in impacted communities.
+
+Interim Final Rule Justification
+
+    On January 31, 2020, Health and Human Services Secretary Alex M. 
+Azar II (the Secretary) determined that a PHE exists retroactive to 
+January 27, 2020,\1\ under section 319 of the Public Health Service Act 
+(42 U.S.C. 247d), in response to COVID-19, and on April 21, 2020, the 
+Secretary renewed, effective April 26, 2020, the determination that a 
+PHE exists.\2\ On July 23, 2020, the Secretary again renewed this 
+determination that a PHE exists, effective July 25, 2020.\3\ The 
+Secretary renewed this determination on October 2, 2020, effective 
+October 23, 2020. On March 13, 2020, the President declared that the 
+COVID-19 pandemic in the United States constitutes a national 
+emergency,\4\ beginning March 1, 2020.
+---------------------------------------------------------------------------
+
+    \1\ <a href="https://www.phe.gov/emergency/news/healthactions/phe/Pages/2019-nCoV.aspx">https://www.phe.gov/emergency/news/healthactions/phe/Pages/2019-nCoV.aspx</a>.
+    \2\ <a href="https://www.phe.gov/emergency/news/healthactions/phe/Pages/covid19-21apr2020.aspx">https://www.phe.gov/emergency/news/healthactions/phe/Pages/covid19-21apr2020.aspx</a>.
+    \3\ <a href="https://www.phe.gov/emergency/news/healthactions/phe/Pages/covid19-23June2020.aspx">https://www.phe.gov/emergency/news/healthactions/phe/Pages/covid19-23June2020.aspx</a>.
+    \4\ <a href="https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/">https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/</a>.
+---------------------------------------------------------------------------
+
+    The current PHE requires urgent action on the part of ACF to 
+establish a process by which ACF will meet the requirements of the Act 
+to make designation renewal determinations while ensuring the safety of 
+Head Start program staff, children, and families. As a cohort of Head 
+Start grants approach the end of their 5-year grant periods during the 
+on-going COVID-19 pandemic, ACF must make a determination under the DRS 
+for these grantees to either receive a new 5-year grant non-
+competitively or to require an open competition. Extended program 
+closures due to the PHE have made, and continue to make, it impossible 
+for ACF to collect certain data elements relevant to the seven DRS 
+conditions and required as part of designation renewal determinations. 
+In the absence of a DRS determination, these communities could be left 
+without any Head Start services during a particularly challenging time 
+for the children and families Head Start programs serve. To ensure 
+children and families do not lose access to Head Start services during 
+a federally declared disaster or emergency, now and in the future, this 
+interim final rule is needed to quickly establish the process by which 
+DRS determinations will be made under these circumstances.
+    Ensuring the health and safety of Head Start staff, children, and 
+families is of utmost importance. This IFR directly supports that goal, 
+while establishing a process for ACF to meet the requirements of the 
+Act to make designation renewal determinations during the COVID-19 
+pandemic and certain other federally declared disasters or emergencies. 
+It is critically important that ACF implements this IFR as quickly as 
+possible. Due to the ongoing PHE, ACF finds good cause to waive notice 
+and comment rulemaking as ACF believes it would be impracticable and 
+contrary to the public interest for it to undertake normal notice and 
+comment rulemaking procedures, as that would delay giving ACF the 
+flexibility to make DRS determinations with the data available and to 
+ensure the continuity of critical Head Start services in impacted 
+communities. For the same reasons, because ACF cannot afford any delay 
+in effectuating this IFR, ACF finds good cause to waive the 30-day 
+delay in the effective date and, moreover, to make this IFR applicable 
+as of publication.
+
+III. Background
+
+    Since its inception in 1965, Head Start has been a leader in 
+helping children from low-income families reach kindergarten more 
+prepared to succeed in school. Through the 2007 Reauthorization, 
+Congress required HHS to ensure these children receive the highest 
+quality services possible. In support of that requirement, the 2007 
+Reauthorization directed the Secretary to establish the Designation 
+Renewal System (DRS) to (1) identify Head Start grantees delivering a 
+high-quality and comprehensive Head Start program that could receive 
+funding noncompetitively for a 5-year period and grantees not 
+delivering a high-quality and comprehensive Head Start program that 
+will be required to compete for continued funding, and (2) transition 
+all grants from indefinite grants to 5-year grant periods. Congress 
+required that decisions about which grantees would have to compete be 
+based on budget and fiscal management data (including annual audits), 
+program monitoring reviews, classroom quality--and in particular 
+teacher-child interactions--as measured by a valid and reliable 
+research-based observational instrument, and other program information.
+    In 2011, HHS published a final rule to establish the DRS that 
+included seven conditions. Grants that met one or more of the seven 
+conditions would have their funding subject to an open competition for 
+the next 5-year grant period. Grantees that did not meet a condition 
+became eligible to receive a new noncompetitive 5-year grant. Following 
+the transition of all grants from indefinite to 5-year project periods 
+and considering available data and research, a 2020 final rule \5\ 
+revised the DRS and made changes to three of the seven DRS conditions. 
+Effective November 9, 2020, Head Start grants that meet one or more of 
+the following seven conditions under the DRS are subject to an open 
+competition: (1) Two or more deficiencies under section 641A(c)(1)(A), 
+(C), or (D) of the Act; (2) failure to establish, use, and analyze 
+children's progress on agency-established school readiness goals; (3) 
+scores below competitive thresholds in any of the three domains of the 
+Classroom Assessment Scoring System: Pre-K (CLASS); (4) revocation of a 
+license to operate a center or program; (5) suspension from the 
+program; (6) debarment from receiving federal or state funds or 
+disqualification from the Child and Adult Care Food Program (CACFP); 
+and/or (7) either an audit finding of being at risk for failing to 
+continue as a ``going concern,'' or two or more audit findings of 
+material weakness or questioned costs associated with its Head Start 
+funds in audit reports submitted to the Federal Audit Clearinghouse (in 
+accordance with section 647 of the Act) for a financial period within 
+the current project period.
+---------------------------------------------------------------------------
+
+    \5\ <a href="https://www.federalregister.gov/documents/2020/08/28/2020-17746/head-start-designation-renewal-system">https://www.federalregister.gov/documents/2020/08/28/2020-17746/head-start-designation-renewal-system</a>.
+---------------------------------------------------------------------------
+
+    The notice and comment process for the 2020 final rule predated the 
+COVID-19 pandemic. In the 2019 notice of proposed rulemaking on the 
+DRS, HHS did not propose any flexibilities within the DRS to make 
+designation renewal determinations in the absence of certain
+
+[[Page 78789]]
+
+data related to the seven conditions due to a federally declared major 
+disaster, emergency, or PHE. Therefore, these flexibilities could not 
+be included in the DRS final rule that was published on August 28, 
+2020.
+
+IV. Provisions of the Interim Final Rule
+
+    All Head Start grants now operate on a 5-year project period. As a 
+cohort of Head Start grants conclude their 5-year grant period, ACF 
+must make a determination whether grants may be renewed 
+noncompetitively or if they will be subject to an open competition. The 
+Act requires ACF to consider a number of factors in making a 
+designation renewal determination. As described previously, a federally 
+declared major disaster or emergency or PHE can make it unsafe or 
+impossible to collect some of these required data on grants. In 
+particular with the COVID-19 pandemic, ACF has been, and continues to 
+be, unable to collect data from a valid, reliable, research-based, 
+observational measure of classroom quality as required by the Act. The 
+reasons for this are further elaborated in the following paragraph. It 
+is possible that future disasters or emergencies could also preclude 
+ACF from collecting other required data elements necessary for DRS 
+determinations.
+    ACF meets the requirement in the Act to use a valid, reliable, 
+research-based, observational measure of classroom quality as part of 
+DRS determinations through the administration of the Classroom 
+Assessment Scoring System: Pre-K (CLASS). The CLASS measures the 
+quality of teacher-child interactions on a seven-point scale in three 
+areas or domains: Emotional Support, Classroom Organization, and 
+Instructional Support. As part of the established ACF monitoring 
+process for Head Start grantees, trained reviewers administer the CLASS 
+on-site in a sample of Head Start classrooms for each grant. The scores 
+for each classroom within a grant are then averaged to create grant-
+level scores. If a grant receives an average CLASS score below the 
+following competitive thresholds for any of the three CLASS domains, 
+the grant is designated for competition under the DRS: A 5 for 
+Emotional Support, 5 for Classroom Organization, and 2.3 for 
+Instructional Support.\6\ Each year, ACF schedules a subset of Head 
+Start grantees for CLASS reviews, depending on where in the 5-year 
+project period each grant is. The completion of these CLASS reviews 
+within a certain window of time is critical to ensure ACF can complete 
+the necessary subsequent steps for each grant, to determine and notify 
+the grantee of their status as either competitive or non-competitive 
+under the DRS with sufficient time prior to the end of their current 5-
+year project period to run the necessary competitive processes.
+---------------------------------------------------------------------------
+
+    \6\ As promulgated in the DRS final rule published on August 28, 
+2020, the competitive threshold for the Instructional Support domain 
+is 2.3 for CLASS reviews conducted up through July 31, 2025, and 
+then this threshold increases to 2.5 for CLASS reviews conducted on 
+or after August 1, 2025.
+---------------------------------------------------------------------------
+
+    In March 2020, ACF made the decision to temporarily suspend the 
+administration of CLASS reviews in Head Start classrooms due to the 
+COVID-19 PHE. At that time, ACF was concerned about jeopardizing the 
+health and safety of Head Start children and staff by sending outside 
+observers into Head Start classrooms to conduct CLASS reviews. Many 
+Head Start classrooms across the country closed due to increased health 
+and safety concerns amid the spread of COVID-19. Due to the evolving 
+nature of the COVID-19 pandemic, ACF has been uncertain about the 
+ability to resume CLASS reviews during the 2020-2021 program year. 
+Therefore, in an information memorandum directed to Head Start and 
+Early Head Start grantees published on September 24, 2020, ACF 
+announced the decision to suspend all CLASS reviews for the 2020-2021 
+program year.\7\
+---------------------------------------------------------------------------
+
+    \7\ <a href="https://eclkc.ohs.acf.hhs.gov/policy/im/acf-im-hs-20-05">https://eclkc.ohs.acf.hhs.gov/policy/im/acf-im-hs-20-05</a>.
+---------------------------------------------------------------------------
+
+    There are multiple factors that informed this decision. First, as 
+the impacts of the COVID-19 pandemic are very different in different 
+parts of the country, Head Start programs must make locally determined 
+decisions regarding whether they can safely operate in-person services 
+for children and families. Programs that do not operate in-person 
+services for a period of time are, instead, providing some type of 
+remote or virtual services for enrolled children and families. The 
+CLASS tool was not originally designed to conduct observations of 
+virtual interactions between teachers and children, and the research on 
+such use of the tool is very limited. Therefore, if a program is closed 
+for in-person services for an extended period due to the pandemic, and 
+even if the program is providing virtual services, ACF cannot conduct 
+CLASS reviews of virtual teaching for monitoring and oversight purposes 
+with those programs.
+    Second, as previously alluded, for Head Start programs that are 
+providing in-person services to children and families during part or 
+all of the 2020-2021 program year, ACF is not able to send additional 
+outside individuals into classrooms to conduct CLASS observations 
+without increasing the risk of exposing Head Start children and staff 
+to the virus. This is consistent with best practice guidance from the 
+Centers for Disease Control and Prevention on safely providing child 
+care in group settings during the COVID-19 pandemic.\8\
+---------------------------------------------------------------------------
+
+    \8\ <a href="https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/guidance-for-childcare.html#open">https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/guidance-for-childcare.html#open</a>.
+---------------------------------------------------------------------------
+
+    Finally, ACF expects that Head Start services may look very 
+different during the 2020-2021 program year due to the COVID-19 
+pandemic and the PHE. Therefore, ACF strongly believes the CLASS 
+instrument would not capture an accurate picture of teacher-child 
+interactions during this program year. For instance, due to the fact 
+that some programs will likely be operating virtual services for part 
+or all of their enrollment, and this might change throughout the 
+program year, there is a lot of uncertainty for ACF around the 
+availability of a sufficient sample size for CLASS observations for any 
+given grantee.
+    In addition, ACF expects that in-person classroom interactions and 
+activities may not be `typical' during the 2020-2021 program year, as 
+the result of modifications made for the safety of children, families, 
+and staff. For example, classrooms will likely have smaller group sizes 
+and more individual time for children to allow for physical distancing 
+(as opposed to small and large group time, which are usually common in 
+early childhood classrooms). Staff and children will likely be wearing 
+masks, and a key part of accurate CLASS observations depends on the 
+observer being able to observe the reactions of the children to their 
+teacher during an observation period.
+    Furthermore, ACF expects child attendance will be lower than normal 
+during the 2020-2021 program year, whether out of parental fear of 
+sending their children back to in-person Head Start settings due to 
+possible exposure to the virus, or out of proactive measures taken by 
+the program to reduce classroom group sizes. For these reasons, ACF 
+believes the scores a grantee would receive on a CLASS review during 
+this unusual time would be systematically different from, and not 
+representative of, program learning environments that are more 
+typically observed throughout the 5-year grant period.
+    While ACF strongly believes it is still important to promote high-
+quality learning environments for all children
+
+[[Page 78790]]
+
+served in Head Start, the health and safety of children and staff 
+during this PHE, as well as the appropriate use of the CLASS tool, are 
+also paramount considerations for ACF. Therefore, ACF has made the 
+determination that a valid and reliable observational instrument that 
+assesses classroom quality as required by the Act does not exist during 
+the current PHE, so ACF cannot fulfill this requirement during this 
+time. The implementation of this IFR provides ACF the flexibility to 
+proceed with DRS determinations in the absence of CLASS data that is 
+the result of the ongoing PHE. This IFR also provides this flexibility 
+for a federally declared major disaster, emergency, or PHE in the 
+future, which could also impact the administration of CLASS or the 
+collection of other data elements necessary for making DRS 
+determinations. The flexibility will allow ACF to ensure the continuity 
+of critical Head Start services for the nation's most vulnerable 
+children and families. As stated previously, ensuring high quality 
+classroom learning environments for enrolled children is still an 
+important priority for ACF. ACF offers a wealth of training and 
+technical assistance (TTA) resources to promote quality improvement in 
+classroom learning environments and teacher-child interactions, 
+including materials on the Early Childhood Learning Knowledge Center 
+website, interactive webinars and learning modules, and online 
+opportunities for grantees to share and learn about best practices with 
+other grantees. ACF also funds a regional TTA system, which includes 
+individualized support from regional specialists for grantees on an as-
+needed basis and at the discretion of each ACF region.
+    In summary, the provision established in Sec.  1304.17 allows ACF 
+to make designation renewal decisions with the data available when the 
+determination must be made in order to ensure the continuity of Head 
+Start services, even if certain federally declared emergencies or 
+disasters preclude ACF from collecting all of the data required in the 
+Head Start Act. This flexibility ensures the safety of Head Start 
+staff, children, and families and the continuity of Head Start 
+services.
+
+V. Regulatory Process Matters
+
+Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act (RFA), see 5 U.S.C. 605(b) as 
+amended by the Small Business Regulatory Enforcement Fairness Act, 
+requires federal agencies to determine, to the extent feasible, a 
+rule's impact on small entities, explore regulatory options for 
+reducing any significant impact on a substantial number of such 
+entities, and explain their regulatory approach. The term ``small 
+entities,'' as defined in the RFA, comprises small businesses, not-for-
+profit organizations that are independently owned and operated and are 
+not dominant in their fields, and governmental jurisdictions with 
+populations of less than 50,000. Under this definition, some Head Start 
+grantees may be small entities. HHS considers a rule to have a 
+significant impact on a substantial number of small entities if it has 
+at least a 3 percent impact on revenue on at least 5 percent of small 
+entities. However, the Secretary certifies, under 5 U.S.C. 605(b), as 
+enacted by the RFA (Pub. L. 96-354), that this rule will not have a 
+significant impact on a substantial number of small entities. During a 
+major disaster or emergency or PHE--such as COVID-19--in which ACF is 
+not able to collect all data elements required for DRS determinations 
+and must exercise the flexibility set forth in Sec.  1304.17 of the 
+HSPPS, ACF expects there to be fewer grantees in competition for the 
+relevant competition cycles. Therefore, ACF does not expect there to be 
+a significant impact on a substantial number of small entities. 
+However, ACF invites comments on this IFR if any member of the public 
+believes their business, organization, or governmental jurisdiction 
+qualifies as a small entity and that the actions set forth in this IFR 
+would have a significant economic impact on that small entity.
+
+Unfunded Mandates Reform Act
+
+    The Unfunded Mandates Reform Act of 1995 (UMRA), see 2 U.S.C. 1501 
+et seq., was enacted to avoid imposing unfunded federal mandates on 
+state, local, and tribal governments, or on the private sector. Section 
+202 of UMRA requires that agencies assess anticipated costs and 
+benefits before issuing any rule whose mandates require spending in any 
+one year of $100 million in 1995 dollars, updated annually for 
+inflation. In 2020, that threshold is approximately $156 million. This 
+rule does not contain mandates that will impose spending costs on 
+state, local, or tribal governments in the aggregate, or on the private 
+sector, in excess of the threshold.
+
+Treasury and General Government Appropriations Act of 1999
+
+    Section 654 of the Treasury and General Government Appropriations 
+Act of 1999 requires federal agencies to determine whether a policy or 
+regulation may negatively affect family well-being. If the agency 
+determines a policy or regulation negatively affects family well-being, 
+then the agency must prepare an impact assessment addressing seven 
+criteria specified in the law. ACF believes it is not necessary to 
+prepare a family policymaking assessment, see Public Law 105-277, 
+because the action it takes in this interim final rule will not have 
+any impact on the autonomy or integrity of the family as an 
+institution. However, ACF invites public comment on whether the actions 
+set forth in this interim final rule would have a negative effect on 
+family well-being.
+
+Federalism Assessment Executive Order 13132
+
+    Executive Order 13132 requires federal agencies to consult with 
+state and local government officials if they develop regulatory 
+policies with federalism implications. Federalism is rooted in the 
+belief that issues that are not national in scope or significance are 
+most appropriately addressed by the level of government close to the 
+people. This rule will not have substantial direct impact on the 
+states, on the relationship between the federal government and the 
+states, or on the distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with section 6 
+of Executive Order 13132, it is determined that this action does not 
+have sufficient federalism implications to warrant the preparation of a 
+federalism summary impact statement.
+
+Congressional Review
+
+    The Congressional Review Act (CRA) allows Congress to review 
+``major'' rules issued by federal agencies before the rules take 
+effect, see 5 U.S.C. 802(a). The CRA defines a major rule as one that 
+has resulted, or is likely to result, in (1) an annual effect on the 
+economy of $100 million or more; (2) a major increase in costs or 
+prices for consumers, individual industries, federal, state, or local 
+government agencies, or geographic regions; or (3) significant adverse 
+effects on competition, employment, investment, productivity, or 
+innovation, or on the ability of United States-based enterprises to 
+compete with foreign-based enterprises in domestic and export markets, 
+see 5 U.S.C. Chapter 8. This action is not a major rule because it will 
+not have such effect.
+
+Paperwork Reduction Act of 1995
+
+    The Paperwork Reduction Act of 1995, Public Law 104-13, seeks to 
+minimize government-imposed burden
+
+[[Page 78791]]
+
+from information collections on the public. In keeping with the notion 
+that government information is a valuable asset, it also is intended to 
+improve the practical utility, quality, and clarity of information 
+collected, maintained, and disclosed.
+    The Paperwork Reduction Act defines ``information'' as any 
+statement or estimate of fact or opinion, regardless of form or format, 
+whether numerical, graphic, or narrative form, and whether oral or 
+maintained on paper, electronic, or other media (5 CFR 1320.3(h)). This 
+includes requests for information to be sent to the government, such as 
+forms, written reports and surveys, recordkeeping requirements, and 
+third-party or public disclosures (5 CFR 1320.3(c)). This action does 
+not include any new information collection requirements or changes to 
+existing information collection requirements.
+
+Regulatory Planning and Review Executive Order 12866, Executive Order 
+13563, and Executive Order 13771
+
+    Executive Orders 12866 and 13563 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 is supplemental to, and reaffirms the principles, 
+structures, and definitions governing regulatory review as established 
+in, Executive Order 12866, emphasizing the importance of quantifying 
+both costs and benefits, of reducing costs, of harmonizing rules, and 
+of promoting flexibility. Section 3(f) of Executive Order 12866 defines 
+a ``significant regulatory action'' as an action that is likely to 
+result in a rule (1) having an annual effect on the economy of $100 
+million or more in any 1 year, or adversely and materially affecting a 
+sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, or Tribal 
+governments or communities (also referred to as ``economically 
+significant''); (2) creating a serious inconsistency or otherwise 
+interfering with an action taken or planned by another agency; (3) 
+materially altering the budgetary impacts of entitlement grants, user 
+fees, or loan programs or the rights and obligations of recipients 
+thereof; or (4) raising novel legal or policy issues arising out of 
+legal mandates, the President's priorities, or the principles set forth 
+in the Executive Order. A regulatory impact analysis must be prepared 
+for major rules with economically significant effects ($100 million or 
+more in any 1 year), and an ``economically significant'' regulatory 
+action is subject to review by the Office of Management and Budget. ACF 
+does not expect this to be a significant rule.
+    Executive Order 13771, entitled ``Reducing Regulation and 
+Controlling Regulatory Costs,'' was issued on January 30, 2017 (82 FR 
+9339, February 3, 2017) and requires that the costs associated with 
+significant new regulations ``shall, to the extent permitted by law, be 
+offset by the elimination of existing costs associated with at least 
+two prior regulations.'' This rulemaking is not expected to be subject 
+to the requirements of Executive Order 13771 because it would result in 
+no more than de minimis costs.
+
+VI. Regulatory Impact Analysis
+
+Need for Regulatory Action
+
+    This regulatory action is necessary to provide ACF the flexibility 
+to make determinations under the Head Start DRS, even in the absence of 
+all required data, if this lack of data is due to a major disaster or 
+emergency or PHE. The on-going PHE due to COVD-19 has prevented ACF 
+from conducting on-site observations of grantees with the CLASS tool 
+(an observational measure of the quality teacher-child interactions in 
+the classroom), which is required by regulation. Data from these 
+observations provide one piece of information for determining whether a 
+Head Start grant can be renewed non-competitively or must compete with 
+other potential applicants for continued funding. Several grants (60) 
+whose five year project periods are ending in FY 2022 would typically 
+have their CLASS reviews completed by ACF as part of the federal 
+monitoring process sometime during FY 2020 or FY 2021. However, due to 
+the PHE, ACF has not conducted CLASS reviews since March 2020 and has 
+decided not to conduct any future CLASS reviews until at least the fall 
+of 2021. So these 60 grants whose five year project periods are nearing 
+completion do not yet have CLASS data as part of federal monitoring. 
+Without this regulatory action, CLASS reviews for these 60 grants would 
+have to be conducted in the fall of 2021, and several other decisions 
+must be made by ACF after the CLASS reviews are completed, but before 
+funding can be renewed either competitive or non-competitively. 
+Therefore, having to conduct CLASS reviews for these grants so late in 
+their project periods creates a strong risk of the project periods 
+expiring before ACF can complete the grant renewal process for these 60 
+grants. This puts the Head Start services for enrolled children and 
+families at great risk in the impacted service areas.
+
+Cost Savings Analysis
+
+    There are approximately 2,200 grants in Head Start. Absent this 
+final rule, it is estimated that 60 or 3 percent of all Head Start 
+grants will require CLASS reviews to be conducted in FY 2022 for 
+renewal determinations that must also be made in FY 2022. CLASS reviews 
+would need to be conducted to acquire the necessary data to make 
+renewal determinations as described in the Head Start Act and the Head 
+Start Program Performance Standards. Typically, CLASS reviews cost 
+about $8,500 per grant to the federal government. This primarily 
+includes the cost of travel, lodging, and wages for CLASS reviewers. 
+The total baseline cost of the 60 CLASS reviews in FY 2022 is estimated 
+at $510,000.
+    Across all Head Start grants, ACF estimates that approximately 13 
+percent of grants meet the CLASS condition of the DRS and are, 
+therefore, required to compete for continued funding. If ACF applies 
+this percentage to the 60 grants lacking CLASS data due to the COVID-19 
+pandemic, this results in an estimate of approximately 8 of these 60 
+grants that would be required to compete for continued funding due to 
+low CLASS scores if they did have CLASS data available.
+    The cost for competition associated with completing a competitive 
+application is estimated at $3,097 per applicant. This assumption 
+includes 60 hours per competitive application at a cost of 
+approximately $51.62 per hour in staff time (ACF multiplies an hourly 
+wage of approximately $25.81 by two to account for fringe benefits). 
+Applications would likely be completed by a combination of the Head 
+Start Assistant Director and other managers in an early childhood 
+program (i.e., Child Development Manager or Family and Community 
+Partnership Manager). The average hourly wage for these positions is 
+based on the U.S. Bureau of Labor Statistics Job Code 11-9031. ACF 
+multiplies $3,097 per applicant by sixteen to account for the eight 
+incumbent grantees applying for funds as well as eight non-incumbent 
+applicants for those service areas. This results in a baseline 
+estimated cost of $49,552 for these eight grantees to complete 
+competitive applications in FY 2022 if they did in fact have to 
+compete, as well as eight additional applicants. The total baseline 
+cost for conducting CLASS reviews for these 60 grants and for 
+competition associated
+
+[[Page 78792]]
+
+with 8 of these 60 grants is $559,552. With this final rule, these 
+baseline costs would not apply and are therefore cost savings in this 
+analysis.
+    With this final rule, those eight grantees that would have been 
+required to compete in FY 2022 would instead need to complete an annual 
+grant application for a new annual award. ACF assumes it takes 
+approximately 33 hours of staff time to complete a non-competitive 
+application. Using the same assumptions as above for hourly wage, ACF 
+estimates it costs approximately $1,703 per grant to complete a non-
+competitive application. ACF multiplies this by eight grants, which 
+results in a total cost of approximately $13,624 for these grantees to 
+complete a non-competitive continuation application in FY 2022. Taking 
+this cost into account, the total cost savings associated with this 
+final rule is approximately $545,928. This includes cost savings to 
+those entities that are not existing Head Start grantees as there would 
+be no funding opportunity to which they would submit a competitive 
+application.
+    A qualitative opportunity cost for this new rule is fewer 
+opportunities for entities that are not existing Head Start grantees to 
+be able to compete and potentially grow as an early childhood provider 
+in their community, for the eight communities where grants were not 
+designated for competition due to potentially low CLASS scores. There 
+is also the qualitative cost of children continuing to be served by 
+grantees which may be providing lower quality classroom learning 
+environments that would have led to competition. However, ACF believes 
+there is an added benefit of existing grantees still receiving DRS 
+determinations in a timely manner and not experiencing undue stress 
+around the status of their grant, particularly in the midst of COVID-19 
+when continuity of Head Start services for children and families is 
+critically important. Additionally, these grantees would be able to 
+continue to access and receive support from OHS through OHS' extensive 
+training and technical assistance system, to facilitate continued 
+quality improvement in classroom quality care and service provision for 
+children and families.
+    ACF does not believe there will be a significant economic impact 
+from this regulatory action since the flexibility in this interim final 
+rule will only be exercised when necessary. A federally declared major 
+disaster, emergency, or PHE that limits the ability of ACF to collect 
+all data necessary to assess programs for DRS determinations, such as 
+the COVID-19 PHE, are rare and, therefore, ACF anticipates this 
+flexibility will rarely be exercised. ACF also anticipates that this 
+flexibility will be exercised in more localized disasters in the future 
+that affect a very small subset of grantees.
+    This RIA analyzes a one-year time horizon covering FY 2022. In the 
+coming years, ACF anticipates very few grants being impacted by the 
+provision in this interim final rule. However, ACF also recognizes it 
+is difficult to predict future potential emergencies or disasters when 
+ACF may need to again exercise the flexibility laid out in this 
+regulatory provision, resulting in uncertainty around potential costs 
+and cost savings. ACF invites public comment on the reasonableness of 
+the assumptions in this regulatory impact analysis.
+
+Tribal Consultation Statement
+
+    ACF conducts an average of five tribal consultations each year for 
+those tribes operating Head Start and Early Head Start. The 
+consultations are held in four geographic areas across the country: 
+Southwest, Northwest, Midwest (Northern and Southern), and Eastern. The 
+consultations are often held in conjunction with other tribal meetings 
+or conferences, to ensure the opportunity for most of the 150 tribes 
+that operate Head Start and Early Head Start programs are be able to 
+attend and voice their concerns about issues regarding service 
+delivery. ACF completes a report after each consultation, and then 
+compiles a final report that summarizes the consultations and submits 
+the report to the Secretary at the end of the year. ACF invites public 
+comment on this interim final rule if there are concerns specific to 
+Native communities and programs.
+
+List of Subjects in 45 CFR Part 1304
+
+    Designation Renewal System, Classroom Assessment Scoring System 
+(CLASS), COVID-19, Education of disadvantaged, Grant programs--social 
+programs, Head Start, Monitoring.
+
+    Dated: November 11, 2020.
+Lynn A. Johnson,
+Assistant Secretary for Children and Families.
+    Approved: November 13, 2020.
+Alex M. Azar, II,
+Secretary.
+    For the reasons discussed in the preamble, ACF amends 45 CFR part 
+1304 as follows:
+
+PART 1304--FEDERAL ADMINISTRATIVE PROCEDURES
+
+0
+1. The authority citation for part 1304 continues to read as:
+
+    Authority: 42 U.S.C. 9801 et seq.
+
+
+0
+2. Add Sec.  1304.17 to Subpart B to read as follows:
+
+Subpart B--Designation Renewal
+
+
+Sec.  1304.17  Flexibility for Head Start Designation Renewal 
+Determinations in Certain Emergencies.
+
+    (a) In reviewing the relevant data as described in Sec.  
+1304.15(b), if ACF determines that one or more data elements described 
+in the conditions in section Sec.  1304.11 is not available due to an 
+emergency described in paragraph (b) of this section, ACF may make a 
+designation renewal determination based on the data elements that are 
+available.
+    (b) The emergencies are:
+    (1) A major disaster declared by the President under section 401 of 
+the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 
+U.S.C. 5170).
+    (2) An emergency declared by the President under section 501 of the 
+Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 
+U.S.C. 5191).
+    (3) A public health emergency declared by the Secretary pursuant to 
+section 319 of the Public Health Service Act (42 U.S.C. 247d).
+
+[FR Doc. 2020-26033 Filed 12-4-20; 8:45 am]
+BILLING CODE 4184-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

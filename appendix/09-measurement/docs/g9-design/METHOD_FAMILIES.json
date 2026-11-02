@@ -1,0 +1,72 @@
+[
+  {
+    "method_id": "MF01",
+    "title": "Lexical first use dictionaries and topics",
+    "owner_lane": "G9-L34"
+  },
+  {
+    "method_id": "MF02",
+    "title": "Semantic geometric distances",
+    "owner_lane": "G9-L34"
+  },
+  {
+    "method_id": "MF03",
+    "title": "Density rarity and outlier measures",
+    "owner_lane": "G9-L35"
+  },
+  {
+    "method_id": "MF04",
+    "title": "Recombination and relational null models",
+    "owner_lane": "G9-L35"
+  },
+  {
+    "method_id": "MF05",
+    "title": "Surprise likelihood and information",
+    "owner_lane": "G9-L36"
+  },
+  {
+    "method_id": "MF06",
+    "title": "Concept claim event and narrative structure",
+    "owner_lane": "G9-L37"
+  },
+  {
+    "method_id": "MF07",
+    "title": "Multimodal artifact comparison",
+    "owner_lane": "G9-L38"
+  },
+  {
+    "method_id": "MF08",
+    "title": "Direct LLM rubric scoring",
+    "owner_lane": "G9-L39"
+  },
+  {
+    "method_id": "MF09",
+    "title": "Pairwise and ranking judgments",
+    "owner_lane": "G9-L40"
+  },
+  {
+    "method_id": "MF10",
+    "title": "Retrieval grounded prior comparison",
+    "owner_lane": "G9-L41"
+  },
+  {
+    "method_id": "MF11",
+    "title": "Decomposed contribution verification",
+    "owner_lane": "G9-L42"
+  },
+  {
+    "method_id": "MF12",
+    "title": "Supervised and calibrated evaluators",
+    "owner_lane": "G9-L43"
+  },
+  {
+    "method_id": "MF13",
+    "title": "Ensembles and human assisted assessment",
+    "owner_lane": "G9-L43"
+  },
+  {
+    "method_id": "MF14",
+    "title": "Training-corpus overlap memorization and authenticity",
+    "owner_lane": "G9-L56"
+  }
+]

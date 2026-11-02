@@ -1,0 +1,75 @@
+{
+  "payload": {
+    "critical_hashes": [
+      {
+        "path": "provenance/alpha-sealed/payload.txt",
+        "sha256": "d173b921b846e854120c508f37e82a98b356a941b0db255987fb7d96046812fd",
+        "status": "PASS"
+      },
+      {
+        "path": "provenance/beta-sealed/payload.txt",
+        "sha256": "ed0177654f8516d146a4fe5839a98c5f8761ccff37f09ba137cc9d4baf0b885a",
+        "status": "PASS"
+      }
+    ],
+    "moves": [
+      {
+        "snapshot": {
+          "device_id": 16777233,
+          "directories_including_root": 1,
+          "files_with_nlink_gt_1": 0,
+          "logical_bytes": 171,
+          "nlink_distribution": {
+            "1": 2
+          },
+          "regular_files": 2,
+          "root_inode": 529901309,
+          "symlinks": 0,
+          "unique_regular_file_inodes": 2
+        },
+        "source_absent": "alpha-sealed",
+        "status": "PASS",
+        "target": "provenance/alpha-sealed"
+      },
+      {
+        "snapshot": {
+          "device_id": 16777233,
+          "directories_including_root": 1,
+          "files_with_nlink_gt_1": 0,
+          "logical_bytes": 167,
+          "nlink_distribution": {
+            "1": 2
+          },
+          "regular_files": 2,
+          "root_inode": 529901306,
+          "symlinks": 0,
+          "unique_regular_file_inodes": 2
+        },
+        "source_absent": "beta-sealed",
+        "status": "PASS",
+        "target": "provenance/beta-sealed"
+      }
+    ],
+    "observed_at_utc": "2026-11-02T01:23:01Z",
+    "plan_id": "example-housekeeping-plan",
+    "plan_sha256": "f0c1025a5dcc9496c3041a253195e1fd55c30b4de0b2ce9e7c45bc4b2e73112f",
+    "schema_version": "1.0",
+    "status": "PASS_POST_MOVE_STRUCTURE_HASHES_ALIASES",
+    "symlinks": [
+      {
+        "path": "current/alpha",
+        "resolved": "<workspace>/provenance/alpha-sealed",
+        "status": "PASS_RELATIVE_RESOLVED_IN_ROOT",
+        "target": "../provenance/alpha-sealed"
+      },
+      {
+        "path": "current/beta",
+        "resolved": "<workspace>/provenance/beta-sealed",
+        "status": "PASS_RELATIVE_RESOLVED_IN_ROOT",
+        "target": "../provenance/beta-sealed"
+      }
+    ],
+    "workspace_root": "<workspace>"
+  },
+  "returncode": 0
+}

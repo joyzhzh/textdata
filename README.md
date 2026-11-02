@@ -8,7 +8,7 @@
 
 TextData is an adaptive AI research infrastructure that draws on frontier large language models (LLMs) to acquire, prepare, and analyze textual data in management research. It combines AI agents, tools, workflows, and resources under researcher direction and is designed to help researchers examine extensive textual evidence, construct organizational measures, and refine theoretical explanations, while they retain authority over methods and conclusions. A deep-research engine, the adaptive core, is designed to keep the infrastructure current as LLMs advance and open-source communities develop new components.
 
-The website illustrates the components and provides access to searchable resources; this repository’s component folders retain the detailed technical accounts. Component numbers match the proposal and its technical appendix.
+The website offers illustrative demonstrations and searchable resources. This repository provides the finished resources, runnable examples and concise usage guides. Component numbers match the proposal and its technical appendix.
 
 ## The design
 
@@ -30,7 +30,7 @@ On the **right**, development agents build and maintain the deep-research engine
 
 *Components and development status. Arrows indicate the engine’s intended support for each group’s continuing development. Asterisks mark proposed additions or integration.*
 
-Each folder under [`appendix/`](appendix/) gives one component’s detailed technical account, including its evidence, limitations, and proposed development.
+Each folder under [`appendix/`](appendix/) introduces one component, its available resources and a working example. Its `AI-PROMPT.md` helps you explore the component with your own AI assistant.
 
 ### Deep-research engine
 
@@ -42,7 +42,7 @@ Each folder under [`appendix/`](appendix/) gives one component’s detailed tech
 
 | No. | Component | Completed work and evidence | Folder | Webpage |
 |---|---|---|---|---|
-| 2 | Textual-data literature reviews and database | Three methodological syntheses and a searchable database. The first release’s review materials include two syntheses and 10,732 entries from overlapping catalogues. | [`02-literature`](appendix/02-literature/) | [Webpage](https://textdata.info/foundation/literature-reviews/) |
+| 2 | Textual-data literature reviews and database | Three methodological syntheses and a searchable database. Included review materials contain two syntheses and 10,732 entries from overlapping catalogues. | [`02-literature`](appendix/02-literature/) | [Webpage](https://textdata.info/foundation/literature-reviews/) |
 | 3 | AI research systems and agent design | Two databases document AI research systems and agent designs. | [`03-agent-design`](appendix/03-agent-design/) | [Webpage](https://textdata.info/foundation/ai-research-systems/) |
 | 4 | Rich textual-data sources review | A catalogue, dated profiles, comparative review and profile-rendering tool describe coverage and observability. | [`04-data-sources`](appendix/04-data-sources/) | [Webpage](https://textdata.info/foundation/textual-data-sources/) |
 
@@ -50,17 +50,17 @@ Each folder under [`appendix/`](appendix/) gives one component’s detailed tech
 
 | No. | Component | Completed work and evidence | Folder | Webpage |
 |---|---|---|---|---|
-| 5 | Grounded Theory | An agent skill combines methods, workflows, templates and software helpers. Analysis expanded to 22 interviews over three cycles. | [`05-grounded-theory`](appendix/05-grounded-theory/) | [Webpage](https://textdata.info/toolkit/grounded-theory/) |
-| 6 | Gioia Methodology | An agent skill, templates and quotation checker support concept development. A synthetic memo contains an unsupported negative-case inference that exact quotation matching cannot detect. | [`06-gioia-methodology`](appendix/06-gioia-methodology/) | [Webpage](https://textdata.info/toolkit/gioia-methodology/) |
+| 5 | Grounded Theory | An agent skill combines methods, workflows, templates and software helpers. A worked analysis covers 22 interviews. | [`05-grounded-theory`](appendix/05-grounded-theory/) | [Webpage](https://textdata.info/toolkit/grounded-theory/) |
+| 6 | Gioia Methodology | An agent skill, templates and quotation checker support concept development. A synthetic example illustrates the distinction between checking quotations and judging an interpretation. | [`06-gioia-methodology`](appendix/06-gioia-methodology/) | [Webpage](https://textdata.info/toolkit/gioia-methodology/) |
 | 7 | Eisenhardt Case Methodology | A method map, reference collection and maintenance skill support case-method research preparation. Case analysis remains proposed. | [`07-eisenhardt-case-methodology`](appendix/07-eisenhardt-case-methodology/) | [Webpage](https://textdata.info/toolkit/eisenhardt-case-methodology/) |
 
 ### Acquisition and measurement
 
 | No. | Component | Completed work and evidence | Folder | Webpage |
 |---|---|---|---|---|
-| 8 | Large-scale data acquisition | An inventory covers 806,941 historical document records. A rebuilt workflow matched 191 identifiers and 169 raw files in a two-day comparison; the other 22 raw files differ and remain to be investigated. Full historical replay remains unavailable. | [`08-data-acquisition`](appendix/08-data-acquisition/) | [Webpage](https://textdata.info/toolkit/large-scale-data-acquisition/) |
+| 8 | Large-scale data acquisition | An inventory covers 806,941 historical document records. A working comparison illustrates acquisition and verification for 191 documents. | [`08-data-acquisition`](appendix/08-data-acquisition/) | [Webpage](https://textdata.info/toolkit/large-scale-data-acquisition/) |
 | 9 | Combining ML, NLP and LLMs | A methods catalogue, measurement specifications and a validator support research design. The proposed product-description measure has no scores. | [`09-measurement`](appendix/09-measurement/) | [Webpage](https://textdata.info/toolkit/combining-ml-nlp-llms/) |
-| 10 | LLM-annotation workflow | Tools prepare requests, check quotations and export features. Saved responses for five passages yield four candidate relations and one no-assignment record. Synthetic actor substitution and omission both pass the source checks. | [`10-annotation`](appendix/10-annotation/) | [Webpage](https://textdata.info/toolkit/llm-annotation-workflow/) |
+| 10 | LLM-annotation workflow | Tools prepare requests, check quotations and export features. Saved responses for five passages illustrate the workflow; source checks do not establish annotation accuracy. | [`10-annotation`](appendix/10-annotation/) | [Webpage](https://textdata.info/toolkit/llm-annotation-workflow/) |
 
 ML: machine learning; NLP: natural language processing; LLM: large language model.
 
@@ -68,7 +68,9 @@ This work establishes working parts of the design. Integration and research vali
 
 ## What this repository holds
 
-The repository provides detailed documentation for components 1–10; implementation files are being prepared for release. The component folders are indexed in [`appendix/README.md`](appendix/README.md).
+The repository provides tools, data and worked examples for components 1–10. Each component’s README shows how to begin, what works now and what remains proposed. The component folders are indexed in [`appendix/README.md`](appendix/README.md).
+
+Project code is licensed under [Apache 2.0](LICENSE); project-authored documentation and data are licensed under [CC BY 4.0](LICENSE-docs). Third-party material retains its own terms, recorded in the component notices.
 
 ## Extending TextData
 

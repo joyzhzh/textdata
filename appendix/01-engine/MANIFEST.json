@@ -1,0 +1,121 @@
+{
+  "component": 1,
+  "title": "Deep-research engine",
+  "website": "https://textdata.info/engine/",
+  "repository": "https://github.com/joyzhzh/textdata/tree/main/appendix/01-engine",
+  "status": {
+    "available": "Scout instructions, offline validator and worked evidence map",
+    "proposed": "Shareable integrated engine and evaluation",
+    "successor": "Not included; synthetic inputs only, 42 unit tests"
+  },
+  "licences": {
+    "code": "Apache-2.0",
+    "project_authored_documents_and_records": "CC-BY-4.0",
+    "notice": "NOTICE.md"
+  },
+  "entry_points": [
+    "README.md",
+    "AI-PROMPT.md",
+    "example/README.md",
+    "tool/README.md",
+    "docs/RESEARCH_TO_CAPABILITY.md"
+  ],
+  "checks": [
+    "python3 checks/verify_campaign.py",
+    "python3 tool/scout/scripts/validate_lean_bundle.py example/campaign",
+    "python3 checks/verify_manifest.py"
+  ],
+  "public_edition_bundle_sha256": "58e2ea5ca8e0d99f9f38dfe9001e769f1598b51fd8917e165f7d68a1d0abfd0c",
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1183,
+      "sha256": "ac446a4f220075b1fd104b100762750f9843c025519e10967ab38c4084ba0eb0"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1308,
+      "sha256": "3731518817958589ee7055ef587efd639da4e289f486ebdf10a7e9f3959e2f7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3297,
+      "sha256": "429db76d044f65a25a74c34281829a4e7518257058d74118716b84a7b48256cd"
+    },
+    {
+      "path": "checks/verify_campaign.py",
+      "bytes": 7778,
+      "sha256": "7dff15c8a523cc87322961c11555f599c7d08bb697a0e9672d02313b3ddae086"
+    },
+    {
+      "path": "checks/verify_manifest.py",
+      "bytes": 1434,
+      "sha256": "05498d2df5b0c40d6954feb353850c71820098983b6cd42186f96d56e39ef4a7"
+    },
+    {
+      "path": "docs/RESEARCH_TO_CAPABILITY.md",
+      "bytes": 1324,
+      "sha256": "96c90ee7995ae41834ae310cdbdc6a6b68fc640d899042a54903773d302e6b85"
+    },
+    {
+      "path": "example/README.md",
+      "bytes": 2453,
+      "sha256": "2c77cf7ab68e3582ad5bd8df6f4e52c03bb2c3774f96c76151408d5f3c5c48c8"
+    },
+    {
+      "path": "example/campaign/EVIDENCE_LEDGER.jsonl",
+      "bytes": 162122,
+      "sha256": "67b89e0419f05546a613850ac52f838d9837b7a8dbe25862af2bd12607c40119"
+    },
+    {
+      "path": "example/campaign/FINDINGS.md",
+      "bytes": 13713,
+      "sha256": "c02fd92f297773285d717b00a20ffef012b39ca0a3e7aad59495d87d55b82fba"
+    },
+    {
+      "path": "example/campaign/SCOPE.md",
+      "bytes": 13481,
+      "sha256": "fc51b503c621f011a04f6300ffb452a636f7c78afc9b44896dc2f8982b67958a"
+    },
+    {
+      "path": "example/campaign/SCREENING.jsonl",
+      "bytes": 172879,
+      "sha256": "a9ae7c846b874feff8f4c506a103138cdc5bdc0f9af5ef4337f72c014e839d42"
+    },
+    {
+      "path": "example/campaign/SEARCH_LOG.jsonl",
+      "bytes": 47134,
+      "sha256": "faa9ad1b8f44ffde673c214d3bb304de16108d566293dc290d3982cfb0b7694f"
+    },
+    {
+      "path": "example/campaign/SHA256SUMS",
+      "bytes": 485,
+      "sha256": "63588ba48da7c8daf954e0c8b5d587a3b6c27d77d0b7df123bef52a400f0e06b"
+    },
+    {
+      "path": "example/campaign/SYNTHESIS.md",
+      "bytes": 14078,
+      "sha256": "a34b0ebdbef645c4dac49cb7aeb8449f436dadd21e0ea8ab99418f3d09665ca1"
+    },
+    {
+      "path": "tool/README.md",
+      "bytes": 2022,
+      "sha256": "8646ca01145ecf8c4b68a84404435ae3be637be499a3c8a40c6346068e1e1eab"
+    },
+    {
+      "path": "tool/scout/SKILL.md",
+      "bytes": 12051,
+      "sha256": "b0861451fa0f674d480431f02c789b7b6a51a0d6d3de1be28fbe0bf5ffd3d9f4"
+    },
+    {
+      "path": "tool/scout/references/lean-search-contract.md",
+      "bytes": 7156,
+      "sha256": "e713c7e743bdc5d928ec4622b4dfa2fc3561b484d5a117bf12eeea245a92ffa1"
+    },
+    {
+      "path": "tool/scout/scripts/validate_lean_bundle.py",
+      "bytes": 13465,
+      "sha256": "7aaf84c982855113409e06e492642c4e7412a28cc029a5cc98a508a87a103605"
+    }
+  ]
+}

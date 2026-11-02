@@ -1,0 +1,7 @@
+{
+  "payload": {
+    "error": "source is missing or not a real directory: <workspace>/alpha-sealed",
+    "status": "REFUSED"
+  },
+  "returncode": 1
+}

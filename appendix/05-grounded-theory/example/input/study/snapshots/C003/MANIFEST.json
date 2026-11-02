@@ -1,0 +1,43 @@
+{
+  "schema_version": "0.2-phase-a",
+  "workflow_profile": "source-bound-v1",
+  "study_root": "withheld:local-study-root",
+  "study_id": "LENNY-HUMAN-AGENCY-AI-20261028",
+  "cycle_id": "C003",
+  "created_at_utc": "2026-10-28T02:28:06Z",
+  "input_manifest_sha256": "9128fd18d8fa44c5e69be7f407180816778bf6080137b64c18cb61a17a6a22ff",
+  "protocol_revision": "fa6cc2e2f93136d2d7b5d29a3b5d5b3e7d445e1d",
+  "tool_revision": "4adc9bbaccada0fe11d25e1766330159b9031472",
+  "tool_tree_sha256": "06e89e9c5c3067bc04f47ad944be6871477f7c5270ac72d656e83c4c56c029ea",
+  "producer_seat": "codex-root-with-adaptive-expansion-lanes",
+  "reviewer_seat": "fresh-nonproducing-agent-audit-planned",
+  "model_processing": {
+    "authority_ref": "OPERATOR-2026-10-28-LENNY-EXPANSION",
+    "models": [
+      "CURRENT_USER_SELECTED_CODEX_MODEL_EXACT_DEPLOYMENT_ID_UNAVAILABLE"
+    ]
+  },
+  "research_question": "How do people describe initiating, directing, evaluating, and changing their work when they use AI, and under what conditions do those capacities expand or contract?",
+  "method_profile": "inductive process study using grounded-theory techniques",
+  "method_defaults": {
+    "memo_types": [
+      "DESCRIPTIVE",
+      "COMPARISON",
+      "METHODOLOGICAL",
+      "THEORETICAL"
+    ],
+    "initial_coding": "action-oriented; prefer gerunds where they capture process",
+    "pending_amendments": {
+      "six_memo_purposes": false,
+      "optional_gerunds": false
+    }
+  },
+  "analysis_status": "WORKING",
+  "release_status": "NON_RELEASE",
+  "saturation_status": "NOT_ASSESSED",
+  "previous_cycle": {
+    "path": "withheld:previous-cycle-path",
+    "seal_sha256": "db16049bfe28319ed3869f7b8eba2f8e4c7bbf1b6f06b6911bb922aef3e4c65f"
+  },
+  "_release_note": "Release derivative: two absolute machine paths replaced with withheld markers. Historical revision, input and tool-tree hashes remain historical provenance, not hashes of the released toolkit. See RELEASE_DERIVATION.json and RELEASE_SHA256SUMS; SHA256SUMS is the unchanged original seal."
+}

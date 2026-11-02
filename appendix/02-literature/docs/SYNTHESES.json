@@ -1,0 +1,31 @@
+{
+ "schema": "textdata-literature-syntheses/1",
+ "note": "Three syntheses, two included. Scoped methodological readings, not systematic reviews or replications. Source sets overlap.",
+ "documents": [
+  {
+   "slug": "annotation-methods",
+   "file": "annotation-methods.md",
+   "shipped": true,
+   "title": "How the collected papers annotate text and test multiple models",
+   "date": "20 October 2026",
+   "scope": "Reported-method comparison of seven collected papers and three saved supplements: what the model receives and returns, how multiple models or repetitions are used, and what evaluates the output.",
+   "sha256": "5bdf9fcadffa59cb3603f990bb5efcf9d44b9fd0fdde3618ea1a739bcaeb0ec4"
+  },
+  {
+   "slug": "workflow-literature",
+   "file": "workflow-literature.md",
+   "shipped": true,
+   "title": "Annotation-workflow design: sensitivity, repeatability and evaluation",
+   "date": "20 October 2026",
+   "scope": "Eight-source assessment of sensitivity, repeatability, reference evaluation and downstream inference.",
+   "sha256": "a17bda746bbcbeb08fa132d6781a59f0cb657e0947be686be015d551beb1b354"
+  },
+  {
+   "slug": "withheld-synthesis",
+   "file": null,
+   "shipped": false,
+   "title": "A third synthesis, withheld",
+   "withheld_reason": "not included in this release"
+  }
+ ]
+}

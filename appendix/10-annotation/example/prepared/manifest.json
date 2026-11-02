@@ -1,0 +1,17 @@
+{
+  "record": "Release-derived package manifest of 2 November 2026, written by tool/workflow.py prepare from the release edition of the inputs; this field and original_manifest_sha256 were added afterwards. It is not the manifest of 29 October 2026, which is kept unchanged at checks/recorded-2026-10-29/manifest.json.",
+  "original_manifest_sha256": "08a5796b655672ee5ce58609a967d9ad959d6c5f4414b4b07a75c44d8fc6ca72",
+  "schema_version": "textdata-annotation-1",
+  "study_id": "fr-responsibility-illustration-v1",
+  "created_at": "2026-11-02T01:04:32.224655+00:00",
+  "files": {
+    "codebook.json": "dd31b1413ca711e4939ea8447b744ea9d4dc15a9a67e41a95795b51227a5e99b",
+    "prompt.txt": "6ea4395bb479f907ff98ec6b7bbe2ad744acb66e3033e6af24488e107515ace0",
+    "requests.jsonl": "61b0789286d729c8ac24c5d6df75d265acbdf1f8ecbc8dd282216763c768129c",
+    "source/2020-27065.html": "b5aebc25b9665fb743fe13094c7143cefe99f2be6f201e63b8069de585e98875",
+    "source/2020-27065.txt": "88f5a24f104b140f904574274bfc9bc3e3824e594fd5ce43f86f46e235ef8533",
+    "study.json": "1ef6f8e3f8f96bfb5cdfc46fdd1d1be763f1c32d4d87351154ff9a1af75b7d89",
+    "units.jsonl": "1c4131826db2cfb992e282ab8de259f72215c5e236bdb88d41fe0912ff250e7b"
+  },
+  "adapter_sha256": "3c9157efba2ed2aa07fe553e72f829873285674f9270422c75bf72435d08a5e2"
+}

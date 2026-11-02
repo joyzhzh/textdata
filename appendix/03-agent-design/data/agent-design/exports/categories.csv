@@ -1,0 +1,8 @@
+id,name,question
+action,Action and planning,"How should an agent choose, execute and revise its next step?"
+orchestration,Orchestration and reuse,"Which responsibilities belong in program structure, and which in a model decision?"
+state,State and context,"What must persist, and what does the model need to see now?"
+interfaces,Tools and skills,How should capabilities and methodological instructions be exposed?
+coordination,Delegation and handoff,"When does dividing work help, and what must pass between workers?"
+evaluation,Evaluation and adaptation,How will we assess a change without confusing extra computation with better design?
+evidence,Evidence and authority,How can we recover the basis of a claim and keep source content within its proper role?

@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79077-79078]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26916]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF THE TREASURY
+
+Internal Revenue Service
+
+
+Proposed Information Collection; Comment Request Relating to CPEO 
+Forms
+
+AGENCY: Internal Revenue Service (IRS), Treasury.
+
+ACTION: Notice and request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Internal Revenue Service, as part of its continuing effort 
+to reduce paperwork and respondent burden, invites the general public 
+and other Federal agencies to take this opportunity to comment on 
+information collections, as required by the Paperwork Reduction Act of 
+1995. The IRS is soliciting comments concerning Form 14737, Request for 
+Voluntary IRS Certification of a Professional Employer Organization 
+(Application),Form 14737-A, CPEO Responsible Individual Personal 
+Attestation, Form 14751 Certified Professional Employer Organization 
+Surety Bond, Form 8973, Certified Professional Employer Organization/
+Customer Reporting Agreement and TD 9860, Certified Professional 
+Employer Organizations.
+
+DATES: Written comments should be received on or before February 8, 
+2021 to be assured of consideration.
+
+ADDRESSES: Direct all written comments to Paul Adams, Internal Revenue 
+Service, Room 6526, 1111 Constitution Avenue NW, Washington, DC 20224. 
+Please send separate comments for each specific information collection 
+listed below. You must reference the information collection's title, 
+form number, reporting or record-keeping requirement number, and OMB 
+number (if any) in your comment. To obtain additional information, or 
+copies of the information collection and instructions, or copies of any 
+comments received, contact Sara Covington, (737) 800 -6149, or Internal 
+Revenue Service, Room 6526, 1111 Constitution Avenue NW, Washington, DC 
+20224, or through the internet, at [email redacted].
+
+SUPPLEMENTARY INFORMATION: The IRS is seeking comments concerning the 
+following forms, and reporting and record-keeping requirements:
+    Title: Certified Professional Employer Organization (CPEO).
+    OMB Number: 1545-2266.
+    Form Numbers: 14737 and 14737-A, 14751, 8973 and TD 9860.
+    Abstract: Section 206 of the Achieving a Better Life Experience 
+(ABLE) Act passed Dec. 19, 2014) created the Certified Professional 
+Employer Organization (CPEO) designation. The application, attestation 
+and supporting information will be used by IRS to qualify professional 
+employer organizations to become and remain a Certified Professional 
+Employer Organization, which entitles them to certain tax benefits. 
+This certification is renewed annually and the CPEO will submit annual 
+and quarterly financial statements in addition to supporting 
+documentation. Responsible individuals will submit annual attestation 
+forms and fingerprint cards. Form 14737, Request for Voluntary IRS 
+Certification of a Professional Employer Organization (Application), 
+Form 14737-A, CPEO Responsible Individual Personal Attestation, Form 
+14751, Certified Professional Employer Organization Surety Bond, Form 
+8973, Certified Professional Employer Organization/Customer Reporting 
+Agreement, and TD 9860, Certified Professional Employer Organizations, 
+will only be used by program applicants and related responsible 
+individuals.
+    Current Actions: There are no changes being made to the forms 
+previously approved by OMB. However, there were an increase in the 
+total estimated number of filers from (1,725 to 42,205) and a total 
+burden increase from (90,830, to 91,065). This collection is being 
+submitted for renewal purposes.
+    Type of Review: Extension of a currently approved collection.
+    Affected Public: Business or other for-profit organizations & 
+individuals.
+    Form 14737:
+    Estimated Number of Respondents: 120.
+    Estimated Time per Respondent: 145 hours.
+    Estimated Total Annual Burden Hours: 17,400.
+    Form 14737-A:
+    Estimated Number of Respondents: 565.
+    Estimated Time per Respondent: 20 hours.
+    Estimated Total Annual Burden Hours: 11,300.
+    Form 14751:
+    Estimated Number of Respondents: 170.
+    Estimated Time per Respondent: 2 hours.
+    Estimated Total Annual Burden Hours: 340.
+    Form 8973:
+    Estimated Number of Respondents: 41,350.
+    Estimated Time per Respondent: 1.5 hours.
+    Estimated Total Annual Burden Hours: 62,025.
+    The following paragraph applies to all of the collections of 
+information covered by this notice:
+    An agency may not conduct or sponsor, and a person is not required 
+to respond to, a collection of information unless the collection of 
+information displays a valid OMB control number. Books or records 
+relating to a collection of information must be retained as long as 
+their contents may become material in the administration of any 
+internal revenue law. Generally, tax returns and tax return information 
+are confidential, as required by 26 U.S.C. 6103.
+    Request for Comments: Comments submitted in response to this notice 
+will be summarized and/or included in our request for Office of 
+Management and
+
+[[Page 79078]]
+
+Budget (OMB) approval of the relevant information collection. All 
+comments will become a matter of public record. Please do not include 
+any confidential or inappropriate material in your comments.
+    We invite comments on: (a) Whether the collection of information is 
+necessary for the proper performance of the agency's functions, 
+including whether the information has practical utility; (b) the 
+accuracy of the agency's estimate of the burden of the collection of 
+information; (c) ways to enhance the quality, utility, and clarity of 
+the information to be collected; (d) ways to minimize the burden of the 
+collection of information on respondents, including the use of 
+automated collection techniques or other forms of information 
+technology; and (e) estimates of capital or start-up costs and costs of 
+operation, maintenance, and purchase of services to provide the 
+requested information.
+
+    Approved: December 2, 2020.
+Sara L. Covington,
+IRS Tax Analyst.
+[FR Doc. 2020-26916 Filed 12-7-20; 8:45 am]
+BILLING CODE 4830-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

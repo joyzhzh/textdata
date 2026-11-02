@@ -1,0 +1,730 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78892-78897]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26785]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90543; File No. SR-NSCC-2020-018]
+
+
+Self-Regulatory Organizations; National Securities Clearing 
+Corporation; Notice of Filing and Immediate Effectiveness of a Proposed 
+Rule Change, as Modified by Amendment No. 1, To Amend the Fee Structure
+
+December 1, 2020.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(``Act'') \1\ and Rule 19b-4 thereunder,\2\ notice is hereby given that 
+on November 16, 2020, National Securities Clearing Corporation 
+(``NSCC'') filed with the Securities and Exchange Commission 
+(``Commission'') the proposed rule change. On November 30, 2020, NSCC 
+filed Amendment No. 1 to the proposed rule change, which revised a 
+portion of the rule text and corresponding description in the notice 
+relating to NSCC's current policy regarding the issuance of rebates to 
+Participants. NSCC filed the proposed rule change, as modified by 
+Amendment No. 1, pursuant to Section 19(b)(3)(A) of the Act \3\ and 
+Rule 19b-4(f)(2) thereunder.\4\ The proposed rule change, as modified 
+by Amendment No. 1, is described in Items I, II, and III below, which 
+Items have been prepared primarily by NSCC. The Commission is 
+publishing this notice to solicit comments on the proposed rule change, 
+as modified by Amendment No. 1, from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ 15 U.S.C. 78s(b)(3)(A).
+    \4\ 17 CFR 240.19b-4(f)(2).
+---------------------------------------------------------------------------
+
+I. Clearing Agency's Statement of the Terms of Substance of the 
+Proposed Rule Change, as Modified by Amendment No. 1
+
+    The proposed rule change, as modified by Amendment No. 1, consists 
+of amendments to Addendum A (Fee Structure) of the NSCC Rules & 
+Procedures (``Rules'') \5\ in order to (i) modify the Clearing Fund 
+Maintenance Fee (``Maintenance Fee''), (ii) modify the ``value out of 
+the net'' component of the Clearance Activity Fee, and (iii) replace 
+the description currently under the heading ``NSCC Pricing Policy'' 
+with a description of NSCC's current policy regarding the issuance of 
+rebates to Members, as described in greater detail below.
+---------------------------------------------------------------------------
+
+    \5\ Capitalized terms not defined herein are defined in the 
+Rules, available at http://www.dtcc.com/~/media/Files/Downloads/
+legal/rules/nscc_rules.pdf.
+---------------------------------------------------------------------------
+
+II. Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change, as Modified by Amendment No. 1
+
+    In its filing with the Commission, the clearing agency included 
+statements concerning the purpose of and basis for the proposed rule 
+change, as modified by Amendment No. 1, and discussed any comments it 
+received on the proposed rule change, as modified by Amendment No. 1. 
+The text of these statements may be examined at the places specified in 
+Item IV below. The clearing agency has prepared
+
+[[Page 78893]]
+
+summaries, set forth in sections A, B, and C below, of the most 
+significant aspects of such statements.
+
+(A) Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change, as Modified by Amendment No. 1
+
+1. Purpose
+    The purpose of this proposed rule change, as modified by Amendment 
+No. 1, is to amend Addendum A (Fee Structure) of the Rules in order to 
+(i) modify the Maintenance Fee, (ii) modify the ``value out of the 
+net'' component of the Clearance Activity Fee, and (iii) replace the 
+description currently under the heading ``NSCC Pricing Policy'' with a 
+description of NSCC's current policy regarding the issuance of rebates 
+to Members.
+(i) Overview
+    NSCC provides clearance and settlement services for trades executed 
+by its Members in the U.S. equity, corporate and municipal bond, and 
+unit investment trust markets.
+    Members are assessed fees in accordance with Addendum A (Fee 
+Structure). The current Fee Structure covers a multitude of fees that 
+are assessed on Members based upon their activities and the services 
+utilized.
+    NSCC operates a cost plus low margin pricing model and has in place 
+procedures to control costs and to regularly review pricing levels 
+against costs of operation. It reviews pricing levels against its costs 
+of operation typically during the annual budget process. The budget is 
+approved annually by the Board. NSCC's fees are cost-based plus a 
+markup, as approved by the Board or management (pursuant to authority 
+delegated by the Board), as applicable. This markup or ``low margin'' 
+is applied to recover development costs and operating expenses, and to 
+accumulate capital sufficient to meet regulatory and economic 
+requirements.
+Maintenance Fee
+    NSCC implemented the Maintenance Fee in the current Fee Structure 
+in 2016 in order to (i) diversify NSCC's revenue sources, mitigating 
+NSCC's dependence on revenues driven by trading volumes, and (ii) add a 
+more stable revenue source that would contribute to NSCC's operating 
+margin by offsetting increasing costs and expenses.\6\ The fee is 
+charged to all NSCC Members and Limited Members that are required to 
+make deposits to the NSCC Clearing Fund (collectively, ``Contributing 
+Members'') in proportion to the Contributing Member's average, end of 
+day, monthly cash deposit to the Clearing Fund.
+---------------------------------------------------------------------------
+
+    \6\ Securities Exchange Act Release No. 78525 (August 9, 2016), 
+81 FR 54146 (August 15, 2016) (SR-NSCC-2016-002).
+---------------------------------------------------------------------------
+
+    Until June 2020, the Maintenance Fee had been calculated monthly, 
+in arrears, as the product of (A) 0.25 percent and (B) the average of 
+the Contributing Member's actual cash deposit to the NSCC Clearing Fund 
+as of the end of each day of the month, multiplied by the number of 
+days in that month and divided by 360. However, by its terms at the 
+time, the fee had been waived if the monthly rate of return on NSCC's 
+investment of the cash portion in the Clearing Fund was less than 0.25 
+percent for the month (``Waiver Provision'').
+    In June 2020, NSCC modified the Maintenance Fee in three ways.\7\ 
+First, NSCC removed the Waiver Provision. Second, instead of using a 
+fixed rate of 0.25 percent when calculating the Maintenance Fee, NSCC 
+calculated the fee using the corresponding month's average Interest 
+Rate on Excess Reserves (i.e., the IOER rate) that is determined by the 
+Board of Governors of the Federal Reserve System.\8\ Third, NSCC set a 
+ceiling of 0.25 percent and a floor of 0.00 percent on the IOER rate 
+used in the fee calculation.
+---------------------------------------------------------------------------
+
+    \7\ Securities Exchange Act Release No. 89141 (June 24, 2020), 
+85 FR 39253 (June 30, 2020) (SR-NSCC-2020-011) (``June Filing'').
+    \8\ Policy Tools, Interest on Required Reserve Balances and 
+Excess Balances, <a href="https://www.federalreserve.gov/monetarypolicy/reqresbalances.htm">https://www.federalreserve.gov/monetarypolicy/reqresbalances.htm</a>.
+---------------------------------------------------------------------------
+
+    Those three modifications were designed to help address an 
+immediate financial issue that NSCC was experiencing due to the 
+coronavirus global pandemic and overall reaction by the financial 
+markets, and, based on information at the time, to better position NSCC 
+going forward, with respect to its ability to fund its default 
+liquidity resources in various economic environments, as well as to 
+improve the overall functioning of the Maintenance Fee.\9\ However, 
+after completing NSCC's annual budgeting process that began in August 
+and finished in October 2020--in which NSCC evaluated its short- and 
+long-term financial position in consideration of expected Contributing 
+Member activity, revenues, cost of funding,\10\ market volatility, and 
+the financial markets more broadly, concerns remained around NSCC's net 
+income operating margin.
+---------------------------------------------------------------------------
+
+    \9\ See June Filing, supra note 7 (discussing the rationale for 
+the three modifications made to the Maintenance Fee).
+    \10\ See June Filing, supra note 7 (discussing NSCC's cost of 
+funding).
+---------------------------------------------------------------------------
+
+    To help address this issue, NSCC proposes to further modify the 
+Maintenance Fee. Specifically, NSCC will no longer calculate the fee 
+using the corresponding month's average IOER rate but, instead, return 
+to using a fixed rate of 0.25 percent, which, consequently, would 
+render the current floor of 0.00 percent unnecessary. NSCC is using a 
+fixed rate of 0.25 percent so that Members will not be charged an 
+amount greater than what was possible under the original and current 
+calculation of the fee.
+    NSCC believes that reverting to a fixed rate in calculating the 
+Maintenance Fee would have a number of benefits. For example, by using 
+a fixed rate, the fee would no longer fluctuate as the IOER rate 
+fluctuates, which should help Contributing Members better anticipate 
+the cost of the fee and, for NSCC, stabilize revenue generated from the 
+fee. Greater stability in the revenue generated from the fee would help 
+support NSCC's net income operating margin and, accordingly, its credit 
+ratings, which are key factors in NSCC's costs, expenses, and 
+funding.\11\ Additionally, the proposed change would help provide 
+consistent pricing between NSCC and its affiliate clearing agencies, 
+The Depository Trust Company (``DTC'') and Fixed Income Clearing 
+Corporation (``FICC''),\12\ as both DTC and FICC have filed proposed 
+rule changes concurrently with this filing that would result in the 
+same calculation of their respective maintenance fees.\13\
+---------------------------------------------------------------------------
+
+    \11\ Not only could a downgrade to an NSCC credit rating 
+increase NSCC costs and expenses, but, more importantly, it could 
+reduce the overall availability of default liquidity resources to 
+NSCC if investors or lending banks reduce their current levels of 
+engagement with NSCC.
+    \12\ The Depository Trust & Clearing Corporation (``DTCC'') is 
+the parent company of DTC, NSCC, and FICC. DTCC operates on a shared 
+services model for DTC, NSCC, and FICC. Most corporate functions are 
+established and managed on an enterprise-wide basis pursuant to 
+intercompany agreements under which it is generally DTCC that 
+provides a relevant service to DTC, NSCC, or FICC.
+    \13\ See File No. SR-DTC-2020-014 and File No. SR-FICC-2020-014 
+available at <a href="https://www.dtcc.com/legal/sec-rule-filings">https://www.dtcc.com/legal/sec-rule-filings</a>.
+---------------------------------------------------------------------------
+
+Clearance Activity Fee
+    The ``value out of the net'' component of the Clearance Activity 
+Fee in the Fee Structure is a fee based on the daily aggregate market 
+value of all settling CNS positions after netting. It is currently 
+$2.12 per million dollars of settling value (i.e., the absolute value 
+of
+
+[[Page 78894]]
+
+the CNS Long Positions and Short Positions).\14\
+---------------------------------------------------------------------------
+
+    \14\ The current ``value out of the net'' component of the 
+Clearance Activity Fee was implemented in 2019 as part of fee 
+changes to address pricing complexity. See Securities Exchange Act 
+Release No. 84770 (December 10, 2018), 83 FR 64374 (December 14, 
+2018) (SR-NSCC-2018-011).
+---------------------------------------------------------------------------
+
+    Due to the coronavirus global pandemic and overall reaction by the 
+financial markets, NSCC's cost of funding has risen sharply in 2020, 
+particularly for NSCC's key default liquidity resources. The unexpected 
+increases in cost and expense to secure and maintain those default 
+liquidity resources has added millions of dollars to NSCC's expense.
+    As described above, after completing NSCC's 2020 annual budgeting 
+process--in which NSCC evaluated its short- and long-term financial 
+position in consideration of expected Member activity, revenues, cost 
+of funding, market volatility, and the financial markets more broadly, 
+concerns remained around NSCC's net income operating margin. In order 
+to address this issue and to better align cost with revenue, NSCC 
+proposes to modify the ``value out of the net'' component of the 
+Clearance Activity Fee from $2.12 per million dollars of settling value 
+to $2.56 per million dollars of settling value. Specifically, NSCC 
+anticipates that the proposed change would enable NSCC to offset the 
+increase in its cost and expense while generating a low net income 
+operating margin, consistent with NSCC's cost plus low margin pricing 
+model.
+    NSCC believes modifying the ``value out of the net'' component of 
+the Clearance Activity Fee would further help support NSCC's net income 
+operating margin and, accordingly, its credit ratings, which, as 
+described above, are key factors in NSCC's costs, expenses, and 
+funding.
+Rebate Policy
+    NSCC is also proposing to amend Section VIII of the Fee Structure 
+to replace the description currently under the heading ``NSCC Pricing 
+Policy'' with a description of its current policy regarding the 
+issuance of rebates to Members. In connection with this change, the 
+proposed change would also amend the title of Section VIII to ``NSCC 
+Rebate Policy'' to better describe the policy in this section.
+    Section VIII of the Fee Structure currently includes an outdated 
+description of NSCC's policy to adjust Members' invoices based on 
+NSCC's revenues. This description states that NSCC may adjust invoices 
+down in the form of a discount or up in the form of a surcharge, based 
+on its revenues. NSCC did historically provide its Members with a 
+discount on their invoices, but it does not have any record of 
+adjusting Members' invoices up, in the form of a surcharge, in the 
+past.
+    NSCC views its practice of providing a rebate to its Members as a 
+corporate function, and not related to its operation as a self-
+regulatory organization. An NSCC rebate is essentially a return of the 
+revenue that NSCC collects through the fees it charges Members for its 
+services (as set forth in Addendum A of the Rules). Rebates are not 
+related to the amounts Members deposit with NSCC as their Required Fund 
+Deposits, which are made up of risk-based margin charges calculated 
+pursuant to Procedure XV of the Rules. The determination to provide a 
+rebate is made at the corporation-level, based on a number of factors 
+and considerations, as described below, and is not a separate 
+determination made for each individual Member.
+    Following the financial recession of 2008, NSCC ceased providing 
+such discounts in connection with the implementation of a financial 
+strategy to strengthen its financial position and health. As a result 
+of that strategy and improved financial markets, in 2019 NSCC 
+determined to reinstitute its practice of discounting Members' 
+invoices, in the form of a rebate, based on its financial performance. 
+In connection with this decision, NSCC is proposing to replace the 
+language under the heading ``NSCC Pricing Policy'' in Section VIII of 
+the Fee Structure to describe its current rebate practice. This 
+proposed change would not change NSCC's current rebate practice but 
+would provide Members with transparency into this practice and the 
+governance around rebates.
+(ii) Proposed Fee Changes
+    NSCC is proposing to change the Maintenance Fee in Subsection G 
+(Clearing Fund Maintenance Fee) of Section V (Pass-Through and Other 
+Fees) of the Fee Structure. Specifically, NSCC is proposing to modify 
+the Maintenance Fee by removing language regarding application of the 
+IOER rate and a floor of 0.00 percent.
+    In addition, NSCC is proposing to change the Clearance Activity Fee 
+in Subsection A (Clearance Activity Fee) of Section II (Trade Clearance 
+Fees) of the Fee Structure. Specifically, NSCC is proposing to modify 
+the ``value out of the net'' component of the Clearance Activity Fee 
+from $2.12 per million of settling value to $2.56 per million of 
+settling value.
+    Finally, NSCC is proposing to amend Section VIII of the Fee 
+Structure to replace the description currently under the heading ``NSCC 
+Pricing Policy'' with a description of its current policy regarding the 
+issuance of rebates to Members, as described above.
+    First, in connection with this change, the proposed change would 
+also amend the title of Section VIII to ``NSCC Rebate Policy'' to 
+better describe the policy in this section.
+    Second, the proposed language would describe that NSCC may provide 
+Members with a rebate of excess net income, and would define excess net 
+income as either income of NSCC or income related to one business line 
+of NSCC, after application of expenses, capitalization costs, and 
+applicable regulatory requirements. The language would also state that 
+a rebate is discretionary, to make it clear that NSCC is not obligated 
+to provide a rebate.
+    Third, the proposed language would state that a rebate would be 
+approved by the Board. The proposed language would also state that, in 
+determining whether a rebate is appropriate, the Board would consider 
+one or more of the following, as appropriate: NSCC's regulatory capital 
+requirements,\15\ anticipated expenses, investment needs, anticipated 
+future expenses with respect to improvement or maintenance of NSCC's 
+operations, cash balances, financial projections, and appropriate level 
+of shareholders' equity.
+---------------------------------------------------------------------------
+
+    \15\ NSCC manages its general business risk by holding 
+sufficient liquid net assets funded by equity to cover potential 
+general business losses so it can continue operations and services 
+as going concerns if those losses materialize, in compliance with 
+the requirements of Rule 17Ad-22(e)(15). 17 CFR 240.17Ad-22(e)(15). 
+NSCC maintains a Clearing Agency Policy on Capital Requirements 
+which defines the amount of capital it must maintain for this 
+purpose and sets forth the manner in which this amount is 
+calculated. See Securities Exchange Act Release No. 89360 (July 21, 
+2020), 85 FR 45280 (July 27, 2020) (SR-NSCC-2020-014) (amending 
+original filing).
+---------------------------------------------------------------------------
+
+    Fourth, the proposed language would state that, if the Board 
+determined to issue a rebate, it would set a rebate period and a rebate 
+payment date, both of which are used to determine which Members are 
+eligible for a rebate. The proposed language would state that Members 
+that maintain their membership during all or a portion of the rebate 
+period and on the rebate payment date are eligible for a rebate.
+    Finally, the proposed language would describe how rebates are 
+applied to the invoices of eligible Members. The proposed language 
+would state that rebates are applied to all eligible Members on a pro-
+rata basis based on
+
+[[Page 78895]]
+
+such Members' gross fees paid to NSCC within the applicable rebate 
+period, excluding pass-through fees and interest earned on Required 
+Fund Deposits. The proposed language would also state that rebates are 
+applied to eligible Members' invoices on the rebate payment date as 
+either a reduction in fees owed or, if fees owed are lower than the 
+allocated rebate amount, a payment of such difference. The proposed 
+language would also note that rebate amounts may be adjusted for 
+miscellaneous charges and discounts.
+(iii) Expected Member Impact
+    The proposed rule change, as modified by Amendment No. 1, is 
+expected to increase NSCC's annual revenue by approximately $31.6 
+million.
+    In general, NSCC anticipates that, as result of the proposed 
+changes, approximately 62% of impacted affiliated family of members 
+would have a fee increase of less than $1,000 per year, approximately 
+24% of impacted affiliated family of members would have a fee increase 
+between $1,000 to $100,000 per year, approximately 10% of impacted 
+affiliated family of members would have a fee increase of $100,000 to 
+$1 million per year, and approximately 4% of impacted affiliated family 
+of members would have a fee increase of $1 million or greater per year.
+(iv) Member Outreach
+    NSCC has conducted ongoing outreach to each Member in order to 
+provide them with notice of the proposed changes and the anticipated 
+impact for the Member. As of the date of this filing, no written 
+comments relating to the proposed changes have been received in 
+response to this outreach. The Commission will be notified of any 
+written comments received.
+(v) Implementation Timeframe
+    NSCC would implement this proposal on January 1, 2021. As proposed, 
+a legend would be added to the Fee Structure stating there are changes 
+that became effective upon filing with the Commission but have not yet 
+been implemented. The proposed legend also would include the date on 
+which such changes would be implemented and the file number of this 
+proposal, and state that, once this proposal is implemented, the legend 
+would automatically be removed.
+2. Statutory Basis
+    NSCC believes this proposal is consistent with the requirements of 
+the Act, and the rules and regulations thereunder applicable to a 
+registered clearing agency. Specifically, NSCC believes the proposed 
+changes to modify the Maintenance Fee and the ``value out of the net'' 
+component of the Clearance Activity Fee are consistent with Section 
+17A(b)(3)(D) of the Act \16\ and the proposed change to include a 
+description of NSCC's current policy regarding the issuance of rebates 
+to Members is consistent with Rule 17Ad-22(e)(23)(ii),\17\ as 
+promulgated under the Act, for the reasons described below.
+---------------------------------------------------------------------------
+
+    \16\ 15 U.S.C. 78q-1(b)(3)(D).
+    \17\ 17 CFR.17Ad-22(e)(23)(ii).
+---------------------------------------------------------------------------
+
+    Section 17A(b)(3)(D) of the Act \18\ requires that the Rules 
+provide for the equitable allocation of reasonable dues, fees, and 
+other charges among its participants. NSCC believes that the proposed 
+changes to the Maintenance Fee and the ``value out of the net'' 
+component of the Clearance Activity Fee are consistent with this 
+provision of the Act.
+---------------------------------------------------------------------------
+
+    \18\ 15 U.S.C. 78q-1(b)(3)(D).
+---------------------------------------------------------------------------
+
+    As described above, the proposal would modify the Maintenance Fee 
+to no longer calculate the fee using the corresponding month's average 
+IOER rate; rather, the calculation would revert to using a fixed rate 
+of 0.25 percent, thus, negating the need to maintain the current floor 
+of 0.00 percent.
+    Because the proposed change would not alter how the Maintenance Fee 
+is currently allocated (i.e., charged) to Contributing Members, NSCC 
+believes the fee would continue to be equitably allocated. More 
+specifically, as mentioned above, the Maintenance Fee is and would 
+continue to be charged to all Contributing Members in proportion to the 
+Contributing Member's average monthly cash deposit to the Clearing 
+Fund. As such, and as is currently the case, Contributing Members that 
+make greater use of NSCC's guaranteed services or which have activity 
+in those services that present greater risk to NSCC would generally be 
+subject to a larger Maintenance Fee because such Contributing Members 
+would typically be required to maintain larger Clearing Fund deposits 
+pursuant to the Rules.\19\ Conversely, Contributing Members that use 
+NSCC's guaranteed services less or which have activity that presents 
+less risk would generally be subject to a smaller Maintenance Fee 
+because such Contributing Members would typically be required to 
+maintain smaller Clearing Fund deposits pursuant to the Rules.\20\ The 
+proposed change to the Maintenance Fee would not adjust that 
+allocation. For this reason, NSCC believes the Maintenance Fee would 
+continue to be equitably allocated among Contributing Members.
+---------------------------------------------------------------------------
+
+    \19\ See Rule 4 and Procedure XV, supra note 5.
+    \20\ Id.
+---------------------------------------------------------------------------
+
+    Similarly, NSCC believes that the Maintenance Fee would continue to 
+be a reasonable fee under the proposed change described above. For 
+example, by using a fixed rate, instead of a rate that fluctuates with 
+the IOER rate, Contributing Members should be better able to anticipate 
+the cost of the fee. Meanwhile, a fixed rate would not only improve 
+NSCC's ability to estimate revenue from the fee, but it also would 
+stabilize the revenue received from the fee. As described above, 
+greater stability in the revenue generated from the fee would help 
+support NSCC's net income operating margin and, accordingly, its credit 
+ratings, which are key factors in NSCC's costs, expenses, and funding. 
+Additionally, using a fixed rate of 0.25 percent would help ensure that 
+Contributing Members are not charged an amount greater than what was 
+possible under the original and current calculation of the fee. Lastly, 
+the proposed change would help establish consistent pricing between 
+NSCC and its affiliates, DTC and FICC, regarding each of their 
+respective Maintenance Fees, as concurrent proposals by DTC and FICC 
+would result in the same calculation.\21\ For this reason, NSCC 
+believes the Maintenance Fee would continue to be reasonable. Based on 
+the forgoing, NSCC believes the proposed rule change to the Maintenance 
+Fee is consistent with Section 17A(b)(3)(D) of the Act.\22\
+---------------------------------------------------------------------------
+
+    \21\ See supra note 13.
+    \22\ 15 U.S.C. 78q-1(b)(3)(D).
+---------------------------------------------------------------------------
+
+    NSCC believes the proposed rule change to the ``value out of the 
+net'' component of the Clearance Activity Fee would provide for the 
+equitable allocation of reasonable fees. Because the proposed change 
+would not alter how the Clearance Activity Fee is currently allocated 
+(i.e., charged) to Members, NSCC believes the fee would continue to be 
+equitably allocated. More specifically, as mentioned above, the ``value 
+out of the net'' component of the Clearance Activity Fee is based on a 
+Member's daily aggregate market value of all settling CNS positions 
+after netting. As such, and as is currently the case, Members that make 
+greater use of NSCC's guaranteed services would generally be subject to 
+a larger Clearance Activity Fee because such Members would typically 
+have higher value of net positions after netting. Conversely, Members 
+that use NSCC's guaranteed services less would generally be subject to 
+a smaller Clearance Activity Fee
+
+[[Page 78896]]
+
+because such Members would typically have lower value of net positions 
+after netting. The proposed change to the ``value out of the net'' 
+component of the Clearance Activity Fee would not adjust that 
+allocation. For this reason, NSCC believes the Clearance Activity Fee 
+would continue to be equitably allocated among Members.
+    NSCC believes that the Clearance Activity Fee would continue to be 
+a reasonable fee under the proposed change described above. This is 
+because the proposed change to modify the ``value out of the net'' 
+component of the Clearance Activity Fee is designed to offset NSCC's 
+increased costs and expenses while generating a low net income 
+operating margin. As described above, in determining the appropriate 
+level of the proposed change to modify the ``value out of the net'' 
+component of the Clearance Activity Fee, NSCC considered a variety of 
+factors, including expected Member activity, revenues, cost of funding, 
+market volatility, and the financial markets more broadly. Based on 
+that consideration, NSCC believes the proposed change would allow NSCC 
+to assess a fee that is better aligned with NSCC's increased costs and 
+expenses. Having the ability to assess a fee that is better aligned 
+with NSCC's increased costs and expenses would further help support 
+NSCC's net income operating margin and, accordingly, its credit 
+ratings, which are key factors in NSCC's costs, expenses, and funding. 
+For this reason, NSCC believes the Clearance Activity Fee would 
+continue to be reasonable. Based on the forgoing, NSCC believes the 
+proposed rule change to the ``value out of the net'' component of the 
+Clearance Activity Fee is consistent with Section 17A(b)(3)(D) of the 
+Act.\23\
+---------------------------------------------------------------------------
+
+    \23\ Id.
+---------------------------------------------------------------------------
+
+    Rule 17Ad-22(e)(23)(ii) under the Act requires that NSCC establish, 
+implement, maintain and enforce written policies and procedures 
+reasonably designed to provide sufficient information to enable 
+participants to identify and evaluate the risks, fees, and other 
+material costs they incur by participating in the covered clearing 
+agency.\24\ The proposed change would replace an outdated description 
+of NSCC's past practice of adjusting Members' invoices with an updated 
+description of its current rebate practice, which, when applicable, 
+results in a reduction to the amount of fees a Member owes to NSCC. By 
+updating the Fee Structure with a clear, transparent description of 
+NSCC's current rebate practice, the proposed change would provide 
+Members with sufficient information to evaluate the fees they may incur 
+by participating in NSCC. Therefore, NSCC believes the proposed change 
+would be consistent with the requirements of Rule 17Ad-
+22(e)(23)(ii).\25\
+---------------------------------------------------------------------------
+
+    \24\ 17 CFR 240.17Ad-22(e)(23)(ii).
+    \25\ Id.
+---------------------------------------------------------------------------
+
+(B) Clearing Agency's Statement on Burden on Competition
+
+    NSCC does not believe that the proposed change to the Maintenance 
+Fee would have an impact on competition among Contributing Members. As 
+described above, the Maintenance Fee is charged ratably based on 
+Contributing Members' use of NSCC's guaranteed services, as reflected 
+in Contributing Members' deposits to the Clearing Fund. Thus, the fee 
+is designed to be reflective of each Contributing Member's individual 
+activity at NSCC. Additionally, NSCC does not believe reverting to a 
+fixed rate of 0.25 percent in calculating the Maintenance Fee would 
+have any impact on competition among Contributing Members because using 
+such a rate means that Contributing Members still cannot be assessed an 
+amount greater than what could have been assessed under the original 
+and current calculations of the fee.
+    However, appreciating that the value of a dollar is not consistent 
+for each Contributing Member, if the change to no longer calculate the 
+fee using the corresponding month's average IOER rate would create a 
+competitive burden for a Contributing Member because the Contributing 
+Member could be assessed a higher fee at a time when that IOER rate is 
+lower than the proposed 0.25 percent fixed rate, NSCC believes such a 
+burden would not be significant, given that the amount assessed would 
+still be within the range of what could be assessed under the current 
+calculation. Moreover, NSCC believes that any such burden would be 
+necessary and appropriate in furtherance of the purposes of the Act, as 
+permitted by Section 17A(b)(3)(I) of the Act.\26\
+---------------------------------------------------------------------------
+
+    \26\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    The burden would be necessary because it is essential that NSCC 
+continue to offset some of its costs and expenses with stable revenue 
+generated from the Maintenance Fee, regardless of the economic 
+environment. As described above, not doing so could adversely affect 
+NSCC's credit ratings, which could further increase funding or, 
+possibly, decrease the availability of crucial liquidity resources for 
+NSCC. The burden would be appropriate because, as described above, the 
+Maintenance Fee is calculated, using a balanced formula, to assess a 
+fee that is reflective of the Contributing Member's use of NSCC's 
+guaranteed services, so that NSCC can defray some of its costs and 
+expenses in providing those services. More specifically, returning to a 
+fixed rate of 0.25 percent would be appropriate because it is the same 
+rate that was used prior to the change made in June 2020,\27\ and it is 
+currently the ceiling used in the existing calculation; thus, the new 
+calculation still would not use a rate any higher than it could have 
+previously.
+---------------------------------------------------------------------------
+
+    \27\ See June Filing, supra note 7.
+---------------------------------------------------------------------------
+
+    NSCC believes the proposed rule change to modify the ``value out of 
+the net'' component of the Clearance Activity Fee may have an impact on 
+competition among its Members because the change would likely increase 
+the fees of those Members that utilize NSCC's guaranteed service when 
+compared to their fees under the current Fee Structure. NSCC believes 
+the proposed change could burden competition by negatively affecting 
+such Members' operating costs. While these Members may experience 
+increases in their fees when compared to their fees under the current 
+Fee Structure, NSCC does not believe the proposed change in and of 
+itself mean that the burden on competition is significant. This is 
+because even though the amount of the fee increase may seem significant 
+(e.g., from $2.12 to $2.56 per million of settling value), NSCC 
+believes the increase in fees would similarly affect all Members that 
+utilize NSCC's guaranteed services and would be reflective of each 
+Member's individual activity at NSCC, and therefore the burden on 
+competition would not be significant. Regardless of whether the burden 
+on competition is deemed significant, NSCC believes any burden that is 
+created by this proposed change would be necessary and appropriate in 
+furtherance of the purposes of the Act, as permitted by Section 
+17A(b)(3)(I) of the Act.\28\
+---------------------------------------------------------------------------
+
+    \28\ Id.
+---------------------------------------------------------------------------
+
+    The burden would be necessary because it is essential that NSCC 
+continue to offset some of its costs and expenses with revenue 
+generated from the Clearance Activity Fee, regardless of the economic 
+environment. As described above, not doing so could adversely affect 
+NSCC's credit ratings, which could further increase funding or, 
+possibly, decrease the availability of crucial liquidity resources for 
+NSCC. The burden would be appropriate because, as described above, the 
+Clearance Activity Fee is calculated,
+
+[[Page 78897]]
+
+using a balanced formula, to assess a fee that is reflective of the 
+Member's use of NSCC's guaranteed services, so that NSCC can defray 
+some of its costs and expenses in providing those services. More 
+specifically, NSCC believes the proposed rule change to modify the 
+``value out of the net'' component of the Clearance Activity Fee would 
+be appropriate because it would allow NSCC to assess a fee that is 
+better aligned with NSCC's increased costs and expenses while 
+generating a low net income operating margin.
+    NSCC does not believe the proposed change to describe its current 
+rebate practice would have any impact, or impose any burden, on 
+competition among its Members. As described above, this proposed rule 
+change, as modified by Amendment No. 1, would replace outdated 
+information currently in the Fee Structure with an updated description 
+of NSCC's current rebate practice. As described in the proposed 
+language, under its current practice, rebates are allocated to eligible 
+Members on a pro-rata basis based on such Members' gross fees paid to 
+NSCC within the applicable rebate period. Therefore, the current 
+practice is applied equally to all eligible Members. The proposed 
+change to provide Members with transparency into this practice would 
+not cause any increase or decrease in the rebates Members may receive. 
+Therefore, this proposed rule change, as modified by Amendment No. 1, 
+would not have any impact, or impose any burden, on competition.
+
+(C) Clearing Agency's Statement on Comments on the Proposed Rule 
+Change, as Modified by Amendment No. 1, Received From Members, 
+Participants, or Others
+
+    Written comments relating to this proposed rule change, as modified 
+by Amendment No. 1, have not been solicited or received. NSCC will 
+notify the Commission of any written comments received by NSCC.
+
+III. Date of Effectiveness of the Proposed Rule Change, as Modified by 
+Amendment No. 1, and Timing for Commission Action
+
+    The foregoing rule change has become effective pursuant to Section 
+19(b)(3)(A) of the Act \29\ and paragraph (f) of Rule 19b-4 
+thereunder.\30\ At any time within 60 days of the filing of the 
+proposed rule change, as modified by Amendment No. 1, the Commission 
+summarily may temporarily suspend such rule change if it appears to the 
+Commission that such action is necessary or appropriate in the public 
+interest, for the protection of investors, or otherwise in furtherance 
+of the purposes of the Act.
+---------------------------------------------------------------------------
+
+    \29\ 15 U.S.C. 78s(b)(3)(A).
+    \30\ 17 CFR 240.19b-4(f).
+---------------------------------------------------------------------------
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule 
+change, as modified by Amendment No. 1, is consistent with the Act. 
+Comments may be submitted by any of the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to [email redacted]. Please include 
+File Number SR-NSCC-2020-018 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+All submissions should refer to File Number SR-NSCC-2020-018. This file 
+number should be included on the subject line if email is used. To help 
+the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change, as modified by 
+Amendment No. 1, that are filed with the Commission, and all written 
+communications relating to the proposed rule change, as modified by 
+Amendment No. 1, between the Commission and any person, other than 
+those that may be withheld from the public in accordance with the 
+provisions of 5 U.S.C. 552, will be available for website viewing and 
+printing in the Commission's Public Reference Room, 100 F Street NE, 
+Washington, DC 20549 on official business days between the hours of 
+10:00 a.m. and 3:00 p.m. Copies of the filing also will be available 
+for inspection and copying at the principal office of NSCC and on 
+DTCC's website (<a href="http://dtcc.com/legal/sec-rule-filings.aspx">http://dtcc.com/legal/sec-rule-filings.aspx</a>). All 
+comments received will be posted without change. Persons submitting 
+comments are cautioned that we do not redact or edit personal 
+identifying information from comment submissions. You should submit 
+only information that you wish to make available publicly. All 
+submissions should refer to File Number SR-NSCC-2020-018 and should be 
+submitted on or before December 28, 2020.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\31\
+---------------------------------------------------------------------------
+
+    \31\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26785 Filed 12-4-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,62 @@
+{
+  "survey_entries": 22667,
+  "assessment_states": {
+    "Source-supported documentary assessment": 18633,
+    "Named item / evidence gap": 1137,
+    "Withheld or unresolved source assessment": 57,
+    "Provisional evidence unit": 2840
+  },
+  "unit_types": {
+    "Named research item": 19301,
+    "Report table contribution": 177,
+    "Unresolved documentary assessment": 57,
+    "Historical evidence unit": 234,
+    "Provisional evidence unit": 2101,
+    "Comparative evidence unit": 761,
+    "Contribution decision and evidence": 36
+  },
+  "relevance_tiers": {
+    "Research infrastructure": 15159,
+    "Organizational and bibliographic context": 756,
+    "Measurement context and resources": 6549,
+    "Adjacent operational context": 203
+  },
+  "functions": {
+    "Agent execution and coordination": 3546,
+    "Governance and source custody": 749,
+    "Organizational and bibliographic context": 762,
+    "Simulation and formal theory": 693,
+    "Discovery and knowledge resources": 1709,
+    "Disciplinary research systems": 3378,
+    "Reproducibility and execution": 394,
+    "Collection and source preparation": 464,
+    "Measurement resources and validity": 6550,
+    "Research communication and interfaces": 1874,
+    "Methods and analytical tools": 1508,
+    "Evaluation and verification": 775,
+    "Language and translation": 142,
+    "Adjacent operational resources": 205
+  },
+  "field_gaps": {
+    "purpose": 5439,
+    "setting": 11875,
+    "mechanism": 12013,
+    "inputs_outputs": 9685,
+    "interfaces": 14335,
+    "evaluation": 10169,
+    "limitations": 8655,
+    "version": 12240
+  },
+  "schema_version": "2.0",
+  "field_names": {
+    "purpose": "Purpose and contribution",
+    "setting": "Task and disciplinary setting",
+    "mechanism": "Mechanism and procedure",
+    "inputs_outputs": "Inputs, outputs and representations",
+    "interfaces": "Interfaces and dependencies",
+    "evaluation": "Reported evaluation and conditions",
+    "limitations": "Limitations and contrary evidence",
+    "version": "Version, observation date and access"
+  },
+  "claim_ceiling": "Documentary survey of a bounded source population; not worldwide coverage or independent validation."
+}

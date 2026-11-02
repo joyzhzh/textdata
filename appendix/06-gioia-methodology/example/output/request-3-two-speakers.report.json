@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "fidelity": "AMBIGUOUS_MATCHES",
+  "matching_manifestation_ids": [
+    "episode-v1"
+  ],
+  "scope_complete": true,
+  "observed_match_count": 2,
+  "unchecked_manifestation_count": 0,
+  "quote_sha256": "b64670fefceb7d7ae80e13e6961100e23b7508659ddf8c613d426f9b044ee7ae",
+  "quote_bytes": 20,
+  "matching_policy": "exact_utf8_bytes_no_normalization",
+  "locator_basis": "zero_based_start_inclusive_end_exclusive; lines_one_based_LF; not_PDF_pages",
+  "interpretive_assessment": "NOT_ASSESSED",
+  "contextual_adequacy": "NOT_ASSESSED",
+  "reuse_clearance": "NOT_DETERMINED",
+  "permission_basis": "User declarations only; not independently verified",
+  "source_authenticity": "NOT_ASSESSED",
+  "results": [
+    {
+      "manifestation": {
+        "id": "episode-v1",
+        "kind": "self_authored_synthetic_text",
+        "version": "v1",
+        "text_path": "synthetic-episode.txt",
+        "sha256": "3491496b4e08aee2eb6bb40cebfc039dd7a79dd8916fc548cf2ea14753d3ea76",
+        "hash_basis": "whole_file_bytes",
+        "access": "available",
+        "permissions": {
+          "local_processing": "permitted",
+          "local_processing_basis": "Synthetic passage written for this example; no participant data",
+          "quote_reuse": "unknown"
+        }
+      },
+      "match_count": 2,
+      "matches": [
+        {
+          "byte_start": 56,
+          "byte_end": 76,
+          "character_start": 56,
+          "character_end": 76,
+          "line_start": 2,
+          "line_end": 2
+        },
+        {
+          "byte_start": 134,
+          "byte_end": 154,
+          "character_start": 134,
+          "character_end": 154,
+          "line_start": 3,
+          "line_end": 3
+        }
+      ],
+      "observed_sha256": "3491496b4e08aee2eb6bb40cebfc039dd7a79dd8916fc548cf2ea14753d3ea76",
+      "status": "AMBIGUOUS_MATCHES"
+    }
+  ],
+  "request_sha256": "d4e8edfe48147dd1000aaf2f2bb1eb4248b47553cf36f364fb9170087f2b6e7f"
+}

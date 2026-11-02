@@ -1,0 +1,197 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78879-78880]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26844]
+
+
+-----------------------------------------------------------------------
+
+NUCLEAR REGULATORY COMMISSION
+
+[NRC-2018-0137]
+
+
+Licensee Actions to Address Nonconservative Technical 
+Specifications
+
+AGENCY: Nuclear Regulatory Commission.
+
+ACTION: Regulatory guide; issuance.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Nuclear Regulatory Commission (NRC) is issuing 
+Regulatory Guide (RG) 1.239, ``Licensee Actions to Address 
+Nonconservative Technical Specifications.'' This RG endorses the 
+guidance in NEI 15-03, Revision 3, ``Licensee Actions to Address 
+Nonconservative Technical Specifications,'' as a method acceptable to 
+the NRC staff for licensee actions to address nonconservative technical 
+specifications.
+
+DATES: RG 1.239 is available on December 7, 2020.
+
+ADDRESSES: Please refer to Docket ID NRC-2018-0137 when contacting the 
+NRC about the availability of information regarding this document. You 
+may obtain publicly available information related to this document 
+using any of the following methods:
+    <bullet> Federal Rulemaking website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2018-0137. Address 
+questions about Docket IDs in <a href="http://Regulations.gov">Regulations.gov</a> to Jennifer Borges; 
+telephone: 301-287-9127; email: [email redacted]. For technical 
+questions, contact the individuals listed in the FOR FURTHER 
+INFORMATION CONTACT section of this document.
+    <bullet> NRC's Agencywide Documents Access and Management System 
+(ADAMS): You may obtain publicly available documents online in the 
+ADAMS Public Documents collection at <a href="https://www.nrc.gov/reading-rm/adams.html">https://www.nrc.gov/reading-rm/adams.html</a>. To begin the search, select ``Begin Web-based ADAMS 
+Search.'' For problems with ADAMS, please contact the NRC's Public 
+Document Room (PDR) reference staff at 1-800-397-4209, 301-415-4737, or 
+by email to [email redacted]. For the convenience of the reader, 
+instructions about obtaining materials referenced in this document are 
+provided in the ``Availability of Documents'' section.
+    <bullet> Attention: The PDR, where you may examine and order copies 
+of public documents, is currently closed. You may submit your request 
+to the PDR via email at [email redacted] or call 1-800-397-4209 
+between 8:00 a.m. and 4:00 p.m. (EST), Monday through Friday, except 
+Federal holidays.
+    RG 1.239 and the regulatory analysis may be found in ADAMS under 
+Accession Nos. ML20294A510 and ML18086A685, respectively.
+    Regulatory guides are not copyrighted, and NRC approval is not 
+required to reproduce them.
+
+FOR FURTHER INFORMATION CONTACT: Shawn Williams, Office of Nuclear 
+Reactor Regulation, telephone: 301-415-1009, email: 
+[email redacted] and Robert Roche-Rivera, Office of Nuclear 
+Regulatory Research, telephone: 301-415-8113, email: [email redacted]. Both are staff of the U.S. Nuclear Regulatory 
+Commission, Washington, DC 20555-0001.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Discussion
+
+    The NRC is issuing a new guide in the NRC's ``Regulatory Guide'' 
+series. This series was developed to describe and make available to the 
+public information regarding methods that are acceptable to the NRC 
+staff for implementing specific parts of the agency's regulations, 
+techniques that the NRC staff uses in evaluating specific issues or 
+postulated events, and data that the NRC staff needs in its review of 
+applications for permits and licenses.
+    RG 1.239 was issued with a temporary identification of Draft 
+Regulatory Guide, DG-1351 and related regulatory analysis. This RG 
+provides guidance for licensee compliance with the technical 
+specification requirements in section 50.36 of title 10 of the Code of 
+Federal Regulations (10 CFR), ``Technical specifications,'' the 
+reporting requirements in 10 CFR 50.72, ``Immediate notification 
+requirements for operating nuclear power reactors'' and 10 CFR 50.73, 
+``Licensee event report system,'' and the quality assurance 
+requirements in Criterion XVI of 10 CFR part 50, appendix B, 
+``Corrective Action''. This RG endorses NEI 15-03, Revision 3.
+    With the issuance of RG 1.239, the NRC is withdrawing 
+Administrative Letter (AL) 98-10, ``Dispositioning of Technical 
+Specifications That Are Insufficient to Assure Plant Safety.'' The 
+information in AL 98-10 is encompassed in RG 1.239.
+
+II. Additional Information
+
+    The NRC published a notice of the availability of DG-1351 in the 
+Federal Register on July 5, 2018 (83 FR 31429) for a 60-day public 
+comment period, and it proposed to endorse NEI 15-03, Revision 2, with 
+exceptions and clarifications. The public comment period closed on 
+September 4, 2018. Public comments on DG-1351 and the staff responses 
+to the public comments are available in ADAMS under Accession No. 
+ML19267A108.
+    On October 17, 2019, the NRC staff held a public meeting to discuss 
+the staff's disposition of public comments on DG-1351. Subsequently, by 
+letter dated April 9, 2020, the NEI submitted Revision 3 of NEI 15-03 
+to address the exceptions and clarifications in DG-1351. The NRC review 
+of the April 9, 2020, submittal determined that NEI 15-03, as revised, 
+is acceptable and addresses the exceptions and clarifications in DG-
+1351. As a result, the NRC revised DG-1351 to remove the exceptions and 
+clarifications and published a notice of the availability of DG-1351, 
+Revision 1 in the Federal
+
+[[Page 78880]]
+
+Register on August 26, 2020 (85 FR 52643) for a 30-day public comment 
+period. The public comment period closed on September 25, 2020. Two 
+public comment submissions were received by the end of the public 
+comment period. These comment submissions expressed agreement with the 
+DG-1351, Revision 1 and recommended final issuance of the RG.
+
+III. Congressional Review Act
+
+    This RG is a rule as defined in the Congressional Review Act (5 
+U.S.C. 801-808). However, the Office of Management and Budget has not 
+found it to be a major rule as defined in the Congressional Review Act.
+
+IV. Backfitting, Forward Fitting, and Issue Finality
+
+    RG 1.239 provides guidance on licensee actions to address 
+nonconservative technical specifications. Issuance of RG 1.239 does not 
+constitute backfitting as defined in 10 CFR 50.109, ``Backfitting,'' 
+and as described in NRC Management Directive (MD) 8.4, ``Management of 
+Backfitting, Forward Fitting, Issue Finality, and Information 
+Requests;'' constitute forward fitting as that term is defined and 
+described in MD 8.4; or affect the issue finality of any approval 
+issued under 10 CFR part 52, ``Licenses, Certificates, and Approvals 
+for Nuclear Power Plants.'' As explained in this RG, applicants and 
+licensees are not required to comply with the positions set forth in 
+this RG.
+
+V. Availability of Documents
+
+    The documents identified in the following table are available to 
+interested persons through ADAMS under the respective ADAMS Accession 
+numbers identified in the table.
+
+----------------------------------------------------------------------------------------------------------------
+                  Document                                           ADAMS  accession No.
+----------------------------------------------------------------------------------------------------------------
+RG 1.239, Licensee Actions to Address         ML20294A510
+ Nonconservative Technical Specifications..
+DG-1351, Dispositioning of Technical          ML18086A690
+ Specifications that are Insufficient to
+ Ensure Plant Safety, July 2018.
+Regulatory Analysis, Draft Regulatory Guide,  ML18086A685
+ DG-1351..
+DG-1351, Revision 1, Licensee Actions to      ML20142A489
+ Address Nonconservative Technical
+ Specifications, August 2020.
+NEI 15-03, Revision 2, Licensee Actions to    ML17276A642
+ Address Nonconservative Technical
+ Specifications, September 2017.
+Summary of October 17, 2019, Meeting with     ML19298B110
+ NEI Regarding DG-1351..
+Draft NRC Staff Responses to Public Comments  ML19267A108
+ on DG[dash]1351..
+NEI 15-03, Revision 3, Licensee Actions to    ML20100G899
+ Address Nonconservative Technical            (Package)
+ Specifications, March 2020.
+Comment (1) of Brian Mann on Licensee         ML20247J650
+ Actions to Address Nonconservative
+ Technical Specifications.
+Comment (2) of Timothy Riti on behalf of      ML20255A302
+ Nuclear Energy Institute (NEI) on Licensee
+ Actions to Address Nonconservative
+ Technical Specifications.
+Management Directive 8.4, Management of       ML18093B087
+ Backfitting, Forward Fitting, Issue
+ Finality, and Information Requests.
+----------------------------------------------------------------------------------------------------------------
+
+
+    Dated: December 2, 2020.
+    For the Nuclear Regulatory Commission.
+Meraj Rahimi,
+Chief, Regulatory Guidance and Generic Issues Branch, Division of 
+Engineering, Office of Nuclear Regulatory Research.
+[FR Doc. 2020-26844 Filed 12-4-20; 8:45 am]
+BILLING CODE 7590-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

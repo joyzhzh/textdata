@@ -1,0 +1,30 @@
+{
+  "study_id": "fr-responsibility-illustration-v1",
+  "run_id": "native-codex-fr-demo-20261029-01",
+  "scope": "Supplied coding units only; candidate annotations, not independently verified source facts",
+  "requested_units": 5,
+  "unit_status_counts": {
+    "annotated": 5
+  },
+  "no_assignment_units": 1,
+  "candidate_relation_counts": {
+    "mandatory": 4,
+    "discretionary": 0,
+    "prohibited": 0,
+    "recommended": 0,
+    "unresolved": 0
+  },
+  "resolved_fraction": {
+    "numerator": 5,
+    "denominator": 5
+  },
+  "reference_relative_accuracy": {
+    "value": null,
+    "reason": "No independent reference labels supplied"
+  },
+  "construct_validity": "not_established",
+  "population_estimate": {
+    "value": null,
+    "reason": "Illustrative selection; no probability sample or full-document coding"
+  }
+}

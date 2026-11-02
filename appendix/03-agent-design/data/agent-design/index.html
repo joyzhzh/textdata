@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TextData · Agent Design and Orchestration Database</title><meta name="description" content="Browse 34 database entries on agent design and orchestration: mechanisms, evidence, limitations, references and reusable components."><link rel="icon" href="data:,"><link rel="stylesheet" href="assets/style.css"></head>
+<body>
+<a class="skip" href="#main">Skip to database</a>
+<header><div class="brand">TEXTDATA <span>AGENT DESIGN DATABASE</span></div><div class="edition">Appendix 3 · 29 October 2026</div></header>
+<main id="main">
+<section class="intro"><p class="eyebrow">Appendix 3</p><h1>Agent design and<br>orchestration database.</h1><p class="lead">Explore papers, repositories and reusable components. Find what each does, the evidence behind it, its limitations and its relevance to TextData.</p><div class="stats"><span><b>34</b> entries</span><span><b>7</b> categories</span><span class="format-note">JSON · CSV · SQLite</span></div></section>
+<nav class="tabs" aria-label="Database views"><button type="button" data-view="catalogue" aria-pressed="true">Browse database</button><button type="button" data-view="reader" aria-pressed="false">About the database</button><button type="button" data-view="downloads" aria-pressed="false">Download</button><a href="exports/textdata-agent-design.sqlite" download>SQLite database ↗</a></nav>
+<section id="catalogue" class="view active" aria-label="Browse database">
+<div class="catalogue-layout"><aside class="filters"><h2>Find an entry</h2><label for="search">Search the database</label><input id="search" type="search" placeholder="Name, capability or design question…" autocomplete="off"><label for="family">Category</label><select id="family"><option value="">All categories</option></select><label for="kind">Entry type</label><select id="kind"><option value="">All entry types</option></select><label for="basis">Evidence basis</label><select id="basis"><option value="">All evidence bases</option><option>Selected primary text</option><option>Documented source summary</option></select><button id="reset" class="secondary" type="button">Reset filters</button><p class="small">Open an entry to read its evidence, limitations and references together.</p><a href="../../docs/agent-design-data-dictionary.md">Data dictionary ↗</a></aside>
+<div><div class="result-bar"><p id="count" role="status" aria-live="polite"></p><button id="download" class="secondary" type="button">Download selection ↓</button></div><div id="cards"></div><p id="empty" hidden>No entries match these filters. Try a broader search or reset the filters.</p></div></div>
+</section>
+<section id="reader" class="view" aria-label="About the database" hidden><div class="reader-actions"><a href="../../docs/agent-design-introduction.md">Appendix text ↗</a><button id="print" class="secondary" type="button">Print appendix</button></div><article class="prose"><h1 id="appendix-3-agent-design-and-orchestration-database">Appendix 3. Agent Design and Orchestration Database</h1>
+<p>Appendix 3 presents the <strong>Agent Design and Orchestration Database</strong> and its HTML interface. The database contains <strong>34 entries across seven categories</strong>, covering papers, repositories, specifications and reusable components. Each entry identifies a design mechanism, describes its capabilities and supporting evidence, records its limitations and relevant versions, and explains its possible use in TextData. Links connect entries to their publications, documentation and repositories.</p>
+<p><a href="index.html#catalogue">Open the database</a> · <a href="exports/textdata-agent-design.sqlite">Download SQLite</a> · <a href="data/catalogue.json">Download JSON</a> · <a href="exports/records.csv">Download CSV</a></p>
+<h2 id="database-organization">Database organization</h2>
+<p>The seven categories organize entries by the design questions they address. Each entry has a stable identifier, AD-001 through AD-034, and one primary category. An entry may connect a paper with an implementation or distinguish several versions of the same component.</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th style="text-align: right;">Entries</th>
+<th>Design question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Action and planning</td>
+<td style="text-align: right;">5</td>
+<td>How should an agent choose, execute and revise its next step?</td>
+</tr>
+<tr>
+<td>Orchestration and reuse</td>
+<td style="text-align: right;">4</td>
+<td>Which responsibilities belong in program structure, and which in a model decision?</td>
+</tr>
+<tr>
+<td>State and context</td>
+<td style="text-align: right;">5</td>
+<td>What must persist, and what does the model need to see now?</td>
+</tr>
+<tr>
+<td>Tools and skills</td>
+<td style="text-align: right;">3</td>
+<td>How should capabilities and methodological instructions be exposed?</td>
+</tr>
+<tr>
+<td>Delegation and handoff</td>
+<td style="text-align: right;">5</td>
+<td>When does dividing work help, and what must pass between workers?</td>
+</tr>
+<tr>
+<td>Evaluation and adaptation</td>
+<td style="text-align: right;">7</td>
+<td>How will we assess a change without confusing extra computation with better design?</td>
+</tr>
+<tr>
+<td>Evidence and authority</td>
+<td style="text-align: right;">5</td>
+<td>How can we recover the basis of a claim and keep source content within its proper role?</td>
+</tr>
+</tbody>
+</table>
+<h2 id="information-in-each-entry">Information in each entry</h2>
+<table>
+<thead>
+<tr>
+<th>Information</th>
+<th>What the reader can inspect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Identity and type</td>
+<td>Name, stable identifier, category, publication or component type, and author or maintainer credit</td>
+</tr>
+<tr>
+<td>Mechanism</td>
+<td>What the component does and how it operates</td>
+</tr>
+<tr>
+<td>Evidence</td>
+<td>What the documented evidence supports and whether the entry draws on selected primary text or a documented summary</td>
+</tr>
+<tr>
+<td>Limitations</td>
+<td>Conditions, unresolved questions and boundaries on the evidence</td>
+</tr>
+<tr>
+<td>Relevance to TextData</td>
+<td>A possible use and the question that would need to be evaluated</td>
+</tr>
+<tr>
+<td>References and versions</td>
+<td>Primary publication or documentation, relevant version and passage, additional references and repository links</td>
+</tr>
+</tbody>
+</table>
+<p>The entry separates reported evidence from proposed use. A possible TextData application is a design interpretation, not an observed result. Reference versions are recorded so readers can distinguish a paper, an implementation and changing documentation. Several references to a work do not imply several independent findings.</p>
+<h2 id="html-interface">HTML interface</h2>
+<p><strong>Browse database</strong> provides text search and filters for category, entry type and evidence basis. The result count updates as filters are combined. Selecting an entry opens its full description, evidence, limitations, TextData relevance and references. Each entry has a direct link that can be saved or shared with someone who has access to the files.</p>
+<p><strong>About the database</strong> presents this appendix and the entry register below. <strong>Download</strong> provides the complete database and individual data tables. The browse view also exports the current selection as JSON. Search and filtering run locally in the browser.</p>
+<p>For example, selecting <em>State and context</em> displays five entries on retaining and accessing information. Searching for <em>LangGraph</em> opens the entry distinguishing thread checkpoints from data shared across threads. Its detail view keeps the mechanism, evidence, limitations and proposed evaluation together.</p>
+<h2 id="entry-register">Entry register</h2>
+<p>Select an entry to open its database record.</p>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Entry</th>
+<th>Category</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AD-001</td>
+<td><a href="index.html#AD-001">CoALA</a></td>
+<td>Action and planning</td>
+</tr>
+<tr>
+<td>AD-002</td>
+<td><a href="index.html#AD-002">Building effective agents</a></td>
+<td>Orchestration and reuse</td>
+</tr>
+<tr>
+<td>AD-003</td>
+<td><a href="index.html#AD-003">ReAct</a></td>
+<td>Action and planning</td>
+</tr>
+<tr>
+<td>AD-004</td>
+<td><a href="index.html#AD-004">AutoGen</a></td>
+<td>Delegation and handoff</td>
+</tr>
+<tr>
+<td>AD-005</td>
+<td><a href="index.html#AD-005">DSPy</a></td>
+<td>Orchestration and reuse</td>
+</tr>
+<tr>
+<td>AD-006</td>
+<td><a href="index.html#AD-006">Model Context Protocol resources and tools</a></td>
+<td>Tools and skills</td>
+</tr>
+<tr>
+<td>AD-007</td>
+<td><a href="index.html#AD-007">Co-Scientist</a></td>
+<td>Delegation and handoff</td>
+</tr>
+<tr>
+<td>AD-008</td>
+<td><a href="index.html#AD-008">Anthropic multi-agent Research</a></td>
+<td>Delegation and handoff</td>
+</tr>
+<tr>
+<td>AD-009</td>
+<td><a href="index.html#AD-009">Effective context engineering</a></td>
+<td>State and context</td>
+</tr>
+<tr>
+<td>AD-010</td>
+<td><a href="index.html#AD-010">LLooM</a></td>
+<td>Evidence and authority</td>
+</tr>
+<tr>
+<td>AD-011</td>
+<td><a href="index.html#AD-011">MAST</a></td>
+<td>Delegation and handoff</td>
+</tr>
+<tr>
+<td>AD-012</td>
+<td><a href="index.html#AD-012">W3C PROV-DM</a></td>
+<td>Evidence and authority</td>
+</tr>
+<tr>
+<td>AD-013</td>
+<td><a href="index.html#AD-013">Managed Agents architecture</a></td>
+<td>State and context</td>
+</tr>
+<tr>
+<td>AD-014</td>
+<td><a href="index.html#AD-014">LangGraph persistence</a></td>
+<td>State and context</td>
+</tr>
+<tr>
+<td>AD-015</td>
+<td><a href="index.html#AD-015">Reflexion</a></td>
+<td>Action and planning</td>
+</tr>
+<tr>
+<td>AD-016</td>
+<td><a href="index.html#AD-016">Tree of Thoughts</a></td>
+<td>Action and planning</td>
+</tr>
+<tr>
+<td>AD-017</td>
+<td><a href="index.html#AD-017">LLMCompiler</a></td>
+<td>Action and planning</td>
+</tr>
+<tr>
+<td>AD-018</td>
+<td><a href="index.html#AD-018">Open Agent Specification</a></td>
+<td>Orchestration and reuse</td>
+</tr>
+<tr>
+<td>AD-019</td>
+<td><a href="index.html#AD-019">Temporal agent integration</a></td>
+<td>Orchestration and reuse</td>
+</tr>
+<tr>
+<td>AD-020</td>
+<td><a href="index.html#AD-020">MemGPT</a></td>
+<td>State and context</td>
+</tr>
+<tr>
+<td>AD-021</td>
+<td><a href="index.html#AD-021">Mem0</a></td>
+<td>State and context</td>
+</tr>
+<tr>
+<td>AD-022</td>
+<td><a href="index.html#AD-022">Agent Skills</a></td>
+<td>Tools and skills</td>
+</tr>
+<tr>
+<td>AD-023</td>
+<td><a href="index.html#AD-023">SWE-agent</a></td>
+<td>Tools and skills</td>
+</tr>
+<tr>
+<td>AD-024</td>
+<td><a href="index.html#AD-024">Who Validates the Validators / EvalGen</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-025</td>
+<td><a href="index.html#AD-025">Inspect AI</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-026</td>
+<td><a href="index.html#AD-026">OpenTelemetry GenAI conventions</a></td>
+<td>Evidence and authority</td>
+</tr>
+<tr>
+<td>AD-027</td>
+<td><a href="index.html#AD-027">AgentDojo</a></td>
+<td>Evidence and authority</td>
+</tr>
+<tr>
+<td>AD-028</td>
+<td><a href="index.html#AD-028">PrivacyLens</a></td>
+<td>Evidence and authority</td>
+</tr>
+<tr>
+<td>AD-029</td>
+<td><a href="index.html#AD-029">Berkeley Function Calling Leaderboard</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-030</td>
+<td><a href="index.html#AD-030">tau-bench</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-031</td>
+<td><a href="index.html#AD-031">GEPA</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-032</td>
+<td><a href="index.html#AD-032">MIPRO and MIPROv2</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-033</td>
+<td><a href="index.html#AD-033">AI Agents That Matter</a></td>
+<td>Evaluation and adaptation</td>
+</tr>
+<tr>
+<td>AD-034</td>
+<td><a href="index.html#AD-034">Handoff Debt</a></td>
+<td>Delegation and handoff</td>
+</tr>
+</tbody>
+</table>
+<h2 id="files-and-use">Files and use</h2>
+<p>The HTML interface and database files are supplied together. JSON contains the complete structured database; CSV and JSONL provide entry tables; SQLite supports queries across entries, categories, references and repositories. A SQL file reconstructs the SQLite database. The <a href="../../docs/agent-design-data-dictionary.md">data dictionary</a> describes the fields and relationships, and the <a href="../../README.md">opening instructions</a> explain local use.</p>
+<p>This edition is dated <strong>29 October 2026</strong>. The database supports inspection and comparison of design options. Inclusion is not an endorsement, and no listed implementation has been executed or benchmarked for the database. References, evidence statements and limitations should be read together when considering an entry for TextData.</p></article></section>
+<section id="downloads" class="view" aria-label="Download database" hidden>
+<div class="source-intro"><h2>Use the database in your work.</h2><p>Download all 34 entries, their references and repository links. Choose JSON for the complete structured collection, CSV for a spreadsheet, or SQLite for linked-table queries. Export a filtered selection from the browse view.</p></div>
+<div class="download-grid">
+<a class="download-card" href="data/catalogue.json" download><span class="file-type">JSON</span><h3>Complete database</h3><p>Categories, entries and references in one structured file.</p><span>Download JSON ↓</span></a>
+<a class="download-card" href="exports/records.csv" download><span class="file-type">CSV</span><h3>Entry table</h3><p>All 34 entries. Lists and structured fields are encoded within cells.</p><span>Download CSV ↓</span></a>
+<a class="download-card" href="exports/textdata-agent-design.sqlite" download><span class="file-type">SQLite</span><h3>Linked database</h3><p>Query entries, categories, references and repository links together.</p><span>Download SQLite ↓</span></a>
+<a class="download-card" href="exports/textdata-agent-design.sql" download><span class="file-type">SQL</span><h3>Database reconstruction</h3><p>Recreate the linked database from a portable SQL file.</p><span>Download SQL ↓</span></a>
+</div>
+<div class="downloads"><a href="exports/records.jsonl" download>Entries JSONL ↓</a><a href="exports/categories.csv" download>Categories CSV ↓</a><a href="exports/references.csv" download>References CSV ↓</a><a href="exports/repositories.csv" download>Repositories CSV ↓</a><a href="../../docs/agent-design-data-dictionary.md">Data dictionary ↗</a><a href="../../README.md">Opening instructions ↗</a></div>
+<h3 class="source-heading">Seven categories</h3><div id="families" class="family-grid"></div>
+<p class="download-note small">Edition: 29 October 2026 · 34 entries · 91 reference rows · 22 repository-link rows. References and repository links may recur across entries.</p>
+</section>
+<noscript><p class="noscript">JavaScript is needed to search the database. The appendix text and downloadable data files remain available above.</p></noscript>
+</main>
+<footer><p>TextData · Agent Design and Orchestration Database. Original authors and maintainers are credited in the entries and linked references.</p><p>Possible uses are design proposals. No listed implementation has been benchmarked for this database.</p></footer>
+<dialog id="detail" aria-labelledby="detail-title"><div class="dialog-bar"><span id="detail-id"></span><button id="close" type="button" aria-label="Close entry">Close ×</button></div><div id="detail-body"></div></dialog>
+<script src="assets/catalogue.js"></script><script src="assets/app.js"></script>
+</body></html>

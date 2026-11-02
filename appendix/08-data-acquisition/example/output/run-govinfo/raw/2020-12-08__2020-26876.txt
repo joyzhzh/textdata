@@ -1,0 +1,152 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79044-79045]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26876]
+
+
+-----------------------------------------------------------------------
+
+NUCLEAR REGULATORY COMMISSION
+
+[NRC-2020-0192]
+
+
+Consolidated Decommissioning Guidance, Characterization, Survey, 
+and Determination of Radiological Criteria
+
+AGENCY: Nuclear Regulatory Commission.
+
+ACTION: Draft NUREG; request for comment.
+
+-----------------------------------------------------------------------
+
+[[Page 79045]]
+
+SUMMARY: The Nuclear Regulatory Commission (NRC) is issuing a draft 
+report for comment, NUREG-1757, Volume 2, Revision 2, ``Consolidated 
+Decommissioning Guidance, Characterization, Survey, and Determination 
+of Radiological Criteria.'' NUREG-1757 has been revised to address 
+lessons learned and experience gained from review of license 
+termination plans, decommissioning plans, and final status surveys for 
+licensees undergoing license termination since the last revision to the 
+document in September 2006. This NUREG is intended for use by 
+applicants, licensees, and the NRC staff.
+
+DATES: Submit comments by February 8, 2021. Comments received after 
+this date will be considered if it is practical to do so, but the NRC 
+is able to ensure consideration only for comments received on or before 
+this date.
+
+ADDRESSES: You may submit comments by any of the following methods; 
+however, the NRC encourages electronic comment submission through the 
+Federal Rulemaking Website:
+    <bullet> Federal Rulemaking Website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2020-0192. Address 
+questions about Docket IDs in <a href="http://regulations.gov">regulations.gov</a> to Jennifer Borges; 
+telephone: 301-287-9127; email: [email redacted]. For technical 
+questions, contact the individual listed in the FOR FURTHER INFORMATION 
+CONTACT section of this document.
+    <bullet> Mail comments to: Office of Administration, Mail Stop: 
+TWFN-7-A60M, U.S. Nuclear Regulatory Commission, Washington, DC 20555-
+0001, ATTN: Program Management, Announcements and Editing Staff.
+    For additional direction on obtaining information and submitting 
+comments, see ``Obtaining Information and Submitting Comments'' in the 
+SUPPLEMENTARY INFORMATION section of this document.
+    <bullet> NRC's Agencywide Documents Access and Management System 
+(ADAMS): You may obtain publicly available documents online in the 
+ADAMS Public Documents collection at <a href="https://www.nrc.gov/reading-rm/adams.html">https://www.nrc.gov/reading-rm/adams.html</a>. To begin the search, select ``Begin Web-based ADAMS 
+Search.'' For problems with ADAMS, please contact the NRC's Public 
+Document Room (PDR) reference staff at 1-800-397-4209, 301-415-4737, or 
+by email to [email redacted]. NUREG-1757, Volume 2, Revision 2, is 
+located in ADAMS under Accession Number ML20273A010.
+
+FOR FURTHER INFORMATION CONTACT: Cynthia Barr, Office of Nuclear 
+Material Safety and Safeguards; U.S. Nuclear Regulatory Commission, 
+Washington, DC 20555-0001; telephone: 301-415-4015; email: 
+[email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Obtaining Information and Submitting Comments
+
+A. Obtaining Information
+
+    Please refer to Docket ID NRC-2020-0192 when contacting the NRC 
+about the availability of information for this action. You may obtain 
+publicly available information related to this action by any of the 
+following methods:
+    <bullet> Federal Rulemaking Website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2020-0192.
+    <bullet> NRC's Agencywide Documents Access and Management System 
+(ADAMS): You may obtain publicly available documents online in the 
+ADAMS Public Documents collection at <a href="https://www.nrc.gov/reading-rm/adams.html">https://www.nrc.gov/reading-rm/adams.html</a>. To begin the search, select ``Begin Web-based ADAMS 
+Search.'' For problems with ADAMS, please contact the NRC's Public 
+Document Room (PDR) reference staff at 1-800-397-4209, 301-415-4737, or 
+by email to [email redacted]. NUREG-1757, Volume 2, Revision 2, is 
+located at ADAMS Accession Number ML20273A010.
+    <bullet> Attention: The PDR, where you may examine and order copies 
+of public documents is currently closed. You may submit your request to 
+the PDR via email at [email redacted] or call 1-800-397-4209 
+between 8:00 a.m. and 4:00 p.m. (EST), Monday through Friday, except 
+Federal holidays.
+
+B. Submitting Comments
+
+    The NRC encourages electronic comment submission through the 
+Federal Rulemaking website (<a href="https://www.regulations.gov">https://www.regulations.gov</a>). Please 
+include Docket ID NRC-2020-0192 in your comment submission.
+    The NRC cautions you not to include identifying or contact 
+information that you do not want to be publicly disclosed in your 
+comment submission. The NRC will post all comment submissions at 
+<a href="https://www.regulations.gov">https://www.regulations.gov</a> as well as enter the comment submissions 
+into ADAMS. The NRC does not routinely edit comment submissions to 
+remove identifying or contact information.
+    If you are requesting or aggregating comments from other persons 
+for submission to the NRC, then you should inform those persons not to 
+include identifying or contact information that they do not want to be 
+publicly disclosed in their comment submission. Your request should 
+state that the NRC does not routinely edit comment submissions to 
+remove such information before making the comment submissions available 
+to the public or entering the comment into ADAMS.
+
+II. Discussion
+
+    The NRC is issuing for public comment, Revision 2 to NUREG-1757, 
+Volume 2, ``Consolidated Decommissioning Guidance, Characterization, 
+Survey, and Determination of Radiological Criteria.'' NUREG-1757 has 
+been revised to address lessons learned and experience gained from 
+review of license termination plans, decommissioning plans, and final 
+status surveys for licensees undergoing license termination. The NUREG 
+has been updated to include new guidance related to dose modeling, as 
+low as reasonably achievable (ALARA) criteria, surface water and 
+groundwater characterization, use of engineered barriers, and 
+radiological surveys (e.g., composite sampling, subsurface surveys, and 
+surveys demonstrating indistinguishability from background).
+    The NRC staff recognizes that the proposed revisions to NUREG-1757 
+are significant advancements. Licensee may choose to take advantage of 
+these advancements immediately. However, this draft NUREG-1757 is being 
+published for comment, and the NRC staff may make revisions and 
+corrections in the final document. Such changes from draft guidance 
+would not be a change in position because a draft guidance document 
+issued for comment does not constitute a staff position.
+    This NUREG is intended for use by applicants, licensees, and the 
+NRC staff. The purpose of this notice is to notify the public that 
+NUREG-1757, Volume 2, Revision 2 is being issued as a draft report for 
+comment.
+
+    Dated: December 2, 2020.
+
+    For the Nuclear Regulatory Commission.
+Patricia K. Holahan,
+Director, Division of Decommissioning, Uranium Recovery, and Waste 
+Programs, Office of Nuclear Material Safety and Safeguards.
+[FR Doc. 2020-26876 Filed 12-7-20; 8:45 am]
+BILLING CODE 7590-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

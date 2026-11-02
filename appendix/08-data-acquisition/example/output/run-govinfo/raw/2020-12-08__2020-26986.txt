@@ -1,0 +1,1065 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79020-79028]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26986]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOMELAND SECURITY
+
+Federal Emergency Management Agency
+
+[Docket ID FEMA-2020-0016]
+
+
+Plan of Action To Establish a National Strategy for the 
+Manufacture, Allocation, and Distribution of Personal Protective 
+Equipment (PPE) To Respond to COVID-19; Implemented Under the Voluntary 
+Agreement for the Manufacture and Distribution of Critical Healthcare 
+Resources Necessary To Respond to a Pandemic
+
+AGENCY: Federal Emergency Management Agency, DHS.
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Federal Emergency Management Agency (FEMA) announces the 
+activation of a Plan of Action to establish a National Strategy for the 
+manufacture, allocation, and distribution of Personal Protective 
+Equipment (PPE) to respond to COVID-19 implemented under the Voluntary 
+Agreement for the manufacture and distribution of critical healthcare 
+resources necessary to respond to a pandemic. This Notice contains the 
+text of the Plan of Action.
+
+FOR FURTHER INFORMATION CONTACT: Robert Glenn, Office of Business, 
+Industry, Infrastructure Integration, Federal Emergency Management 
+Agency, (202) 212-1666, and email [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+Authority
+
+    Section 708 of the Defense Production Act (DPA), 50 U.S.C. 4558, 
+allows the President to provide for the formation of voluntary 
+agreements and plans of action by the private sector to help provide 
+for the national defense. This authority was delegated to the Secretary 
+of Homeland Security generally in section 401 of Executive Order 
+13603,\1\ ``National Defense Resources Preparedness,'' and specifically 
+for response to COVID-19 in section 3 of Executive Order 13911,\2\ 
+``Delegating Additional Authority Under the Defense Production Act With 
+Respect to Health and Medical Resources To Respond to the Spread of 
+COVID-19.'' The Secretary of Homeland Security has delegated these 
+authorities to the FEMA Administrator in Department of Homeland 
+Security (DHS) Delegation 09052 Rev. 00, ``Delegation of Defense 
+Production Act Authority to the Administrator of the Federal Emergency 
+Management Agency,'' (Jan. 3, 2017), and DHS Delegation 09052 Rev. 
+00.1, ``Delegation of Defense Production Act Authority to the 
+Administrator of the Federal Emergency Management Agency'' (Apr. 1, 
+2020), respectively.
+---------------------------------------------------------------------------
+
+    \1\ 77 FR 16651 (Mar. 22, 2012).
+    \2\ 85 FR 18403 (Apr. 1, 2020).
+---------------------------------------------------------------------------
+
+Background
+
+    FEMA sought and received approval from the Attorney General, after 
+consultation with the Federal Trade Commission (FTC), to begin 
+consultation with the private sector, as required by Section 708(c)(2). 
+Pursuant to that approval, on May 12, 2020, FEMA posted an announcement 
+of a public meeting and request for comments to develop a Voluntary 
+Agreement in the Federal Register (85 FR 28031). FEMA held a public 
+meeting on May 21, 2020, and accepted public comments until June 5, 
+2020.\3\ FEMA received 34 public comments and considered these comments 
+when preparing the Voluntary Agreement.\4\
+---------------------------------------------------------------------------
+
+    \3\ The original comment period was extended to allow 
+commentators additional time to respond. FEMA posted notices of 
+extension to <a href="http://www.regulations.gov">www.regulations.gov</a> under the Docket ID for this 
+notice, FEMA-2020-0016.
+    \4\ Available on <a href="http://www.regulations.gov">www.regulations.gov</a> under the Docket ID for 
+this notice.
+---------------------------------------------------------------------------
+
+    The Attorney General, in consultation with the Chairman of the 
+Federal Trade Commission, made the required finding that the purpose of 
+the Voluntary Agreement may not reasonably be achieved through an 
+agreement having less anticompetitive effect or without any Voluntary 
+Agreement. Pursuant to Sec. 708(f)(1)(B) of the DPA, the Department of 
+Justice separately published this finding in the Federal Register on 
+August 17, 2020 as a notice (85 FR 50049). The FEMA Administrator, as 
+the Sponsor of the agreement, certified in writing that the agreement 
+was necessary to help provide for the national defense. FEMA provided 
+notice of the formation and the
+
+[[Page 79021]]
+
+text of the Voluntary Agreement in the Federal Register on August 17, 
+2020 (85 FR 50035).
+    On October 13, 2020, FEMA held a virtual meeting to implement the 
+Voluntary Agreement for the Manufacture and Distribution of Critical 
+Healthcare Resources Necessary to Respond to a Pandemic (see 85 FR 
+63567). A portion of the meeting was open to the public. One objective 
+of this meeting was to discuss the activation of the first Plan of 
+Action under the Voluntary Agreement to identify more efficient methods 
+of allocating and distributing Personal Protective Equipment to meet 
+national demand and ways of expanding the production of critical 
+healthcare resources, with an initial focus on the manufacture of N95 
+masks. From this meeting, FEMA incorporated public comments and 
+feedback from the U.S. Department of Justice and the Federal Trade 
+Commission to develop the Plan of Action.
+    The Attorney General, in consultation with the Chairman of the 
+Federal Trade Commission, made the required finding that the purposes 
+of section 708(c)(1) of the DPA cannot reasonably be achieved without 
+any Plan of Action, or by a plan of action having less anticompetitive 
+effects than the proposed Plan of Action. Pursuant to section 
+708(f)(1)(B) of the DPA, the Department of Justice is separately 
+publishing this finding in the Federal Register as a notice. The FEMA 
+Administrator has certified in writing that this Plan of Action is 
+necessary to help provide for the national defense.
+    Text of the Plan of Action to Establish a National Strategy for the 
+manufacture, allocation, and distribution of Personal Protective 
+Equipment (PPE) to respond to COVID-19 implemented under the voluntary 
+agreement for the MANUFACTURE AND DISTRIBUTION OF CRITICAL HEALTHCARE 
+RESOURCES NECESSARY TO RESPOND TO A PANDEMIC
+
+Table of Contents
+
+Preface
+I. Purpose
+II. Authorities
+III. General Provisions
+    A. Definitions
+    B. Plan of Action Participation
+    C. Effective Date and Duration of Participation
+    D. Withdrawal
+    E. Plan of Action Activation and Deactivation
+    F. Rules and Regulations
+    G. Modification and Amendment
+    H. Expenses
+    I. Record Keeping
+IV. Antitrust Defense
+V. Terms and Conditions
+    A. Plan of Action Execution
+    B. Information Management and Responsibilities
+    C. Oversight
+VI. Establishment of the Sub-Committees
+VII. Application and Agreement
+VIII. Assignment
+
+Preface
+
+    Pursuant to section 708 of the Defense Production Act of 1950 
+(DPA), as amended (50 U.S.C. 4558), the Federal Emergency Management 
+Agency (FEMA) Administrator (Administrator), after consultation with 
+the Secretary of the Department of Health and Human Services (HHS), the 
+Attorney General of the United States (Attorney General), and the 
+Chairman of the Federal Trade Commission (FTC), developed a Voluntary 
+Agreement for the Manufacture and Distribution of Critical Healthcare 
+Resources Necessary to Respond to a Pandemic (Voluntary Agreement), 85 
+FR 50035 (August 17, 2020). The Voluntary Agreement, which operates 
+through a series of Plans of Action, maximizes the manufacture and 
+efficient distribution of Critical Healthcare Resources nationwide to 
+respond to a pandemic by establishing unity of effort between 
+Participants and the Federal Government for integrated coordination, 
+planning, information sharing with FEMA, as authorized by FEMA, and 
+allocation and distribution of Critical Healthcare Resources.
+    This document establishes a Plan of Action (Plan) for the 
+Manufacture, Allocation, and Distribution of Personal Protective 
+Equipment (PPE) to Respond to COVID-19. This Plan will be implemented 
+under the Voluntary Agreement by several Sub-Committees:
+    (1) Sub-Committee to Define COVID-19 PPE Requirements,
+    (2) Sub-Committee for N-95 and other Medical Respirators,
+    (3) Sub-Committee for Gloves,
+    (4) Sub-Committee for Gowns, and
+    (5) Sub-Committee for Eye and Facial Coverings.
+    FEMA may establish additional Sub-Committees under this Plan of 
+Action, so long as:
+    (1) The Sub-Committee addresses one specific and well-defined 
+category of PPE; and
+    (2) The Sub-Committee is recommended by the Sub-Committee to Define 
+COVID-19 PPE Requirements.
+    The purpose of the Plan and the Sub-Committees is to maximize the 
+manufacture and efficient distribution of selected types of critical 
+PPE and create a prioritization protocol for End-Users based upon their 
+demonstrated or projected requirements including geographic and 
+regional circumstances. The primary goal of the Plan is to create a 
+mechanism to immediately meet exigent PPE requests anywhere in the 
+Nation and to ensure that actions to support PPE stockpiling and 
+reserves do not interfere with immediate requirements that would result 
+in an unacceptable risk to healthcare providers or other potential PPE 
+recipients. When the requirements of the Plan are met, it affords Sub-
+Committee Participants defenses to civil and criminal actions brought 
+under the antitrust laws (or any similar law of any state) for actions 
+taken within the scope of the Plan. The Plan is designed to foster a 
+close working relationship among FEMA, HHS, and Sub-Committee 
+Participants to address national defense needs through cooperative 
+action under the direction and active supervision of FEMA.
+
+I. Purpose
+
+    A pandemic may present conditions that pose a direct threat to the 
+national defense of the United States or its preparedness programs such 
+that, pursuant to DPA section 708(c)(1), an agreement to collectively 
+coordinate, plan, and collaborate for the manufacture and distribution 
+of PPE is necessary for the national defense. This Plan of Action to 
+Establish a National Strategy for the Manufacture, Allocation, and 
+Distribution of Personal Protective Equipment (PPE) to Respond to 
+COVID-19 is established under the Voluntary Agreement and establishes 
+five Sub-Committees to oversee and implement the Plan. The Plan and 
+Sub-Committees will optimize the manufacture and the efficient 
+distribution of selected types of critical PPE and create a 
+prioritization protocol for End-Users based upon their demonstrated or 
+projected requirements and taking into account geographic and regional 
+circumstances for stabilization and reduction of COVID-19 exposure.
+
+II. Authorities
+
+    Section 708, Defense Production Act (50 U.S.C. 4558); sections 
+402(2) & 501(b), Robert T. Stafford Disaster Relief and Emergency 
+Assistance Act (42 U.S.C. 5121-5207); sections 503(b)(2)(B) & 
+504(a)(10) & (16) of the Homeland Security Act of 2002 (6 U.S.C. 
+313(b)(2)(B), 314(a)(10) & (16)); sections 201, 301, National 
+Emergencies Act (50 U.S.C. 1601 et seq.); section 319, Public Health 
+Service Act (42 U.S.C. 247d); Executive Order (E.O.) 13911, 85 FR 18403 
+(March 27, 2020); Prioritization and Allocation of Certain Scarce or 
+Threatened Health and Medical Resources for Domestic Use, 85 FR 20195 
+(April 10, 2020). Pursuant to DPA
+
+[[Page 79022]]
+
+section 708(f)(1)(A), the Administrator certifies that this Plan is 
+necessary for the national defense.
+
+III. General Provisions
+
+A. Definitions
+
+Administrator
+    The FEMA Administrator is the Sponsor of the Voluntary Agreement. 
+Pursuant to a delegation or redelegation of the functions given to the 
+President by DPA section 708, the Administrator proposes and provides 
+for the development and carrying out of the Voluntary Agreement, 
+including through the development and implementation of Plans of 
+Action. The Administrator is responsible for carrying out all duties 
+and responsibilities required by 50 U.S.C. 4558 and 44 CFR part 332 and 
+for appointing one or more Chairpersons to manage and administer the 
+Committee and all Sub-Committees formed to carry out the Voluntary 
+Agreement.
+Agreement
+    The Voluntary Agreement for the Manufacture and Distribution of 
+Critical Healthcare Resources Necessary to Respond to a Pandemic 
+(Voluntary Agreement).
+Allocation
+    The process of determining and directing the relative distribution 
+among one or more competing requests from End-Users for the same PPE. 
+Through the Allocation process, FEMA--with participation from Sub-
+Committee Participants--will assess the actual needs of End-Users and 
+determine how to divide the available and projected supply of PPE to 
+minimize impacts to life, safety, and economic disruption associated 
+with shortages of critical PPE. Allocation will take place only under 
+Exigent Circumstances. FEMA retains decision-making authority for all 
+Allocation under this Plan.
+Attendees
+    Subject matter experts, invited by the Chairperson or a Sub-
+Committee Chairperson to attend meetings authorized under the Voluntary 
+Agreement or this Plan of Action, to provide technical advice or to 
+represent other government agencies or interested parties. Invitations 
+to attendees will be extended as required for Committee or Sub-
+Committee meetings and deliberations.
+Chairperson
+    FEMA senior executive(s), appointed by the Administrator, to chair 
+the Committee for the Distribution of Healthcare Resources Necessary to 
+Respond to a Pandemic (Committee). The Chairperson shall be responsible 
+for the overall management and administration of the Committee, the 
+Voluntary Agreement, and Plans of Action developed under the Voluntary 
+Agreement while remaining under the supervision of the Administrator; 
+shall initiate, or approve in advance, each meeting held to discuss 
+problems, determine policies, recommend actions, and make decisions 
+necessary to carry out the Voluntary Agreement; appoint one or more co-
+Chairpersons to chair the Committee, and otherwise shall carry out all 
+duties and responsibilities assigned to him. With the approval of the 
+Administrator, the Chairperson may create one or more Sub-Committees, 
+and may appoint one or more Sub-Committee Chairpersons to chair the 
+Sub-Committees, as appropriate.
+Committee
+    Committee for the Distribution of Healthcare Resources Necessary to 
+Respond to a Pandemic established under the Voluntary Agreement.
+Competitively Sensitive Information
+    Competitively Sensitive Information that is shared pursuant to this 
+Plan of Action may include any Document or other tangible thing or oral 
+transmission that contains financial, business, commercial, scientific, 
+technical, economic, or engineering information or data, including, but 
+not limited to
+
+<bullet> Financial statements and data,
+<bullet> customer and supplier lists,
+<bullet> price and other terms of sale to customers,
+<bullet> sales records, projections and forecasts,
+<bullet> inventory levels,
+<bullet> capacity and capacity utilization,
+<bullet> cost information,
+<bullet> sourcing and procurement information,
+<bullet> manufacturing and production information,
+<bullet> delivery and shipping information,
+<bullet> systems and data designs, and
+<bullet> methods, techniques, processes, procedures, programs, codes, 
+or similar information, whether tangible or intangible, and regardless 
+of the method of storage, compilation, or recordation, if the owner 
+thereof has taken reasonable measures to protect the information from 
+disclosure to the public or competitors. These measures may be 
+evidenced by marking or labeling the items as ``competitively sensitive 
+information'' during submission to FEMA or in the Participant's 
+customary and existing treatment of such information (regardless of 
+labeling).
+
+    All Competitively Sensitive Information provided by a Sub-Committee 
+Participant as described herein is deemed Competitively Sensitive 
+Information, except for Information that:
+    a. Is published or has been made publicly available at the time of 
+disclosure by the Sub-Committee Participant;
+    b. was in the possession of, or was lawfully and readily available 
+to, FEMA from another source at the time of disclosure without 
+breaching any obligation of confidentiality applicable to the other 
+source; or
+    c. was independently developed or acquired without reference to or 
+reliance upon the Sub-Committee Participant's Competitively Sensitive 
+Information;
+    Where information deemed Competitively Sensitive Information is 
+required to be disclosed by law, regulation, or court order, the 
+``Competitively Sensitive'' (or substantially similar) label will 
+continue to attach to all information and portion(s) of documents that 
+are not made public through the required disclosure.
+Document
+    Any information, on paper or in electronic/audio/visual format, 
+including written, recorded, and graphic materials of every kind, in 
+the possession, custody, or control of the Participant and used or 
+shared in the course of participation in the Voluntary Agreement or a 
+subsequent Plan of Action.
+End-User
+    This includes all direct and ancillary medical support including, 
+but not limited to, hospitals, independent healthcare providers, 
+nursing homes, medical laboratories, dental care providers, independent 
+physician offices, first responders, alternate care facilities and the 
+general public that reasonably represents the totality of the nation's 
+professional or medical response to COVID-19. ``End-User'' may also 
+include essential workers necessary to maintain or restore critical 
+infrastructure operations, including but not limited to law 
+enforcement, education, food and agriculture, energy, water and 
+wastewater, and public works personnel.
+Exigent Circumstances
+    As determined by the Chairperson, the actual or forecasted shortage 
+of a particular type or types of PPE which
+
+[[Page 79023]]
+
+likely cannot be fulfilled via usual market mechanisms for an acute, 
+critical time period, and where immediate and substantial harm is 
+projected to occur from lack of intervention.
+Pandemic
+    A Pandemic is defined as an epidemic that has spread to human 
+populations across a large geographic area that is subject to one or 
+more declarations under the National Emergencies Act, the Public Health 
+Service Act, or the Robert T. Stafford Disaster Relief and Emergency 
+Assistance Act, or if the Administrator determines that one or more 
+declarations is likely to occur and the epidemic poses a direct threat 
+to the national defense or its preparedness programs. For example, 
+Coronavirus Disease 2019 (COVID-19).
+Participant
+    An individual, partnership, corporation, association, or private 
+organization, other than a federal agency, that has substantive 
+capabilities, resources or expertise to carry out the purpose of the 
+Voluntary Agreement, that has been specifically invited to participate 
+in the Voluntary Agreement by the Chairperson, and that has applied and 
+agreed to the terms of the Voluntary Agreement. ``Participant'' 
+includes a corporate or non-corporate entity entering into the 
+Voluntary Agreement and all subsidiaries and affiliates of that entity 
+in which that entity has 50 percent or more control either by stock 
+ownership, board majority, or otherwise. The Administrator may invite 
+Participants to join the Voluntary Agreement at any time during its 
+effective period.
+Personal Protective Equipment (PPE)
+    Objects that provide measures of safety protection for healthcare 
+workers, first responders, critical infrastructure personnel and/or the 
+general public for the response to the Pandemic. These PPE items may 
+include, but are not limited to, face coverings, filtering facepiece 
+respirators, face shields, isolation and surgical gowns, examination 
+and surgical gloves, suits, and foot coverings.
+Plan of Action (Plan)
+    This document. A documented method, pursuant to 50 U.S.C. 
+4558(b)(2), proposed by FEMA to implement a particular set of 
+activities under the Voluntary Agreement, through a Sub-Committee 
+focused on a particular Critical Healthcare Resource, or pandemic 
+response workstream or functional area necessary for the national 
+defense.
+Plan of Action Agreement
+    A separate commitment made by Participants upon invitation and 
+agreement to participate in a Plan of Action as part of one or more 
+Sub-Committees. Completing the Plan of Action Agreement confers 
+responsibilities on the Participant consistent with those articulated 
+in the Plan of Action and affords Participants a defense against 
+antitrust claims under section 708 for actions taken to develop or 
+carry out the Plan of Action and the appropriate Sub-Committee(s), as 
+described in Section IV below.
+Representatives
+    The representatives the Administrator identifies and invites to the 
+Committee from FEMA, HHS, and other federal agencies with equities in 
+this Plan, and empowered to speak on behalf of their agencies' 
+interests. The Attorney General and the Chairman of the FTC, or their 
+delegates, may also attend any meeting as a Representative.
+Sub-Committee
+    A body formed by the Administrator from select Participants to 
+implement a Plan of Action.
+Sub-Committee Chairperson
+    FEMA official, appointed by the Chairperson, to chair a Sub-
+Committee to implement a Plan of Action. The Sub-Committee Chairperson 
+shall be responsible for the overall management and administration of 
+the Sub-Committee in furtherance of this Plan of Action while remaining 
+under the supervision of the Administrator and the Chairperson.
+Sub-Committee Members
+    Collectively the Sub-Committee Chairperson(s), Representatives, and 
+Sub-Committee Participants. Jointly responsible developing and 
+executing this Plan.
+Sub-Committee Participant
+    A subset of Participants of the Committee, that have been 
+specifically invited to participate in a Sub-Committee by the Sub-
+Committee Chairperson, and that have applied and agreed to the terms of 
+this Plan and signed the Plan of Action Agreement. The Sub-Committee 
+Chairperson may invite Participants in the Committee to join a Sub-
+Committee as a Sub-Committee Participant at any time during the Plan's 
+effective period.
+
+B. Plan of Action Participation
+
+    This Plan will be carried out by a subset of the Participants in 
+the Voluntary Agreement through several Sub-Committees:
+    (1) Sub-Committee to Define COVID-19 PPE Requirements,
+    (2) Sub-Committee for N-95 and other Medical Respirators,
+    (3) Sub-Committee for Gloves,
+    (4) Sub-Committee for Gowns, and
+    (5) Sub-Committee for Eye and Facial Coverings.
+    FEMA may establish additional Sub-Committees under this Plan of 
+Action, so long as:
+    (1) The Sub-Committee addresses one specific and well-defined 
+category of PPE; and
+    (2) The Sub-Committee is recommended by the Sub-Committee to Define 
+COVID-19 PPE Requirements.
+    Each Sub-Committee will consist of the (1) Sub-Committee 
+Chairperson(s), (2) Representatives from FEMA, HHS, the Department of 
+Justice (DOJ), and other federal agencies with equities in this Plan, 
+and (3) Sub-Committee Participants that have substantive capabilities, 
+resources or expertise to carry out the purpose of this Plan and have 
+signed the Plan of Action Agreement. The Chairperson shall invite Sub-
+Committee Participants who, in his or her determination, are reasonably 
+representative of the appropriate industry or segment of such industry. 
+Other Attendees--invited by the Sub-Committee Chairperson as subject 
+matter experts to provide technical advice or to represent the 
+interests of other government agencies or interested parties--may also 
+participate in Sub-Committee meetings. The naming of these Sub-
+Committees does not commit the Administrator to creating them unless 
+and until circumstances dictate.
+
+C. Effective Date and Duration of Participation
+
+    This Plan is effective immediately upon satisfaction of the 
+requirements of DPA section 708(f)(1). This Plan shall remain in effect 
+until terminated in accordance with 44 CFR 332.4. It shall be effective 
+for no more than five (5) years from August 17, 2020, when the 
+requirements of DPA section 708(f)(1) were satisfied for the Voluntary 
+Agreement, unless otherwise terminated pursuant to DPA section 
+708(h)(9) and 44 CFR 332.4 or extended as set forth in DPA section 
+708(f)(2). No action may take place under this Plan until it is 
+activated, as described in Section III(E), below.
+
+D. Withdrawal
+
+    Participation in the Plan is voluntary, as is the acceptance of 
+most obligations under the Plan. Sub-Committee Participants may 
+withdraw from this
+
+[[Page 79024]]
+
+Plan or from an individual Sub-Committee at any point, subject to the 
+fulfillment of obligations previously agreed upon by the Participant 
+prior to the date of withdrawal. Note that the obligations outlined in 
+V.B regarding information management and associated responsibilities 
+apply once a party has shared or received information through a Sub-
+Committee, and remain in place after the party's withdrawal from the 
+Sub-Committee or Plan. If a Sub-Committee Participant indicates an 
+intent to withdraw from the Plan due to a modification or amendment of 
+the Plan (described below), the Sub-Committee Participant will not be 
+required to perform actions directed by that modification or amendment. 
+Withdrawal from the Plan will automatically trigger withdrawal from all 
+Sub-Committees; however, a Participant may withdraw from a Sub-
+Committee without also withdrawing from the Plan or other Sub-
+Committees. To withdraw from the Plan or from an individual Sub-
+Committee, a Participant must provide written notice to the 
+Administrator at least fifteen (15) calendar days prior to the 
+effective date of that Sub-Committee Participant's withdrawal 
+specifying the scope of withdrawal. Following receipt of such notice, 
+the Administrator will inform the other Sub-Committee Participants of 
+the date and the scope of the withdrawal.
+    Upon the effective date of the withdrawal from the Plan, the Sub-
+Committee Participant must cease all activities under the Plan. Upon 
+the effective date of the withdrawal from one or more Sub-Committee(s), 
+the Sub-Committee Participant must cease all activities under the Plan 
+that pertain to the withdrawn Sub-Committee(s).
+
+E. Plan of Action Activation and Deactivation
+
+    The Administrator, in consultation with the Chairperson and Sub-
+Committee Chairperson, will invite a select group of Participants in 
+the Voluntary Agreement to form the following Sub-Committees, which 
+will be responsible for implementing this Plan:
+    (1) Sub-Committee to Define COVID-19 PPE Requirements,
+    (2) Sub-Committee for N-95 and other Medical Respirators,
+    (3) Sub-Committee for Gloves,
+    (4) Sub-Committee for Gowns, and
+    (5) Sub-Committee for Eye and Facial Coverings.
+    FEMA may establish additional Sub-Committees under this Plan of 
+Action, so long as:
+    (1) The Sub-Committee addresses one specific and well-defined 
+category of PPE; and
+    (2) The Sub-Committee is recommended by the Sub-Committee to Define 
+COVID-19 PPE Requirements.
+    This Plan will be activated for each invited Participant when the 
+Participant executes a Plan of Action Agreement, and a Participant may 
+not participate in a Sub-Committee until the Plan of Action Agreement 
+is executed. Participants will be invited to join this Plan at the 
+discretion of the Chairperson or the Sponsor to the Voluntary 
+Agreement. Participants will be further invited to attend specific 
+meetings of one or more Sub-Committees at the discretion of the 
+Chairperson.
+
+F. Rules and Regulations
+
+    Sub-Committee Participants acknowledge and agree to comply with all 
+provisions of DPA section 708, as amended, and regulations related 
+thereto which are promulgated by FEMA, the Department of Homeland 
+Security, HHS, the Attorney General, and the FTC. FEMA has promulgated 
+standards and procedures pertaining to voluntary agreements in 44 CFR 
+part 332. The Administrator shall inform Participants of new rules and 
+regulations as they are issued.
+
+G. Modification and Amendment
+
+    The Administrator, after consultation with the Attorney General and 
+the Chairman of the FTC, may terminate or modify, in writing, this Plan 
+at any time. The Attorney General, after consultation with the Chairman 
+of the FTC and the Administrator, may terminate or modify, in writing, 
+this Plan at any time. Sub-Committee Participants may propose 
+modifications or amendments to the Plan or to the Sub-Committees at any 
+time.
+    Where possible, material modifications to the Plan or a Sub-
+Committee will be subject to a 30 calendar day delayed implementation 
+and opportunity for notice and comment by Sub-Committee Participants to 
+the Chairperson. This delayed implementation period may be shortened or 
+eliminated if the Administrator deems it necessary. The Administrator 
+shall inform Sub-Committee Participants of modifications or amendments 
+to the Plan or to the Sub-Committees as they are proposed and issued.
+    The Administrator, after consultation with the Attorney General and 
+the Chairman of the FTC, may remove Sub-Committee Participants from the 
+Plan or from a Sub-Committee at any time. The Attorney General, after 
+consultation with the Chairman of the FTC and the Administrator, may 
+remove Sub-Committee Participants from this Plan or from a Sub-
+Committee at any time. If a Participant is removed from the Plan or 
+from a Sub-Committee, the Participant may request written notice of the 
+reasons for removal from the Chairperson, who shall provide such notice 
+in a reasonable time period.
+
+H. Expenses
+
+    Participation in this Plan or in a Sub-Committee does not confer 
+funds to Sub-Committee Participants, nor does it limit or prohibit any 
+pre-existing source of funds. Unless otherwise specified, all expenses, 
+administrative or otherwise, incurred by Sub-Committee Participants 
+associated with participation in this Plan or a Sub-Committee shall be 
+borne exclusively by the Sub-Committee Participants.
+
+I. Record Keeping
+
+    Each Sub-Committee Chairperson shall have primary responsibility 
+for maintaining records in accordance with 44 CFR part 332 and shall be 
+the official custodian of records related to carrying out this Plan. 
+Each Sub-Committee Participant shall maintain for five years all 
+minutes of meetings, transcripts, records, documents, and other data, 
+including any communications with other Sub-Committee Participants or 
+with any other member of the Sub-Committee, including drafts, related 
+to the carrying out of this Plan or incorporating data or information 
+received in the course of carrying out this Plan. Each Sub-Committee 
+Participant agrees to produce to the Administrator, the Attorney 
+General, and the Chairman of the FTC upon request any item that this 
+section requires the Participant to maintain. Any record maintained in 
+accordance with 44 CFR part 332 shall be available for public 
+inspection and copying, unless exempted on the grounds specified in 5 
+U.S.C. 552(b)(1), (3) or (4) or identified as privileged and 
+confidential information in accordance with DPA section 705(d), and 44 
+CFR 332.5.
+
+IV. Antitrust Defense
+
+    Under the provisions of DPA subsection 708(j), each Sub-Committee 
+Participant in this Plan shall have available as a defense to any civil 
+or criminal action brought for violation of the antitrust laws (or any 
+similar law of any State) with respect to any action to develop or 
+carry out this Plan, that such action was taken by the Sub-Committee 
+Participant in the course of developing or carrying out this Plan, that 
+the Sub-
+
+[[Page 79025]]
+
+Committee Participant complied with the provisions of DPA section 708 
+and the rules promulgated thereunder, and that the Sub-Committee 
+Participant acted in accordance with the terms of the Voluntary 
+Agreement and this Plan. Except in the case of actions taken to develop 
+this Plan, this defense shall be available only to the extent the Sub-
+Committee Participant asserting the defense demonstrates that the 
+action was specified in, or was within the scope of, this Plan and 
+within the scope of the appropriate Sub-Committee(s), including being 
+taken at the direction and under the active supervision of FEMA.
+    This defense shall not apply to any actions taken after the 
+termination of this Plan. Immediately upon modification of this Plan, 
+no defense to antitrust claims under Section 708 shall be available to 
+any subsequent action that is beyond the scope of the modified Plan. 
+The Sub-Committee Participant asserting the defense bears the burden of 
+proof to establish the elements of the defense. The defense shall not 
+be available if the person against whom the defense is asserted shows 
+that the action was taken for the purpose of violating the antitrust 
+laws.
+
+V. Terms and Conditions
+
+    As the sponsoring agency, FEMA will maintain oversight over Sub-
+Committee activities and direct and supervise actions taken to carry 
+out this Plan, including by retaining decision-making authority over 
+actions taken pursuant to the Plan to ensure such actions are necessary 
+to address a direct threat to the national defense. The Attorney 
+General and the Chairman of the FTC will monitor activities of the Sub-
+Committees to ensure they execute their responsibilities in a manner 
+consistent with this Plan and their actions have the least 
+anticompetitive effects possible.
+
+A. Plan of Action Execution
+
+    This Plan will be used to support the following objectives to 
+respond to a Pandemic by maximizing the manufacture and efficient 
+distribution of selected types of critical PPE and creating a 
+prioritization protocol for End-Users based upon their demonstrated or 
+projected requirements and taking into account geographic and regional 
+circumstances. Each Sub-Committee will undertake the following 
+Objectives for the PPE item(s) within its area of jurisdiction.
+1. Objectives
+    (1) Optimize the timely production of sufficient quantities of PPE 
+to reduce loss of life and transmission of the COVID-19 virus.
+    (2) Ensure PPE is distributed effectively across the whole 
+community nationally based on risk.
+    (3) Balance restoration and maintenance of the nation's stockpile 
+of PPE with near-term requirements.
+    (4) Establish a process for FEMA Allocation of PPE nationwide.
+    (5) Ensure ongoing competition in the manufacture and distribution 
+of PPE to the greatest extent possible under the DPA.
+2. Actions
+    Sub-Committee Participants may be asked to support these objectives 
+by taking the following specific actions:
+    (1) Assist the Chairperson in identifying which types of critical 
+PPE should be included within each Sub-Committee. Identification will 
+be based upon each item's importance to the national response to COVID-
+19 and whether it can be reasonably inferred, based upon the best 
+evidence available, that that current and projected supply measured 
+against current and projected demand may not adequately meet the PPE 
+requirements to all identified End-Users or regional or geographic 
+areas of the country as result of measures taken to respond to COVID-
+19.
+    (2) Provide input to the Chairperson in creating a prioritized list 
+of PPE End-Users by categories for each type of critical PPE identified 
+by each Sub-Committee, and ascertaining the relative demand and supply 
+of PPE among and within those End User categories. Prioritization shall 
+be decided by the Chairperson, based upon each item's importance, 
+reflecting the consensus views of the Sub-Committee Members that it 
+represents the most effective way to save lives and prevent the 
+transmission of the COVID-19 virus. This list may be updated throughout 
+the life of the Plan of Action based upon either short term or long-
+term demands. These categories should be considered holistically in 
+terms of the Whole-of-Nation response to COVID-19.
+    (3) Evaluate the domestic supply of PPE and identify when the 
+expansion of the domestic manufacture of PPE may be necessary, as 
+directed and decided by the Chairperson.
+    (4) Provide information, assist, and validate, as necessary as 
+decided by the Chairperson, demand projections for PPE.
+    (5) Create a process for and collaborate in the evaluation of 
+competing claims for PPE from End-Users.
+    (6) Prepare a general strategy to accomplish the activities listed 
+in V(A)(2)(7) below regarding activities in Exigent Circumstances 
+consistent with the decisions made by the Chairperson.
+    (7) In Exigent Circumstances, with review and concurrence in all 
+possible instances by DOJ in consultation with FTC:
+    <bullet> Facilitate maximum availability of PPE to the nation or 
+particular geographies by deconflicting overlapping demands from the 
+collective Participants' customer base, as directed and decided by the 
+Chairperson.
+    <bullet> Facilitate maximum availability of PPE to the nation or 
+particular geographies by deconflicting overlapping supply chain 
+demands placed upon Members, as directed and decided by the 
+Chairperson.
+    <bullet> Facilitate the efficient distribution of PPE by 
+deconflicting overlapping distribution chain activities of Members, as 
+directed and decided by the Chairperson.
+    <bullet> Create a process for and collaborate in the Allocation of 
+PPE nationwide or in particular geographies consistent with the 
+decisions made by the Chairperson.
+    <bullet> Create a process for and collaborate in meeting any other 
+exigent requirements throughout the nation or particular geographies 
+consistent with the overall strategy prepared by this Sub-Committee.
+    (8) Provide data and information necessary to validate the efforts 
+of the Sub-Committee including the actual and planned amounts of PPE to 
+be distributed throughout the Nation, as determined by the Chairperson.
+    (9) Provide feedback to the Sub-Committee on the outcomes of the 
+collective efforts of the Sub-Committee Members and any impediments or 
+bottlenecks.
+    (10) Advise the Chairperson whether additional Participants or 
+Attendees should be invited to join this Plan of Action and Sub-
+Committee.
+    (11) Carry out other activities regarding critical PPE as 
+identified by Sub-Committees under this Plan as determined and directed 
+by the Chairperson necessary to address the COVID-19 virus' direct 
+threat to the national defense, where such activities have been 
+reviewed and approved by DOJ and FTC and received concurrence from Sub-
+Committee members.
+
+B. Information Management and Responsibilities
+
+    FEMA will request only that data and information from Sub-Committee 
+Participants that is necessary to meet the objectives of the Plan and 
+consistent with the scope of the relevant Sub-
+
+[[Page 79026]]
+
+Committees. Upon signing a Plan of Action Agreement for this Plan, FEMA 
+requests that Participants endeavor to cooperate with diligence and 
+speed, and to the extent permissible under this Plan, and share with 
+FEMA data and information necessary to meet the objectives of this 
+Plan.
+    Sub-Committee Participants agree to share with FEMA the following 
+data with diligence and speed, to the extent permissible under this 
+Plan, and abide by the following guidelines, where feasible and 
+consistent with the data that is owned by each Sub-Committee 
+Participant:
+    (1) In general, Participants will not be asked to share 
+Competitively Sensitive Information directly with other Participants.
+    (2) FEMA will only request direct sharing of Competitively 
+Sensitive Information among Participants during Exigent Circumstances 
+where there is a mission critical need or timeline such that sharing 
+only through FEMA is impractical or threatens the outcome of the Plan 
+or Sub-Committee action. Such requests, if made, will be only among 
+Participants whose participation is necessary to meet the objectives of 
+the Plan, will be limited in scope to the greatest extent possible, and 
+will be shared only pursuant to safeguards subject to prior review and 
+audit by DOJ and FTC. Direct sharing of Competitively Sensitive 
+Information with other Participants will be limited in scope and 
+circumstances to the greatest extent possible. Participants may not 
+share Competitively Sensitive Information directly with other 
+Participants unless specifically requested by FEMA, in consultation 
+with DOJ and FTC. All Competitively Sensitive Information delivered to 
+FEMA or to another Sub-Committee Participant shall be delivered by 
+secure means, for example, password-protected or encrypted electronic 
+files or drives with the password/key delivered by separate 
+communication or method or via upload to an appropriately secure web 
+portal as directed by FEMA. All data delivered to the web portal 
+designated by FEMA is deemed to be Competitively Sensitive Information.
+    (3) To allow FEMA to identify and appropriately protect documents 
+containing Competitively Sensitive Information by the Sub-Committee 
+Participant providing the documents, the Sub-Committee Participant will 
+make good faith efforts to designate any Competitively Sensitive 
+Information by placing restrictive markings on documents and things 
+considered to be competitively sensitive, the restrictive markings 
+being sufficiently clear in wording and visibility to indicate the 
+restricted nature of the data. The Sub-Committee Participant will 
+identify Competitively Sensitive Information that is disclosed verbally 
+by oral warning. Information designated as competitively sensitive 
+will, to the extent allowed by law, be presumed to constitute trade 
+secrets, or commercial or financial information, and be provided by the 
+Sub-Committee Participant to FEMA with the expectation that it will be 
+kept confidential by both parties, as such terms are understood in 
+accordance with 5 U.S.C. 552(b)(4) of the Freedom of Information Act 
+and federal judicial interpretations of this statute. FEMA agrees that 
+to the extent any information designated as competitively sensitive by 
+a Sub-Committee Participant is responsive to a request for disclosure 
+under the Freedom of Information Act, FEMA will consult with the Sub-
+Committee Participant and afford the Participant ten (10) working days 
+to object to any disclosure by FEMA.
+    (4) FEMA will make good faith efforts to appropriately recognize 
+unmarked Documents containing Competitively Sensitive Information as 
+Competitively Sensitive Information. However, FEMA cannot guarantee 
+that all unmarked Documents will be recognized as being Competitively 
+Sensitive Information and protected from disclosure to third parties. 
+If the unmarked Documents have not been disclosed without restriction 
+outside of FEMA, the Sub-Committee Participant may retroactively 
+request to have appropriate designations placed on the Documents. If 
+the unmarked Documents have been disclosed without restriction outside 
+of FEMA, FEMA will, to the extent practicable, remove any requested 
+information from public forums controlled by FEMA and will work 
+promptly to request that a receiving party return or destroy disclosed 
+unmarked Documents if requested by the Sub-Committee Participant.
+    (5) Competitively Sensitive Information may be used by FEMA, alone 
+or in combination with additional information, including Documents and 
+Competitively Sensitive Information received from third parties, to 
+support FEMA's implementation of this Plan of Action as determined by 
+the Chairperson. In all situations, FEMA will aggregate and anonymize 
+Competitively Sensitive Information to the greatest extent possible to 
+protect the interests retained by the owners of the data while still 
+allowing the objectives of the Plan of Action and Sub-Committee to be 
+achieved. To the greatest extent possible, such aggregation will render 
+the competitively sensitive nature of the Competitively Sensitive 
+Information of the Sub-Committee Participant no longer recognizable in 
+a commercially sensitive manner, and without sufficient information to 
+enable, by inference or otherwise, attribution to Sub-Committee 
+Participant or its affiliates (as clearly identified and disclosed to 
+FEMA). Any disclosure of Competitively Sensitive Information by FEMA, 
+within or outside a Sub-Committee, will be subject to review and 
+approval by DOJ and FTC.
+    (6) Except as otherwise expressly permitted by applicable federal 
+law, FEMA shall not disclose any Competitively Sensitive Information or 
+use any Competitively Sensitive Information for any purpose other than 
+in connection with the purposes of this Plan of Action, and FEMA will 
+not sell any Competitively Sensitive Information of any Sub-Committee 
+Participant.
+    (7) Except as described below, FEMA may disclose Competitively 
+Sensitive Information only to its employees, officers, directors, 
+contractors, agents, and advisors (including attorneys, accountants, 
+consultants, and financial advisors). Any individual with access to 
+Competitively Sensitive Information will be expected to comply with the 
+terms of this Plan of Action.
+    a. Information Sharing within the Sub-Committee: FEMA may share 
+Competitively Sensitive Information with Sub-Committee Participants and 
+Federal Representatives of the Plan of Action, and their respective 
+employees, officers, directors, contractors, agents, and advisors 
+(including attorneys, accountants, consultants, and financial advisors) 
+where there is a need to know and where disclosure is reasonably 
+necessary in furtherance of implementing the Plan of Action. FEMA will 
+aggregate and anonymize data prior to sharing with the Sub-Committee 
+Participants to the greatest extent possible while still allowing the 
+objectives of the Plan of Action to be achieved, and will not share 
+data--particularly to competitors of the submitter--prior to 
+consultation with and approval by the DOJ and FTC.
+    i. Sub-Committee Participants, when providing Competitively 
+Sensitive Information to FEMA, may request that this Information not be 
+shared with other Sub-Committee Participants. Where these requests are 
+made in good faith and are reasonable in nature, FEMA will respect 
+these requests to the greatest extent possible and will consult the 
+owner of the data prior to any release made to Sub-Committee 
+Participants.
+
+[[Page 79027]]
+
+    b. Restricted Reports. FEMA may communicate Competitively Sensitive 
+Information to appropriate government officials through Restricted 
+Reports. The information contained in Restricted Reports shall be 
+aggregated and anonymized to the greatest extent possible, while 
+recognizing that these officials may need a certain amount of 
+granularity and specificity of information to appropriately respond to 
+COVID-19. FEMA will aim to aggregate data to the County level, and will 
+not share Restricted Reports prior to consultation and approval from 
+the DOJ and FTC. FEMA may disclose Restricted Reports to relevant White 
+House and Administration officials and State Governors, and their 
+respective employees, officers, directors, contractors, agents, and 
+advisors (including attorneys, accountants, consultants, and financial 
+advisors) who have a need to know and to whom such disclosure is 
+reasonably necessary solely in furtherance of the implementation of 
+this Plan of Action. FEMA shall take appropriate action (by 
+instructions, agreement, or otherwise) to ensure that receiving parties 
+comply with all data-sharing confidentiality and obligations under this 
+Plan of Action as if such persons or entities had been parties to this 
+Plan of Action.
+    c. Public Reports. FEMA may share information with the public 
+through Public Reports. Data contained in Public Reports shall be fully 
+aggregated and anonymized. Public Reports shall be aggregated to at 
+least a state level and may be publicly disclosed after consultation 
+and approval from the DOJ and FTC.
+    (8) Where possible and not obviated by Exigent Circumstances, FEMA 
+will notify Sub-Committee Participants prior to the release of any 
+Competitively Sensitive Information that has not been fully aggregated 
+and anonymized. In consultation with DOJ and FTC, FEMA will consider 
+any good-faith requests made by Sub-Committee members to hold the 
+release of data or requests for further aggregation or anonymization. 
+In general, FEMA will not provide notification prior to the release of 
+Public Reports, under the presumption that the data in these reports 
+has already been fully anonymized and de-identified.
+    (9) Any party receiving Competitively Sensitive Information through 
+this Plan shall use such information solely for the purposes outlined 
+in the Plan and take steps, such as imposing previously approved 
+firewalls or tracking usage, to prevent misuse of the information. 
+Disclosure and use of Competitively Sensitive Information will be 
+limited to the greatest extent possible, and any party receiving 
+Competitively Sensitive Information shall follow the procedures 
+outlined in paragraph 7 above.
+    (10) At the conclusion of a Participant's involvement in a Plan--
+due to the deactivation of the Plan or due to the Participant's 
+withdrawal or removal--each Participant will be requested to sequester 
+any and all Competitively Sensitive Information received through 
+participation in the Plan. This sequestration shall include the 
+deletion of all Competitively Sensitive Information unless required to 
+be kept pursuant to the Record Keeping requirements as described supra, 
+Section I, 44 CFR part 332, or any other provision of law.
+
+C. Oversight
+
+    Each Sub-Committee Chairperson is responsible for ensuring that the 
+Attorney General, or suitable delegate(s) from the DOJ, and the FTC 
+Chairman, or suitable delegate(s) from the FTC, have awareness of 
+activities under this Plan, including activation, deactivation, and 
+scheduling of meetings. The Attorney General, the FTC Chairman, or 
+their delegates may attend Sub-Committee meetings and request to be 
+apprised of any activities taken in accordance with activities under 
+this Plan. DOJ or FTC Representatives may request and review any 
+proposed action by the Sub-Committee or Sub-Committee Participants 
+undertaken pursuant to this Plan, including the provision of data. If 
+any DOJ or FTC Representative believes any actions proposed or taken 
+are not consistent with relevant antitrust protections provided by the 
+DPA, he or she shall provide warning and guidance to the Sub-Committee 
+as soon as the potential issue is identified. If questions arise about 
+the antitrust protections applicable to any particular action, FEMA may 
+request DOJ, in consultation with the FTC, provide an opinion on the 
+legality of the action under relevant DPA antitrust protections.
+
+VI. Establishment of the Sub-Committees
+
+    This Plan establishes Sub-Committees to implement the Plan to 
+Establish a National Strategy for the Manufacture, Allocation, and 
+Distribution of Personal Protective Equipment (PPE) to Respond to 
+COVID-19 to provide the Federal Government and the Participants a forum 
+to maximize the manufacture and efficient distribution of selected 
+types of critical PPE and to create a prioritization protocol based 
+upon identified types of PPE End-Users and their demonstrated or 
+projected requirements, and demonstrated or projected geographic and 
+regional areas of need. The outcome should include a framework to 
+expeditiously meet any PPE needs in Exigent Circumstances anywhere in 
+the Nation, and to ensure that actions to support PPE stockpiling and 
+reserves do not interfere with immediate requirements that would result 
+in an unacceptable risk to healthcare providers or other potential PPE 
+recipients. A Sub-Committee Chairperson designated by the Chairperson 
+will convene and preside over each Sub-Committee. Sub-Committees will 
+not be used for contract negotiations or contract discussions between 
+the Participants and the Federal Government; such negotiations or 
+discussions will be in accordance with applicable federal contracting 
+policies and procedures. However, this shall not limit any discussion 
+within a Sub-Committee about the operational utilization of existing 
+and potential contracts between the Participants and Representatives 
+when seeking to align their use with overall manufacturing and 
+distribution efforts consistent with this Plan.
+    Each Sub-Committee will consist of designated Representatives from 
+FEMA, HHS, other federal agencies with equities in this Plan, and each 
+Sub-Committee Participant. The Attorney General and Chairman of the 
+FTC, or their delegates, may also join each Sub-Committee and attend 
+meetings at their discretion. Attendees may also be invited at the 
+discretion of a Sub-Committee Chairperson as subject matter experts, to 
+provide technical advice, or to represent other government agencies, 
+but will not be considered part of the Sub-Committee.
+    To the extent necessary to respond to the Pandemic, only at the 
+explicit direction of a Sub-Committee Chairperson, and subject to the 
+provisions of Section V(B), Sub-Committee Members may be asked to 
+provide technical advice, share information, help identify and validate 
+places and resources of the greatest need, help project future 
+manufacturing and distribution demands, assist in identifying and 
+resolving the allocation of scarce resources amongst all necessary 
+public and private sector domestic needs under Exigent Circumstances, 
+and take any other necessary actions to maximize the timely manufacture 
+and distribution of PPE as determined necessary by FEMA to respond to 
+the Pandemic. A Sub-Committee Chairperson or his or her designee, at 
+the Sub-Committee Chairperson's sole discretion, will make decisions on 
+these issues in order to ensure the maximum efficiency and 
+effectiveness in the use of Sub-
+
+[[Page 79028]]
+
+Committee Member's resources. All Sub-Committee Participants will be 
+invited to open Sub-Committee meetings. For selected Sub-Committee 
+meetings, attendance may be limited to designated Sub-Committee 
+Participants to meet specific operational requirements, as determined 
+by FEMA.
+    Each Sub-Committee Chairperson shall notify the Attorney General, 
+the Chairman of the FTC, Representatives, and Participants of the time, 
+place, and nature of each meeting and of the proposed agenda of each 
+meeting to be held to carry out this Plan of Action. Additionally, each 
+Sub-Committee Chairperson shall provide for publication in the Federal 
+Register of a notice of the time, place, and nature of each meeting. If 
+a meeting is open, a Federal Register notice will be published 
+reasonably in advance of the meeting. A Sub-Committee Chairman may 
+restrict attendance at meetings only on the grounds outlined by 44 CFR 
+332.5(c)(1)-(3). If a meeting is closed, a Federal Register notice will 
+be published within ten (10) days of the meeting and will include the 
+reasons why the meeting is closed pursuant to 44 CFR 332.3(c)(2).
+    The Sub-Committee Chairperson shall establish the agenda for each 
+meeting, be responsible for adherence to the agenda, and provide for a 
+written summary or other record of each meeting and provide copies of 
+transcripts or other records to FEMA, the Attorney General, the 
+Chairman of the FTC, and all Sub-Committee Participants. The 
+Chairperson shall take necessary actions to protect from public 
+disclosure any data discussed with or obtained from Sub-Committee 
+Participants which a Sub-Committee Participant has identified as a 
+trade secret or as privileged and confidential in accordance with DPA 
+sections 708(h)(3) and 705(d), or which qualifies for withholding under 
+44 CFR 332.5.
+
+VII. Application and Agreement
+
+    The Sub-Committee Participant identified below hereby agrees to 
+join in the Federal Emergency Management Agency sponsored Plan of 
+Action to Establish a National Strategy for the Manufacture, 
+Allocation, and Distribution of Personal Protective Equipment (PPE) 
+under the Voluntary Agreement for the Manufacture and Distribution of 
+Healthcare Resources Necessary to Respond to a Pandemic and to become a 
+Participant in one or more Sub-Committees established by this Plan. 
+This Plan will be published in the Federal Register. This Plan is 
+authorized under section 708 of the Defense Production Act of 1950, as 
+amended. Regulations governing the Voluntary Agreement for the 
+Manufacture and Distribution for the Manufacture and Distribution of 
+Healthcare Resources Necessary to Respond to a Pandemic and all 
+subsequent Plans of Action appear at 44 CFR part 332. The applicant, as 
+a Sub-Committee Participant, agrees to comply with the provisions of 
+section 708 of the Defense Production Act of 1950, as amended, the 
+regulations at 44 CFR part 332, and the terms of this Plan.
+
+VIII. Assignment
+
+    No Sub-Committee Participant may assign or transfer this Plan, in 
+whole or in part, or any protections, rights or obligations hereunder 
+without the prior written consent of the Sub-Committee Chairperson. 
+When requested, the Sub-Committee Chairperson will respond to written 
+requests for consent within 10 (ten) business days of receipt.
+
+-----------------------------------------------------------------------
+(Company name)
+
+-----------------------------------------------------------------------
+(Name of authorized representative)
+
+-----------------------------------------------------------------------
+(Signature of authorized representative)
+
+-----------------------------------------------------------------------
+(Date)
+
+-----------------------------------------------------------------------
+Sub-Committee Chairperson
+
+-----------------------------------------------------------------------
+(Date)
+
+Pete Gaynor,
+Administrator, Federal Emergency Management Agency.
+[FR Doc. 2020-26986 Filed 12-7-20; 8:45 am]
+BILLING CODE 9111-19-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

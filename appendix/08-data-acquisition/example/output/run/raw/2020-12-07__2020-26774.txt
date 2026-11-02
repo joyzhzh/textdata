@@ -1,0 +1,157 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78872-78873]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26774]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF LABOR
+
+Mine Safety and Health Administration
+
+[OMB Control No. 1219-0066]
+
+
+Proposed Extension of Information Collection; Testing, 
+Evaluation, and Approval of Mining Products
+
+AGENCY: Mine Safety and Health Administration, Labor.
+
+ACTION: Request for public comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Labor, as part of its continuing effort to 
+reduce paperwork and respondent burden, conducts a pre-clearance 
+consultation program to provide the general public and Federal agencies 
+with an opportunity to comment on proposed collections of information 
+in accordance with the Paperwork Reduction Act of 1995. This program 
+helps to ensure that requested data can be provided in the desired 
+format, reporting burden (time and financial resources) is minimized, 
+collection instruments are clearly understood, and the impact of 
+collection requirements on respondents can be properly assessed. 
+Currently, the Mine Safety and Health Administration (MSHA) is 
+soliciting comments on the information collection for Testing, 
+Evaluation, and Approval of Mining Products, 30 CFR Subchapter B--parts 
+6 through 36.
+
+DATES: All comments must be received on or before February 5, 2021.
+
+ADDRESSES: You may submit comment as follows. Please note that late, 
+untimely filed comments will not be considered. Electronic Submissions: 
+Submit electronic comments in the following way:
+    <bullet> Federal eRulemaking Portal: <a href="https://www.regulations.gov">https://www.regulations.gov</a>. 
+Follow the instructions for submitting comments
+
+[[Page 78873]]
+
+for docket number MSHA-2020-0038. Comments submitted electronically, 
+including attachments, to <a href="https://www.regulations.gov">https://www.regulations.gov</a> will be posted to 
+the docket, with no changes. Because your comment will be made public, 
+you are responsible for ensuring that your comment does not include any 
+confidential information that you or a third party may not wish to be 
+posted, such as your or anyone else's Social Security number or 
+confidential business information.
+    <bullet> If you want to submit a comment with confidential 
+information that you do not wish to be made available to the public, 
+submit the comment as a written/paper submission.
+    Written/Paper Submissions: Submit written/paper submissions in the 
+following way:
+    <bullet> Mail/Hand Delivery: Mail or visit DOL-MSHA, Office of 
+Standards, Regulations, and Variances, 201 12th Street South, Suite 
+4E401, Arlington, VA 22202-5452.
+    <bullet> MSHA will post your comment as well as any attachments, 
+except for information submitted and marked as confidential, in the 
+docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a>.
+
+FOR FURTHER INFORMATION CONTACT: Roslyn B. Fontaine, Deputy Director, 
+Office of Standards, Regulations, and Variances, MSHA, at 
+[email redacted] (email); (202) 693-9440 (voice); 
+or (202) 693-9441 (facsimile).
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    Section 103(h) of the Federal Mine Safety and Health Act of 1977 
+(Mine Act), 30 U.S.C. 813(h), authorizes MSHA to collect information 
+necessary to carry out its duty in protecting the safety and health of 
+miners. Further, section 101(a) of the Mine Act, 30 U.S.C. 811, 
+authorizes the Secretary of Labor to develop, promulgate, and revise as 
+may be appropriate, improved mandatory health or safety standards for 
+the protection of life and prevention of injuries in coal or other 
+mines.
+    MSHA is responsible for the inspection, testing, approval and 
+certification, and quality control of mining equipment and components, 
+materials, instruments, and explosives used in both underground and 
+surface coal, metal, and nonmetal mines. Title 30 Code of Federal 
+Regulations parts 6 through 36 contain procedures and specifications by 
+which manufacturers may apply for and have equipment approved as 
+``permissible'' for use in mines.
+
+II. Desired Focus of Comments
+
+    MSHA is soliciting comments concerning the proposed information 
+collection related to Testing, Evaluation, and Approval of Mining 
+Products, 30 CFR Subchapter B--parts 6 through 36. MSHA is particularly 
+interested in comments that:
+    <bullet> Evaluate whether the collection of information is 
+necessary for the proper performance of the functions of the Agency, 
+including whether the information has practical utility;
+    <bullet> Evaluate the accuracy of MSHA's estimate of the burden of 
+the collection of information, including the validity of the 
+methodology and assumptions used;
+    <bullet> Suggest methods to enhance the quality, utility, and 
+clarity of the information to be collected; and
+    <bullet> Minimize the burden of the collection of information on 
+those who are to respond, including through the use of appropriate 
+automated, electronic, mechanical, or other technological collection 
+techniques or other forms of information technology, e.g., permitting 
+electronic submission of responses.
+    Background documents related to this information collection request 
+are available at <a href="https://regulations.gov">https://regulations.gov</a> and in DOL-MSHA located at 201 
+12th Street South, Suite 4E401, Arlington, VA 22202-5452. Questions 
+about the information collection requirements may be directed to the 
+person listed in the FOR FURTHER INFORMATION section of this notice 
+from the previous collection of information.
+
+III. Current Actions
+
+    This information collection request concerns provisions for 
+Testing, Evaluation, and Approval of Mining Products, 30 CFR Subchapter 
+B--parts 6 through 36. MSHA has updated the data with respect to the 
+number of respondents, responses, burden hours, and burden costs 
+supporting this information collection request from the previous 
+information collection request.
+    Type of Review: Revision of a currently approved collection.
+    Agency: Mine Safety and Health Administration.
+    OMB Number: 1219-0066.
+    Affected Public: Business or other for-profit.
+    Number of Respondents: 130.
+    Frequency: On occasion.
+    Number of Responses: 315.
+    Annual Burden Hours: 3,424 hours.
+    Annual Respondent or Recordkeeper Cost: $2,938,557.
+    MSHA Form: MSHA Form 2000-38, Electrically Operated Mining 
+Equipment U.S. Department of Labor Field Approval Application (Coal 
+Operator).
+    Comments submitted in response to this notice will be summarized in 
+the request for Office of Management and Budget approval of the 
+proposed information collection request; they will become a matter of 
+public record and will be available at <a href="https://www.reginfo.gov">https://www.reginfo.gov</a>.
+
+Roslyn B. Fontaine,
+Certifying Officer.
+[FR Doc. 2020-26774 Filed 12-4-20; 8:45 am]
+BILLING CODE 4510-43-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

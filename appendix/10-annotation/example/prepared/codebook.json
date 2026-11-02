@@ -1,0 +1,23 @@
+{
+  "codebook_id": "documentary-responsibility-demo-1",
+  "version": "1.0",
+  "status": "demonstration specification, not validated research instrument",
+  "target": "Explicit organizational actor-action assignments within the coding unit; surrounding document is context only",
+  "modalities": {
+    "mandatory": "Source directs the actor to undertake the quoted action (for example shall or must). Preserve the action's exact strength, including strive, and every stated condition.",
+    "discretionary": "Source explicitly permits the action, for example may; not a mandatory duty.",
+    "prohibited": "Source explicitly forbids the action; do not treat it as a positive task assignment.",
+    "recommended": "Source recommends or encourages the action without an explicit obligation.",
+    "unresolved": "An actor-action relation is identifiable but its modality cannot be determined from supplied evidence."
+  },
+  "rules": [
+    "Identify the responsible organizational actor separately from consulted parties, recipients or coordinators. Retain source wording; no cross-document entity resolution is implemented.",
+    "Create one relation per distinct assigned action. Do not turn every noun mention into a responsible actor. Keep joint actors together in actor_quote; later actor-level weighting is a separate study decision.",
+    "Describe background or reported behavior as no_assignment when no direction is present. This classification concerns documentary assignment, not whether the described event occurred.",
+    "Copy actor/action and all locally expressed deadlines, conditions, exceptions and qualifications as exact source substrings. Include relevant other actor roles with source quotes. Generic document scope remains available in context and must be assessed for substantive use.",
+    "When a quote repeats, provide actor_occurrence or action_occurrence as a zero-based occurrence index in the coding unit, or choose a longer unambiguous quote. Offsets are derived by code after this explicit selection.",
+    "Use abstain for a unit whose relations cannot be determined; failed for execution failure. Neither is no_assignment. A missing unit remains missing at export.",
+    "Give a short evidentiary explanation. Do not infer actual performance, organizational power, legal enforceability, effectiveness or causality from these labels."
+  ],
+  "quality_plan": "Mechanical checks establish identity, structure and quote containment only. Researchers must inspect omissions and semantic fit against complete independently coded text; tune on development data and evaluate on separate document families. No universal accuracy threshold, fixed sample size or voting rule is adopted here."
+}

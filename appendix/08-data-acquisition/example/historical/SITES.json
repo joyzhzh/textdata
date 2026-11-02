@@ -1,0 +1,40 @@
+{
+  "identities": 191,
+  "raw_bytes_same_from_both_sites": 61,
+  "raw_bytes_differ_between_sites": 130,
+  "reading_copies_same_from_both_sites": 191,
+  "reading_copies_differ_between_sites": 0,
+  "differing_raw_all_have_coded_emails": true,
+  "retained_line_matches_the_site_it_names": 169,
+  "retained_line_matches_neither_site": 22,
+  "breakdown": [
+    {
+      "outcome": "raw differ, clean same",
+      "emails": "coded e-mail",
+      "retained": "retained site federalregister.gov",
+      "match": "retained matches federalregister.gov",
+      "documents": 108
+    },
+    {
+      "outcome": "raw differ, clean same",
+      "emails": "coded e-mail",
+      "retained": "retained site govinfo.gov",
+      "match": "retained matches none",
+      "documents": 22
+    },
+    {
+      "outcome": "raw same, clean same",
+      "emails": "no coded e-mail",
+      "retained": "retained site federalregister.gov",
+      "match": "retained matches both",
+      "documents": 44
+    },
+    {
+      "outcome": "raw same, clean same",
+      "emails": "no coded e-mail",
+      "retained": "retained site govinfo.gov",
+      "match": "retained matches both",
+      "documents": 17
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "repository": "the engine's research-protocol repository, version 2 (name withheld for review)",
+  "revision": "fa6cc2e2f93136d2d7b5d29a3b5d5b3e7d445e1d",
+  "default_branch_observed": "main",
+  "observed_on": "2026-09-02",
+  "protocol_entrypoint": "DUAL_MODEL_DEEP_RESEARCH_BOILERPLATE_V2.md",
+  "standalone_mission_template": "PROTOCOL_KIT_V2/01_EXECUTOR_COMMANDER_TEMPLATE.md",
+  "pin_intent": "exact remote snapshot selected for Phase A architecture; not an alias for current main",
+  "use": "fire-authorized for the scopes GT-PILOT-C001 and GT-M02; architecture-draft otherwise",
+  "campaign_fire_authorized": true,
+  "vendored": false,
+  "submodule": false,
+  "update_policy": "immutable pin; re-authenticate and obtain researcher ratification before any live study",
+  "fire_authority": "researcher's ruling, delegated 2026-09-02",
+  "release_note": "Release edition: repository name and address withheld; references to a launch file not in this release removed; see ../CHANGES.md"
+}

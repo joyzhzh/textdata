@@ -2,31 +2,73 @@
 
 [Webpage](https://textdata.info/toolkit/grounded-theory/) · [All components](../README.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+A working agent toolkit for inductive process studies using grounded-theory techniques. It connects source passages, codes, comparisons and successive category definitions so a researcher can inspect why an interpretation changed. The researcher directs the inquiry and judges the explanations.
 
-## Purpose and scope
+The prototype includes an agent skill, templates, three Python helpers, 50 tests, a runnable synthetic example and analytical records from **22 interviews over three cycles (6, 14, 22)**.
 
-This toolkit supports inductive process studies using grounded-theory techniques. It helps researchers move between close reading and comparisons across accounts while retaining how codes, categories and explanations develop.
+## What the demonstration shows
 
-## Design and components
+The interview analysis first proposed that opportunities to revise delegated work preserve agency. A contrary account of repeated repairs ending in a product shutdown separated having a correction channel from making an effective correction. A later account described an investor email sent without expected approval, although the speaker accepted its content. That distinction—**approval of an outcome versus authorization to act**—survived review in a revised episode that also retains unknown recipient effects and future control.
 
-Agent instructions organize episode reconstruction, coding, constant comparison, memoing and theoretical sampling proposals. Templates and software helpers preserve source connections and successive analytical versions. The researcher directs the inquiry and judges interpretations; the software checks records and their relationships.
+[Follow the worked example](example/output/TRACE.md): each comparison names its supporting records, the category it changes and the reason. The [analytical account](example/input/study/C003_ANALYSIS.md) develops the provisional explanation; the [review findings](example/input/study/audit/INDEPENDENT_REVIEW.md) show its qualifications.
 
-The workflow retains the chain from an excerpt to an incident, from incidents to comparisons, and from comparisons to a developing category. Memos record why an interpretation changed. Proposals for further sampling identify the evidence that could distinguish competing explanations, making the direction of the next inquiry inspectable rather than treating additional collection as an end in itself.
+[Explore with your AI assistant](AI-PROMPT.md): a prompt for reading the example and working with the prototype.
 
-## Use and outputs
+## Run the prototype
 
-In the interview study, agents coded incidents against the speakers’ own words, compared accounts and used each comparison to specify what evidence to seek next. An initial memo based on six interviews proposed that people retained agency when they could revise what they had delegated. A deliberately sought contrary account described repeated patches to a support product that was eventually shut down. The analysts revised the category to distinguish having a channel for correction from being able to change the outcome. Another interview described an agent sending an investor email without the expected approval. The speaker endorsed the message it sent. That account separated the acceptability of the result from authorization to act and the ability to redirect the action.
+From this folder, with Python 3.9 or later:
 
-The incident records identify the source lines. The comparisons, successive category definitions and memos show why the interpretation changed. The sampling requests state which further account could distinguish the remaining explanations. They authorize no new collection.
+```bash
+python3 checks/verify_counts.py
+python3 example/trace_comparison.py
+```
 
-## Evidence and limitations
+These offline, standard-library commands check counts and file integrity, and reproduce `example/output/TRACE.md`. No model or network is needed. A successful check ends with `all checks passed`.
 
-The study expanded from six interviews in the pilot to 14 interviews in the second cycle and 22 interviews in the third. A reviewer who had not produced the analysis found that an outcome label obscured the failed approval in the email episode. The revised episode record retains the speaker’s favorable judgment of the message, the missing approval and the unknown consequences for its recipient. A reader can follow the objection to the revision.
+To run the synthetic two-cycle example or tests, install the dependency in [tool/requirements.txt](tool/requirements.txt). The helpers require macOS, Linux or WSL and a Git checkout:
 
-The evidence consists of interview accounts of events, including speakers’ interpretations of others’ actions. Follow-up outcomes are often unknown, and founders are overrepresented. The reviewer used the producers’ model, saw the prior analysis and checked selected passages. No human methodological review or comparison with the literature has been conducted. The study ended with unresolved contrasts and made no claim to saturation. The review package contains the analytical records and source locations. It does not redistribute the transcripts.
+```bash
+cd tool
+python3 -m pip install -r requirements.txt
+python3 -B scripts/validate_analysis_packet.py examples/synthetic/C001
+python3 -B examples/synthetic/workflow.py --output /absolute/new/folder/outside/any/git/checkout
+python3 -B -m unittest discover -s tests
+```
 
-## Proposed development
+The example uses an invented nine-line text and calls no model. To work with an AI agent, load [tool/SKILL.md](tool/SKILL.md) and use [tool/AGENT_STARTER.md](tool/AGENT_STARTER.md).
 
-We will extend empirical applications, examine alternative interpretations and assess the resulting theoretical claims.
+## Materials
 
+| Path | Contents |
+|---|---|
+| [tool/](tool/) | Agent instructions, methods guidance, schemas, helpers, templates, synthetic input and tests |
+| [example/](example/) | Interview-study records, selection rationale, analytical account, review and reproducible comparison trace |
+| [data/README.md](data/README.md) | Source bindings and transcript access limits |
+| [checks/](checks/) and [MANIFEST.json](MANIFEST.json) | Offline count and integrity checks |
+| [NOTICE.md](NOTICE.md) | Sources, credits and licences |
+
+## Results and units
+
+| Count | Value | Unit |
+|---|---:|---|
+| Interviews analysed | 22 | Bound transcript files; three cycles: 6, 14, 22 |
+| Incidents | 234 | Accounts from sources; none directly observed |
+| Incidents with a quotation hash | 78 | Quoted-line fingerprints, without the quotations |
+| Comparisons | 43 | Comparison rows |
+| Categories | 6 current | 15 versions retained |
+| Memos | 14 | Versions across four memo types |
+| Sampling requests | 3 | All proposed; none executed by the tool |
+| Account envelopes | 86 current | 89 episode versions; not independent events |
+| Unknown endings | 62 | Current envelopes with unknown outcome |
+| Initial codes | 234 current | 235 versions retained |
+| Tests | 50 | Released tests; the original 61 included 11 checks of private project files |
+
+## Limits and next work
+
+These are provisional interpretations of interview accounts, with founders overrepresented and many later outcomes unknown. Review was performed by a separate AI agent using the producers’ model, without blinding and on selected passages. There has been no independent human methodological assessment or comparison with the literature, and no claim to saturation or a validated theory.
+
+The transcripts are not redistributed: no redistribution grant has been established for the retained copies. The analytical rows preserve their original status labels, `NON_RELEASE` and saturation `NOT_ASSESSED`. They show how the prototype operated, rather than established findings. The runnable synthetic example is self-contained; continuing the original interview study would require its transcripts and runtime. Withholding this study’s transcripts does not demonstrate general safeguards against prompt injection, bias or leakage.
+
+Proposed development: extend empirical applications, examine alternative interpretations and assess the resulting theoretical claims.
+
+Code and the agent skill are offered under Apache-2.0; project-authored documents and records under CC BY 4.0. Third-party rights remain with their owners. [Release modifications](CHANGES.md) distinguish retained records from the two redacted manifests.

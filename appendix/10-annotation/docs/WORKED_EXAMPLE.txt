@@ -1,0 +1,49 @@
+Worked example: source text → candidate annotation → feature row
+
+Source: Executive Order 13960, Federal Register document 2020-27065, published 8 December 2020, pages 78939–78943.
+https://www.govinfo.gov/content/pkg/FR-2020-12-08/html/2020-27065.htm
+Credit: Office of the Federal Register, NARA and U.S. Government Publishing Office/GovInfo. Official United States Government text, public domain.
+
+Five passages were selected for illustration. The assistant that built the prototype authored the candidates interactively. They have not been independently validated.
+
+u1 — Section 1, paragraph 2
+Source opening: “Agencies are already leading the way in the use of AI by applying it”.
+Candidate: no_assignment. The passage describes uses; it does not direct an action. The export preserves a no-assignment row rather than dropping the passage. This is an interpretation of the passage, not confirmation that its described uses occurred.
+
+u2 — Section 4(b), first sentence
+Actor: “the Director of OMB (Director)”.
+Action: “publicly post a roadmap for the policy guidance that OMB intends to create or revise to better support the use of AI”.
+Candidate modality: mandatory.
+Preserved qualifiers: within 180 days of the order; coordination with identified stakeholders; consistency with the order. Stakeholders remain in a separate role field. They are not assigned the Director's posting action.
+
+u3 — Section 5(b)
+Actor: “each agency”.
+Action: “prepare an inventory of its non-classified and non-sensitive use cases of AI”.
+Candidate modality: mandatory.
+Preserved qualifiers: deadline tied to the CIO Council directive; annual repetition; section 9 scope; current and planned uses; consistency with the agency mission. The Council's mention is a temporal trigger, not another responsible actor for preparation.
+
+u4 — Section 5(c)(ii)
+Actor: “agencies” at the second occurrence in the selected passage.
+Action: “strive to implement the approved plans”.
+Candidate modality: mandatory, applied to the exact action to strive.
+Preserved qualifiers: coordination participants; 180 days after plan approval; “subject to existing resource levels”. This record does not strengthen the wording to a requirement to achieve implementation. The source quote begins at normalized character 10636 for the acting “agencies”; exported offsets, rather than this prose, govern exact location.
+
+u5 — Section 5(e)
+Actor: “agencies”.
+Action: “make their inventories available to the public”.
+Candidate modality: mandatory.
+Preserved qualifiers: 120 days after inventories are completed; practicability; applicable-law/policy and protected-information limitations. The public is a recipient. Actual publication is not established.
+
+ACTUAL EXPORT
+example/output/features.csv contains five rows: four candidate relations and the no-assignment row. example/output/annotations.jsonl contains five unit records, with exact quotes and normalized-source offsets for evidence, actors, actions, qualifiers and other roles. Summary: five requested/returned units; four candidate mandatory relations; zero candidate relations in the other modality categories. Those zeros describe this generated output only. They do not establish category absence from the source corpus.
+
+The complete document remains available for context, including the definitions and exclusions in sections 8–9 and general provisions in section 10. The adapter does not resolve their legal implications or flatten them into the local labels. It does not establish a full-document responsibility distribution.
+
+TWO LIMITS YOU CAN INSPECT
+
+checks/recorded-2026-10-29/semantic_limit_wrong_actor_still_passes.jsonl substitutes the consulted stakeholders for the Director in section 4(b).
+checks/recorded-2026-10-29/semantic_limit_omission_still_passes.jsonl declares no assignment in section 5(b).
+
+Both pass quotation checks. The first uses real words with the wrong role; the second gives an allowed answer while omitting a relation. Independent complete-text coding is needed to assess these errors. No accuracy or agreement figure is claimed.
+
+Use the README export command to replay the feature table from saved responses. No model is called. The prepared requests and candidate responses are retained; the full interactive context and exact model/settings are unavailable.

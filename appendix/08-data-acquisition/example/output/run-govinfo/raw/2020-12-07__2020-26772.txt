@@ -1,0 +1,408 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78918-78921]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26772]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Motor Carrier Safety Administration
+
+[Docket No. FMCSA-2020-0122]
+
+
+Parts and Accessories Necessary for Safe Operation; Application 
+for an Exemption From Grote Industries, LLC
+
+AGENCY: Federal Motor Carrier Safety Administration (FMCSA), DOT.
+
+ACTION: Notice of final disposition; grant of exemption.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Federal Motor Carrier Safety Administration (FMCSA) 
+announces its decision to grant Grote Industries, LLC's (Grote) 
+application for a limited 5-year exemption to allow motor carriers 
+operating trailers and van body trucks to install amber brake-activated 
+pulsating warning lamps on the rear of trailers and van body trucks in 
+addition to the steady-burning brake lamps required by the Federal 
+Motor Carrier Safety Regulations (FMCSRs). The Agency has determined 
+that granting the exemption would likely achieve a level of safety 
+equivalent to or greater than the level of safety provided by the 
+regulation.
+
+DATES: This exemption is effective December 7, 2020 and ending December 
+2, 2025.
+
+FOR FURTHER INFORMATION CONTACT: Mr. Luke Loy, Vehicle and Roadside 
+Operations Division, Office of Carrier, Driver, and Vehicle Safety, MC-
+PSV, (202) 366-0676, Federal Motor Carrier Safety Administration, 1200 
+New Jersey Avenue SE, Washington, DC 20590-0001.
+    Docket: For access to the docket to read background documents or 
+comments submitted to notice requesting public comments on the 
+exemption application, go to <a href="http://www.regulations.gov">www.regulations.gov</a> at any time or visit 
+Dockets Operations, Room W12-140 on the ground level of the West 
+Building, 1200 New Jersey Avenue SE, Washington, DC, between 9 a.m. and 
+5 p.m., ET, Monday through Friday, except Federal holidays. To be sure 
+someone is there to help you, please call (202) 366-9317 or (202) 366-
+9826 before visiting Dockets Operations. The on-line Federal document 
+management system is available 24 hours each day, 365 days each year. 
+The docket number is listed at the beginning of this notice.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    FMCSA has authority under 49 U.S.C. 31136(e) and 31315 to grant 
+exemptions from certain parts of the FMCSRs. FMCSA must publish a 
+notice of each exemption request in the Federal Register (49 CFR 
+381.315(a)). The Agency must provide the public an opportunity to 
+inspect the information relevant to the application, including any 
+safety analyses that have been conducted. The Agency must also provide 
+an opportunity for public comment on the request.
+    The Agency reviews safety analyses and public comments submitted, 
+and determines whether granting the exemption would likely achieve a 
+level of safety equivalent to, or greater than, the level that would be 
+achieved by the current regulation (49 CFR 381.305). The decision of 
+the Agency must be published in the Federal Register (49 CFR 
+381.315(b)) with the reasons for denying or granting the application 
+and, if granted, the name of the person or class of persons receiving 
+the exemption, and the regulatory provision from which the exemption is 
+granted. The notice must also specify the effective period and explain 
+the terms and conditions of the exemption. The exemption may be renewed 
+(49 CFR 381.300(b)).
+
+Grote's Application for Exemption
+
+    Section 393.25(e) of the FMCSRs requires all exterior lamps (both 
+required lamps and any additional lamps) to be steady-burning, except 
+turn signal lamps, hazard warning signal lamps, school bus warning 
+lamps, amber warning lamps or flashing warning lamps on tow trucks and 
+commercial motor vehicles (CMV) transporting oversized loads, and 
+warning lamps on emergency and service vehicles authorized by State or 
+local authorities.
+    Grote applied for an exemption from 49 CFR 393.25(e) to allow motor 
+carriers operating trailers and van body trucks to install brake-
+activated pulsating warning lamps on the rear of trailers and van body 
+trucks in addition to the steady-burning brake lamps required by the 
+FMCSRs. Specifically, Grote requested allowance to use: (1) An upper 
+pair of brake-activated warning lamps centered about the centerline of 
+the trailer such that the centerline of the outermost identification 
+(ID) lamps to the centerline of the auxiliary braking lamps is between 
+6-12 inches and collinear with the three ID lamp cluster; (2) a single 
+brake-activated warning lamp centrally located on or below the rear 
+sill collinear with the stop/tail/turn lamps; (3) an upper pair of 
+brake-activated warning lamps (as described in (1) above) and a single 
+brake-activated warning lamp centrally located on or below the rear 
+sill collinear with the stop/tail/turn lamps; (4) a lower pair of 
+brake-activated warning lamps centered about the centerline of the 
+trailer located on or below the rear sill; or (5) an upper pair of 
+brake-activated warning lamps (as described in (1) above and a lower 
+pair of brake-activated warning lamps as described in (4) above). The 
+same brake-activated warning lamp options would also be applicable to 
+van body straight trucks. These brake-activated warning lamps would be 
+amber in color and act as a Class II strobe (pulsate) for up to 4 
+seconds with each application of the brake, then steadily burn red for 
+the duration of the time the brake circuit is activated. The brake-
+activated pulsating warning lamps would be in addition to the steady-
+burning brake lamps required by the FMCSRs.
+    Grote is a manufacturer of vehicle lighting and safety equipment, 
+and requests this relief on behalf of interstate motor carriers because 
+previous research has demonstrated that the use of pulsating brake-
+activated warning lamps increases visibility of equipment and vehicles. 
+The use of amber pulsating brake-activated warning lamps, in addition 
+to steady-burning red brake lamps required by the FMCSRs, would allow 
+commercial carriers to not only maintain operational safety levels, but 
+also implement more efficient and effective operations.
+    A copy of the application is included in the docket referenced at 
+the beginning of this notice.
+
+[[Page 78919]]
+
+    Grote contended that the addition of the brake-activated pulsating 
+lamp would improve safety, and stated that research shows that 
+pulsating brake lamps installed in addition to required steady-burning 
+red brake lamps improve visibility and prevent accidents. Grote also 
+noted that FMCSA has previously granted a similar, but not identical, 
+temporary exemption to Groendyke Transport, Inc. (Groendyke), based in 
+part on Groendyke's real-world experience demonstrating that use of 
+amber pulsating brake-activated warning lamps in addition to steady-
+burning red brake lamps had decreased the frequency of rear-end 
+accidents involving its fleet of tank trailers (84 FR 17910; April 26, 
+2019).
+    Grote included in the application several studies conducted by the 
+National Highway Traffic Safety Administration (NHTSA), another agency 
+in the U.S. Department of Transportation, on the issues of rear-end 
+crashes, distracted driving, and braking signals. Grote stated that the 
+additional amber brake-activated pulsating warning lamp(s) will not 
+have an adverse impact on safety, and that adherence to the terms and 
+conditions of the exemption would likely achieve a level of safety 
+equivalent to or greater than the level of safety achieved without the 
+exemption.
+
+Comments
+
+    FMCSA published a notice of the application in the Federal Register 
+on May 12, 2020, and asked for public comment (85 FR 28136). The Agency 
+received comments from the Transportation Safety Equipment Institute 
+(TSEI), and the Commercial Vehicle Safety Alliance (CVSA).
+    TSEI stated that ample research has demonstrated that the use of 
+pulsating amber lamps increases visibility of equipment and vehicles 
+and would maintain operational safety levels, but also implement more 
+efficient and effective operations. TSEI expressed a concern that the 
+widespread use of amber brake-activated pulsating warning lamps may 
+reduce the overall effectiveness of amber strobe lamps frequently used 
+by emergency and service vehicles. TSEI recommended that human factors 
+studies be conducted to ensure that amber brake-activated warning lamps 
+do not affect amber strobe lamp effectiveness for emergency and service 
+vehicles.
+    CVSA agreed with Grote's assessment that the previous NHTSA 
+research identifies the safety benefits of amber brake-activated 
+pulsating lamps, and supported allowing motor carriers operating 
+trailers and van body trucks to install amber brake-activated pulsating 
+warning lamps on the rear of trailers and van body trucks in addition 
+to the steady-burning brake lamps required by the FMCSRs.
+
+FMCSA Decision
+
+    The FMCSA has evaluated the Grote exemption application and the 
+comments received. The Agency acknowledges TSEI's concerns, but 
+believes the technical analysis provided by the applicant and the body 
+of research the Agency considered and discussed below adequately 
+address those concerns.
+    The Agency believes that granting the temporary exemption to allow 
+motor carriers operating trailers and van body trucks to install amber 
+brake-activated pulsating warning lamps in addition to the steady-
+burning brake lamps required by the FMCSRs, will likely provide a level 
+of safety that is equivalent to, or greater than, the level of safety 
+achieved without the exemption.
+    Rear-end crashes generally account for approximately 30 percent of 
+all crashes. These types of crashes often result from a failure to 
+respond (or delays in responding) to a stopped or decelerating lead 
+vehicle. Data between 2010 and 2016 show that large trucks are 
+consistently three times more likely than other vehicles to be struck 
+in the rear in two-vehicle fatal crashes.<SUP>1 2</SUP>
+---------------------------------------------------------------------------
+
+    \1\ U.S. Department of Transportation, National Highway Traffic 
+Safety Administration (2012), Traffic Safety Facts--2010 Data; Large 
+Trucks, Report No. DOT HS 811 628, Washington, DC (June 2012).
+    \2\ U.S. Department of Transportation, National Highway Traffic 
+Safety Administration (2018), Traffic Safety Facts--2016 Data; Large 
+Trucks, Report No. DOT HS 812 497, Washington, DC (May 2018).
+---------------------------------------------------------------------------
+
+    Both FMCSA and NHTSA have conducted research regarding alternative 
+rear signaling systems to address rear-end crashes. FMCSA has conducted 
+research and development of an Enhanced Rear Signaling (ERS) system for 
+CMVs.\3\ The study noted that while brake lights are activated only 
+with the service brakes, and the visual warning is provided only during 
+conditions when the lead vehicle is decelerating using its braking 
+system, brake lights are not activated during other conditions when 
+rear-end collisions can occur (e.g., when the CMV is (1) stopped along 
+the roadway or in traffic, (2) traveling slower, or (3) decelerating 
+using an engine retarder). Because of the limitations of the existing 
+brake system described above, along with issues relating to visual 
+distraction, the study examined ways for CMVs to detect rear-end crash 
+threats and to provide drivers of following vehicles a supplemental 
+visual warning--located on the lead vehicle, and in addition to the 
+current brake lights--so following-vehicle drivers can quickly 
+recognize impending collision threats.
+---------------------------------------------------------------------------
+
+    \3\ U.S. Department of Transportation, Federal Motor Carrier 
+Safety Administration (2014), Expanded Research and Development of 
+an Enhanced Rear Signaling System for Commercial Motor Vehicles, 
+Report No. FMCSA-RRT-13-009, Washington, DC (April 2014).
+---------------------------------------------------------------------------
+
+    During Phase I of this effort, researchers performed crash database 
+analyses to determine causal factors of rear-end collisions and to 
+identify potential countermeasures. Phase II continued through 
+prototype development based on recommendations from Phase I. During 
+Phase II field testing, potential benefits of using such 
+countermeasures were realized. During Phase III, a multi-phased 
+approach was executed to design, develop, and test multiple types of 
+countermeasures on a controlled test track and on public highways. 
+Phase III resulted in positive results for a rear-warning prototype 
+system comprising 12 light-emitting diode (LED) units that would flash 
+at 5 Hz to provide a visual warning to the following-vehicle drivers 
+indicating that, with continued closing rate and distance, a collision 
+will occur with the lead vehicle. Finally, the prototype system was 
+further developed and refined to include modification of the system 
+into a unit designed for simple CMV installation, collision-warning 
+activation refinements, and rear-lighting brightness adjustments for 
+nighttime conditions. Formal closed test-track and real-world testing 
+were then performed to determine the ERS system collision-warning 
+activation performance.
+    While the efforts described above demonstrated a promising system 
+for follow-on research, FMCSA ultimately decided not to pursue formal 
+field operational testing of the prototype system because of concerns 
+relating to (1) the cost to implement the ERS system as configured, and 
+(2) fleets' willingness to invest in the technology given the cost of 
+the system. Nonetheless, the preliminary research showed that the ERS 
+system performed well at detecting and signaling rear-end crash threats 
+and drawing the gaze of following-vehicle drivers to the forward 
+roadway which, if implemented, could potentially reduce the number and 
+frequency of rear-end crashes into CMVs.
+    Separately, NHTSA has performed a series of research studies 
+intended to develop and evaluate rear-signaling applications designed 
+to reduce the frequency and severity of rear-end crashes via 
+enhancements to rear-brake
+
+[[Page 78920]]
+
+lighting by redirecting drivers' visual attention to the forward 
+roadway (for cases involving a distracted driver), and/or increasing 
+the saliency or meaningfulness of the brake signal (for inattentive 
+drivers).<SUP>4 5</SUP>
+---------------------------------------------------------------------------
+
+    \4\ U.S. Department of Transportation, National Highway Traffic 
+Safety Administration (2009), Traffic Safety Facts--Vehicle Safety 
+Research Notes; Assessing the Attention-Gettingness of Brake 
+Signals: Evaluation of Optimized Candidate Enhanced Braking Signals; 
+Report No. DOT HS 811 129, Washington, DC (May 2009).
+    \5\ U.S. Department of Transportation, National Highway Traffic 
+Safety Administration (2010), Traffic Safety Facts--Vehicle Safety 
+Research Notes; Assessing the Attention-Getting Capability of Brake 
+Signals: Evaluation of Candidate Enhanced Braking Signals and 
+Features; Report No. DOT HS 811 330, Washington, DC (June 2010).
+---------------------------------------------------------------------------
+
+    Initially, the study quantified the attention-getting capability 
+and discomfort glare of a set of candidate rear brake lighting 
+configurations, using driver judgments, as well as eye-drawing metrics. 
+This study served to narrow the set of candidate lighting 
+configurations to those that would most likely be carried forward for 
+additional on-road study. Both look-up (eye-drawing) data and interview 
+data supported the hypothesis that simultaneous flashing of all rear 
+lighting combined with increased brightness would be effective in 
+redirecting the driver's eyes to the lead vehicle when the driver is 
+looking away with tasks that involve visual load.
+    Subsequently, the study quantified the attention-getting capability 
+of a set of candidate rear brake lighting configurations, including 
+proposed approaches from automotive companies. This study was conducted 
+to provide data for use in a simulation model to assess the 
+effectiveness and safety benefits of enhanced rear brake light 
+countermeasures. Among other things, this research demonstrated that 
+flashing all lights simultaneously or alternately flashing is a 
+promising signal for use in enhanced brake light applications, even at 
+levels of brightness within the current regulated limits. Specifically, 
+the study concluded that substantial performance gains may be realized 
+by increasing brake-lamp brightness levels under flashing 
+configurations; however, increases beyond a certain brightness 
+threshold will not return substantive performance gains.
+    Both FMCSA and NHTSA have conducted extensive research and 
+development programs to examine alternative rear-signaling systems to 
+reduce the incidence of rear-end crashes. However, while these efforts 
+concluded that improvements could be realized through rear-lighting 
+systems that flash, neither the FMCSRs nor the Federal Motor Vehicle 
+Safety Standards (FMVSS) currently permit the use of pulsating, brake-
+activated lamps on the rear of CMVs.
+    With respect to the use of amber lights, NHTSA has conducted 
+research on the effectiveness of rear turn-signal color on the 
+likelihood of being involved in a rear-end crash.\6\ FMVSS No. 108 
+allows rear turn signals to be either red or amber in color. The study 
+concluded that amber signals show a 5.3 percent effectiveness in 
+reducing involvement in two-vehicle crashes where a lead vehicle is 
+rear-struck in the act of turning left, turning right, merging into 
+traffic, changing lanes, or entering/leaving a parking space. The 
+advantage of amber, compared to red, rear turn signals was shown to be 
+statistically significant.
+---------------------------------------------------------------------------
+
+    \6\ U.S. Department of Transportation, National Highway Traffic 
+Safety Administration (2009), The Effectiveness of Amber Rear Turn 
+Signals for Reducing Rear Impacts; Report No. DOT HS 811 115, 
+Washington, DC (April 2009).
+---------------------------------------------------------------------------
+
+    FMCSA acknowledges the concerns of TSEI that the widespread use of 
+amber brake-activated pulsating warning lamps may reduce the overall 
+effectiveness of amber strobe lamps frequently used by emergency and 
+service vehicles. FMCSA believes that the FMCSA and NHTSA research 
+programs demonstrating the ability of alternative rear-signaling 
+systems to reduce the frequency and severity of rear-end crashes, are 
+sufficient to conclude that implementation of amber brake-activated 
+pulsating warning lamps on the rear of trailers and van body trucks, in 
+addition to the steady-burning brake lamps required by the regulations, 
+is likely to provide a level of safety that is equivalent to, or 
+greater than, the level of safety achieved without the exemption.
+
+Terms and Conditions for the Exemption
+
+    The Agency hereby grants the exemption for a 5-year period, 
+beginning December 7, 2020 and ending December 2, 2025. During the 
+temporary exemption period, motor carriers operating trailers and van 
+body trucks will be allowed to install brake-activated pulsating 
+warning lamps on the rear of trailers and van body trucks, in addition 
+to the steady-burning brake lamps required by the FMCSRs. Specifically, 
+the exemption will allow the use of: (1) An upper pair of brake-
+activated warning lamps centered about the centerline of the trailer 
+such that the centerline of the outermost identification (ID) lamps to 
+the centerline of the auxiliary braking lamps is between 6--12 inches 
+and collinear with the three ID lamp cluster; (2) a single brake 
+activated warning lamp centrally located on or below the rear sill 
+collinear with the stop/tail/turn lamps; (3) an upper pair of brake-
+activated warning lamps (as described in (1) above) and a single brake-
+activated warning lamp centrally located on or below the rear sill 
+collinear with the stop/tail/turn lamps; (4) a lower pair of brake-
+activated warning lamps centered about the centerline of the trailer 
+located on or below the rear sill; or (5) an upper pair of brake-
+activated warning lamps (as described in (1) above and a lower pair of 
+brake-activated warning lamps as described in (4) above). The same 
+brake-activated warning lamp options shall also be applicable to van 
+body straight trucks. The brake-activated warning lamps shall be amber 
+in color and act as a Class II strobe (pulsate) for up to 4 seconds 
+with each application of the brake, then steadily burn red for the 
+duration of the time the brake circuit is activated. The brake-
+activated warning lamps are in addition to the steady-burning brake 
+lamps required by the FMCSRs.
+    The exemption will be valid for 5 years unless rescinded earlier by 
+FMCSA. The exemption will be rescinded if: (1) Motor carriers operating 
+trailers and van body trucks fail to comply with the terms and 
+conditions of the exemption; (2) the exemption has resulted in a lower 
+level of safety than was maintained before it was granted; or (3) 
+continuation of the exemption would not be consistent with the goals 
+and objectives of 49 U.S.C. 31136(e) and 31315(b).
+    Interested parties possessing information that would demonstrate 
+that motor carriers operating trailers and van body trucks allowed to 
+install amber brake-activated pulsating warning lamps on the rear of 
+trailers and van body trucks, in addition to the steady-burning brake 
+lamps required by the FMCSRs, are not achieving the requisite statutory 
+level of safety should immediately notify FMCSA. The Agency will 
+evaluate any such information and, if safety is being compromised or if 
+the continuation of the exemption is not consistent with 49 U.S.C. 
+31136(e) and 31315(b), will take immediate steps to revoke the 
+exemption.
+
+Preemption
+
+    In accordance with 49 U.S.C. 31313(d), as implemented by 49 CFR 
+381.600, during the period this exemption is in effect, no State shall 
+enforce any law or regulation applicable to interstate commerce that 
+conflicts
+
+[[Page 78921]]
+
+with or is inconsistent with this exemption. States may, but are not 
+required to, adopt the same exemption with respect to operations in 
+intrastate commerce.
+
+James W. Deck,
+Deputy Administrator.
+[FR Doc. 2020-26772 Filed 12-4-20; 8:45 am]
+BILLING CODE 4910-EX-P
+
+
+</pre></body>
+</html>

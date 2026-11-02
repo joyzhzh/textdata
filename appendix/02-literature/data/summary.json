@@ -1,0 +1,35 @@
+{
+ "schema": "textdata-literature/2",
+ "release": "Repository edition, 29 October 2026",
+ "shipped": {
+  "records": 10732,
+  "with_abstract_on_file": 107,
+  "abstract_text_shipped": 0,
+  "with_reading_note": 8236,
+  "with_url": 10114,
+  "with_doi": 9857,
+  "by_catalogue": {
+   "annotation_checkpoint": 318,
+   "annotation_successor": 319,
+   "annotation_journals": 8222,
+   "catalogue_d": 1873
+  }
+ },
+ "fields": [
+  "id",
+  "title",
+  "authors",
+  "year",
+  "journal",
+  "doi",
+  "url",
+  "source_catalogue",
+  "source_record_id",
+  "abstract",
+  "abstract_on_file",
+  "abstract_source",
+  "reading_note",
+  "qualifications"
+ ],
+ "units": "Source-scoped entries from overlapping catalogues, not unique papers. Reading notes do not establish full-paper reading. Abstract prose is not distributed."
+}

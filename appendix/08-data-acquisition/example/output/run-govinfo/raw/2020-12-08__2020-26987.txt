@@ -1,0 +1,983 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Proposed Rules]
+[Pages 78980-78987]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26987]
+
+
+
+[[Page 78980]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+40 CFR Part 257
+
+[EPA-HQ-OLEM-2020-0508; FRL-10017-69-OLEM]
+
+
+Texas: Approval of State Coal Combustion Residuals Permit Program
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Notice of availability; request for comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Pursuant to the Resource Conservation and Recovery Act (RCRA), 
+the Environmental Protection Agency (EPA or the Agency) is proposing to 
+approve in part the Texas Coal Combustion Residuals (CCR) permit 
+program. After reviewing the state CCR permit program application, 
+submitted by the Texas Commission on Environmental Quality (TCEQ), EPA 
+has preliminarily determined that the Texas CCR permit program meets 
+the standard for partial approval under RCRA. If approved, the Texas 
+CCR permit program will operate in lieu of the federal CCR program, 
+with the exception of the specific provisions noted below. This 
+document announces that EPA is seeking comment on this proposal during 
+a 60-day public comment period and will be holding a virtual public 
+hearing on EPA's preliminary approval of the Texas partial CCR permit 
+program.
+
+DATES: Comments must be received on or before February 8, 2021.
+    Public Hearing: EPA will hold a virtual public hearing on February 
+2, 2021.
+
+ADDRESSES: You may send comments, identified by Docket ID No. EPA-HQ-
+OLEM-2020-0508, by any of the following methods:
+    <bullet> Federal eRulemaking Portal: <a href="https://www.regulations.gov/">https://www.regulations.gov/</a> 
+(our preferred method). Follow the online instructions for submitting 
+comments.
+    <bullet> Mail: U.S. Environmental Protection Agency, EPA Docket 
+Center, Office of Land and Emergency Management (OLEM) Docket, Mail 
+Code 28221T, 1200 Pennsylvania Ave. NW, Washington, DC 20460.
+    Instructions: All submissions received must include the Docket ID 
+No. for this rulemaking. Comments received may be posted without change 
+to <a href="https://www.regulations.gov/">https://www.regulations.gov/</a>, including any personal information 
+provided. For detailed instructions on sending comments and additional 
+information on the rulemaking process, see the ``Public Participation'' 
+heading of the SUPPLEMENTARY INFORMATION section of this document. Out 
+of an abundance of caution for members of the public and our staff, the 
+EPA Docket Center and Reading Room are closed to the public, with 
+limited exceptions, to reduce the risk of transmitting COVID-19. Our 
+Docket Center staff will continue to provide remote customer service 
+via email, phone, and webform. We encourage the public to submit 
+comments via <a href="https://www.regulations.gov/">https://www.regulations.gov/</a> or email, as there may be a 
+delay in processing mail and faxes. For further information on EPA 
+Docket Center services and the current status, please visit us online 
+at <a href="https://www.epa.gov/dockets">https://www.epa.gov/dockets</a>.
+    EPA will hold a virtual public hearing. EPA will announce further 
+details on the public hearing website (<a href="https://www.epa.gov/coalash">https://www.epa.gov/coalash</a>) in 
+advance of the hearing. The hearing will convene on February 2, 2021 at 
+9 a.m. (ET) and conclude at 6 p.m. (ET). If necessary, the hearing may 
+go later to accommodate all those wishing to speak. For additional 
+information on the public hearing, see the ``Public Participation'' 
+heading of the SUPPLEMENTARY INFORMATION section of this document.
+
+FOR FURTHER INFORMATION CONTACT: Michelle Long, Office of Resource 
+Conservation and Recovery, Materials Recovery and Waste Management 
+Division, U.S. Environmental Protection Agency, 1200 Pennsylvania 
+Avenue NW, MC: 5304P, Washington, DC 20460; telephone number: (703) 
+347-8953; email address: [email redacted]. For more information on 
+this document please visit <a href="https://www.epa.gov/coalash">https://www.epa.gov/coalash</a>.
+
+SUPPLEMENTARY INFORMATION: Throughout this document ``we,'' ``us,'' and 
+``our'' means the U.S. EPA.
+
+I. Public Participation
+
+A. Written Comments
+
+    Submit your comments, identified by Docket ID No. EPA-HQ-OLEM-2020-
+0508, at <a href="https://www.regulations.gov">https://www.regulations.gov</a> (our preferred method), or the 
+other methods identified in the ADDRESSES section. Once submitted, 
+comments cannot be edited or removed from the docket. EPA may publish 
+any comment received to its public docket. Do not submit to EPA's 
+docket at <a href="https://www.regulations.gov">https://www.regulations.gov</a> any information you consider to 
+be Confidential Business Information (CBI) or other information whose 
+disclosure is restricted by statute. Multimedia submissions (audio, 
+video, etc.) must be accompanied by a written comment. The written 
+comment is considered the official comment and should include 
+discussion of all points you wish to make. EPA will generally not 
+consider comments or comment contents located outside of the primary 
+submission (i.e., on the web, cloud, or other file sharing system). For 
+additional submission methods, the full EPA public comment policy, 
+information about CBI or multimedia submissions, and general guidance 
+on making effective comments, please visit <a href="https://www.epa.gov/dockets/commenting-epa-dockets">https://www.epa.gov/dockets/commenting-epa-dockets</a>.
+    EPA is temporarily suspending its Docket Center and Reading Room 
+for public visitors, with limited exceptions, to reduce the risk of 
+transmitting COVID-19. Our Docket Center staff will continue to provide 
+remote customer service via email, phone, and webform. We encourage the 
+public to submit comments via <a href="https://www.regulations.gov/">https://www.regulations.gov/</a> as there may 
+be a delay in processing mail and faxes. For further information and 
+updates on EPA Docket Center services, please visit us online at 
+<a href="https://www.epa.gov/dockets">https://www.epa.gov/dockets</a>.
+    EPA continues to carefully and continuously monitor information 
+from the Centers for Disease Control and Prevention (CDC), local area 
+health departments, and our Federal partners so that we can respond 
+rapidly as conditions change regarding COVID-19.
+
+B. Participation in Virtual Public Hearing
+
+    Please note that EPA is deviating from its typical approach because 
+the President has declared a national emergency. Because of current CDC 
+recommendations, as well as State and local orders for social 
+distancing to limit the spread of COVID-19, EPA cannot hold in-person 
+public hearings at this time.
+    EPA will begin pre-registering speakers for the hearing upon 
+publication of this document in the Federal Register. To register to 
+speak at the virtual hearing, please use the online registration form 
+available on EPA's CCR website (<a href="https://www.epa.gov/coalash">https://www.epa.gov/coalash</a>) or contact 
+the person listed in the FOR FURTHER INFORMATION CONTACT section to 
+register to speak at the hearing. The last day to pre-register to speak 
+at the hearing will be January 29, 2021. On January 29, 2021, EPA will 
+post a general agenda for the hearing on EPA's CCR website (<a href="https://www.epa.gov/coalash">https://www.epa.gov/coalash</a>).
+    EPA will make every effort to follow the schedule as closely as 
+possible on the day of the hearing; however, please plan for the 
+hearing to run either ahead of schedule or behind schedule. 
+Additionally, requests to speak will be
+
+[[Page 78981]]
+
+taken the day of the hearing according to the procedures specified on 
+EPA's CCR website (<a href="https://www.epa.gov/coalash">https://www.epa.gov/coalash</a>) for this hearing. The 
+Agency will make every effort to accommodate all speakers who arrive 
+and register, although preferences on speaking times may not be able to 
+be fulfilled.
+    Each commenter will have five (5) minutes to provide oral 
+testimony. EPA encourages commenters to provide EPA with a copy of 
+their oral testimony electronically (via email) to the person listed in 
+the FOR FURTHER INFORMATION CONTACT section. If EPA is anticipating a 
+high attendance, the time allotment per testimony may be shortened to 
+no shorter than 3 minutes per person to accommodate all those wishing 
+to provide testimony and who have pre-registered. While EPA will make 
+every effort to accommodate all speakers who do not preregister, 
+opportunities to speak may be limited based upon the number of pre-
+registered speakers. Therefore, EPA strongly encourages anyone wishing 
+to speak to preregister. Participation in the virtual public hearing 
+does not preclude any entity or individual from submitting a written 
+comment.
+    EPA may ask clarifying questions during the oral presentations but 
+will not respond to the presentations at that time. Written statements 
+and supporting information submitted during the comment period will be 
+considered with the same weight as oral comments and supporting 
+information presented at the public hearing. Verbatim transcripts of 
+the hearings and written statements will be included in the docket for 
+this action.
+    Please note that any updates made to any aspect of the hearing will 
+be posted online on EPA's CCR website at <a href="https://www.epa.gov/coalash">https://www.epa.gov/coalash</a>. 
+While EPA expects the hearing to go forward as set forth above, please 
+monitor our website or contact the person listed in the FOR FURTHER 
+INFORMATION CONTACT section to determine if there are any updates. EPA 
+does not intend to publish a document in the Federal Register 
+announcing updates.
+    If you require the service of a translator, please pre-register for 
+the hearing and describe your needs on the registration form by January 
+19, 2021. If you require special accommodations such as audio 
+description or closed captioning, please pre-register for the hearing 
+and describe your needs on the registration form by January 26, 2021. 
+Alternatively, registrants may notify the person listed in the FOR 
+FURTHER INFORMATION CONTACT section of any special needs. We may not be 
+able to arrange accommodations without advanced notice.
+
+II. General Information
+
+A. Overview of Proposed Action
+
+    EPA is proposing to approve the Texas CCR permit program, in part, 
+pursuant to RCRA 4005(d)(1)(B). 42 U.S.C. 6945(d)(1)(B). The fact that 
+Texas is seeking a partial program approval does not mean it must 
+subsequently apply for a full program approval. However, Texas could 
+apply for a revised partial program approval or a full program approval 
+at some point in the future if it chooses to do so. If approved, the 
+Texas CCR permit program would operate in lieu of the federal CCR 
+program, codified at 40 CFR part 257, subpart D, with the exception of 
+the provisions specifically identified below for which the State is not 
+seeking approval. However, even for the approved provisions, EPA would 
+retain its inspection and enforcement authorities under RCRA sections 
+3007 and 3008, 42 U.S.C. 6927 and 6928. See 42 U.S.C. 6945(d)(4)(B).
+    EPA has also engaged federally-recognized tribes within the State 
+of Texas in consultation and coordination regarding the program 
+authorizations for the TCEQ. EPA has established opportunities for 
+formal as well as informal discussion throughout the consultation 
+period, beginning with an initial conference call on October 19, 2020. 
+Tribal consultation has been and will continue to be conducted in 
+accordance with the EPA policy on Consultation and Coordination with 
+Indian Tribes (<a href="https://www.epa.gov/sites/production/files/2013-08/documents/cons-and-coord-with-indian-tribes-policy.pdf">https://www.epa.gov/sites/production/files/2013-08/documents/cons-and-coord-with-indian-tribes-policy.pdf</a>).
+
+B. Background
+
+    CCR are generated from the combustion of coal, including solid 
+fuels classified as anthracite, bituminous coal, subbituminous coal, 
+and lignite, for the purpose of generating steam to power a generator 
+to produce electricity or electricity and other thermal energy by 
+electric utilities and independent power producers. CCR, commonly known 
+as coal ash, include fly ash, bottom ash, boiler slag, and flue gas 
+desulfurization materials. CCR can be sent offsite for disposal or 
+beneficial use, or disposed of in on-site landfills or surface 
+impoundments.
+    On April 17, 2015, EPA published a final rule, creating 40 CFR part 
+257, subpart D, that established a comprehensive set of minimum federal 
+requirements for the disposal of CCR in landfills and surface 
+impoundments (80 FR 21302) (``federal CCR regulations''). The rule 
+created a self-implementing program which regulates the location, 
+design, operating criteria, and groundwater monitoring and corrective 
+action for CCR units, as well as the closure and post-closure care of 
+CCR units. It also requires recordkeeping and notifications for CCR 
+units. The federal CCR regulations do not apply to ``beneficial use'' 
+of CCR, as that term is defined in 40 CFR 257.53.
+    On August 5, 2016, EPA published a direct final rule (81 FR 51802), 
+responding to an order issued by the United States Court of Appeals for 
+the District of Columbia Circuit (D.C. Circuit) in Utility Solid Waste 
+Activities Group, et al. v. EPA, No. 15-1219 (D.C. Cir. 2015). The 
+direct final rule removed certain provisions of the federal CCR 
+regulations at 40 CFR 257.100(b), (c), and (d) related to the ``early 
+closure'' of inactive CCR surface impoundments by April 17, 2018, that 
+had been vacated by the D.C. Circuit's June 14, 2016, order.\1\ The 
+direct final rule extended the deadlines for owners and operators of 
+inactive CCR surface impoundments who had taken advantage of the 
+``early closure'' provisions of 40 CFR 257.100 to bring the units into 
+compliance with the federal CCR regulations' substantive requirements, 
+but did not otherwise amend the federal CCR regulations or impose new 
+requirements on those units.
+---------------------------------------------------------------------------
+
+    \1\ The D.C. Circuit's June 14, 2016, order also vacated the 
+phrase ``not to exceed a height of 6 inches above the slope of the 
+dike'' within 40 CFR 257.73(a)(4), 257.73(d)(1)(iv), 257.74(a)(4), 
+and 257.74(d)(1)(iv). EPA proposed slope protection requirements in 
+its Phase One Proposed Rule (83 FR 11584, March 15, 2018) but has 
+not yet finalized such requirements.
+---------------------------------------------------------------------------
+
+    On July 30, 2018, EPA published a final rule, Hazardous and Solid 
+Waste Management System: Disposal of Coal Combustion Residuals From 
+Electric Utilities; Amendments to the National Minimum Criteria (Phase 
+One, Part One), which finalized additional revisions to the federal CCR 
+regulations (83 FR 36435) (``July 2018 Final Rule''). Specifically, EPA 
+amended the CCR regulations to (1) provide states with approved CCR 
+permit programs under the WIIN Act or EPA, when EPA is the permitting 
+authority, the ability to use alternative performance standards; (2) 
+revise the groundwater protection standards for four constituents in 
+Appendix IV to 40 CFR part 257 for which maximum contaminant levels 
+(MCLs) under the Safe Drinking Water Act have not been established; and 
+(3) provide additional time to facilities, triggered by 40 CFR 
+257.101(a)(1) and
+
+[[Page 78982]]
+
+(b)(1)(i), to cease receiving waste and initiate closure.
+    On August 28, 2020, EPA published a final rule Hazardous and Solid 
+Waste Management System: Disposal of Coal Combustion Residuals From 
+Electric Utilities; A Holistic Approach to Closure Part A: Deadline To 
+Initiate Closure (85 FR 53516) (``Part A Final Rule''). The rule 
+revises portions of the federal CCR regulations to (1) accurately 
+reflect the D.C. Circuit's Util. Solid Waste Activities Group v. Envtl. 
+Protec. Agency, 901 F.3d 414 (D.C. 2018) (``USWAG decision'' or 
+``USWAG''), which vacated and remanded to EPA the provisions at 40 CFR 
+257.101(a), 257.71(a)(1)(i) and 257.50(e); (2) address the October 31, 
+2020 deadline and finalize a new deadline of April 11, 2021 in 40 CFR 
+257.101(a) and (b)(1)(i), by which CCR surface impoundments must cease 
+receipt of waste in light of the 2018 USWAG decision and the 2019 
+Waterkeeper decision (See Waterkeeper Alliance Inc. v. EPA, No. 18-1289 
+(D.C. Cir. 2019)); (3) finalize alternative closure provisions at 40 
+CFR 257.103 in order to allow facilities to request additional time to 
+develop alternative capacity to manage their waste streams (both CCR 
+and/or non-CCR) to achieve cease receipt of waste and initiate closure 
+of their CCR surface impoundments; and (4) finalize two of the proposed 
+amendments from the August 14, 2019 rule (84 FR 40353): The addition of 
+an executive summary to the annual groundwater monitoring and 
+corrective action reports under 40 CFR 257.90(e); and amend the 
+requirements for posting to the publicly accessible CCR internet sites 
+under 40 CFR 257.107.
+
+C. Statutory Authority
+
+    EPA is issuing this proposed action pursuant to sections 4005(d) 
+and 7004(b)(1) of RCRA. See 42 U.S.C. 6945(d) and 6974(b)(1). Section 
+2301 of the 2016 Water Infrastructure Improvements for the Nation 
+(WIIN) Act amended section 4005 of RCRA, creating a new subsection (d) 
+that establishes a federal permitting program similar to those under 
+RCRA subtitle C and other environmental statutes. See 42 U.S.C. 
+6945(d).
+    Under RCRA section 4005(d)(1)(A), 42 U.S.C. 6945(d)(1)(A), states 
+seeking approval must submit to the Administrator ``in such form as the 
+Administrator may establish, evidence of a permit program or other 
+system of prior approval and conditions under State law for regulation 
+by the State of coal combustion residuals units that are located in the 
+State.'' EPA shall approve a state permit program if the Administrator 
+determines that the state program will require each CCR unit located in 
+the state to achieve compliance with either: (1) The federal CCR 
+requirements at 40 CFR part 257, subpart D; or (2) other state criteria 
+that the Administrator, after consultation with the state, determines 
+to be ``at least as protective as'' the federal requirements. See 42 
+U.S.C. 6945(d)(1)(B). The Administrator must make a final 
+determination, after providing for public notice and an opportunity for 
+public comment, within 180 days of receiving a state's complete 
+submittal of the information in RCRA section 4005(d)(1)(A). See 42 
+U.S.C. 6945(d)(1)(B). EPA may approve a state CCR permit program in 
+whole or in part. Id. Once approved, the state permit program operates 
+in lieu of the federal requirements. See 42 U.S.C. 6945(d)(1)(A). In a 
+state with a partial program, only the state requirements that have 
+been approved operate in lieu of the federal requirements, and 
+facilities remain responsible for compliance with all remaining 
+requirements in 40 CFR part 257.
+    RCRA section 7004(b) applies to all RCRA programs, directing that 
+``public participation in the development, revision, implementation, 
+and enforcement of any . . . program under this chapter shall be 
+provided for, encouraged, and assisted by the Administrator and the 
+States.'' 42 U.S.C. 6974(b)(1).
+    Once a program is approved, the Administrator must review the 
+approved state CCR permit program not less frequently than every 12 
+years, as well as no later than three years after a revision to an 
+applicable section of 40 CFR part 257, subpart D or one year after any 
+unauthorized significant release from a CCR unit located in the state. 
+EPA also must review an approved program at the request of another 
+state alleging that the soil, groundwater, or surface water of the 
+requesting state is or is likely to be adversely affected by a release 
+from a CCR unit in the approved state. See 42 U.S.C. 
+6945(d)(1)(D)(i)(I)-(IV).
+    In a state with an approved state CCR permit program, EPA may 
+commence administrative or judicial enforcement actions under section 
+3008 of RCRA, 42 U.S.C. 6928, if the state requests assistance or if 
+EPA determines that an EPA enforcement action is likely to be necessary 
+to ensure that a CCR unit is operating in accordance with the criteria 
+of the state's permit program. See 42 U.S.C. 6945(d)(4). EPA can 
+enforce any federal requirements that remain in effect (i.e., those for 
+which there is no corresponding approved state provision). EPA may also 
+exercise its inspection and information gathering authorities under 
+section 3007 of RCRA, 42 U.S.C. 6927.
+
+III. The Texas Application
+
+    On September 11, 2020, the TCEQ submitted its state CCR permit 
+program application to EPA Region 6 requesting approval of the State's 
+partial CCR permit program. After receiving comments from EPA, Texas 
+provided revisions to its Program Description on November 9, 2020, and 
+November 23, 2020.\2\ The Texas application package documents included 
+(1) State statutes and regulations, (2) the Attorney General Statement, 
+and (3) a Program Description which provides details about the State's 
+CCR permit program, including the (a) State agency with the authority 
+for the CCR permit program; (b) scope and coverage of the program, (c) 
+TCEQ responsibilities; (d) structure and processes of TCEQ to implement 
+the CCR program; (e) applications, public notice, hearing, and appeal 
+procedures for CCR registrations; (f) technical requirements for the 
+CCR program; (g) a list of CCR facilities in Texas; and (h) a 
+description of State resources to implement the CCR program.
+---------------------------------------------------------------------------
+
+    \2\ The revised narrative (Program Description), dated November 
+23, 2020, shall be substituted for the original program description, 
+dated September 2, 2020, and November 9, 2020, as well as Attachment 
+IV--Facility Unit Summary and CCR Units Map, Replacement of 
+Attachment II with Attachment II--30 TAC Chapter 352, and the Texas 
+Water Code--Chapter 26. All other documents submitted as part of the 
+original September 11, 2020 application remain unchanged and are 
+available in the docket for this action.
+---------------------------------------------------------------------------
+
+    Throughout this document, EPA interchangeably uses the Texas terms 
+of ``registration'' and ``permit'' and ``Program Description'' to mean 
+the ``Narrative'' document as described in the Guidance Document (82 FR 
+38685, August 15, 2017).
+
+IV. EPA Analysis of the Texas Application
+
+    RCRA section 4005(d) requires EPA to evaluate two components of a 
+state program to determine whether it meets the standard for approval. 
+First, EPA is to evaluate the permit program itself (or other system of 
+prior approval and conditions). See 42 U.S.C. 6945(d)(1)(A), (B). RCRA 
+section 4005(d)(1)(A) directs the state to provide evidence of a state 
+permit program, in such form as EPA may determine. In turn, RCRA 
+section 4005(d)(1)(B) directs EPA to approve the state program based 
+upon a determination that the program ``requires each coal combustion 
+residuals unit located in the State to
+
+[[Page 78983]]
+
+achieve compliance with the applicable [federal or state] criteria.'' 
+In other words, the statute directs EPA to determine that the state has 
+sufficient authority to require compliance from all CCR units located 
+within the state. See also, 42 U.S.C. 6945(d)(1)(D)(ii)(I). To make 
+this determination EPA evaluates the state's authority to issue permits 
+and impose conditions in those permits, as well as the state's 
+authority for compliance monitoring and enforcement.
+    EPA also determines during this portion of the review whether the 
+state permit program contains procedures consistent with the directive 
+in RCRA section 7004(b). RCRA section 7004(b) applies to all RCRA 
+programs, directing that ``public participation in the development, 
+revision, implementation, and enforcement of any . . . program under 
+this chapter shall be provided for, encouraged, and assisted by the 
+Administrator and the States.'' 42 U.S.C. 6974(b)(1). To make this 
+determination EPA evaluates the state provisions governing the 
+procedures for issuing permits and for intervention in civil 
+enforcement proceedings.
+    Although 40 CFR part 239 applies to the approval of State Municipal 
+Solid Waste Landfill (MSWLF) programs under RCRA section 4005(c)(1) 
+rather than EPA's evaluation of CCR permit programs under RCRA section 
+4005(d), the specific criteria outlined in 40 CFR part 239 provide a 
+helpful framework to examine the relevant aspects of a state's permit 
+program. In addition, states are familiar with these criteria as a 
+consequence of the MSWLF program (all States have MSWLF programs that 
+have been approved pursuant to these regulations) and the regulations 
+are generally regarded as protective and appropriate.
+    Consequently, EPA relied on the four categories of criteria 
+outlined in 40 CFR part 239 as guidelines to evaluate the Texas 
+permitting requirements: Requirements for compliance monitoring 
+authority, requirements for enforcement authority, and requirements for 
+intervention in civil enforcement proceedings.
+    Second, EPA is to evaluate the technical criteria that will be 
+included in each permit, to determine whether they are the same as the 
+federal criteria, or to the extent they differ, whether the modified 
+criteria are ``at least as protective as'' the federal requirements. 
+See 42 U.S.C. 6945(d)(1)(B). Only if both components meet the statutory 
+requirements may EPA approve the program. See 42 U.S.C. 6945(d)(1).
+    EPA has preliminarily determined that the Texas CCR permit program 
+includes all the elements of an adequate state CCR permit program as 
+discussed in more detail below. It also contains all the technical 
+criteria in 40 CFR part 257, except for the provisions specifically 
+discussed below. Consequently, EPA is proposing to approve the Texas 
+permit program ``in part.'' 42 U.S.C. 6945(d)(1)(B). EPA's analysis and 
+findings are discussed in greater detail below and in the Technical 
+Support Document, which is available in the docket supporting this 
+preliminary determination.
+    EPA's full analysis of the Texas CCR permit program, and how the 
+Texas regulations differ from the federal requirements, can be found in 
+the Technical Support Document. EPA determined that the Texas CCR 
+permit program application was complete and notified Texas of its 
+determination by letter dated on December 3, 2020.\3\
+---------------------------------------------------------------------------
+
+    \3\ The Texas application, EPA's completeness determination 
+letter, and the Technical Support Document are available in the 
+docket supporting this action.
+---------------------------------------------------------------------------
+
+A. Adequacy of the Texas Permit Program
+
+    Section 4005(d)(1)(A) of RCRA, 42 U.S.C. 6945(d)(1)(A), requires a 
+state seeking state CCR permit program approval to submit to EPA, ``in 
+such form as the Administrator may establish, evidence of a permit 
+program or other system of prior approval and conditions under State 
+law for regulation by the State of coal combustion residuals units that 
+are located in the State.'' Although the statute directs EPA to 
+establish the form of such evidence, the statute does not require EPA 
+to promulgate regulations governing the process or standard for 
+determining the adequacy of such state programs. EPA, therefore, 
+developed the Coal Combustion Residuals State Permit Program Guidance 
+Document; Interim Final (82 FR 38685, August 15, 2017) (the ``Guidance 
+Document''). The Guidance Document provides recommendations on a 
+process and standards that states may choose to use to apply for EPA 
+approval of its CCR permit programs, based on the standards in RCRA 
+section 4005(d), existing regulations at 40 CFR part 239, and the 
+Agency's experience in reviewing and approving state programs.
+    EPA evaluated the Texas CCR permit program using the process, 
+statutory and regulatory standards discussed in the Units II.C and 
+IV.A. EPA's findings are summarized below and provided in more detail 
+in the Technical Support Document located in the docket supporting this 
+preliminary determination.
+1. Guidelines for Permitting
+    It is EPA's judgment that an adequate state CCR permit program will 
+ensure that: (1) Existing and new facilities are permitted or otherwise 
+approved and in compliance with either 40 CFR part 257 or other state 
+criteria; (2) the state has the authority to collect all information 
+necessary to issue permits that are adequate to ensure compliance with 
+relevant 40 CFR part 257, subpart D requirements; and (3) the state has 
+the authority to impose requirements for CCR units adequate to ensure 
+compliance with either 40 CFR part 257, subpart D or such other state 
+criteria that have been determined and approved by the Administrator to 
+be at least as protective as 40 CFR part 257, subpart D.
+    EPA has preliminarily determined that the Texas approach to CCR 
+registration applications and approvals is adequate. At Title 30 of the 
+Texas Administrative Code (TAC) sections 352.101 through 352.141, Texas 
+has State-specific provisions imposing requirements for CCR 
+registration, registration characteristics and conditions, registration 
+duration, registration amendments, and the issuance and transfer of 
+registrations. 30 TAC section 352.101 specifically requires 
+registration for the management or disposal of CCR in an existing 
+landfill, in an existing or inactive surface impoundment, and for a new 
+or lateral expansion of a landfill or surface impoundment. Such 
+registrations are subject to the state's standard permit 
+characteristics and conditions established in 30 TAC Chapter 305, 
+Subchapter F (See 30 TAC section 352.111). Under 30 TAC section 
+352.121, a registration may be issued for the active life of the unit, 
+as well as any post-closure care period, as needed; however, the 
+registration may be revoked or amended at any time that the owner or 
+operator fails to meet the minimum standards of the CCR regulations, or 
+for any other good cause.
+    Texas also requires that a change in a term, condition or provision 
+of a registration requires an amendment pursuant to 30 TAC section 
+352.131. An application requesting an amendment is processed as a major 
+amendment or a minor amendment in accordance with 30 TAC section 
+305.62. At 30 TAC section 305.62(c)(1), Texas describes a major 
+amendment as ``an amendment that changes a substantive term, provision, 
+requirement, or a limiting parameter of a permit.'' At 30 TAC section 
+305.62(c)(2), Texas describes a
+
+[[Page 78984]]
+
+minor amendment as ``an amendment to improve or maintain the permitted 
+quality or method of disposal of waste, . . .'' and which includes any 
+other change ``that will not cause or relax a standard or criterion 
+which may result in a potential deterioration of quality of water in 
+the state.'' Under 30 TAC section 305.62(d), the executive director may 
+initiate a major amendment or a minor amendment if good cause exists.
+    The Texas provision at 30 TAC section 352.141 prohibits the 
+transfer of a registration from one person to another without complying 
+with provisions of 30 TAC section 305.64 relating to the transfer of 
+permits. Under 30 TAC section 305.64, the registrant or the transferee 
+must submit an application to the executive director at least 30 days 
+before the proposed transfer date and receive approval of the 
+application from the commission before the registration can be 
+transferred. The Texas regulations provide that a registration cannot 
+be transferred from one facility to another. The specific CCR 
+registration application requirements are established in 30 TAC 
+sections 352.201 through 352.311 where Texas has State-specific 
+provisions addressing CCR registration application contents and 
+information requirements. Under 30 TAC sections 352.241 through 
+352.301, Texas requires sufficient information to ensure that all the 
+40 CFR part 257, subpart D technical requirements will be followed. 
+Specifically, a registration application shall include sufficient 
+information and reports to: (1) Characterize the geology and 
+hydrogeology at the facility; (2) demonstrate compliance with location 
+restrictions; (3) demonstrate compliance with design criteria; (4) 
+demonstrate compliance with operating criteria; (5) demonstrate 
+compliance with applicable groundwater monitoring and corrective action 
+requirements; and (6) demonstrate compliance with applicable closure 
+and post-closure requirements. The provision at 30 TAC section 352.311 
+requires the owner or operator to keep records of data used to complete 
+the application and any supplemental information or material throughout 
+the term of the registration.
+    At 30 TAC sections 352.401 through 352.481, Texas adopted State-
+specific provisions addressing procedures for registration application 
+deficiencies, public notifications, and registration decisions by the 
+executive director. As part of the State's evaluation of the 
+completeness of a registration application, 30 TAC section 352.401 
+requires the executive director to notify an applicant of any 
+additional information or application materials required to complete 
+the application by transmitting a notice of deficiency (NOD) to the 
+applicant. The NOD specifies a deadline for the NOD response of up to 
+60 days from the executive director's transmittal of the NOD. If the 
+executive director does not receive an adequate and timely response to 
+a notice of deficiency by the response deadline, the executive director 
+may return the incomplete application to the applicant (30 TAC section 
+352.421).
+    EPA has preliminarily determined that the Texas approach to CCR 
+registration applications and approvals is adequate, and that this 
+aspect of the Texas CCR permit program meets the standard for program 
+approval.
+2. Guidelines for Public Participation
+    Based on RCRA section 7004, 42 U.S.C. 6974, it is EPA's judgment 
+that an adequate state CCR permit program will ensure that: (1) 
+Documents for permit determinations are made available for public 
+review and comment; (2) final determinations on permit applications are 
+made known to the public; and (3) public comments on permit 
+determinations are considered. Texas has adopted public participation 
+opportunities for the CCR program that can provide an inclusive 
+dialogue, allowing interested parties to talk openly and frankly about 
+issues within the CCR program and search for mutually agreeable 
+solutions to differences. An overview of the Texas public participation 
+provisions is provided below.
+a. Public Participation in the CCR Registration Application Process
+    Under 30 TAC section 39.418, the TCEQ requires that no later than 
+30 days after the executive director declares an application to be 
+complete, the applicant must publish a Notice of Receipt of Application 
+and Intent to Obtain Permit in a newspaper of largest circulation in 
+the county in which the facility is located, or, if a newspaper is not 
+published in the county, the notice must be published in any newspaper 
+of general circulation in the county in which the facility is located 
+or proposed to be located. Registration applications are also made 
+available to the public on the applicant's publicly accessible CCR 
+internet site. Under 30 TAC section 352.461(a)(1), the applicant is 
+also required to make a copy of the application available for review 
+and copying at a public place in the county in which the facility is 
+located. Upon completion of the application review, the TCEQ publishes 
+a public notice of the TCEQ's receipt of the registration application, 
+the executive director's initial decision on the application, and 
+provides an opportunity for public comments or for the public to 
+request a public meeting in accordance with the procedures contained in 
+30 TAC sections 39.503(c), 39.405(f) and 39.405(h).
+    30 TAC section 352.471 gives the executive director the authority 
+to prepare a draft registration upon a preliminary determination that 
+an application for a new registration or a major amendment of a 
+registration meets the regulatory requirements for issuance of a 
+registration. When the executive director has prepared a draft 
+registration, copies of it are also made available to the public, along 
+with a technical summary. The technical summary provides information 
+regarding the application, staff review, and agency contacts available 
+to assist members of the public in answering questions about the 
+application. In addition, the commission records are open to the public 
+for review subject to statutory privileges and claims of 
+confidentiality consistent with the Texas Public Information Act. See 
+Texas Government Code Annotated, Chapter 552 and 30 TAC 1.5.
+b. Public Notice
+    30 TAC section 352.461 subjects all public notices to the 
+requirements in (1) 30 TAC section 39.405 (relating to General Notice 
+Provisions); (2) 30 TAC section 39.407 (relating to Mailing Lists); (3) 
+30 TAC section 39.409 (relating to Deadline for Public Comment, and for 
+Requests for Reconsideration, Contested Case Hearing, or Notice and 
+Comment Hearing); (4) 30 TAC section 39.411 (relating to Text of Public 
+Notice); (5) 30 TAC section 39.413 (relating to Mailed Notice); and (6) 
+30 TAC section 39.420 (relating to Transmittal of the Executive 
+Director's Response to Comments and Decision). 30 TAC section 
+352.431(c) requires that the text of the public notices on the 
+application include the internet address required by 30 TAC section 
+352.1321 for the publicly accessible website for that facility. Under 
+30 TAC sections 39.503(c) and 39.405(f), Texas applicants must publish 
+the notice in the newspaper of largest general circulation that is 
+published in the county in which the facility is located or is proposed 
+to be located. In certain instances, Texas applicants may be required 
+to publish notice in a language other than English in a newspaper 
+predominately published in that alternative language. In certain 
+circumstances, Texas requires that notices are mailed to select 
+individuals such as adjacent landowners, State and
+
+[[Page 78985]]
+
+local government officials, and anyone who asks to be included in the 
+mailing list, among others. In addition to the 30 TAC section 
+352.431(c) requirements, the provision at 30 TAC section 352.441 
+requires that a revised notice be published if changes to an 
+application constitute a major amendment under 30 TAC section 352.131 
+(relating to Amendments) after notice of receipt of application has 
+been mailed and published.
+c. Public Comments and Response to Comments
+    Texas requires a minimum of a 30-day public comment period for CCR 
+registration applications pursuant to 30 TAC section 352.431(d). 
+Pursuant to 30 TAC section 352.431(e), the executive director shall 
+consider all public comments received before the close of the public 
+comment period. 30 TAC section 352.461(c) requires the executive 
+director to prepare a response to all timely, relevant and material, or 
+significant public comment. The executive director's response and 
+decision are sent to the mailing list, including all commenters, as 
+required under 30 TAC section 39.420.
+d. Public Meeting
+    Under 30 TAC section 352.451(a), the owner or operator and the 
+commission may hold a public meeting under 30 TAC section 55.154 for a 
+new CCR registration application or a major amendment to a CCR 
+registration in the county in which the facility is located, based on 
+the criteria of 30 TAC sections 39.503(e), 55.154(c) or 352.961(c), as 
+cited in 30 TAC section 352.461(b). The purpose of a public meeting is 
+to provide information and receive public comment. Under 30 TAC 
+sections 39.503(e)(1) and 55.154(c)(1) through (2), the TCEQ is 
+required to hold a public meeting upon request of a member of the 
+legislature who represents the general area in which the facility is 
+proposed to be located for an application for a new facility or when 
+the executive director determines that there is substantial public 
+interest in the application or proposed facility. 30 TAC section 
+39.503(e)(3) provides, for example, that a ``substantial public 
+interest'' is demonstrated when a request for a public meeting is filed 
+by a homeowners' or property owners' association formally organized or 
+chartered and having at least ten members located in the general area 
+in which the facility is located or proposed to be located; or a group 
+of ten or more local residents, property owners, or businesses located 
+in the general area in which the facility is located or proposed to be 
+located. Finally, under 30 TAC section 352.961(c), a public meeting 
+must be held on applications for registrations that authorize 
+corrective action and selection of a remedy as provided in 40 CFR 
+257.96(e). 30 TAC section 352.451(c) requires that a notice of the 
+public meeting must be provided in accordance with the procedures 
+contained in 30 TAC section 39.503(e)(6), including newspaper 
+publication and mailed notice from the chief clerk to persons listed in 
+30 TAC section 39.413.
+e. Challenges to Executive Director's Action on a Registration 
+Application
+    30 TAC section 352.481 provides that the executive director's 
+action on a CCR application for a new registration or an amendment of a 
+registration is subject to 30 TAC sections 50.139 and 80.272 which 
+provide the public with a right to file a rehearing request for 
+decisions made in administrative hearing and a right to file a motion 
+to overturn the executive director's action on an application decision.
+    EPA has preliminarily determined that the Texas approach to public 
+participation requirements provides adequate opportunities for public 
+participation in the permitting process sufficient to meet the standard 
+for program approval.
+3. Guidelines for Compliance Monitoring Authority
+    It is EPA's judgment that an adequate permit program should provide 
+the state with the authority to gather information about compliance, 
+perform inspections, and ensure that information it gathers is suitable 
+for enforcement. The TCEQ has compliance monitoring authority under its 
+Texas Health and Safety Code (THSC) and the Texas Water Code (TWC). 
+Specifically, THSC section 361.032 provides the authority for 
+environmental investigators to enter public or private property and 
+conduct inspections or investigate solid waste facilities, including 
+CCR units. In addition, TWC section 5.102 gives the commission the 
+powers to perform any acts specifically authorized by this code, 
+another law, implied by this code, or other law necessary and 
+convenient to the exercise of its jurisdiction, as provided by the laws 
+of the state rules, orders and permits. The TCEQ Enforcement Division 
+maintains compliance schedules and reviews the schedules regularly to 
+determine whether a facility is complying with its schedule. If a 
+facility fails to meet its compliance schedule, the facility is deemed 
+to be in violation of the TWC, the THSC, or TCEQ rules.
+    EPA has preliminarily determined that these compliance monitoring 
+authorities are adequate, and that this aspect of the Texas CCR permit 
+program meets the standard for program approval.
+4. Guidelines for Enforcement Authority
+    It is EPA's judgment that an adequate state CCR permit program 
+should provide the state with adequate enforcement authority to 
+administer its state CCR permit program, including the authority to: 
+(1) Restrain any person from engaging in activity which may damage 
+human health or the environment, (2) sue to enjoin prohibited activity, 
+and (3) sue to recover civil penalties for prohibited activity.
+    The TCEQ has adequate enforcement authority for its existing 
+programs under TWC sections 5.512, 7.002, 7.032, 7.051, 7.052, 7.101, 
+7.103 and 7.105-7.110. Under TWC section 7.002, the state has the 
+authority to initiate an enforcement action to enforce the provisions 
+of the Texas Water Code, the Texas Health and Safety Code within the 
+commission's jurisdiction, and rules adopted under those provisions. 
+Under TWC section 5.512, the TCEQ has specific authority to issue an 
+emergency order concerning an activity of solid waste management under 
+its commission's jurisdiction, even if that activity is not covered by 
+a permit, if it finds that an emergency requiring immediate action to 
+protect the public health and safety exists.
+    The state also has the authority to sue in a court of competent 
+jurisdiction and may enforce a state rule or a provision of a permit by 
+injunction or other appropriate remedy that may include corrective 
+action. (TWC section 7.032). On request of the executive director, the 
+attorney general may initiate a suit in the name of the state for 
+injunctive relief. (TWC section 7.032(e)).
+    The TCEQ may assess administrative penalties and civil penalties 
+for solid waste violations under TWC section 7.051, 7.101, 7.103 and 
+7.105 through 7.110. Under TWC section 7.052(c) and (d), the TCEQ may 
+seek administrative penalties of up to $25,000 per day for each 
+violation for solid waste management violations. TWC section 7.105(a) 
+specifically provides authority for the Attorney General to initiate a 
+suit to recover a civil penalty, or for both injunctive relief and a 
+civil penalty. The Attorney General may represent the State in civil 
+judicial actions that may seek penalties from $50 to $25,000 per day 
+for each violation. (TWC section 7.102).
+    EPA has preliminarily determined that this aspect of the Texas CCR 
+permit
+
+[[Page 78986]]
+
+program meets the standard for program approval.
+5. Intervention in Civil Enforcement Proceedings
+    Based on section 7004 of RCRA, it is EPA's judgment that an 
+adequate State CCR permit program should provide an opportunity for 
+citizen intervention in civil enforcement proceedings. Specifically, 
+the state must either: (a) Provide for citizen intervention as a matter 
+of right or (b) have in place a process to (1) provide notice and 
+opportunity for public involvement in civil enforcement actions, (2) 
+investigate and provide responses to citizen complaints about 
+violations, and (3) not oppose citizen intervention when permissive 
+intervention is allowed by statute, rule, or regulation.
+    Under TWC sections 7.075, and 7.110, Texas has specific authorities 
+and the TCEQ rules that provide opportunity for public participation in 
+state enforcement proceedings by allowing persons to comment or 
+intervene in certain administrative and civil actions. Notice of the 
+opportunity to comment on the action is published in the Texas 
+Register. Specifically, TWC sections 7.075(a) and 7.110(a) and (b) 
+allow for a 30-day public comment period for administrative enforcement 
+actions and civil enforcement actions. The commission, under TWC 
+section 7.075(b) and the Office of Attorney General under TWC section 
+7.110(c), must consider any written comments and may withdraw or 
+withhold consent to a proposed order, judgment or other agreement if 
+the comments disclose facts or considerations that indicate that the 
+consent is inappropriate, improper, inadequate, or inconsistent with 
+the requirements of the commission's statutes, rules, or permits.
+    The TCEQ rules also provide at least two other opportunities for 
+public participation in enforcement actions, including, (1) when an 
+agreement is reached in an enforcement action between a respondent and 
+the executive director, by providing public notice in the Texas 
+Register and a 30-day public comment period (30 TAC section 70.10(c)); 
+and (2) by providing opportunity for public comments at commission 
+meetings on enforcement orders, pursuant to the Texas Open Meetings Act 
+under 30 TAC Chapter 10. Texas Water Code sections 5.176 through 5.1773 
+provides for a public process for submitting and participating in 
+complaints about a matter within the commission's jurisdiction. If a 
+complaint relating to an entity regulated by the commission is filed 
+with the commission, the commission must notify the parties to the 
+complaint at least quarterly of the status of the complaint until the 
+complaint reaches final disposition. Additionally, in accordance with 
+TWC section 5.176 through 5.1765, the commission maintains a public 
+website that contains public education materials informing the public 
+about the commission's complaint policies and procedures, the 
+collection and preservation of citizen collected evidence, and the 
+status of environmental complaints and pending enforcement actions, as 
+well as administrative and judicial orders. Under TWC section 7.110(d), 
+the Office of the Attorney General may not oppose intervention by a 
+person who has standing to intervene as provided by Rule 60, Texas 
+Rules of Civil Procedure.
+    EPA has preliminarily determined that these authorities provide for 
+an adequate level of citizen involvement in the enforcement process, 
+and that this aspect of the Texas CCR permit program meets the standard 
+for program approval.
+
+B. Adequacy of Technical Criteria
+
+    EPA conducted an analysis of the Texas CCR Permit Program 
+Application, including a thorough analysis of Texas statutory 
+authorities for the CCR program, as well as its regulations at 30 TAC 
+Chapter 352. As noted, Texas has requested partial program approval of 
+its CCR permit program.
+1. Texas CCR Regulatory Authority
+    On May 6, 2020, the TCEQ adopted 30 TAC Chapter 352--Coal 
+Combustion Residuals Waste Management, which in general are identical 
+or analogous to the requirements of the self-implementing 40 CFR part 
+257, subpart D. The TCEQ's CCR regulations were effective as of May 28, 
+2020.\4\ The commission adopted Chapter 352 under: (1) TWC section 
+5.102, which provides the commission the power to perform any acts 
+necessary and convenient to the exercise of its jurisdiction and powers 
+as provided by the TWC and other laws; TWC section 5.103, which 
+provides the commission with the authority to adopt any rules necessary 
+to carry out its powers and duties under the TWC and other laws of the 
+State; and TWC, section 5.105, which authorizes the commission to 
+establish and approve all general policy of the commission by rule; and 
+(2) THSC, Solid Waste Disposal Act, sections 361.017 and 361.024, which 
+authorize the commission to regulate industrial solid waste and 
+municipal hazardous waste and to adopt rules consistent with the 
+general intent and purposes of the THSC; and THSC section 361.090(d), 
+which allows the commission to adopt rules to control the collection, 
+handling, storage, processing, and disposal of industrial solid waste 
+to protect the property of others, public property and rights-of-way, 
+groundwater, and other rights requiring protection.
+---------------------------------------------------------------------------
+
+    \4\ The Texas CCR Regulations are included in Attachment II of 
+Texas' application and which is available in the docket supporting 
+this preliminary determination.
+---------------------------------------------------------------------------
+
+    The TCEQ has identified 58 units that are currently or have been 
+used for disposal of CCR (17 landfills and 41 surface impoundments) in 
+Texas.\5\ The TCEQ demonstrated that it has the personnel and funding 
+to administer a registration program that is at least as protective as 
+the Federal requirements.\6\
+---------------------------------------------------------------------------
+
+    \5\ For more information on the specific facilities covered by 
+the Texas CCR Permit Program, see Section VII of the Texas Program 
+Description and Attachment IV of the Texas application which are 
+available in the docket for this action.
+    \6\ The discussion on State personnel and funding is included in 
+Section VIII of the Program Description, which is included in the 
+docket for this action.
+---------------------------------------------------------------------------
+
+2. Texas CCR Regulations
+    EPA has preliminarily determined that the portions of the Texas CCR 
+permit program that were submitted for approval meet the standard for 
+approval under RCRA section 4005(d)(1)(B)(i), 42 U.S.C. 
+6945(d)(1)(B)(i). To make this preliminary determination, EPA compared 
+the technical requirements in the Texas CCR regulations at 30 TAC 
+Chapter 352 to the Federal CCR regulations at 40 CFR part 257, subpart 
+D to determine whether they differed from the Federal requirements, and 
+if so, whether those differences met the standard in RCRA sections 
+4005(d)(1)(B)(ii) and (C), 42 U.S.C. 6945(d)(1)(B)(ii) and (C).
+    At 30 TAC Chapter 352, the TCEQ largely adopted by reference the 
+requirements of 40 CFR part 257, subpart D, and implements procedural 
+requirements for a registration and compliance monitoring program to 
+authorize CCR units subject to the Federal CCR regulations. 
+Specifically, Texas adopted by reference 40 CFR 257.52, 40 CFR 257.53, 
+40 CFR 257.60 through 257.107, and the 40 CFR part 257 Appendices, as 
+amended through August 5, 2016 (81 FR 51807), and as modified by the 
+USWAG decision. Texas did not adopt by reference 40 CFR 257.71, 
+257.95(h) and 257.101(a). See 30 TAC sections 352.2 and 352.3(a), 30 
+TAC sections 352.601 through 352.981 and 352.1200 through 352.1431.\7\ 
+With
+
+[[Page 78987]]
+
+these exceptions, the technical requirements are identical to the 
+Federal regulations.
+---------------------------------------------------------------------------
+
+    \7\ A reference crosswalk comparison of 40 CFR part 257, subpart 
+D and 30 TAC Chapter 352 provided by Texas is also available in the 
+docket as Attachment I.
+---------------------------------------------------------------------------
+
+    In addition to the technical criteria in 30 TAC Chapter 352, Texas 
+has adopted State-specific registration for CCR units and public 
+participation requirements in 30 TAC sections 352.101 through 352.481; 
+State financial assurance requirements in 30 TAC sections 352.1101 and 
+352.1111; and for certain activities, Texas has additional requirements 
+for State notifications by owners and operators of CCR units, and State 
+approvals by the executive director employed by the commission.
+    Specifically, in addition to what is required by 40 CFR part 257, 
+the State CCR regulations contain additional State-specific 
+requirements for the use of licensed professional engineers and 
+geoscientists in 30 TAC section 352.4; use of laboratories accredited 
+and certified by the State in 30 TAC section 352.5; State notifications 
+and approvals for specific CCR activities by owners and operators in 30 
+TAC sections 352.731(b), 352.741(b), 352.831(b), 352.841(b), 352.902, 
+352.911(b) and (c), 352.931(b), 352.941(b) through (d), 352.951(c) 
+through (e), 352.981(b) and (c), 352.1221(b) and 352.1241(b) and (c); 
+pre-opening inspection requirements for new and lateral expansions of 
+CCR landfills and surface impoundments in 30 TAC section 352.851; 
+groundwater monitoring and corrective action in 30 TAC sections 
+352.911(d), 352.951(b) and 352.991; recordkeeping in 30 TAC section 
+352.1301(b); and posting of information on the publicly accessible 
+website in 30 TAC section 352.1321(c) and (d).
+3. Texas Partial Program
+    The TCEQ is seeking approval of its state CCR permit program, in 
+part, pursuant to RCRA section 4005(d). The TCEQ's rules implement the 
+Federal regulations promulgated through August 5, 2016, and as modified 
+by the USWAG decision. The TCEQ has not amended state CCR program rules 
+to implement the Part A Final Rule. Accordingly, Texas is not seeking 
+approval for the following five provisions of its regulations, which 
+are described in more detail below:
+    1. 30 TAC section 352.1(b)(2); this state provision is the analog 
+to the Federal exclusion of inactive impoundments at inactive 
+facilities, found at 40 CFR 257.50(e), that was vacated in USWAG;
+    2. The state provision that is the analog to the Federal 
+requirement that multiunit groundwater monitoring systems with unlined 
+CCR surface impoundments must retrofit or close, found at 40 CFR 
+257.91(d)(2), which is no longer relevant, as all unlined CCR surface 
+impoundments must close;
+    3. The state provision that is the analog to the Federal 
+requirement that unlined CCR surface impoundments must retrofit or 
+close after an assessment of corrective measures is required, found at 
+40 CFR 257.95(g)(5), which references a provision that was vacated in 
+USWAG;
+    4. 30 TAC sections 352.711(a)(4) and 352.1211(b); these state 
+provisions relate to the date for unlined surface impoundments to cease 
+receipt of waste. EPA has since revised the Federal regulation and the 
+state has not adopted the Federal revision, found at 40 CFR 
+257.101(a)(1) or 257.101(b)(1)(i);
+    5. 30 TAC section 352.1231; this state provision is the analog to 
+the Federal alternative closure requirements of CCR units, found at 40 
+CFR 257.103. EPA has since revised the Federal regulation and the state 
+has not adopted the Federal revision.
+    With the exception of the five provisions noted above, EPA has 
+preliminarily determined that the Texas CCR regulations contain all of 
+the technical elements of the Federal CCR regulations, including 
+requirements for location restrictions, design and operating criteria, 
+groundwater monitoring and corrective action, closure requirements and 
+post-closure care, recordkeeping, notification and publicly accessible 
+CCR internet site posting requirements. The Texas CCR permit program 
+also contains State-specific language, references, definitions, and 
+State-specific requirements that differ from the Federal CCR 
+regulations, but which EPA has determined to be ``at least as 
+protective as'' the Federal criteria.
+    The effect of granting a partial approval is that, except for the 
+five provisions for which EPA has not granted approval, the Texas CCR 
+permit program will apply in lieu of the Federal regulations. For the 
+five state provisions that were not approved, the corresponding Federal 
+requirements will continue to apply directly to facilities, and 
+therefore facilities must comply with both the Federal requirements and 
+the state requirements.
+
+V. Proposed Action
+
+    EPA has preliminarily determined that the Texas partial CCR permit 
+program meets the statutory standard for approval. Accordingly, in 
+accordance with 42 U.S.C. 6945(d), EPA is proposing to approve the 
+Texas partial CCR permit program.
+
+Andrew Wheeler,
+Administrator.
+[FR Doc. 2020-26987 Filed 12-7-20; 8:45 am]
+BILLING CODE 6560-50-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,296 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79012-79014]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26872]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+ENVIRONMENTAL PROTECTION AGENCY
+
+[EPA-HQ-OAR-2020-0415; FRL-10016-00-OAR]
+
+
+Proposed Information Collection Request; Comment Request; 
+Implementation of the 8-Hour National Ambient Air Quality Standards for 
+Ozone
+
+AGENCY: Environmental Protection Agency (EPA).
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Environmental Protection Agency (EPA) is planning to 
+submit a renewal of an information collection request (ICR), 
+``Implementation of the 8-hour National Ambient Air Quality Standards 
+for Ozone: State Implementation Plan Requirements'' (EPA ICR No. 
+2347.04, OMB Control No. 2060-0695), to the Office of Management and 
+Budget (OMB) for review and approval in accordance with the Paperwork 
+Reduction Act (PRA) (44 U.S.C. 3501 et seq.). This renewal provides 
+updated burden estimates for the 2021-2024 time period for implementing 
+the 2008 ozone National Ambient Air Quality Standards (NAAQS), and it 
+provides new burden estimates for the information collection resulting 
+from implementation of the 2015 ozone NAAQS. It also provides new 
+burden estimates for the information collection resulting from ongoing 
+implementation of the revoked 1997 ozone NAAQS. Before submittal to 
+OMB, the EPA is soliciting public comments on specific aspects of the 
+proposed information collection as described below. The time period 
+covered in this ICR renewal is a 3-year period from April 2021 through 
+April 2024. An agency may not conduct or sponsor, and a person is not 
+required to respond to, a collection of information unless it displays 
+a currently valid OMB control number.
+
+DATES: Comments must be submitted on or before February 8, 2021.
+
+ADDRESSES: Submit your comments, referencing Docket ID No. EPA-HQ-OAR-
+2020-0415, online using <a href="http://www.regulations.gov">http://www.regulations.gov</a> (our preferred 
+method), or by mail to: EPA Docket Center, Environmental Protection 
+Agency, Mail Code 28221T, 1200 Pennsylvania Ave. NW, Washington, DC 
+20460.
+    Out of an abundance of caution for members of the public and our 
+staff, the EPA Docket Center and Reading Room are closed to the public, 
+with limited exceptions, to reduce the risk of transmitting COVID-19. 
+Our Docket Center staff will continue to provide remote customer 
+service via email, phone, and webform. We encourage the public to 
+submit comments via <a href="https://www.regulations.gov/">https://www.regulations.gov/</a> or email, as there may 
+be a delay in processing mail and faxes. Hand deliveries and couriers 
+may be received by scheduled appointment only. For further information 
+on EPA Docket Center services and the current status, please visit us 
+online at <a href="https://www.epa.gov/dockets">https://www.epa.gov/dockets</a>.
+    The EPA's policy is that all comments received will be included in 
+the public docket without change including any personal information 
+provided, unless the comment includes profanity, threats, information 
+claimed to be Confidential Business Information, or other information 
+whose disclosure is restricted by statute.
+
+FOR FURTHER INFORMATION CONTACT: Mr. C.W. Stackhouse, Office of Air 
+Quality Planning and Standards, U.S. Environmental Protection Agency, 
+by phone at (919) 541-5208 or by email at [email redacted].
+
+SUPPLEMENTARY INFORMATION: Supporting documents which explain in detail 
+the information that the EPA will be collecting are available in the 
+public docket for this ICR. The docket can be viewed online at <a href="http://www.regulations.gov">http://www.regulations.gov</a>, or in person at the EPA Docket Center, WJC West, 
+Room 3334, 1301 Constitution Avenue NW, Washington, DC. The telephone 
+number for the Docket Center is (202) 566-1744. For additional 
+information about EPA's public docket, visit <a href="http://www.epa.gov/dockets">http://www.epa.gov/dockets</a>.
+    Pursuant to section 3506(c)(2)(A) of the PRA, the EPA is soliciting 
+comments and information to enable it to: (i) Evaluate whether the 
+proposed collection of information is necessary for the proper 
+performance of the functions of the agency, including whether the 
+information will have practical utility; (ii) evaluate the accuracy of 
+the agency's estimate of the burden of the proposed collection of 
+information, including the validity of the methodology and assumptions 
+used; (iii) enhance the quality, utility, and clarity of the 
+information to be collected; and (iv) minimize the burden of the 
+collection of information on those who are to respond, including 
+through the use of appropriate automated electronic, mechanical, or 
+other technological collection techniques or other forms of information 
+technology, e.g., permitting electronic submission of responses. The 
+EPA will consider the comments received and amend the ICR as 
+appropriate. The final ICR package will then be submitted to OMB for 
+review and approval. At that time, the EPA will issue another Federal 
+Register notice to announce the submission of the ICR to OMB and the 
+opportunity to submit additional comments to OMB. An agency may not 
+conduct or sponsor, and a person is not required to respond to, a 
+collection of information unless it displays a currently valid OMB 
+control number.
+    Abstract: Currently, the EPA has an existing OMB-approved ICR that 
+estimates the burden on states and EPA for implementation-related 
+activities associated with the 2008 ozone NAAQS for the period February 
+2018 to April 2021. States with nonattainment areas for the 2008 ozone 
+NAAQS are implementing the NAAQS pursuant to the CAA and implementation 
+regulations issued for that NAAQS.\1\ The state activities include, but 
+are not limited to, developing and submitting attainment 
+demonstrations, reasonable further progress plans, and reasonably
+
+[[Page 79013]]
+
+available control technology (RACT) determinations. This proposed ICR 
+renewal estimates the burden for states to meet the ongoing planning 
+requirements that apply to their remaining nonattainment areas for the 
+2008 ozone NAAQS over the period April 2021 to April 2024. These 
+requirements primarily affect 2008 ozone NAAQS nonattainment areas that 
+may fail to attain the NAAQS by their attainment date during this time 
+period and be reclassified to a higher classification with new SIP 
+revisions required from the states.
+---------------------------------------------------------------------------
+
+    \1\ See 77 FR 30160, ``Implementation of the 2008 National 
+Ambient Air Quality Standards for Ozone: Nonattainment Area 
+Classifications Approach, Attainment Deadlines and Revocation of the 
+1997 Ozone Standards for Transportation Conformity Purposes,'' and 
+80 FR 12264, ``Implementation of the 2008 National Ambient Air 
+Quality Standards for Ozone: State Implementation Plan 
+Requirements.''
+---------------------------------------------------------------------------
+
+    In addition, this ICR renewal includes a new burden estimate for 
+state and EPA activities related to implementing the 2015 8-hour ozone 
+standard, promulgated on October 1, 2015. The two rules governing the 
+implementation of that NAAQS, addressing classification of ozone 
+nonattainment areas and the development of State Implementation Plans 
+(SIPs) and other important implementation issues, provide clarity and 
+certainty to states regarding their planning obligations for the 2015 
+8-hour NAAQS.\2\ This proposed ICR estimates the burden for states to 
+implement the 2015 ozone NAAQS based on the classification of the ozone 
+nonattainment areas lying within those states, as well as for states in 
+the Ozone Transport Region (OTR).
+---------------------------------------------------------------------------
+
+    \2\ See 83 FR 10376, ``Implementation of the 2015 National 
+Ambient Air Quality Standards for Ozone: Nonattainment Area 
+Classifications Approach,'' and 83 FR 62998, ``Implementation of the 
+2015 National Ambient Air Quality Standards for Ozone: Nonattainment 
+Area State Implementation Plan Requirements.''
+---------------------------------------------------------------------------
+
+    Finally, this ICR renewal estimates a small amount of additional 
+burden to states to meet the anti-backsliding requirements for the 
+revoked 1997 NAAQS.
+    This proposed ICR thus estimates the implementation-related burden 
+for states over the 3 years following the ICR approval date for all 
+three 8-hour ozone NAAQS. The burden estimate for the 2008 NAAQS 
+accounts for nine nonattainment areas currently classified as Serious 
+that could be reclassified to Severe-15, and thus subject to additional 
+attainment planning requirements, if the areas fail to attain the NAAQS 
+by the July 20, 2021, attainment date. Such Severe area SIPs will be 
+due within 12-24 months from the date of reclassification, which would 
+be during the reporting period for this ICR. The burden estimate for 
+the 2015 NAAQS is associated with plan development and plan revisions 
+related to states' implementation efforts for 52 nonattainment areas, 
+the majority of which were classified as Marginal, and assumes that 28 
+Marginal areas will fail to attain the 2015 NAAQS by the August 3, 2021 
+attainment date and thus will be subject to reclassification to 
+Moderate and the SIP revisions required for Moderate areas. The burden 
+estimate also accounts for meeting the planning requirements for the 12 
+states and the District of Columbia in the OTR, where the primary 
+obligation for the 2015 NAAQS is to determine if the RACT requirement 
+is satisfied by the previously approved SIP. The burden estimate for 
+the 1997 NAAQS includes states developing and submitting the second 
+maintenance plans required 8 years after the effective date of the 
+first maintenance plans' final approval by EPA for areas redesignated 
+from nonattainment to attainment. It is worth noting that in some 
+cases, states will be implementing the 2008, 2015, and/or 1997 ozone 
+NAAQS in the same areas concurrently during the 3-year ICR renewal 
+period. The cumulative burden of states simultaneously implementing 
+multiple NAAQS is reflected in this proposed ICR.
+    The estimates included in this ICR renewal include both the state 
+burden to develop and submit, and the EPA burden to review and to 
+approve or disapprove, attainment plans to meet the requirements 
+prescribed in CAA sections 110 and part D, subparts 1 and 2 of title I 
+as interpreted by EPA's SIP requirements rules. An ozone NAAQS 
+attainment plan contains state rules and other measures designed to 
+improve air quality and achieve the NAAQS by the deadlines established 
+under the CAA. It also must address several additional CAA requirements 
+related to demonstrating timely attainment, and must contain 
+contingency measures in the event the nonattainment area does not 
+achieve reasonable further progress throughout the attainment period or 
+in the event the area does not attain the NAAQS by its attainment date. 
+States that have attained by the applicable attainment date may be 
+eligible to submit a redesignation request and maintenance plan to 
+receive a redesignation from ``nonattainment'' to ``attainment.'' After 
+a state submits an attainment or maintenance plan, the CAA requires the 
+EPA to approve or disapprove the plan. Tribes may develop or submit 
+attainment plans but are not required to do so.
+    The original ozone ICR No. 2347.01 that applied to the 2008 8-hour 
+ozone NAAQS was issued after the ozone NAAQS was revised in 2012. The 
+original ICR was renewed as No. 2347.02 for the period February 1, 2015 
+through January 31, 2018. The ICR No. 2347.02 was renewed in ICR No. 
+2347.03 for time period covered from February 1, 2018, through April 
+30, 2021. The ICR No. 2347.01 and the renewals applied to the 2008 8-
+hour ozone NAAQS before the ozone NAAQS was revised in 2015. This 
+proposed ICR renewal adds the burden of implementing the 2015 8-hour 
+ozone NAAQS and also continues to address any new requirements for the 
+remaining 2008 ozone nonattainment areas. It also includes the 
+estimated burden for a small number of areas subject to ongoing 
+requirements to implement the revoked 1997 ozone NAAQS. This ICR will 
+be effective from April 30, 2021 to April 30, 2024.
+    Respondents/affected entities: State and local governments.
+    Respondent's obligation to respond: Mandatory.
+    Estimated number of responses: 96.
+    Frequency of response: Once per triggering event [e.g., an air 
+agency is required to revise and submit a SIP revision when the area is 
+designated nonattainment or reclassified to a higher classification, or 
+if it is in an OTR member state to determine if RACT is satisfied by 
+the previously-approved state SIP. An air agency is also required to 
+submit a second 10-year maintenance plan for maintenance areas or 
+portions of maintenance areas for the 1997 ozone NAAQS not also 
+designated as nonattainment for the 2008 ozone NAAQS, and for 
+maintenance areas for the 2008 ozone NAAQS].
+    Estimated burden for respondents: 119,133 hours per year. Burden is 
+defined at 5 CFR 1320.03(b).
+    Estimated labor cost for respondents: $8.4 M (present value) per 
+year.
+    Estimated cost: $0 annualized capital or operation & maintenance 
+costs.
+    Changes in estimates: The EPA expects an increase of 85,133 annual 
+labor hours in the total estimated respondent burden compared with the 
+ICR currently approved by OMB. This increase is due to the activities 
+expected to occur during this period, which are similar but not 
+identical to the SIP planning and submission activities in the previous 
+ICR renewal period. As explained in greater detail below, the main 
+factors contributing to the change include: (1) The addition of the new 
+burden associated with the requirements for 2015 ozone NAAQS 
+nonattainment areas and 1997 ozone NAAQS maintenance areas, which was 
+not covered by the prior ICR, (2) the reduction in the number of 2008 
+ozone NAAQS nonattainment areas due to states' relative success in 
+attaining the 2008 NAAQS, and (3) the increase in burden associated 
+with the particular stage of the 2008 ozone implementation
+
+[[Page 79014]]
+
+program that areas still in nonattainment for the 2008 NAAQS are in. In 
+total, the EPA estimates there to be an additional burden of 357,400 
+hours for the state respondents over the 3-year period compared to the 
+102,000 hours during the period of the current renewal of the 8-hour 
+ozone NAAQS ICR currently approved by OMB (EPA ICR No. 2247.03).
+    The main reason for the increase is the addition of the burden to 
+implement the 2015 NAAQS in accordance with the 2015 ozone SIP 
+Requirements rule, which requires submissions from air agencies for 52 
+nonattainment areas. In contrast, only 13 submissions are expected from 
+air agencies to meet ongoing requirements for the 2008 ozone NAAQS 
+during the ICR renewal period. Moreover, 28 of the 2015 ozone 
+nonattainment areas are expected not to attain by the 2015 ozone NAAQS 
+Marginal attainment date based on preliminary 2020 air quality data. 
+The burden estimate is based on the 5,000 hours needed to meet SIP 
+submittal requirements that result from an area being reclassified from 
+Marginal to Moderate during the ICR 3-year period.
+    The 2008 ozone NAAQS burden does not significantly change. However, 
+while there are fewer 2008 nonattainment areas now that might require 
+reclassification than in the prior ICR period (13 versus 14) due to 
+states' progress toward attainment, the anticipated reclassification of 
+these nine areas to Severe will trigger submittal requirements during 
+the upcoming period. An additional minor difference in burden is that 
+previous ozone ICRs did not include the burden estimate included here 
+for the states in the OTR to certify the current state SIPs meets the 
+CAA section 184(b)(1)(B) RACT requirements.
+    Another additional minor difference in burden is that previous 
+ozone ICRs did not include the burden estimate that is included here 
+for the second maintenance plans required from states for four 1997 
+ozone maintenance areas and three 2008 ozone maintenance areas due 8 
+years after the effective date of the first maintenance plans' final 
+approval by EPA.
+    Finally, the cost estimates differ because the current ICR renewal 
+was based on estimates calculated using 2017 dollars and the new ICR 
+renewal is based on 2020 dollars. The burden estimate is detailed in 
+the supporting statement located in the docket for this proposed ICR. 
+The adjustments to the cost assumptions are summarized in sections 6(b) 
+and 6(c) of the supporting statement.
+
+    Dated: October 19, 2020.
+Scott Mathias,
+Director, Air Quality Policy Division.
+[FR Doc. 2020-26872 Filed 12-7-20; 8:45 am]
+BILLING CODE 6560-50-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

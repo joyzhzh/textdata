@@ -1,0 +1,392 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79049-79051]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26896]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90552; File No. SR-NYSEArca-2020-102]
+
+
+Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing 
+and Immediate Effectiveness of Proposed Rule Change To Adopt New Rule 
+6.78A-O Regarding In-Kind Exchanges of Options Positions in Connection 
+With Exchange-Traded Fund Shares and Unit Investment Trust Interests
+
+December 2, 2020.
+    Pursuant to Section 19(b)(1) \1\ of the Securities Exchange Act of 
+1934 (``Act''),\2\ and Rule 19b-4 thereunder,\3\ notice is hereby given 
+that on November 24, 2020, NYSE Arca, Inc. (``NYSE Arca'' or 
+``Exchange'') filed with the Securities and Exchange Commission 
+(``Commission'') the proposed rule change as described in Items I and 
+II below, which Items have been prepared by the self-regulatory 
+organization. The Commission is publishing this notice to solicit 
+comments on the proposed rule change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 15 U.S.C. 78a.
+    \3\ 17 CFR 240.19b-4.
+---------------------------------------------------------------------------
+
+I. Self-Regulatory Organization's Statement of the Terms of Substance 
+of the Proposed Rule Change
+
+    The Exchange proposes to adopt new Rule 6.78A-O regarding in-kind 
+exchanges of options positions and exchange-traded fund shares and unit 
+investment trust interests. The proposed rule change is available on 
+the Exchange's website at <a href="http://www.nyse.com">www.nyse.com</a>, at the principal office of the 
+Exchange, and at the Commission's Public Reference Room.
+
+II. Self-Regulatory Organization's Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change
+
+    In its filing with the Commission, the self-regulatory organization 
+included statements concerning the purpose of, and basis for, the 
+proposed rule change and discussed any comments it received on the 
+proposed rule change. The text of those statements may be examined at 
+the places specified in Item IV below. The Exchange has prepared 
+summaries, set forth in sections A, B, and C below, of the most 
+significant parts of such statements.
+
+A. Self-Regulatory Organization's Statement of the Purpose of, and the 
+Statutory Basis for, the Proposed Rule Change
+
+1. Purpose
+    The Exchange proposes to adopt Rule 6.78A-O regarding in-kind 
+exchanges of options positions and exchange-traded fund (``Fund'') 
+shares and unit investment trust (``UIT'') interests. This is a 
+competitive filing that is substantively identical to rules in place on 
+Cboe and its affiliated exchange Cboe BZX, except the Exchange proposes 
+to add a provision allowing it to request information from OTP Holders 
+and OTP Firms that utilize the new rule.\4\ Currently, in general, 
+Funds and UITs can effect in-kind transfers with respect to equity 
+securities and fixed-income securities. The in-kind process is the 
+means by which assets may be added to or removed from Funds and UITs.
+---------------------------------------------------------------------------
+
+    \4\ See Cboe Options Rule 6.9 (the ``Cboe Rule''); see also 
+Securities Exchange Act Release Nos. 87340 (October 17, 2019), 84 FR 
+56877 (October 23, 2019) (SR-CBOE-2019-048) (Order Approving on an 
+Accelerated Basis a Proposed Rule Change, as Modified by Amendment 
+Nos. 2 and 3, to Adopt Rule 6.9 (In-Kind Exchange of Options 
+Positions and ETF Shares)); and 88786 (April 30, 2020), 85 FR 26998 
+(May 6, 2020) (SR-CBOE-2020-042) (Notice of Filing and Immediate 
+Effectiveness of a Proposed Rule Change To Amend Rule 6.9 To Permit 
+In-Kind Transfers of Positions Off of the Exchange in Connection 
+With Unit Investment Trusts (``UITs'')). See also CboeBZX Rule 
+20.12; Securities Exchange Act Release No. 89313 (July 14, 2020), 85 
+FR 43907 (July 20, 2020) (SR-CboeBZX-2020-054) (immediately 
+effective filing for, among other things, in-kind transfers of Funds 
+and UITs). See also Nasdaq PHLX Rule 1059; Securities Exchange Act 
+Release Nos. 87768 (December 17, 2019), 84 FR 70605 (December 23, 
+2019) (SR-Phlx-2019-53) (immediately effective filing to adopt new 
+Rule 1059 to allow in-kind transfers of Funds). The new Phlx rule 
+does not extend to allowing for in-kind transfers of UITs, thus the 
+Exchange focuses on Cboe and its affiliates in this filing.
+---------------------------------------------------------------------------
+
+    Proposed Rule 6.78A-O, like the Cboe Rule, would allow positions in 
+options listed on the Exchange to be transferred off the Exchange by an 
+OTP Holder or OTP Firm (collectively, ``OTP Holders'') in connection 
+with transactions (1) to
+
+[[Page 79050]]
+
+purchase or redeem ``creation units'' of Fund Shares between an 
+``authorized participant'' \5\ and the issuer \6\ of such Fund Shares 
+\7\ or (2) to create or redeem units of a UIT between a broker-dealer 
+and the issuer \8\ of such UIT units, which transfers would occur at 
+the price used to calculate the net asset value (``NAV'') of such Fund 
+Shares or UIT units, respectively. Allowing the Exchange to permit off-
+Exchange transfers of options positions in connection with the creation 
+and redemption process would enable the Exchange to compete with other 
+options exchanges that allow such transfers.\9\
+---------------------------------------------------------------------------
+
+    \5\ The Exchange is proposing that, for purposes of proposed 
+Rule 6.78A-O, the term ``authorized participant'' would be defined 
+as an entity that has a written agreement with the issuer of Fund 
+Shares or one of its service providers, which allows the authorized 
+participant to place orders for the purchase and redemption of 
+creation units (i.e., specified numbers of Fund Shares). While an 
+authorized participant may be an OTP Holder and directly effect 
+transactions in options on the Exchange, an authorized participant 
+that is not an OTP Holder may effect transactions in options on the 
+Exchange through an OTP Holder on its behalf.
+    \6\ The Exchange proposes that, for purposes of proposed Rule 
+6.78A-O, any issuer of Fund Shares would be registered with the 
+Commission as an open-end management investment company under the 
+Investment Company Act of 1940 (the ``1940 Act'').
+    \7\ A Fund Share is a share or other security traded on a 
+national securities exchange and defined as an NMS stock, as set 
+forth in in Rule 600(b)(47) of Regulation NMS, which includes open-
+end management investment companies registered with the Commission. 
+See Rule 5.3-O(g).
+    \8\ The Exchange proposes that, for purposes of proposed Rule 
+6.78A, any issuer of UIT units would be a trust registered with the 
+Commission as a unit investment trust under the 1940 Act.
+    \9\ See supra note 4. See proposed Rule 6.78A-O(a) (providing 
+that positions in options listed on the Exchange may be transferred 
+off the Exchange by a OTP Holder or OTP Firm to effect creations and 
+redemptions in Funds or UITs on an in-kind basis; ``provided, 
+however, that such OTP Holder or OTP Firm comply with the 
+requirements of paragraph (b) of this Rule'').
+---------------------------------------------------------------------------
+
+    However, the Exchange believes it is appropriate to include in 
+proposed Rule 6.78A-O the requirement that OTP Holders that engage in 
+such transfers ``must, upon request of the Exchange, provide to the 
+Exchange information relating to the transfers in a form and manner 
+prescribed by the Exchange.'' \10\ The Exchange believes that this 
+proposed provision, which is not in the Cboe Rule (nor is it in Phlx 
+Rule 1059), would help ensure that OTP Holders keep accurate books and 
+records relating to such transfers for review by the Exchange, which is 
+to the benefit of all market participants.\11\
+---------------------------------------------------------------------------
+
+    \10\ See proposed Rule 6.78A-O(b). The Exchange anticipates 
+informing OTP Holders of the notice requirements via Trader Update.
+    \11\ See supra note 4 (regarding Cboe and Phlx rules).
+---------------------------------------------------------------------------
+
+    The Exchange's proposal mirrors the Cboe Rule in that it applies 
+solely in the context of transfers of options positions effected in 
+connection with transactions to purchase or redeem creation units of 
+Fund Shares between Funds and authorized participants,\12\ and units of 
+UITs between UITs and sponsors.
+---------------------------------------------------------------------------
+
+    \12\ See supra note 5. The term ``authorized participant'' is 
+specific and narrowly defined. As noted in the Investment Company 
+Act Release No. 33140 (June 28, 2018), 83 FR 37332 (July 31, 2018) 
+(the ``Proposed ETF Rule Release''), the requirement that only 
+authorized participants of a Fund may purchase creation units from 
+(or sell creation units to) a Fund ``is designed to preserve an 
+orderly creation unit issuance and redemption process between 
+[Funds] and authorized participants.'' Furthermore, an ``orderly 
+creation unit issuance and redemption process is of central 
+importance to the arbitrage mechanism.'' See Proposed ETF Rule 
+Release at 83 FR 37348.
+---------------------------------------------------------------------------
+
+    Other than the transfers covered by the proposed rule, transactions 
+involving options, whether held by a Fund or an authorized participant, 
+or a UIT or a sponsor would be fully subject to all applicable trading 
+Rules.
+2. Statutory Basis
+    The Exchange believes that its proposal is consistent with Section 
+6(b) of the Act,\13\ in general, and furthers the objectives of Section 
+6(b)(5) of the Act,\14\ in particular, in that it is designed to 
+prevent fraudulent and manipulative acts and practices, to promote just 
+and equitable principles of trade, to foster cooperation and 
+coordination with persons engaged in regulating, clearing, settling, 
+processing information with respect to, and facilitating transactions 
+in securities, to remove impediments to and perfect the mechanism of a 
+free and open market and a national market system and, in general, to 
+protect investors and the public interest.
+---------------------------------------------------------------------------
+
+    \13\ 15 U.S.C. 78f(b).
+    \14\ 15 U.S.C. 78f(b)(5).
+---------------------------------------------------------------------------
+
+    The Exchange believes proposed Rule 6.78A-O to permit off-Exchange 
+transfers in connection with the in-kind Fund and UIT creation and 
+redemption process would promote just and equitable principles of trade 
+as it would permit Funds and UITs that invest in options traded on the 
+Exchange to utilize the in-kind creation and redemption process that is 
+available for Funds and UITs that invest in equities and fixed-income 
+securities.
+    The Exchange believes it is appropriate to require OTP Holders that 
+engage in off-floor transfers as provided in proposed Rule 6.78A-O(a) 
+to keep records of such transactions such that this information could 
+be shared with the Exchange upon request. The Exchange believes this 
+provision, which is not in the Cboe Rule, would prevent fraudulent and 
+manipulative acts and practices, to promote just and equitable 
+principles of trade because the provision would help ensure that OTP 
+Holders keep accurate books and records relating to such transfers for 
+review by the Exchange, which is to the benefit of all market 
+participants.
+    Finally, this proposed rule change would align Exchange rules with 
+that of other options exchanges, including Cboe and its affiliates, 
+thereby allowing the Exchange to compete on equal footing.\15\
+---------------------------------------------------------------------------
+
+    \15\ See supra note 4.
+---------------------------------------------------------------------------
+
+B. Self-Regulatory Organization's Statement on Burden on Competition
+
+    The Exchange does not believe that the proposed rule change will 
+impose any burden on competition that is not necessary or appropriate 
+in furtherance of the purposes of the Act. The Exchange does not 
+believe the proposed rule change will impose any burden on intramarket 
+competition that is not necessary or appropriate in furtherance of the 
+purposes of the Act. Utilizing the proposed exception would be 
+voluntary. Proposed Rule 6.78A-O would provide market participants with 
+a means to transfer positions as part of the creation and redemption 
+process for Funds and UITs only under the circumstances specified. The 
+proposed exception would enable all Funds and UITs that hold options to 
+enjoy the benefits of in-kind creations and redemptions already 
+available to other Funds and UITs (and to pass these benefits along to 
+investors). Use of the in-kind, off-exchange transfer process in 
+connection with creating and redeeming ETFs or UITs would be voluntary 
+and would apply in the same manner to all entities that meet the 
+definition of ``authorized participant'' or to all broker-dealers, 
+respectively, that opt to invoke such process.
+    The Exchange does not believe the proposed rule change will impose 
+any burden on intermarket competition that is not necessary or 
+appropriate in furtherance of the purposes of the Act. As indicated 
+above, the proposed rule change is intended to provide a limited 
+circumstance in which options positions can be transferred off an 
+exchange. The Exchange believes the requirement that OTP Holders have 
+the ability to produce to the Exchange, upon request, documentation 
+relating to off-floor transfers would benefit market participants as it 
+would add transparency to such transfers and would not pose an undue 
+burden on intermarket competition.
+    Lastly, the Exchange notes that the proposed rule change is based 
+on rules already in place on Cboe and its affiliate exchanges.\16\ As 
+such, the Exchange
+
+[[Page 79051]]
+
+believes that its proposal enhances fair competition between markets by 
+providing for additional listing venues for Funds and UITs that hold 
+options to utilize the in-kind transfers proposed herein.
+---------------------------------------------------------------------------
+
+    \16\ See supra note 4.
+---------------------------------------------------------------------------
+
+C. Self-Regulatory Organization's Statement on Comments on the Proposed 
+Rule Change Received From Members, Participants, or Others
+
+    No written comments were solicited or received with respect to the 
+proposed rule change.
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for 
+Commission Action
+
+    Because the foregoing proposed rule change does not: (i) 
+Significantly affect the protection of investors or the public 
+interest; (ii) impose any significant burden on competition; and (iii) 
+become operative for 30 days from the date on which it was filed, or 
+such shorter time as the Commission may designate, it has become 
+effective pursuant to Section 19(b)(3)(A) of the Act \17\ and Rule 19b-
+4(f)(6) thereunder.\18\
+---------------------------------------------------------------------------
+
+    \17\ 15 U.S.C. 78s(b)(3)(A).
+    \18\ 17 CFR 240.19b-4(f)(6). In addition, Rule 19b-4(f)(6)(iii) 
+requires a self-regulatory organization to give the Commission 
+written notice of its intent to file the proposed rule change, along 
+with a brief description and text of the proposed rule change, at 
+least five business days prior to the date of filing of the proposed 
+rule change, or such shorter time as designated by the Commission. 
+The Exchange has satisfied this requirement.
+---------------------------------------------------------------------------
+
+    A proposed rule change filed pursuant to Rule 19b-4(f)(6) under the 
+Act \19\ normally does not become operative for 30 days after the date 
+of its filing. However, Rule 19b-4(f)(6)(iii) \20\ permits the 
+Commission to designate a shorter time if such action is consistent 
+with the protection of investors and the public interest. The Exchange 
+has requested that the Commission waive the 30-day operative delay so 
+that the proposed rule change may become operative upon filing. The 
+Exchange states that waiver of the operative delay is consistent with 
+the protection of investors and the public interest because it will 
+ensure fair competition among the options exchanges by allowing the 
+Exchange implement without delay proposed Rule 6.78A-O, which is 
+substantially identical to Cboe Options Rule 6.9 and Cboe BZX Rule 
+21.12, except that the Exchange's proposed Rule 6.78A-O(b) is more 
+restrictive in that it requires OTP Holders to provide to the Exchange 
+information related to the transfers. For this reason, and because the 
+proposal does not raise any novel regulatory issues, the Commission 
+believes that waiver of the 30-day operative delay is consistent with 
+the protection of investors and the public interest. Accordingly, the 
+Commission hereby waives the operative delay and designates the 
+proposed rule change operative upon filing.\21\
+---------------------------------------------------------------------------
+
+    \19\ 17 CFR 240.19b-4(f)(6).
+    \20\ 17 CFR 240.19b-4(f)(6)(iii).
+    \21\ For purposes only of waiving the 30-day operative delay, 
+the Commission also has considered the proposed rule's impact on 
+efficiency, competition, and capital formation. See 15 U.S.C. 
+78c(f).
+---------------------------------------------------------------------------
+
+    At any time within 60 days of the filing of the proposed rule 
+change, the Commission summarily may temporarily suspend such rule 
+change if it appears to the Commission that such action is necessary or 
+appropriate in the public interest, for the protection of investors, or 
+otherwise in furtherance of the purposes of the Act. If the Commission 
+takes such action, the Commission shall institute proceedings to 
+determine whether the proposed rule change should be approved or 
+disapproved.
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views, and 
+arguments concerning the foregoing, including whether the proposed rule 
+change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to [email redacted]. Please include 
+File Number SR-NYSEArca-2020-102 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549-1090.
+
+All submissions should refer to File Number SR-NYSEArca-2020-102. This 
+file number should be included on the subject line if email is used. To 
+help the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change that are filed with 
+the Commission, and all written communications relating to the proposed 
+rule change between the Commission and any person, other than those 
+that may be withheld from the public in accordance with the provisions 
+of 5 U.S.C. 552, will be available for website viewing and printing in 
+the Commission's Public Reference Room, 100 F Street NE, Washington, DC 
+20549, on official business days between the hours of 10:00 a.m. and 
+3:00 p.m. Copies of the filing also will be available for inspection 
+and copying at the principal office of the Exchange. All comments 
+received will be posted without change. Persons submitting comments are 
+cautioned that we do not redact or edit personal identifying 
+information from comment submissions. You should submit only 
+information that you wish to make available publicly. All submissions 
+should refer to File Number SR-NYSEArca-2020-102 and should be 
+submitted on or before December 29, 2020.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\22\
+---------------------------------------------------------------------------
+
+    \22\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26896 Filed 12-7-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

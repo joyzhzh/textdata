@@ -1,0 +1,277 @@
+{
+  "component": 4,
+  "title": "Rich textual-data sources review",
+  "folder": "appendix/04-data-sources",
+  "website": "https://textdata.info/foundation/textual-data-sources/",
+  "appendix_row": "A catalogue, dated profiles, comparative review and profile-rendering tool describe coverage and observability. A change in released fields altered a proposed source selection.",
+  "status": {
+    "built": true,
+    "demonstrated": "on provider documentation: a dated selection decision and one profile that caught a source change before acquisition",
+    "validated": false,
+    "note": "Representative review, no recall claim; no data acquired; no profile tested against an acquired dataset or a study."
+  },
+  "run": [
+    {
+      "command": "python3 -I checks/verify_counts.py",
+      "expects": "all checks pass"
+    },
+    {
+      "command": "python3 -I tool/render_profile.py D17 --out example/output",
+      "expects": "wrote 1 profile to example/output"
+    },
+    {
+      "command": "python3 -I tool/render_profile.py --all --out data/profiles",
+      "expects": "wrote 25 profiles and README.md to data/profiles"
+    }
+  ],
+  "needs_network": false,
+  "needs_model": false,
+  "counts": [
+    {
+      "what": "source families profiled",
+      "value": 25,
+      "unit": "families described, not datasets included",
+      "where": "data/catalogue.json"
+    },
+    {
+      "what": "arenas of rich text",
+      "value": 12,
+      "unit": "arenas, holding 18 of the families",
+      "where": "data/arenas.json"
+    },
+    {
+      "what": "complementary structured families",
+      "value": 6,
+      "unit": "families",
+      "where": "data/catalogue.json (kind = structured)"
+    },
+    {
+      "what": "no longer a narrative source",
+      "value": 1,
+      "unit": "family (D17)",
+      "where": "data/catalogue.json (kind = narrative-excluded)"
+    },
+    {
+      "what": "provider pages rechecked",
+      "value": 10,
+      "unit": "pages, 29 October 2026, covering 9 families",
+      "where": "data/provider_checks.json"
+    },
+    {
+      "what": "source evidence records",
+      "value": 25,
+      "unit": "records, one per family",
+      "where": "data/evidence.jsonl"
+    },
+    {
+      "what": "source-anchored claims",
+      "value": 70,
+      "unit": "claims, each with a locator",
+      "where": "data/evidence.jsonl"
+    },
+    {
+      "what": "rendered profiles",
+      "value": 25,
+      "unit": "pages, plus an index",
+      "where": "data/profiles/"
+    }
+  ],
+  "rights": {
+    "project_documents_and_data": "CC BY 4.0",
+    "project_code": "Apache-2.0",
+    "third_party": "described, not included; see NOTICE.md"
+  },
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1324,
+      "sha256": "9bf935a28747a7e31b73ef1643d1c92d8e1768950258847d1b4124ba58e7fa7b"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 3717,
+      "sha256": "7a5db64e20009970eb2376a11cd0e1a47bd2fd365fc8c6e50122f0b1785aff9c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2875,
+      "sha256": "1d73b0b626b5b60188ded78eb9e3fb9c9e7ea32708bf6140494d1b354ab5f614"
+    },
+    {
+      "path": "checks/verify_counts.py",
+      "bytes": 6029,
+      "sha256": "584cbd1973e893163f4579c22241c017308c4fdaf559bfb0abef3fd22f83c07a"
+    },
+    {
+      "path": "data/arenas.json",
+      "bytes": 3876,
+      "sha256": "7d9a856542b6d970b41bcebd463cfe4a5b8276e4975f0bc2d521cfbc2fdb10a8"
+    },
+    {
+      "path": "data/catalogue.csv",
+      "bytes": 50039,
+      "sha256": "3b6ae6e864ba2c3429293610e312c32e418ce95a5f88c65cd7360d3f1f7bfcb8"
+    },
+    {
+      "path": "data/catalogue.json",
+      "bytes": 76534,
+      "sha256": "189059b10e73b8211ab77d8302c6e8ccae20cda16ecb90aeb1745bf83b5155b7"
+    },
+    {
+      "path": "data/evidence.jsonl",
+      "bytes": 49462,
+      "sha256": "9aeb8d4ec35daf055fb11198655e1303b300330887450a8254e9db755ddf50bf"
+    },
+    {
+      "path": "data/profiles/D01.md",
+      "bytes": 3896,
+      "sha256": "c2ea3ef9cf2e39fde725fe4e78499d64486b6665c4af043f6c66ecf992b27dad"
+    },
+    {
+      "path": "data/profiles/D02.md",
+      "bytes": 3290,
+      "sha256": "72c350825b310439f3ce6ae7f59aadd74fadf1ecc25653b11f65f26d0611559d"
+    },
+    {
+      "path": "data/profiles/D03.md",
+      "bytes": 3646,
+      "sha256": "e69047eab500f52551d07e7b4902ac4344f80fd5feff6386ea2221502c789ed2"
+    },
+    {
+      "path": "data/profiles/D04.md",
+      "bytes": 3620,
+      "sha256": "280be4b948ce21bcca9eda4770503d06c571aa79d31ced2ddb7c819048fb7981"
+    },
+    {
+      "path": "data/profiles/D05.md",
+      "bytes": 3186,
+      "sha256": "881c1151c1c575b94fa4acf28c3d04114ebaf0491014f216f32816bedc98de62"
+    },
+    {
+      "path": "data/profiles/D06.md",
+      "bytes": 2834,
+      "sha256": "e5567f8d771b234fbbd082d9b3701e74fef4d4a5f88415d4ea50516544b7a27d"
+    },
+    {
+      "path": "data/profiles/D07.md",
+      "bytes": 3796,
+      "sha256": "20f35b0be76234acbc9231938f05094aff679715cd7316ef336545326d1dda35"
+    },
+    {
+      "path": "data/profiles/D08.md",
+      "bytes": 4732,
+      "sha256": "514f21d831ef5b20996400642f9430a5e664b2004a20a4d84e4b6fdf6f67c207"
+    },
+    {
+      "path": "data/profiles/D09.md",
+      "bytes": 4025,
+      "sha256": "7713f3798527d6b9e420bdea7dad458cc3f35c5fd48b59792c3cff27f08586bf"
+    },
+    {
+      "path": "data/profiles/D10.md",
+      "bytes": 4732,
+      "sha256": "d6ca5865d88561fd5db3258dbf563b9a7210ac5a3d27afdfbc2d10ffad669b1b"
+    },
+    {
+      "path": "data/profiles/D11.md",
+      "bytes": 3566,
+      "sha256": "3270354731ea1aba5a0c826df4d11b4e0a8a658a391d7a75368d2f68d8244cca"
+    },
+    {
+      "path": "data/profiles/D12.md",
+      "bytes": 3848,
+      "sha256": "518ca687237bb8deb2aed30026cac12221640db7851ddf594f81c72bfad5bc10"
+    },
+    {
+      "path": "data/profiles/D13.md",
+      "bytes": 3763,
+      "sha256": "892a7ba72ee88fcc0bdefe7d22f8fd92a877d1e587ed6f2e8e04a97ae7c6e1ce"
+    },
+    {
+      "path": "data/profiles/D14.md",
+      "bytes": 4432,
+      "sha256": "49c85e99150c10e170fed350f5d3581fdd8ea62c247d536f3ff7d5ff21519a3d"
+    },
+    {
+      "path": "data/profiles/D15.md",
+      "bytes": 3371,
+      "sha256": "133f303ac20e1424fbe57d92ffadd8675f3efcbf0fcccf6b406db2bd2ef37749"
+    },
+    {
+      "path": "data/profiles/D16.md",
+      "bytes": 3114,
+      "sha256": "93d9ada631eedb4e24e3747d311408e9523d12b43b8249535d467f33f541e3d9"
+    },
+    {
+      "path": "data/profiles/D17.md",
+      "bytes": 3903,
+      "sha256": "983b1bfe823d5dbb7b188c800369da4fe54a80383c5b8adaaa74be4bae6937b2"
+    },
+    {
+      "path": "data/profiles/D18.md",
+      "bytes": 2730,
+      "sha256": "813a1d2725c473803bad38c511ec62d329ce2e4e876403a5802d70527fdfdd58"
+    },
+    {
+      "path": "data/profiles/D19.md",
+      "bytes": 4086,
+      "sha256": "4e6a049b55044c86465fabd6ad2463ea08be3ad36b745282001b3b32fe2987d7"
+    },
+    {
+      "path": "data/profiles/D20.md",
+      "bytes": 4361,
+      "sha256": "e5a3defb91e5ed71e7e035d61b86fc092fa1263caacb693dec3ac7953a32f8b7"
+    },
+    {
+      "path": "data/profiles/D21.md",
+      "bytes": 4045,
+      "sha256": "80d7ac1c025c310c4c4ea48745034a5c75f3168b2bb284087dafba3a7847fb34"
+    },
+    {
+      "path": "data/profiles/D22.md",
+      "bytes": 4756,
+      "sha256": "248feb172abe0b1a5b482360703f036d21fc62e4f9d54b0488635dd7ff05b53d"
+    },
+    {
+      "path": "data/profiles/D23.md",
+      "bytes": 4573,
+      "sha256": "262a4414177244fb539783e294904a4c9281bc917779927906e06ce574229c9f"
+    },
+    {
+      "path": "data/profiles/D24.md",
+      "bytes": 3275,
+      "sha256": "b9d75e9b9f04c33431e91455c10c5331dad2ce4bba4dc5dcf201825b2b5d27c9"
+    },
+    {
+      "path": "data/profiles/D25.md",
+      "bytes": 4103,
+      "sha256": "416e91ec8914f3121960f923012366652e7bb59e034f4cdf8b1f41372d2d0ca1"
+    },
+    {
+      "path": "data/profiles/README.md",
+      "bytes": 3962,
+      "sha256": "21eb74d0b184bd905d0575b7d2228bb800c77ecfcefa3df020271e168829f4d7"
+    },
+    {
+      "path": "data/provider_checks.json",
+      "bytes": 2524,
+      "sha256": "035d44bb858d7e4262676686b56209935d0b2c27c73bc3133aaa9187253375c0"
+    },
+    {
+      "path": "docs/comparison.md",
+      "bytes": 5365,
+      "sha256": "84b3cb48ebff2a4fc637db24c95f691b71ac43875162560b21c0cc00002113ce"
+    },
+    {
+      "path": "example/output/D17.md",
+      "bytes": 3903,
+      "sha256": "983b1bfe823d5dbb7b188c800369da4fe54a80383c5b8adaaa74be4bae6937b2"
+    },
+    {
+      "path": "tool/render_profile.py",
+      "bytes": 7141,
+      "sha256": "a1caedb3d343fd292c09a6a675678c3b2d215ae2f57a85d50ac02ace59351db5"
+    }
+  ],
+  "size_bytes": 312434
+}

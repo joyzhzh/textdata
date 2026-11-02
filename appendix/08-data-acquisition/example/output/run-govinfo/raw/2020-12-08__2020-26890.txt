@@ -1,0 +1,138 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79047-79048]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26890]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+PENSION BENEFIT GUARANTY CORPORATION
+
+
+Submission of Information Collection for OMB Review; Comment 
+Request; Missing Participants
+
+AGENCY: Pension Benefit Guaranty Corporation.
+
+ACTION: Notice of request for extension of OMB approval of information 
+collection, with modifications.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Pension Benefit Guaranty Corporation (PBGC) is requesting 
+that the Office of Management and Budget (OMB) extend approval, under 
+the Paperwork Reduction Act, of a collection of information under 
+PBGC's regulation on Missing Participants, with modifications. This 
+notice informs the public of PBGC's request and solicits public comment 
+on the collection.
+
+DATES: Comments must be submitted on or before January 7, 2021.
+
+ADDRESSES: Written comments and recommendations for the proposed 
+information collection should be sent within 30 days of publication of 
+this notice to <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular 
+information collection by selecting ``Currently under 30-day Review--
+Open for Public Comments'' or by using the search function.
+    A copy of the request will be posted on PBGC's website at <a href="https://www.pbgc.gov/prac/laws-and-regulation/federal-register-notices-open-for-comment">https://www.pbgc.gov/prac/laws-and-regulation/federal-register-notices-open-for-comment</a>. It may also be obtained without charge by writing to the 
+Disclosure Division of the Office of the General Counsel of PBGC, 1200 
+K Street NW, Washington, DC 20005-4026; faxing a request to 202-326-
+4042; or, calling 202-326-4040 during normal business hours (TTY users 
+may call the Federal Relay Service toll-free at 800-877-8339 and ask to 
+be connected to 202-326-4040). The Disclosure Division will email, fax, 
+or mail the information to you, as you request.
+
+FOR FURTHER INFORMATION CONTACT: Stephanie Cibinic, Deputy Assistant 
+General Counsel for Regulatory Affairs, Office of the General Counsel, 
+Pension Benefit Guaranty Corporation, 1200 K Street NW, Washington, DC 
+20005-4026; 202-229-6352. (TTY users may call the Federal Relay Service 
+toll-free at 800-877-8339 and ask to be connected to 202-229-6352.)
+
+SUPPLEMENTARY INFORMATION: The process of closing out a terminated 
+retirement plan involves the disposition of plan assets to satisfy the 
+benefits of plan participants and beneficiaries. One difficulty faced 
+by plan administrators in closing out terminated plans is how to 
+provide for the benefits of missing persons. Title IV of ERISA includes 
+a provision (section 4050 of ERISA) under which the Pension Benefit 
+Guaranty Corporation (PBGC) holds retirement benefits for missing 
+participants and beneficiaries in terminated pension plans and seeks to 
+reunite those participants and beneficiaries with the benefits being 
+held for them.
+    The missing participants program was limited to single-employer DB 
+plans covered by the title IV insurance program. The Pension Protection 
+Act of 2006 authorized expansion of the missing participants program, 
+and PBGC by final rule published on December 22, 2017 (82 FR 60800), 
+extended the program to--
+    <bullet> defined contribution (DC) plans (not covered by title IV 
+\1\),
+---------------------------------------------------------------------------
+
+    \1\ Eligibility for the missing participants program under ERISA 
+section 4050 is not by itself considered coverage by title IV or 
+ERISA.
+---------------------------------------------------------------------------
+
+    <bullet> small professional service DB plans (not covered by title 
+IV), and
+    <bullet> multiemployer DB plans (covered by title IV).
+    All four programs follow the same basic design. The most prominent 
+difference among them lies in the mandatory or voluntary nature of the 
+programs. For plans covered by the title IV insurance program, 
+participation in the program is mandatory. For plans not covered by 
+title IV, PBGC's regulation permits, but does not require, such plans 
+to participate in PBGC's missing participants program.
+    PBGC needs information from plans that participate in the missing 
+participants program to identify the plans and the missing participants 
+and beneficiaries, to search for missing participants and 
+beneficiaries, to determine the persons entitled to benefits that the 
+plans transfer to PBGC and the form and amount of benefits payable, and 
+to refer claimants of benefits being held elsewhere to the institutions 
+holding the benefits.
+    PBGC intends to modify its information collection to require 
+additional information about missing participants in two categories in 
+order to properly withhold taxes when such participants are located and 
+their benefits claimed and paid. For DC plans that permit Roth 
+accounts, PBGC intends to require a breakdown of qualified and non-
+qualified Roth amounts transferred to PBGC (if any), and if non-
+qualified Roth amounts are being transferred, the date the first Roth 
+contribution was made. Where relevant for DB and DC plans, PBGC intends 
+to require identification of the portion of a
+
+[[Page 79048]]
+
+participant's benefit transfer amount treated as foreign-source income, 
+and if so, for DB plans how that determination was made. PBGC as 
+administrator of the Missing Participants Program relies on information 
+provided and certified to by the plan administrator or plan sponsor as 
+applicable.
+    The existing collection of information was approved under OMB 
+control number 1212-0069 (expires January 31, 2021). On September 1, 
+2020 PBGC published in the Federal Register (at 85 FR 54433) a notice 
+informing the public of its intent to request an extension of this 
+collection of information, as modified. No comments were received. PBGC 
+is requesting that OMB extend its approval of this collection of 
+information (with modifications) for three years. An agency may not 
+conduct or sponsor, and a person is not required to respond to, a 
+collection of information unless it displays a currently valid OMB 
+control number.
+    PBGC estimates that it will receive a total of 226 filings from 
+plans each year under this collection of information. PBGC further 
+estimates that the annual burden of this collection of information is 
+646 hours and $115,650.
+
+    Issued in Washington, DC.
+Stephanie Cibinic,
+Deputy Assistant General Counsel for Regulatory Affairs, Pension 
+Benefit Guaranty Corporation.
+[FR Doc. 2020-26890 Filed 12-7-20; 8:45 am]
+BILLING CODE 7709-02-P
+
+
+</pre></body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "identity": "2020-12-07|2020-26810",
+  "attempts": [
+    {
+      "site": "govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-07/html/2020-26810.htm",
+      "http_status": 200,
+      "bytes": 6198,
+      "checked_at": "2026-10-31T16:11:07Z",
+      "problems": []
+    }
+  ],
+  "site": "govinfo.gov",
+  "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-07/html/2020-26810.htm",
+  "http_status": 200,
+  "bytes": 6019,
+  "sha256": "b119fc8f958e4dc2e48034815578c6ce291e90fe2fb076d67b43f2c0dfe33325",
+  "fetched_at": "2026-10-31T16:11:07Z",
+  "original_retrieval": {
+    "bytes": 6198,
+    "sha256": "c5ce82194bab5e357ae6567dcf0d825867c8752afea18f7f279052f87945fd98"
+  },
+  "release_copy": {
+    "edition": "email-redacted release",
+    "modified": true,
+    "email_elements_redacted": 1,
+    "note": "Top-level bytes and sha256 describe the released copy. Original retrieval details and attempt sizes describe the withheld source bytes."
+  }
+}

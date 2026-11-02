@@ -1,0 +1,413 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Proposed Rules]
+[Pages 78977-78979]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26856]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0270; Product Identifier 2019-SW-018-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Textron Inc. (Type Certificate 
+Previously Held by Bell Helicopter Textron Inc.) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Supplemental notice of proposed rulemaking (SNPRM); reopening 
+of comment period.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is revising an earlier proposed Airworthiness 
+Directive (AD) for Bell Textron Inc. (Bell) Model 205B helicopters 
+which proposed to require reducing the life limit of certain tail rotor 
+(T/R) blades and re-identifying certain T/R blades with a new part 
+number (P/N). The notice of proposed rulemaking (NPRM) was prompted by 
+flight testing and fatigue analysis results. This action revises the 
+NPRM by adding additional T/R part numbers (P/Ns) to the proposed 
+applicability. The FAA is proposing this AD to address the unsafe 
+condition on these products. Since these actions would impose an 
+additional burden over those in the NPRM, the FAA is reopening the 
+comment period to allow the public the chance to comment on these 
+changes.
+
+DATES: The comment period for the NPRM published in the Federal 
+Register on March 25, 2020 (85 FR 16916), is reopened.
+    The FAA must receive comments on this SNPRM by January 22, 2021.
+
+ADDRESSES: You may send comments by any of the following methods:
+    <bullet> Federal eRulemaking Docket: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a>. Follow the online instructions for sending your 
+comments electronically.
+    <bullet> Fax: 202-493-2251.
+    <bullet> Mail: Send comments to the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590-0001.
+    <bullet> Hand Delivery: Deliver to the ``Mail'' address between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this SNPRM, contact Bell 
+Helicopter Textron, Inc., P.O. Box 482, Fort Worth, TX 76101; telephone 
+817-280-3391; fax 817-280-6466; or at <a href="https://www.bellcustomer.com">https://www.bellcustomer.com</a>. You 
+may view the referenced service information at the FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, 
+Fort Worth, TX 76177.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a> by searching for and locating Docket No. FAA-2020-
+0270; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this SNPRM, any comments received, and other information. The street 
+address for Docket Operations is listed above. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Kuethe Harmon, Safety Management 
+Program Manager, DSCO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 
+76177; telephone 817-222-5198; email [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2020-0270; Product Identifier 
+2019-SW-018-AD'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other
+
+[[Page 78978]]
+
+information as described in 14 CFR 11.35, the FAA will post all 
+comments received, without change, to <a href="https://www.regulations.gov">https://www.regulations.gov</a>, 
+including any personal information you provide. The agency will also 
+post a report summarizing each substantive verbal contact received 
+about this proposal.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Kuethe Harmon, Safety Management Program Manager, DSCO Branch, FAA, 
+10101 Hillwood Pkwy., Fort Worth, TX 76177; telephone 817-222-5198; 
+email [email redacted]. Any commentary that the FAA receives which 
+is not specifically designated as CBI will be placed in the public 
+docket for this rulemaking.
+
+Discussion
+
+    The FAA issued an NPRM to amend 14 CFR part 39 to include an AD 
+that would apply to Bell Model 205B helicopters with a T/R blade P/N 
+212-010-750-009 or 212-010-750-105 installed. The NPRM published in the 
+Federal Register on March 25, 2020 (85 FR 16916). The NPRM proposed to 
+require reducing the life limit of each affected T/R blade; re-
+identifying the T/R blade P/N on its data plate by vibro-etching to 
+change the last three digits of the existing P/N; creating a component 
+history card or equivalent record; revising the Airworthiness 
+Limitations section of the existing maintenance manual for your 
+helicopter to annotate the new P/N and revised life limit; and prohibit 
+installing any affected T/R blade that has not met the AD requirements. 
+The proposed NPRM was prompted by flight testing and fatigue analysis 
+by Bell which indicated that the affected part-numbered T/R blades 
+sustain greater loads when installed on Bell Model 205B helicopters 
+compared to their use on other model helicopters. The proposed actions 
+were intended to prevent a T/R blade remaining in service beyond its 
+fatigue life, resulting in failure of the T/R blade and subsequent loss 
+control of the helicopter.
+
+Actions Since Previous NPRM Was Issued
+
+    Since the FAA issued the NPRM, further research by Bell has 
+identified additional T/R blade P/Ns, which are also subject to the 
+unsafe condition and would require re-identification and reduced life 
+limits. Accordingly, Bell has revised its service information to 
+include the additional part numbered T/R blades. The FAA has determined 
+the NPRM must be revised by revising the applicability to include these 
+additional part numbered T/R blades and the service information must be 
+updated to include the revised service information with the newly 
+identified T/R blade P/Ns.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this proposed AD. The following presents the comment 
+received on the NPRM and the FAA's response to that comment.
+
+Request To Add Additional T/R Blade Part Numbers
+
+    Bell requested the Applicability paragraph be updated to include 
+the newly identified T/R blade P/Ns and that the FAA update the 
+corrective actions to include those newly identified T/R blade P/Ns. 
+Bell stated that it is revising the service information to address the 
+additional T/R blade P/Ns and the re-identification and life limit 
+requirements of those additional T/R blades. Accordingly, the commenter 
+requested the FAA postpone the release of the AD until the part numbers 
+are disclosed to the FAA.
+    The FAA agrees the NPRM should be revised to include the additional 
+T/R blade P/Ns and the re-identification and life limit requirements of 
+those additional T/R blade P/Ns.
+
+FAA's Determination
+
+    The FAA is proposing this SNPRM after evaluating all known relevant 
+information and determining that an unsafe condition is likely to exist 
+or develop on other helicopters of the same type design. Certain 
+changes described above expand the scope of the original NPRM. As a 
+result, the FAA has determined that it is necessary to reopen the 
+comment period to provide additional opportunity for the public to 
+comment on this SNPRM.
+
+Related Service Information
+
+    The FAA reviewed Bell Helicopter Textron Alert Service Bulletin No. 
+205B-20-70, dated August 6, 2020, for Model 205B helicopters. This 
+service information specifies reducing the life limit of T/R blade P/N 
+212-010-750-109, 212-010-750-111, 212-010-750-113, 212-010-750-117, 
+212-010-750-133, 212-010-750-135, 212-010-750-117FM, and 212-010-750-
+135FM to 2,500 hours time-in-service (TIS). This service information 
+also specifies re-identifying certain T/R blade P/Ns by assigning new 
+dash number by vibro-etching a new P/N on the T/R blade data plate and 
+annotating the historical record card.
+    The FAA also reviewed Bell Helicopter Textron Alert Service 
+Bulletin No. 205B-98-27, dated June 1, 1998, for Model 205B 
+helicopters. This service information specifies reducing the life limit 
+of T/R blade P/N 212-010-750-009 and 212-010-750-105 to 2,500 hours TIS 
+and assigning these T/R blades a new dash number by vibro-etching a new 
+P/N on the T/R blade data plate and annotating the historical record 
+card.
+
+Proposed AD Requirements
+
+    This proposed AD would require, before further flight, reducing the 
+life limit of each affected T/R blade from 5,000 hours TIS to 2,500 
+hours TIS; re-identifying certain part numbered T/R blades by vibro-
+etching to change the last three digits of the existing P/N; creating a 
+component history card or equivalent record; and revising the 
+Airworthiness Limitations section of the existing maintenance manual 
+for your helicopter to annotate the new P/N and revised life limit. 
+Finally, this SNPRM would prohibit installing any affected T/R blade 
+that has not met the proposed AD requirements.
+
+Costs of Compliance
+
+    The FAA estimates that this proposed AD would affect 2 helicopters 
+of U.S. Registry. The FAA estimates that operators may incur the 
+following costs in order to comply with this AD. Labor costs are 
+estimated at $85 per work-hour.
+    Determining the total hours TIS of a T/R blade, re-identifying the 
+P/N, and updating the helicopter records would take about 1 work-hour 
+for each T/R blade for an estimated cost of $170 per helicopter and 
+$340 for the U.S fleet.
+    Replacing a T/R blade would take about 8 work-hours and parts would 
+cost about $29,110 for an estimated cost of $29,790 per T/R blade.
+
+[[Page 78979]]
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed, I certify this proposed regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866,
+    2. Will not affect intrastate aviation in Alaska, and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Bell Textron Inc. (Type Certificate Previously Held by Bell 
+Helicopter Textron Inc.) Helicopters: Docket No. FAA-2020-0270; 
+Product Identifier 2019-SW-018-AD.
+
+(a) Comments Due Date
+
+    The FAA must receive comments by January 22, 2021.
+
+(b) Affected Airworthiness Directives (AD)
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Bell Textron Inc. (Bell) Model 205B 
+helicopters, certificated in any category, with a tail rotor (T/R) 
+blade part number (P/N) 212-010-750-009, 212-010-750-105, 212-010-
+750-109, 212-010-750-111, 212-010-750-113, 212-010-750-117, 212-010-
+750-133, 212-010-750-135, 212-010-750-117FM, or 212-010-750-135FM 
+installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6410 Tail Rotor 
+Blades.
+
+(e) Unsafe Condition
+
+    This AD was prompted by flight testing and fatigue analysis that 
+indicates that these part-numbered T/R blades sustain greater loads 
+when used on Bell Model 205B helicopters compared to their use on 
+other model helicopters. The FAA is issuing this AD to prevent a T/R 
+blade from remaining in service beyond its fatigue life, resulting 
+in failure of the T/R blade and subsequent loss of control of the 
+helicopter.
+
+(f) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(g) Required Actions
+
+    (1) Before further flight:
+    (i) Determine the total hours time-in-service (TIS) of each T/R 
+blade and remove from service each T/R blade that has accumulated 
+2,500 or more hours TIS. For each T/R blade that has accumulated 
+less than 2,500 hours TIS, do the following:
+    (ii) Re-identify the P/N on the T/R blade data plate by vibro-
+etching to change the last three digits of the existing P/N as 
+follows:
+    (A) For T/R blade P/N 212-010-750-009, re-identify the P/N as 
+212-010-750-111.
+    (B) For T/R blade P/N 212-010-750-105, re-identify the P/N as 
+212-010-750-109.
+    (C) For T/R blade P/N 212-010-750-113, re-identify the P/N as 
+212-010-750-117FM.
+    (D) For T/R blade P/N 212-010-750-133, re-identify the P/N as 
+212-010-750-135FM.
+    (iii) Create a component history card or equivalent record to 
+reflect the change in P/N for each T/R blade, and establish a life 
+limit of 2,500 hours TIS.
+    (iv) Revise the Airworthiness Limitations Section of the 
+existing maintenance manual or the Instructions for Continued 
+Airworthiness for your helicopter to establish a life limit of 2,500 
+hours TIS for each T/R blade P/N 212-010-750-109, P/N 212-010-750-
+111, P/N 212-010-750-117, P/N 212-010-750-135, P/N 212-010-750-
+117FM, and P/N212-010-750-135FM.
+    (2) Thereafter, except as provided in paragraph (i), no 
+alternative life limits may be approved for T/R blade P/N 212-010-
+750-009, P/N 212-010-750-105, P/N 212-010-750-113, or P/N 212-010-
+750-133.
+    (3) After the effective date of this AD, do not install a T/R 
+blade P/N 212-010-750-009, P/N 212-010-750-105, P/N 212-010-750-113, 
+or P/N 212-010-750-133 on any Model 205B helicopter unless the part 
+number has been changed and the life limit reduced in accordance 
+with this AD.
+    (4) After the effective date of this AD do not install a T/R 
+blade P/N 212-010-750-109, P/N 212-010-750-111, P/N 212-010-750-117, 
+P/N 212-010-750-135, P/N 212-010-750-117FM, or P/N 212-010-750-
+135FM, on any Model 205B helicopter unless the life limit has been 
+reduced in accordance with this AD.
+
+(h) Special Flight Permits
+
+    Special flight permits are prohibited.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, DSCO Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+certification office, send it to the attention of the person 
+identified in paragraph (j)(1) of this AD. Information may be 
+emailed to: [email redacted].
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, the FAA suggests 
+that you notify your principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district office 
+or certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Kuethe Harmon, 
+Safety Management Program Manager, DSCO Branch, FAA, 10101 Hillwood 
+Pkwy., Fort Worth, TX 76177; telephone 817-222-5198; email 
+[email redacted].
+    (2) For service information identified in this AD, contact Bell 
+Textron Inc., P.O. Box 482, Fort Worth, TX 76101; telephone 817-280-
+3391; fax 817-280-6466; or at <a href="https://www.bellcustomer.com">https://www.bellcustomer.com</a>. You may 
+view service information at the FAA, Office of the Regional Counsel, 
+Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort Worth, TX 
+76177.
+
+    Issued on November 12, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-26856 Filed 12-7-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

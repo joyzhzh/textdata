@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/incident.schema.json",
+  "title": "Grounded Theory incident",
+  "type": "object",
+  "required": [
+    "incident_id",
+    "episode_id",
+    "ordinal",
+    "epistemic_class",
+    "description"
+  ],
+  "properties": {
+    "incident_id": {
+      "type": "string",
+      "pattern": "^I[0-9]{3,}$"
+    },
+    "episode_id": {
+      "type": "string",
+      "pattern": "^E[0-9]{3,}$"
+    },
+    "ordinal": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "epistemic_class": {
+      "enum": [
+        "OBSERVED_ACTION",
+        "CREATOR_REPORTED_ACTION",
+        "CREATOR_STATED_INTERPRETATION",
+        "THIRD_PARTY_INTERPRETATION",
+        "TECHNOLOGY_COMPANY_CLAIM",
+        "ANALYST_INFERENCE",
+        "THEORETICAL_CONSTRUCT"
+      ]
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_ref": {
+      "type": "object",
+      "required": [
+        "manifestation_id",
+        "locator"
+      ],
+      "properties": {
+        "manifestation_id": {
+          "type": "string",
+          "pattern": "^MNF-[A-Z0-9-]+$"
+        },
+        "locator": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "quote_ref": {
+      "type": "object",
+      "description": "exact quotation binding for a creator-stated interpretation; the manifestation must equal source_ref.manifestation_id",
+      "required": [
+        "manifestation_id",
+        "locator",
+        "quote_sha256"
+      ],
+      "properties": {
+        "manifestation_id": {
+          "type": "string",
+          "pattern": "^MNF-[A-Z0-9-]+$"
+        },
+        "locator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "quote_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      }
+    },
+    "inference_basis_ids": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^(I|CDE)[0-9]{3,}$"
+      }
+    },
+    "construct_basis_ids": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^(I|CDE)[0-9]{3,}$"
+      }
+    },
+    "derived_from_event_id": {
+      "type": "string",
+      "pattern": "^EVT-[A-Z0-9-]+$",
+      "description": "optional link to the vault event this incident was reconstructed from"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "epistemic_class": {
+            "enum": [
+              "OBSERVED_ACTION",
+              "CREATOR_REPORTED_ACTION",
+              "CREATOR_STATED_INTERPRETATION",
+              "THIRD_PARTY_INTERPRETATION",
+              "TECHNOLOGY_COMPANY_CLAIM"
+            ]
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "source_ref"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "epistemic_class": {
+            "const": "CREATOR_STATED_INTERPRETATION"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "quote_ref"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "epistemic_class": {
+            "const": "ANALYST_INFERENCE"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "inference_basis_ids"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "epistemic_class": {
+            "const": "THEORETICAL_CONSTRUCT"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "construct_basis_ids"
+        ]
+      }
+    }
+  ]
+}

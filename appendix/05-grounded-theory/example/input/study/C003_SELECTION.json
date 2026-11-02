@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Dan Shipper 2.0.txt",
+    "manifestation_id": "MNF-LENNY-015",
+    "sha256": "77996f733a68141758155c92378c48fa3b885636c13130461d1ec11ab85d23d2",
+    "lane": "A3",
+    "prior_request": "REQ002",
+    "gap": "Specialist reframing after repeated production patches",
+    "opposing_expected_observations": "Reported recovery after a different diagnosis supports a reframing condition; ordinary continued prompting that suffices challenges it.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Elena Verna 4.0.txt",
+    "manifestation_id": "MNF-LENNY-016",
+    "sha256": "ef54b93fcf80a10638a23a991d65aaac4ef03c2365a29d80cd5d55840aa8a218",
+    "lane": "A3",
+    "prior_request": "REQ002",
+    "gap": "Capability versus time, specialist reliance and stopping ideas",
+    "opposing_expected_observations": "Hiring despite stated ability and rejecting prototypes separates capability from chosen commitments; durable independent delivery without support challenges dependence.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Sander Schulhoff.txt",
+    "manifestation_id": "MNF-LENNY-017",
+    "sha256": "ed39e3a53b4ba830fa3f3b40370b243f1d3473cacb690946481a4e60b40214e7",
+    "lane": "B3",
+    "prior_request": "REQ002",
+    "gap": "Value constraints versus technical performance",
+    "opposing_expected_observations": "Keeping a privacy constraint despite reported performance loss would distinguish chosen limits from inability; abandoning the constraint or no actual loss challenges that reading.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Nick Turley.txt",
+    "manifestation_id": "MNF-LENNY-018",
+    "sha256": "1971892cbc13425297757f2541304c3ef34d1d6dc8d676cd0eec4a6e741b4727",
+    "lane": "B3",
+    "prior_request": "REQ002",
+    "gap": "Provider control of what counts as a good response",
+    "opposing_expected_observations": "Changing measurement after problematic pleasing behavior supports criteria revision above the user level; unchanged successful measurement would challenge it.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Noam Segal.txt",
+    "manifestation_id": "MNF-LENNY-019",
+    "sha256": "23f2eab24bd8fc8621cf6b62be7a96a656caa588fc8cbba70820df6c09ec2cdb",
+    "lane": "B3",
+    "prior_request": "REQ002",
+    "gap": "Worker concerns as a rival to leader productivity narratives",
+    "opposing_expected_observations": "Reported workload concerns despite capability gains support separating output from discretion; primary evidence of freely chosen workload would challenge it. Aggregate claims cannot substitute for primary voices.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Amol Avasare.txt",
+    "manifestation_id": "MNF-LENNY-020",
+    "sha256": "4306bc96615e11d06be5dda64d4c8a08a9b8ee1974b7d4e84c3435a7efda3b1f",
+    "lane": "C3",
+    "prior_request": "REQ002",
+    "gap": "Whose judgment receives assistance in employee evaluation",
+    "opposing_expected_observations": "Actual managerial and self-coaching uses expose different directions of evaluation; employee contest and known effects would test consequences, otherwise retain unknown.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Dhanji R. Prasanna.txt",
+    "manifestation_id": "MNF-LENNY-021",
+    "sha256": "1b1c47f7dfa71b50fd2d75f9448bdcc71b632632cca0812b5de9be33832914de",
+    "lane": "C3",
+    "prior_request": "REQ002",
+    "gap": "Coordination consequences and organizational rivals",
+    "opposing_expected_observations": "More production accompanied by coordination burdens supports expanded demands; reorganization predating or distinct from AI challenges AI-only causation.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  },
+  {
+    "file": "Eoghan McCabe.txt",
+    "manifestation_id": "MNF-LENNY-022",
+    "sha256": "404a3b4db9bfc6ded59080ff368db72fe06a3ebe35b7676dd7334ce7a71a09f2",
+    "lane": "C3",
+    "prior_request": "REQ002",
+    "gap": "Organizational power over criteria and exit",
+    "opposing_expected_observations": "Reported imposed criteria and dissent during a broad turnaround may bound voluntary-choice accounts; worker participation/override would challenge this. Do not infer AI caused dismissals.",
+    "selection_stage": "AFTER_C002_COMPARISON_BEFORE_C003_CODING",
+    "status": "SELECTED_UNDER_CURRENT_USER_AUTHORITY"
+  }
+]

@@ -1,0 +1,368 @@
+{
+  "component": 7,
+  "slug": "eisenhardt-case-methodology",
+  "title": "Eisenhardt Case Methodology",
+  "appendix_item": 7,
+  "website": "https://textdata.info/toolkit/eisenhardt-case-methodology/",
+  "provenance": [
+    {
+      "what": "tool/ and data/r12/",
+      "from": "Existing maintenance software and metadata-only reference collection; third-party terms in NOTICE.md."
+    },
+    {
+      "what": "docs/METHOD_MAP.md and docs/method-map/",
+      "from": "Selected methodological synthesis and source notes."
+    },
+    {
+      "what": "README.md, AI-PROMPT.md, NOTICE.md, example/ and checks/",
+      "from": "Project-authored instructions, synthetic example and verification code."
+    }
+  ],
+  "status": {
+    "built": true,
+    "demonstrated": "synthetic",
+    "validated": false
+  },
+  "demonstrated_note": "The runnable example is synthetic. A documented real reorganization also preserved research materials. Case analysis remains proposed.",
+  "entry_points": [
+    "README.md",
+    "AI-PROMPT.md",
+    "docs/METHOD_MAP.md",
+    "docs/data-fields.md",
+    "tool/SKILL.md",
+    "tool/references/layout-contract.md",
+    "tool/scripts/inventory_workspace.py",
+    "tool/scripts/apply_move_plan.py",
+    "tool/scripts/verify_workspace.py",
+    "tool/scripts/export_public_references.py",
+    "checks/run_checks.py",
+    "example/run_example.py"
+  ],
+  "example": {
+    "input": [
+      "example/input/workspace/README.txt",
+      "example/input/workspace/alpha-sealed/SHA256SUMS",
+      "example/input/workspace/alpha-sealed/payload.txt",
+      "example/input/workspace/beta-sealed/SHA256SUMS",
+      "example/input/workspace/beta-sealed/payload.txt"
+    ],
+    "output": [
+      "example/output/01-inventory.json",
+      "example/output/02-move-plan.json",
+      "example/output/02-move-plan.sha256",
+      "example/output/03-dry-run.json",
+      "example/output/04-refusals.json",
+      "example/output/05-apply.json",
+      "example/output/06-verify.json",
+      "example/output/07-reapply-refused.json",
+      "example/output/08-workspace-after.json",
+      "example/output/SUMMARY.json"
+    ],
+    "command": "python3 example/run_example.py",
+    "needs_network": false,
+    "needs_model": false
+  },
+  "checks": [
+    {
+      "command": "python3 checks/run_checks.py",
+      "expects": "all_pass true: six checks covering data counts, hashes, 19 software tests, example replay, map rendering and the file manifest"
+    },
+    {
+      "command": "python3 checks/render_method_map.py --check",
+      "expects": "METHOD_MAP.md matches its sources"
+    }
+  ],
+  "counts": [
+    {
+      "what": "candidate-reference records in the R12 collection",
+      "value": 22856,
+      "unit": "records (not distinct papers)",
+      "where": "data/r12/references.csv; data/r12/MANIFEST.json counts.rows"
+    },
+    {
+      "what": "canonical-metadata-qualified records",
+      "value": 15198,
+      "unit": "records",
+      "where": "data/r12/references.csv evidence_tier"
+    },
+    {
+      "what": "provisional-high-recall records",
+      "value": 7658,
+      "unit": "records",
+      "where": "data/r12/references.csv evidence_tier"
+    },
+    {
+      "what": "confirmed-case-study screening labels",
+      "value": 12300,
+      "unit": "records (screening outcomes, not method adherence)",
+      "where": "data/r12/references.csv screening_label"
+    },
+    {
+      "what": "probable-case-study screening labels",
+      "value": 10556,
+      "unit": "records (screening outcomes, not method adherence)",
+      "where": "data/r12/references.csv screening_label"
+    },
+    {
+      "what": "unique DOIs",
+      "value": 20732,
+      "unit": "DOI strings",
+      "where": "data/r12/dois.txt (line count)"
+    },
+    {
+      "what": "records with no author listed",
+      "value": 635,
+      "unit": "records",
+      "where": "data/r12/references.csv authors"
+    },
+    {
+      "what": "public fields per record",
+      "value": 15,
+      "unit": "fields",
+      "where": "data/r12/MANIFEST.json projection.fields"
+    },
+    {
+      "what": "method phases in the map",
+      "value": 8,
+      "unit": "phases",
+      "where": "docs/method-map/map.json phases"
+    },
+    {
+      "what": "sources listed in the map",
+      "value": 66,
+      "unit": "source rows (61 publication rows, 5 public software repository rows)",
+      "where": "docs/method-map/sources.json"
+    },
+    {
+      "what": "claims listed in the map",
+      "value": 101,
+      "unit": "selected claim rows",
+      "where": "docs/method-map/sources.json claims"
+    }
+  ],
+  "data": [
+    {
+      "source": "Bibliographic reference collection",
+      "rights": "Project annotations and compilation CC BY 4.0; third-party source terms apply. Field-level provider provenance is incomplete; see NOTICE.md.",
+      "included": true
+    },
+    {
+      "source": "Method map and source notes",
+      "rights": "Project-authored synthesis CC BY 4.0; cited works not included.",
+      "included": true
+    }
+  ],
+  "modifications": [
+    {
+      "path": "tool/",
+      "change": "Packaged paths and maintenance containment checks updated; verification reports cannot write inside preserved packages."
+    },
+    {
+      "path": "docs/method-map/",
+      "change": "Selected reader edition with paraphrased source notes; internal discovery statistics omitted."
+    },
+    {
+      "path": "README.md and AI-PROMPT.md",
+      "change": "Concise usage instructions and a tailored AI exploration prompt."
+    }
+  ],
+  "size_bytes": 23645253,
+  "file_count": 40,
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1698,
+      "sha256": "c8ffd0bab92d44e59cf516cf1e4798b10220dc5d927142516c85e790224f4584"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 4515,
+      "sha256": "9764c965cf1b69c959038261051cd7b9e8ae4b98d659c16d299884e63af15afc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3496,
+      "sha256": "696817cf07dadf0e357e44bf92ac93726596d0c133a7e3de96572544bc4b2f63"
+    },
+    {
+      "path": "checks/render_method_map.py",
+      "bytes": 3741,
+      "sha256": "2af804fde4048e00e05756a8b690c30f1e44d8ae434892ac8be1b66b4439adc0"
+    },
+    {
+      "path": "checks/run_checks.py",
+      "bytes": 7233,
+      "sha256": "3b4e9a2582c167ba2b3375dd6e5c164a3cd8b9f87d45530dd70a613e126c6fed"
+    },
+    {
+      "path": "data/r12/MANIFEST.json",
+      "bytes": 2760,
+      "sha256": "97a725317de3657a7b694fe7394fe9cfb9a4c22143efc9bfe9104f3257a79b97"
+    },
+    {
+      "path": "data/r12/dois.txt",
+      "bytes": 541155,
+      "sha256": "c01f6da6adf214a1cf3987ee36d8e52561923ce64d43db525a9b3ded8fea082a"
+    },
+    {
+      "path": "data/r12/references.csv",
+      "bytes": 8889515,
+      "sha256": "13e8b8e28b6fff3df9542d64e5f138eeecb416b3cc3d4695ecd3bb134bda577e"
+    },
+    {
+      "path": "data/r12/references.jsonl",
+      "bytes": 13958867,
+      "sha256": "4c6a676a5e133fec983a7c314268c8673eff0b03992d2843dafd15fd67ecb4d0"
+    },
+    {
+      "path": "docs/METHOD_MAP.md",
+      "bytes": 61424,
+      "sha256": "30e4fc3bd39fef06c4533ca2cc3eef02d749845fabc6d415d5d21f00584ce13d"
+    },
+    {
+      "path": "docs/data-fields.md",
+      "bytes": 2078,
+      "sha256": "afe2c35b3ffbbad43976ad4652b6385d1473f8b23b9f9e481cea7bc957d026e9"
+    },
+    {
+      "path": "docs/method-map/map.json",
+      "bytes": 7263,
+      "sha256": "ed55af2dfaa1ddf408709a2275c214db64c8447b29087c5a43fcb3f08ddf197f"
+    },
+    {
+      "path": "docs/method-map/sources.json",
+      "bytes": 60227,
+      "sha256": "03742662523cf4fbe6d78a0af09e9cc6626a213c6116042ff9234cf1ec7efcf4"
+    },
+    {
+      "path": "example/input/workspace/README.txt",
+      "bytes": 172,
+      "sha256": "bfb3753f2a6d9e1dee802b4578f5b022da1f15e7e550a3ad1085b0ab4cfa4507"
+    },
+    {
+      "path": "example/input/workspace/alpha-sealed/SHA256SUMS",
+      "bytes": 78,
+      "sha256": "aff60b06cea96cdc1ca214817d9199b6f9da1f5feeffbfa9c6f5187b7b6b191b"
+    },
+    {
+      "path": "example/input/workspace/alpha-sealed/payload.txt",
+      "bytes": 93,
+      "sha256": "d173b921b846e854120c508f37e82a98b356a941b0db255987fb7d96046812fd"
+    },
+    {
+      "path": "example/input/workspace/beta-sealed/SHA256SUMS",
+      "bytes": 78,
+      "sha256": "c3319482a79a821870b55aa60ac0feffab6566a2091da074c5e8a5f9f2c65c71"
+    },
+    {
+      "path": "example/input/workspace/beta-sealed/payload.txt",
+      "bytes": 89,
+      "sha256": "ed0177654f8516d146a4fe5839a98c5f8761ccff37f09ba137cc9d4baf0b885a"
+    },
+    {
+      "path": "example/output/01-inventory.json",
+      "bytes": 1890,
+      "sha256": "20b4faa55f60221612a70cc0882d3cafaa5b62f57f78710db15faa7ac257545b"
+    },
+    {
+      "path": "example/output/02-move-plan.json",
+      "bytes": 2281,
+      "sha256": "88a1a4803fc6ad0a519d5a69f7019688b7923b1cdaf5fefa63b7a2146029f4be"
+    },
+    {
+      "path": "example/output/02-move-plan.sha256",
+      "bytes": 81,
+      "sha256": "a5f35d7f2072ee1a8cc9e973efc4d25d281709264a9ab092d90e40e1163c25ef"
+    },
+    {
+      "path": "example/output/03-dry-run.json",
+      "bytes": 1422,
+      "sha256": "124bb0bc386d0c10e653106652dc1d03e325f8fd10ec97ab9afcc54ea354aec6"
+    },
+    {
+      "path": "example/output/04-refusals.json",
+      "bytes": 788,
+      "sha256": "5ec461c7636f960fc8592891a569a622388ad54fd274c91038ac0b98fe51482c"
+    },
+    {
+      "path": "example/output/05-apply.json",
+      "bytes": 2107,
+      "sha256": "7570830042621b90094f71a3cc8f8733fb2fa9934e931c5cfaea3720d57fc902"
+    },
+    {
+      "path": "example/output/06-verify.json",
+      "bytes": 2204,
+      "sha256": "2bdefd13854f1f244f88f4bbd78fb91f26da6dfd51f304fc6176573396c16fd1"
+    },
+    {
+      "path": "example/output/07-reapply-refused.json",
+      "bytes": 150,
+      "sha256": "fbf5dacb6008f4e650f04dfba455766a0c356dc4ed2bd28bc986967596b7d26e"
+    },
+    {
+      "path": "example/output/08-workspace-after.json",
+      "bytes": 508,
+      "sha256": "d503b3768f17e364b755dd24bcbb53598ed519f7edf733f5f8791cb0062237b1"
+    },
+    {
+      "path": "example/output/SUMMARY.json",
+      "bytes": 559,
+      "sha256": "0b69896b5254e3d5f713ecedd2bc0cf0cbbf0c5e28f6b459d8cb5b5d27b0bddc"
+    },
+    {
+      "path": "example/run_example.py",
+      "bytes": 9159,
+      "sha256": "2c06e5c71a3a12cc7f967ff043fceea773ca485666a376af777996330264166e"
+    },
+    {
+      "path": "tool/SKILL.md",
+      "bytes": 4805,
+      "sha256": "3a2b2c7b7fdfe87bbaee72ad92b8cd90909bdc6ee86b0695faf49ba43492d209"
+    },
+    {
+      "path": "tool/references/layout-contract.md",
+      "bytes": 4170,
+      "sha256": "fd192769400cbe53d3b512e504d86a97eb2ea454a1630573eaa52df05d50f941"
+    },
+    {
+      "path": "tool/scripts/apply_move_plan.py",
+      "bytes": 13204,
+      "sha256": "5de8758d12501f7ff4db0efc420f44a183ad8dd3f5a6a46e9df862d5a30b977f"
+    },
+    {
+      "path": "tool/scripts/export_public_references.py",
+      "bytes": 14063,
+      "sha256": "b47bb3e03c04f1e5b46494c99b03c9c5d18041ed089ce9e9edb0832948db9f1f"
+    },
+    {
+      "path": "tool/scripts/inventory_workspace.py",
+      "bytes": 3254,
+      "sha256": "0552febd03fb116ccb72879bf66f99d23dee0b51bea4693d64837dbb76bee9ac"
+    },
+    {
+      "path": "tool/scripts/verify_workspace.py",
+      "bytes": 4788,
+      "sha256": "6ca3b57a804000a34d240c2b196b98aeff1710cc53af8f56c7fc04e2152ee1b0"
+    },
+    {
+      "path": "tool/tests/test_integration.py",
+      "bytes": 6622,
+      "sha256": "cf468f039137d5c12e7ab666114bc485b2a605902d364fceec12631f7899206e"
+    },
+    {
+      "path": "tool/tests/test_preflight_boundaries.py",
+      "bytes": 3324,
+      "sha256": "226d7de443d7f5700e87f2dfce03a87eee77179e1994978df4b09a802c7040da"
+    },
+    {
+      "path": "tool/tests/test_public_reference_release.py",
+      "bytes": 8058,
+      "sha256": "8744fa23a69b8076568e714dff5636abd6dca4173c0b9222626d48ac0acb693c"
+    },
+    {
+      "path": "tool/tests/test_verifier_output.py",
+      "bytes": 5381,
+      "sha256": "416e6772193eab00fa50521ef5eaebee4a11f1cf913fe8dce03c8e9476655d63"
+    }
+  ]
+}

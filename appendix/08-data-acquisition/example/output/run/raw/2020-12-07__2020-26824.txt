@@ -1,0 +1,193 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78824-78825]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26824]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Census Bureau
+
+
+Agency Information Collection Activities; Submission to the 
+Office of Management and Budget (OMB) for Review and Approval; Comment 
+Request; American Community Survey Methods Panel Tests
+
+    The Department of Commerce will submit the following information 
+collection request to the Office of Management and Budget (OMB) for 
+review and clearance in accordance with the Paperwork Reduction Act of 
+1995, on or after the date of publication of this notice. We invite the 
+general public and other Federal agencies to comment on proposed, and 
+continuing information collections, which helps us assess the impact of 
+our information collection requirements and minimize the public's 
+reporting burden. Public comments were previously requested via the 
+Federal Register on November 17, 2017 (Vol. 82, No. 221, p. 54317-
+54320) during a 60-day comment period. This notice allows for an 
+additional 30 days for public comments.
+    Agency: U.S. Census Bureau.
+    Title: American Community Survey Methods Panel Tests: Regional 
+Office internet Letter Test and Initial Mailing Pressure Seal Test.
+    OMB Control Number: 0607-0936.
+    Form Number(s): ACS-1, ACS internet, ACS CAPI.
+    Type of Request: Regular submission. Request for a Nonsubstantive 
+Change of a Currently Approved Collection.
+    Number of Respondents: 182,400.
+    Average Hours per Response: 40 minutes.
+    Burden Hours: No additional burden hours are requested under this 
+submission.
+    Needs and Uses: The American Community Survey (ACS) collects 
+detailed socioeconomic data from about 3.5 million housing units in the 
+United States and 36,000 in Puerto Rico each year. The ACS also 
+collects detailed socioeconomic data from about 195,000 residents 
+living in group quarters. Residents of sampled housing units are 
+invited to self-respond to the ACS through a series of up to five 
+mailings, sent over a period of approximately six and a half weeks. The 
+Census Bureau selects a subsample of the housing units that do not 
+respond by internet, mail, or through the Telephone Questionnaire 
+Assistance (TQA). This subsample of housing units is assigned to the 
+Computer-Assisted Personal Interview (CAPI) nonresponse follow-up data 
+collection mode. During CAPI, field representatives call or visit these 
+subsampled addresses to attempt to complete an interview.
+    An ongoing data collection effort with an annual sample of this 
+magnitude requires that the ACS continue research, testing, and 
+evaluations aimed at reducing respondent burden, improving data 
+quality, reducing data collection costs, and improving the ACS 
+questionnaire content and related data collection materials. The ACS 
+Methods Panel is a research program designed to address and respond to 
+issues and survey needs. This request documents two Methods Panel 
+tests: The Initial Mailing Pressure Seal Test and the Regional Office 
+internet Letter Test.
+    The Initial Mailing Pressure Seal Test is designed to test the use 
+of a pressure seal mailer in the first mailing sent to sampled housing 
+units. The purpose of the test is to understand the effect on self-
+response of sending a pressure seal mailer instead of the initial mail 
+package that is currently sent. Evidence from mailings sent in 2020 
+suggest that the pressure seal mailer may be more effective at 
+soliciting an internet response than a mail package containing a 
+letter, brochure, and instruction card. However, several confounding 
+factors could have caused an increase in self-response other than the 
+mail type. First, the 2020 Census was conducting the nonresponse 
+follow-up operation and advertising about the importance of responding 
+to the 2020 Census, which some respondents confuse with the ACS. 
+Second, the initial mail package lets respondents know that if they are 
+unable to complete the survey online, then we will send a paper 
+questionnaire in a few weeks. This message was omitted from the 
+pressure seal mailer. Because of the coronavirus pandemic, we were 
+unable to mail paper ACS questionnaires to all nonresponding 
+households. We theorize that telling respondents that they will have 
+another opportunity to respond later delays response. Finally, the 
+internet User ID in the initial mail package is included on the 
+instruction card, not in the letter. In the pressure seal mailer, the 
+User ID is included very clearly in a call-out box. We theorize that 
+making the log-in instructions clear and easy to find increases 
+internet response.
+    The proposed test will include four experimental treatments and a 
+control: An initial mail package (control), a modified initial mail 
+package, and three variations of the pressure seal mailer. Addresses 
+not part of the test will receive the initial mail package. The 
+experimental design of this test allows the Census Bureau to assess the 
+impact of using a pressure seal mailer instead of an initial mail 
+package and how information about a paper questionnaire being mailed 
+impacts response rates.
+    To field this test, the Census Bureau plans to use the ACS 
+production sample (clearance number: 0607-0810). Thus, there is no 
+increase in burden from this test since each treatment will include the 
+same number of mailings and result in the same burden estimate per 
+interview (40 minutes). The Census Bureau proposes this test to be 
+conducted in late spring or summer of 2021 (pending operational 
+constraints) and adhere to the same data collection protocols as 
+production ACS.
+    The ACS sample design randomly assigns housing units in each 
+monthly sample panel to one of 24 groups of approximately 12,000 
+addresses each. Each group, called a methods panel group, is 
+representative of the full monthly sample. Each monthly sample is a 
+representative subsample of the
+
+[[Page 78825]]
+
+entire annual sample and is representative of the sampling frame. The 
+Census Bureau proposes to use two randomly selected methods panel 
+groups for each treatment. Hence, each treatment will have a sample 
+size of approximately 24,000 addresses. In total, approximately 96,000 
+addresses will be used for the four experimental treatments and 24,000 
+for the control. The remaining ACS sample will receive production 
+materials.
+    The Census Bureau proposes to evaluate the experimental treatments 
+by comparing self-response rates overall and by mode. For each 
+comparison, a two-tailed t-test will be used to measure the impact on 
+the evaluation measure in either direction with 80 percent power at the 
+[alpha] = 0.1 level. The sample size will be able to detect differences 
+of approximately 1.74 percentage points between the self-response 
+return rates between two experimental treatments. To assess the costs 
+of implementing any of the experimental treatments, we will also 
+conduct a cost analysis.
+    The Regional Office internet Letter Test is designed to test 
+content changes to a letter used to encourage online self-response 
+during CAPI. This letter is sent as a pressure-seal mailer from the 
+Census Bureau's National Processing Center to all mailable sampled 
+addresses in the CAPI universe.
+    The changes to the pressure seal letter proposed for this test are 
+(1) the message on the outside of the pressure seal mailer (options 
+include either a ``Past Due'' message or ``Required by Law'') and (2) 
+whether to include information about TQA as a response option, or only 
+mention the internet. The experimental design isolates each of the 
+content factors being studied. There is one control, which uses 
+production materials, and three experimental treatments.
+    To field this test, the Census Bureau plans to use the ACS 
+production sample (clearance number: 0607-0810). There is no increase 
+in burden from this test because each treatment will include the same 
+number of mailings and result in the same burden estimate per interview 
+(40 minutes). The Census Bureau proposes that this test be conducted in 
+the summer of 2021 (pending operational constraints) and adhere to the 
+same data collection protocols as production ACS.
+    The Census Bureau proposes to use six randomly selected methods 
+panel groups for each treatment. Each treatment will have a sample size 
+of approximately 15,600 addresses. In total, approximately 46,800 
+addresses will be used for the three experimental treatments and 15,600 
+for the control. All mailable CAPI cases are included in the 
+experiment.
+    The Census Bureau proposes to evaluate the experimental treatments 
+by comparing self-response rates during CAPI and overall CAPI response 
+rates, as well as refusal rates and other interview outcomes. The TQA 
+call volume will also be monitored. For each comparison, a two-tailed 
+test will be used so that the Census Bureau can measure the impact on 
+the evaluation measure in either direction with 80 percent power at the 
+[alpha] = 0.1 level. The sample size will be able to detect differences 
+of approximately 1.74 percentage points between the self-response 
+return rates between two experimental treatments. A cost analysis will 
+also be conducted.
+    Affected Public: Individuals or households.
+    Frequency: One-time tests as part of the monthly American Community 
+Survey.
+    Respondent's Obligation: Mandatory.
+    Legal Authority: Title 13, United States Code, Sections 141, 193, 
+and 221.
+    This information collection request may be viewed at 
+<a href="http://www.reginfo.gov">www.reginfo.gov</a>. Follow the instructions to view the Department of 
+Commerce collections currently under review by OMB.
+    Written comments and recommendations for the proposed information 
+collection should be submitted within 30 days of the publication of 
+this notice on the following website <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. 
+Find this particular information collection by selecting ``Currently 
+under 30-day Review--Open for Public Comments'' or by using the search 
+function and entering either the title of the collection or the OMB 
+Control Number 0607-0936.
+
+Sheleen Dumas,
+Department PRA Clearance Officer, Office of the Chief Information 
+Officer, Commerce Department.
+[FR Doc. 2020-26824 Filed 12-4-20; 8:45 am]
+BILLING CODE 3510-07-P
+
+
+</pre></body>
+</html>

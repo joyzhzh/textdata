@@ -1,0 +1,536 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78880-78884]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26767]
+
+
+-----------------------------------------------------------------------
+
+NUCLEAR REGULATORY COMMISSION
+
+[Docket Nos. 50-289 and 50-320; NRC-2020-0217]
+
+
+Exelon Generation Company, LLC; Three Mile Island Nuclear 
+Station, Units 1 and 2
+
+AGENCY: Nuclear Regulatory Commission.
+
+ACTION: Exemption; issuance.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Nuclear Regulatory Commission (NRC) has issued 
+exemptions in response to a request from Exelon Generation Company, LLC 
+(Exelon, the licensee) regarding certain emergency planning (EP) 
+requirements. The exemptions eliminate the
+
+[[Page 78881]]
+
+requirements to maintain an offsite radiological emergency preparedness 
+plan and reduce the scope of onsite EP activities at the Three Mile 
+Island Nuclear Station, Units 1 and 2 (TMI), based on the reduced risks 
+of accidents that could result in an offsite radiological release at a 
+decommissioning nuclear power reactor.
+
+DATES: The exemptions were issued on December 1, 2020.
+
+ADDRESSES: Please refer to Docket ID NRC-2020-0217 when contacting the 
+NRC about the availability of information regarding this document. You 
+may obtain publicly available information related to this document 
+using any of the following methods:
+    <bullet> Federal Rulemaking website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2020-0217. Address 
+questions about Docket IDs to Jennifer Borges; telephone: 301-287-9127; 
+email: [email redacted]. For technical questions, contact the 
+individual listed in the FOR FURTHER INFORMATION CONTACT section of 
+this document.
+    <bullet> NRC's Agencywide Documents Access and Management System 
+(ADAMS): You may obtain publicly available documents online in the 
+ADAMS Public Documents collection at <a href="https://www.nrc.gov/reading-rm/adams.html">https://www.nrc.gov/reading-rm/adams.html</a>. To begin the search, select ``Begin Web-based ADAMS 
+Search.'' For problems with ADAMS, please contact the NRC's Public 
+Document Room (PDR) reference staff at 1-800-397-4209, 301-415-4737, or 
+by email to [email redacted]. The ADAMS accession number for each 
+document referenced (if it is available in ADAMS) is provided the first 
+time that it is mentioned in this document.
+    <bullet> Attention: The PDR, where you may examine and order copies 
+of public documents is currently closed. You may submit your request to 
+the PDR via email at [email redacted] or call 1-800-397-4209 
+between 8:00 a.m. and 4:00 p.m. (EST), Monday through Friday, except 
+Federal holidays.
+
+FOR FURTHER INFORMATION CONTACT: Theodore Smith, Office of Nuclear 
+Material Safety and Safeguards, U.S. Nuclear Regulatory Commission, 
+Washington DC 20555-0001; telephone: 301-415-6721; email: 
+[email redacted].
+
+SUPPLEMENTARY INFORMATION: The text of the exemptions are attached.
+
+    Dated: December 1, 2020.
+
+    For the Nuclear Regulatory Commission.
+Bruce Watson,
+Chief, Reactor Decommissioning Branch, Division of Decommissioning, 
+Uranium Recovery, and Waste Programs, Office of Nuclear Material Safety 
+and Safeguards.
+
+Attachment--Exemption
+
+Nuclear Regulatory Commission
+
+[Docket Nos. 50-289 and 50-320]
+
+Exelon Generation Company, LLC
+
+Three Mile Island Nuclear Station, Units 1 and 2 Exemptions
+
+I. Background
+
+    Exelon Generation Company, LLC (Exelon, the licensee) is the holder 
+of U.S. Nuclear Regulatory Commission (NRC, the Commission) Renewed 
+Facility Operating License No. DPR-50 for Three Mile Island Nuclear 
+Station, Unit 1 (TMI-1). Three Mile Island Nuclear Station, Unit 2 
+(TMI-2) has a possession-only license and is currently maintained in 
+accordance with the NRC-approved SAFSTOR condition known as post-
+defueling monitored storage. Exelon maintains the emergency planning 
+responsibilities for TMI-2, which is owned by GPU Nuclear, Inc., 
+through a service agreement. These licenses are subject to the rules, 
+regulations, and orders of the NRC. The licensed facilities consist of 
+permanently shutdown pressurized-water reactors (PWR) located in 
+Dauphin County, Pennsylvania.
+    By letter dated June 20, 2017 (Agencywide Documents Access and 
+Management System (ADAMS) Accession No. ML17171A151), Exelon submitted 
+a certification to the NRC that it would permanently cease power 
+operations at TMI-1 on or about September 30, 2019. On September 20, 
+2019, Exelon permanently ceased power operations at TMI-1. By letter 
+dated September 26, 2019 (ADAMS Accession No. ML19269E480), Exelon 
+certified the permanent removal of fuel from the TMI-1 reactor vessel. 
+In accordance with paragraph 50.82(a)(2) of Title 10 of the Code of 
+Federal Regulations (10 CFR), upon the docketing of these 
+certifications, the license for TMI-1 no longer authorizes operation of 
+the reactor or emplacement or retention of fuel into the reactor 
+vessel. The facility is still authorized to possess and store 
+irradiated (i.e., spent) nuclear fuel. Spent fuel is currently stored 
+onsite in the TMI-1 spent fuel pool (SFP). A dry cask independent spent 
+fuel storage installation is under construction to store the TMI-1 
+spent fuel. Since the license for TMI-2 had previously been modified to 
+allow possession but not operation of the facility, the certifications 
+of permanent cessation of operations and permanent removal of fuel are, 
+by rule, deemed to have been submitted for TMI-2. Spent fuel for TMI-2 
+has already been removed from the site, though residual contamination 
+and radiological materials exist.
+    During normal power reactor operations, the forced flow of water 
+through the reactor coolant system removes heat generated by the 
+reactor. The reactor coolant system, operating at high temperatures and 
+pressures, transfers this heat through the steam generator tubes 
+converting non-radioactive feedwater to steam, which then flows to the 
+main turbine generator to produce electricity. Many of the accident 
+scenarios postulated in the updated safety analysis reports for 
+operating power reactors involve failures or malfunctions of systems, 
+which could affect the fuel in the reactor core and, in the most severe 
+postulated accidents, would involve the release of large quantities of 
+fission products. With the permanent cessation of operations and the 
+permanent removal of the fuel from the reactor vessels at TMI, such 
+accidents are no longer possible. The reactor, reactor coolant system, 
+and supporting systems are no longer in operation and have no function 
+related to the storage of the spent fuel. Therefore, emergency planning 
+(EP) provisions for postulated accidents involving failure or 
+malfunction of the reactor, reactor coolant system, or supporting 
+systems are no longer applicable.
+    The EP requirements of 10 CFR 50.47, ``Emergency plans,'' and 
+Appendix E to 10 CFR part 50, ``Emergency Planning and Preparedness for 
+Production and Utilization Facilities,'' continue to apply to nuclear 
+power reactors that have permanently ceased operation and have 
+permanently removed all fuel from the reactor vessel. There are no 
+explicit regulatory provisions distinguishing EP requirements for a 
+power reactor that is permanently shut down and defueled from those for 
+a reactor that is authorized to operate. To reduce or eliminate EP 
+requirements that are no longer necessary due to the decommissioning 
+status of the facility, Exelon must obtain exemptions from those EP 
+regulations. Only then can Exelon modify the TMI emergency plan to 
+reflect the reduced risk associated with the permanently shutdown and 
+defueled condition of TMI.
+
+II. Request/Action
+
+    By letter dated July 1, 2019 (ADAMS Accession No. ML19182A104), 
+Exelon requested exemptions from certain EP requirements in 10 CFR part 
+50 for TMI.
+
+[[Page 78882]]
+
+Specifically, Exelon requested exemptions from certain planning 
+standards in 10 CFR 50.47(b) regarding onsite and offsite radiological 
+emergency preparedness plans for nuclear power reactors; from certain 
+requirements in 10 CFR 50.47(c)(2) for the establishment of plume 
+exposure and ingestion pathway emergency planning zones for nuclear 
+power reactors; and from certain requirements in 10 CFR part 50, 
+Appendix E, Section IV, which establish the elements that make up the 
+content of emergency plans. In letters dated October 9, 2019, and 
+December 10, 2019 (ADAMS Accession Nos. ML19282C285 and ML19344C115, 
+respectively), Exelon provided supplemental information and responses 
+to the NRC staff's requests for additional information concerning the 
+proposed exemptions.
+    The information provided by Exelon included justifications for each 
+exemption requested. The exemptions requested by Exelon would eliminate 
+the requirements to maintain formal offsite radiological emergency 
+preparedness plans reviewed by the Federal Emergency Management Agency 
+(FEMA) under the requirements of 44 CFR part 350 and would reduce the 
+scope of onsite EP activities at TMI. The licensee stated that the 
+application of all of the standards and requirements in 10 CFR 
+50.47(b), 10 CFR 50.47(c), and 10 CFR part 50, Appendix E is not needed 
+for adequate emergency response capability, based on the substantially 
+lower onsite and offsite radiological consequences of accidents still 
+possible at the permanently shutdown and defueled facility, as compared 
+to an operating facility. If offsite protective actions were needed for 
+a highly unlikely beyond-design-basis accident that could challenge the 
+safe storage of spent fuel at TMI, provisions exist for offsite 
+agencies to take protective actions using a comprehensive emergency 
+management plan (CEMP) under the National Preparedness System to 
+protect the health and safety of the public. A CEMP in this context, 
+also referred to as an emergency operations plan, is addressed in 
+FEMA's Comprehensive Preparedness Guide 101, ``Developing and 
+Maintaining Emergency Operations Plans,'' which is publicly available 
+at <a href="http://www.fema.gov/pdf/about/divisions/npd/CPG_101_V2.pdf">http://www.fema.gov/pdf/about/divisions/npd/CPG_101_V2.pdf</a>. 
+Comprehensive Preparedness Guide 101 is the foundation for State, 
+territorial, Tribal, and local EP in the United States. It promotes a 
+common understanding of the fundamentals of risk-informed planning and 
+decisionmaking and helps planners at all levels of government in their 
+efforts to develop and maintain viable, all-hazards, all-threats 
+emergency plans. An emergency operations plan is flexible enough for 
+use in all emergencies. It describes how people and property will be 
+protected; details who is responsible for carrying out specific 
+actions; identifies the personnel, equipment, facilities, supplies and 
+other resources available; and outlines how all actions will be 
+coordinated. A CEMP is often referred to as a synonym for ``all-hazards 
+planning.''
+
+III. Discussion
+
+    In accordance with 10 CFR 50.12, ``Specific exemptions,'' the 
+Commission may, upon application by any interested person or upon its 
+own initiative, grant exemptions from the requirements of 10 CFR part 
+50 when: (1) The exemptions are authorized by law, will not present an 
+undue risk to public health and safety, and are consistent with the 
+common defense and security; and (2) any of the special circumstances 
+listed in 10 CFR 50.12(a)(2) are present. These special circumstances 
+include, among other things, that the application of the regulation in 
+the particular circumstances would not serve the underlying purpose of 
+the rule or is not necessary to achieve the underlying purpose of the 
+rule.
+    As noted previously, the EP regulations contained in 10 CFR 
+50.47(b) and Appendix E to 10 CFR part 50 apply to both operating and 
+shutdown power reactors. The NRC has consistently acknowledged that the 
+risk of an offsite radiological release at a power reactor that has 
+permanently ceased operations and permanently removed fuel from the 
+reactor vessel is significantly lower, and the types of possible 
+accidents are significantly fewer, than at an operating power reactor. 
+However, the EP regulations do not recognize that once a power reactor 
+permanently ceases operation, the risk of a large radiological release 
+from credible emergency accident scenarios is significantly reduced. 
+The reduced risk for any significant offsite radiological release is 
+based on two factors. One factor is the elimination of accidents 
+applicable only to an operating power reactor, resulting in fewer 
+credible accident scenarios. The second factor is the reduced short-
+lived radionuclide inventory and decay heat production due to 
+radioactive decay. Due to the permanently defueled status of the 
+reactor, no new spent fuel will be added to the SFP and the 
+radionuclides in the current spent fuel will continue to decay as the 
+spent fuel ages. The spent fuel will produce less heat due to 
+radioactive decay, increasing the available time to mitigate a loss of 
+water inventory from the SFP. The NRC's NUREG/CR-6451, ``A Safety and 
+Regulatory Assessment of Generic BWR [Boiling Water Reactor] and PWR 
+Permanently Shutdown Nuclear Power Plants,'' dated August 1997 (ADAMS 
+Accession No. ML082260098), and the NRC's NUREG-1738, ``Technical Study 
+of Spent Fuel Pool Accident Risk at Decommissioning Nuclear Power 
+Plants,'' dated February 2001 (ADAMS Accession No. ML010430066), 
+confirmed that for permanently shutdown and defueled power reactors 
+that are bounded by the assumptions and conditions in the report, the 
+risk of offsite radiological release is significantly less than for an 
+operating power reactor.
+    In the past, EP exemptions similar to those requested for TMI have 
+been granted to permanently shutdown and defueled power reactor 
+licensees. However, the exemptions did not relieve the licensees of all 
+EP requirements. Rather, the exemptions allowed the licensees to modify 
+their emergency plans commensurate with the credible site-specific 
+risks that were consistent with a permanently shutdown and defueled 
+status. Specifically, the NRC's approval of these prior exemptions was 
+based on the licensee's demonstration that: (1) The radiological 
+consequences of design-basis accidents would not exceed the limits of 
+the U.S. Environmental Protection Agency (EPA) early phase Protective 
+Action Guides (PAGs) of one roentgen equivalent man at the exclusion 
+area boundary; and (2) in the highly unlikely event of a beyond-design-
+basis accident resulting in a loss of all modes of heat transfer from 
+the fuel stored in the SFP, there is sufficient time to initiate 
+appropriate mitigating actions, and if needed, for offsite authorities 
+to implement offsite protective actions using a CEMP approach to 
+protect the health and safety of the public.
+    With respect to design-basis accidents at TMI, the licensee 
+provided an analysis demonstrating that following permanent cessation 
+of power operations at TMI-1, the radiological consequences of the 
+remaining design-basis accidents with potential for offsite 
+radiological release (a fuel handling accident in the Fuel Handling 
+Building, where the SFP is located for TMI-1, and a fire in the Reactor 
+Building with the Reactor Building Purge System in operation for TMI-2) 
+will not exceed the
+
+[[Page 78883]]
+
+limits of the EPA PAGs at the exclusion area boundary.
+    With respect to beyond-design-basis accidents at TMI, the licensee 
+analyzed a drain down of the SFP water that would effectively impede 
+any decay heat removal. The analysis demonstrates that at 488 days 
+(approximately 16 months) after permanent cessation of power 
+operations, there would be 10 hours after the assemblies have been 
+uncovered until the limiting fuel assembly (for decay heat and 
+adiabatic heat-up analysis) reaches 900 degrees Celsius ([deg]C), the 
+temperature used to assess the potential onset of fission product 
+release. The analysis conservatively assumed that the heat-up time 
+starts when the SFP has been completely drained, although it is likely 
+that site personnel will start to respond to an incident when drain 
+down starts. The analysis also does not consider the period of time 
+from the initiating event causing loss of SFP water inventory until 
+cooling is lost.
+    The NRC reviewed the licensee's justification for the requested 
+exemptions against the criteria in 10 CFR 50.12(a) and determined, as 
+described below, that the criteria in 10 CFR 50.12(a) will be met, and 
+that the exemptions should be granted 488 days after TMI-1 has 
+permanently ceased power operations. An assessment of the Exelon EP 
+exemptions is described in SECY-20-0041, ``Request by Exelon Generation 
+Company, LLC for Exemptions from Certain Emergency Planning 
+Requirements for the Three Mile Island Nuclear Station,'' dated May 5, 
+2020 (ADAMS Package Accession No. ML19311C762). The Commission approved 
+the NRC staff's recommendation to grant the exemptions in the staff 
+requirements memorandum to SECY-20-0041, dated July 27, 2020 (ADAMS 
+Accession No. ML20209A439). Descriptions of the specific exemptions 
+requested by Exelon and the NRC staff's basis for granting each 
+exemption are provided in SECY-20-0041. The NRC staff's detailed review 
+and technical basis for the approval of the specific EP exemptions 
+requested by Exelon are provided in the NRC staff's safety evaluation 
+associated with this exemption (ADAMS Accession No. ML19311C762).
+
+A. The Exemption Is Authorized by Law
+
+    The licensee has proposed exemptions from certain EP requirements 
+in 10 CFR 50.47(b), 10 CFR 50.47(c)(2), and 10 CFR part 50, Appendix E, 
+Section IV, that would allow Exelon to revise the TMI Emergency Plan to 
+reflect the permanently shutdown and defueled condition of the 
+facility. As stated above, in accordance with 10 CFR 50.12, the 
+Commission may, upon application by any interested person or upon its 
+own initiative, grant exemptions from the requirements of 10 CFR part 
+50. The NRC staff has determined that granting of the licensee's 
+proposed exemptions will not result in a violation of the Atomic Energy 
+Act of 1954, as amended, or the NRC's regulations. Therefore, the 
+exemptions are authorized by law.
+
+B. The Exemption Presents No Undue Risk to Public Health and Safety
+
+    As stated previously, Exelon provided an analysis that shows that 
+the radiological consequences of design-basis accidents will not exceed 
+the limits of the EPA early phase PAGs at the exclusion area boundary. 
+Therefore, formal offsite radiological emergency preparedness plans 
+required under 10 CFR part 50 will no longer be needed for protection 
+of the public beyond the exclusion area boundary, based on the 
+radiological consequences of design-basis accidents still possible at 
+TMI 488 days after TMI-1 has permanently ceased power operations.
+    Although highly unlikely, there is one postulated beyond-design-
+basis accident that might result in significant offsite radiological 
+releases. However, NUREG-1738 confirms that the risk of beyond-design-
+basis accidents is greatly reduced at permanently shutdown and defueled 
+reactors. The NRC staff's analyses in NUREG-1738 conclude that the 
+event sequences important to risk at permanently shutdown and defueled 
+power reactors are limited to large earthquakes and cask drop events. 
+For EP assessments, this is an important difference relative to 
+operating power reactors, where typically a large number of different 
+sequences make significant contributions to risk. As described in 
+NUREG-1738, relaxation of offsite EP requirements in 10 CFR part 50 
+beyond a few months after shutdown resulted in only a small change in 
+risk. The report further concludes that the change in risk due to 
+relaxation of offsite EP requirements is small because the overall risk 
+is low, and because even under current EP requirements for operating 
+power reactors, EP was judged to have marginal impact on evacuation 
+effectiveness for the severe earthquakes that dominate SFP risk. All 
+other sequences including cask drops (for which offsite radiological 
+emergency preparedness plans are expected to be more effective) are too 
+low in likelihood to have a significant impact on risk.
+    Therefore, granting exemptions to eliminate the requirements of 10 
+CFR part 50 to maintain offsite radiological emergency preparedness 
+plans and to reduce the scope of onsite EP activities will not present 
+an undue risk to the public health and safety.
+
+C. The Exemption Is Consistent With the Common Defense and Security
+
+    The requested exemptions only involve EP requirements under 10 CFR 
+part 50 and will allow Exelon to revise the TMI Emergency Plan to 
+reflect the permanently shutdown and defueled condition of the 
+facility. Physical security measures at TMI are not affected by the 
+requested EP exemptions. The discontinuation of formal offsite 
+radiological emergency preparedness plans and the reduction in scope of 
+the onsite EP activities at TMI will not adversely affect Exelon's 
+ability to physically secure the site or protect special nuclear 
+material. Therefore, the proposed exemptions are consistent with common 
+defense and security.
+
+D. Special Circumstances
+
+    Special circumstances, in accordance with 10 CFR 50.12(a)(2)(ii), 
+are present whenever application of the regulation in the particular 
+circumstances is not necessary to achieve the underlying purpose of the 
+rule. The underlying purpose of 10 CFR 50.47(b), 10 CFR 50.47(c)(2), 
+and 10 CFR part 50, Appendix E, Section IV, is to provide reasonable 
+assurance that adequate protective measures can and will be taken in 
+the event of a radiological emergency, to establish plume exposure and 
+ingestion pathway emergency planning zones for nuclear power plants, 
+and to ensure that licensees maintain effective offsite and onsite 
+radiological emergency preparedness plans. The standards and 
+requirements in these regulations were developed by considering the 
+risks associated with operation of a power reactor at its licensed 
+full-power level. These risks include the potential for a reactor 
+accident with offsite radiological dose consequences.
+    As discussed previously in Section III, because TMI will be 
+permanently shut down and defueled, there will no longer be a risk of a 
+significant offsite radiological release from a design-basis accident 
+exceeding EPA early phase PAGs at the exclusion area boundary and the 
+risk of a significant offsite radiological release from a beyond-
+design-basis accident is greatly reduced when compared to an operating 
+power reactor. The NRC staff has confirmed the reduced risks at TMI by 
+comparing the generic risk assumptions in the analyses in NUREG-1738 to 
+site-specific conditions at TMI and determined that
+
+[[Page 78884]]
+
+the risk values in NUREG-1738 bound the risks presented at TMI. As 
+indicated by the results of the research conducted for NUREG-1738, and 
+more recently for NUREG-2161, ``Consequence Study of a Beyond-Design-
+Basis Earthquake Affecting the Spent Fuel Pool for a U.S. Mark I 
+Boiling Water Reactor,'' dated September 2014 (ADAMS Accession No. 
+ML14255A365), while other consequences can be extensive, accidents from 
+SFPs with significant decay time have little potential to cause offsite 
+early fatalities, even if the formal offsite radiological EP 
+requirements were relaxed. The licensee's analysis of a beyond-design-
+basis accident involving a complete loss of SFP water inventory, based 
+on an adiabatic heat-up analysis of the limiting fuel assembly for 
+decay heat, shows that 488 days after permanent cessation of power 
+operations at TMI-1, the time for the limiting fuel assembly to reach 
+900 [deg]C is at least 10 hours after the assemblies have been 
+uncovered assuming a loss of all cooling means.
+    The only analyzed beyond-design-basis accident scenario that 
+progresses to a condition where a significant offsite release might 
+occur, involves the highly unlikely event where the SFP drains in such 
+a way that all modes of cooling or heat transfer are assumed to be 
+unavailable, which is referred to as an adiabatic heat-up of the spent 
+fuel. The licensee's analysis of this beyond-design-basis accident 
+shows that 488 days after permanent cessation of power operations at 
+TMI-1, at least 10 hours would be available between the time that all 
+cooling means are lost to the fuel (at which time adiabatic heat-up is 
+conservatively assumed to begin), until the fuel cladding reaches a 
+temperature of 1652 degrees Fahrenheit (900 [deg]C), which is the 
+temperature associated with rapid cladding oxidation and the potential 
+for a significant radiological release. This analysis conservatively 
+does not include the period of time from the initiating event causing a 
+loss of SFP water inventory until all cooling means are lost.
+    The NRC staff has verified Exelon's analyses and its calculations. 
+The analyses provide reasonable assurance that in granting the 
+requested exemptions to Exelon, there is no design-basis accident that 
+will result in an offsite radiological release exceeding the EPA early 
+phase PAGs at the exclusion area boundary. In the highly unlikely event 
+of a beyond-design-basis accident affecting the SFP that results in a 
+complete loss of heat removal via all modes of heat transfer, there 
+will be over 10 hours available before an offsite release might occur 
+and, therefore, at least 10 hours to initiate appropriate mitigating 
+actions to restore a means of heat removal to the spent fuel. If a 
+radiological release were projected to occur under this highly unlikely 
+scenario, a minimum of 10 hours is considered sufficient time for 
+offsite authorities to implement protective actions using a CEMP 
+approach to protect the health and safety of the public.
+    Exemptions from the offsite EP requirements in 10 CFR part 50 have 
+previously been approved by the NRC when the site-specific analyses 
+show that at least 10 hours is available following a loss of SFP 
+coolant inventory accident with no air cooling (or other methods of 
+removing decay heat) until cladding of the hottest fuel assembly 
+reaches the rapid oxidation temperature. The NRC staff concluded in its 
+previously granted exemptions, as it does with Exelon's requested EP 
+exemptions, that if a minimum of 10 hours is available to initiate 
+mitigative actions consistent with plant conditions or, if needed, for 
+offsite authorities to implement protective actions using a CEMP 
+approach, then formal offsite radiological emergency preparedness 
+plans, required under 10 CFR part 50, are not necessary at permanently 
+shutdown and defueled facilities.
+    Additionally, TMI committed to maintaining SFP makeup strategies in 
+its application. The multiple strategies for providing makeup to the 
+SFP include: using existing plant systems for inventory makeup; an 
+internal strategy that relies on the fire protection system with 
+redundant pumps (one diesel-driven and one electric motor-driven); and 
+an off-site fire truck that can take suction from the Susquehanna 
+River. These strategies will continue to be required as condition 
+2.c.(17), ``Mitigation Strategy License Condition,'' of the TMI-1 
+Renewed Facility Operating License. Considering the very low 
+probability of beyond-design-basis accidents affecting the SFP, these 
+diverse strategies provide multiple methods to obtain additional makeup 
+or spray to the SFP before the onset of any postulated offsite 
+radiological release.
+    For all of the reasons stated above, the NRC staff finds that the 
+licensee's requested exemptions meet the underlying purpose of all of 
+the standards in 10 CFR 50.47(b), and requirements in 10 CFR 
+50.47(c)(2) and 10 CFR part 50, Appendix E, and satisfy the special 
+circumstances provision in 10 CFR 50.12(a)(2)(ii) in view of the 
+greatly reduced risk of offsite radiological consequences associated 
+with the permanently shutdown and defueled state of the TMI facility 
+488 days after permanent cessation of power operations of TMI-1.
+    The NRC staff has concluded that the exemptions being granted by 
+this action will maintain an acceptable level of emergency preparedness 
+at TMI and, if needed, that there is reasonable assurance that adequate 
+offsite protective measures can and will be taken by State and local 
+government agencies using a CEMP approach in the highly unlikely event 
+of a radiological emergency at TMI. Since the underlying purpose of the 
+rules, as exempted, would continue to be achieved, even with the 
+elimination of the requirements under 10 CFR part 50 to maintain formal 
+offsite radiological emergency preparedness plans and the reduction in 
+the scope of the onsite emergency planning activities at TMI, the 
+special circumstances required by 10 CFR 50.12(a)(2)(ii) exist.
+
+E. Environmental Considerations
+
+    In accordance with 10 CFR 51.31(a), the Commission has determined 
+that the granting of this exemption will not have a significant effect 
+on the quality of the human environment as discussed in the NRC staff's 
+Finding of No Significant Impact and associated Environmental 
+Assessment published in the Federal Register on September 22, 2020 (85 
+FR 59565).
+
+IV. Conclusions
+
+    Accordingly, the Commission has determined that, pursuant to 10 CFR 
+50.12, Exelon's request for exemptions from certain EP requirements in 
+10 CFR 50.47(b), 10 CFR 50.47(c)(2), and 10 CFR part 50, Appendix E, 
+Section IV, and as summarized in Enclosure 2 to SECY-20-0041, are 
+authorized by law, will not present an undue risk to the public health 
+and safety, and are consistent with the common defense and security. 
+Also, special circumstances are present. Therefore, the Commission 
+hereby grants Exelon's exemptions from certain EP requirements in 10 
+CFR 50.47(b), 10 CFR 50.47(c)(2), and 10 CFR part 50, Appendix E, 
+Section IV, as discussed and evaluated in detail in the NRC staff's 
+safety evaluation associated with this exemption. The exemptions are 
+effective as of 488 days after permanent cessation of power operations 
+of TMI-1.
+
+    Dated: December 1, 2020.
+
+    For the Nuclear Regulatory Commission.
+
+    Patricia K. Holahan, Director,
+
+    Division of Decommissioning, Uranium Recovery, and Waste 
+Programs, Office of Nuclear Material Safety and Safeguards.
+
+[FR Doc. 2020-26767 Filed 12-4-20; 8:45 am]
+BILLING CODE 7590-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

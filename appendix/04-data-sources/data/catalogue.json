@@ -1,0 +1,1140 @@
+{
+  "title": "Rich textual-data sources review: the catalogue of 25 source families",
+  "dates": {
+    "profiles": "2026-10-11",
+    "provider_checks": "2026-10-29"
+  },
+  "scope": "Representative review of provider documentation and metadata. No source datasets acquired, proposed tasks executed or study fit validated.",
+  "counts": {
+    "families": 25,
+    "arenas": 12,
+    "families_in_arenas": 18,
+    "families_structured": 6,
+    "families_narrative_excluded": 1,
+    "provider_checks": 10
+  },
+  "narrative_exclusion": "D17",
+  "groups": [
+    {
+      "id": "institutional",
+      "name": "Institutional records and organizational claims",
+      "arenas": [
+        "A01",
+        "A02",
+        "A03"
+      ]
+    },
+    {
+      "id": "products",
+      "name": "Products, innovations and evaluations",
+      "arenas": [
+        "A04",
+        "A05",
+        "A06",
+        "A07",
+        "A08"
+      ]
+    },
+    {
+      "id": "interaction",
+      "name": "Interaction and process records",
+      "arenas": [
+        "A09",
+        "A10",
+        "A11",
+        "A12"
+      ]
+    },
+    {
+      "id": "structured",
+      "name": "Complementary structured data",
+      "arenas": []
+    }
+  ],
+  "families": [
+    {
+      "id": "D01",
+      "name": "Amazon Reviews 2023",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A08",
+      "kind": "arena",
+      "provider": "McAuley Lab",
+      "entry_point": "https://amazon-reviews-2023.github.io/",
+      "entry_point_note": "",
+      "release": "2023 release; creator Hugging Face metadata revision 2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e (modified 2024-12-08). This pins the repository metadata, not every externally hosted category file.",
+      "units_and_scope": "User–item reviews and product metadata, across Amazon categories.",
+      "size": "Creator reports 571.54 million reviews, 54.51 million users and 48.19 million items; metadata coverage is not identical to reviewed-item coverage.",
+      "coverage_and_dates": "Review dates May 1996–September 2023. Product metadata is a snapshot, not a historical price or product-attribute panel.",
+      "fields_and_links": "Review text/title, rating, user_id, timestamps, verified purchase, helpful votes and images; item title, descriptions, features, categories, store and price. Join reviews to metadata with parent_asin; do not silently reuse older ASIN join assumptions.",
+      "access": "public-download; reuse unclear",
+      "route": "Creator category JSON downloads and Hugging Face repository.",
+      "authentication": "Creator links and HF metadata are public; HF gated=false. File acquisition was not tested.",
+      "inspected": "Primary documentation and native HF metadata inspected. Do not execute the custom HF loader; use native data files in a later acquisition.",
+      "reuse_status": "unknown",
+      "reuse_terms": "No explicit dataset license found on the inspected creator site or HF metadata. Public availability does not establish permission to redistribute review text or images.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Ratings and helpful votes are reception measures, not novelty labels or an unbiased quality standard.",
+        "Items are not firms; review selection and product survival can distort organizational inferences.",
+        "Actual files need schema inspection: documentation and examples vary in timestamp/helpful-vote naming and price type. User identifiers and review text need a deliberate sharing plan."
+      ],
+      "suggested_task": "Separate claims about product attributes from customer experience and unsupported inferences; compare conventional text features with constrained LLM extraction.",
+      "review_decision": "Rich review and product measurement material, conditional on clear reuse terms and a frozen native partition.",
+      "documentation": [
+        {
+          "label": "Creator fields and statistics",
+          "url": "https://amazon-reviews-2023.github.io/"
+        },
+        {
+          "label": "Creator HF release",
+          "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023"
+        },
+        {
+          "label": "Hou et al., 2024, Bridging Language and Items",
+          "url": "https://arxiv.org/abs/2403.03952"
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "name": "Google Local Data 2021",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A08",
+      "kind": "arena",
+      "provider": "McAuley Lab",
+      "entry_point": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/",
+      "entry_point_note": "",
+      "release": "US Google Local 2021 collection, through September 2021; no per-file checksum manifest inspected.",
+      "units_and_scope": "Dated reviews of local businesses, business responses, and business metadata.",
+      "size": "666,324,103 reviews; 113,643,107 users; 4,963,111 businesses. Vermont partition: 852,203 reviews and 11,291 businesses.",
+      "coverage_and_dates": "Review time and response time are available. Business attributes are snapshot values; collection coverage is not an operating-history panel.",
+      "fields_and_links": "Review user_id, time, rating, text, pictures, resp.time and resp.text; business gmap_id, name, address, categories, coordinates, hours, price and related-business identifiers. Join on gmap_id.",
+      "access": "public-download; reuse unclear",
+      "route": "Creator per-state metadata/reviews, 10-core subsets and ratings-only links.",
+      "authentication": "No authentication stated for direct links; no data downloaded.",
+      "inspected": "Creator data format, files and citation inspected.",
+      "reuse_status": "unknown",
+      "reuse_terms": "No explicit dataset reuse license found on the dataset-specific page. Do not infer an open license from UCSD hosting.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Ratings-only files cannot support the proposed text task; 10-core filtering changes the target population.",
+        "A response does not establish that remediation occurred, and a related-business link does not establish common ownership.",
+        "Even a state partition is large. Business names and user information should not be copied into a public sample without checking permitted reuse."
+      ],
+      "suggested_task": "Construct evidence-linked complaint, promised action and response-lag observations, explicitly retaining missing responses.",
+      "review_decision": "Strong candidate for observable review–response episodes; reuse terms and partition acquisition remain unresolved.",
+      "documentation": [
+        {
+          "label": "Creator schema/downloads",
+          "url": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/"
+        },
+        {
+          "label": "UCTopic, ACL 2022",
+          "url": "https://aclanthology.org/2022.acl-long.426/"
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "name": "Food.com Recipes and User Interactions",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A07",
+      "kind": "arena",
+      "provider": "Kaggle",
+      "entry_point": "https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions",
+      "entry_point_note": "",
+      "release": "Creator Kaggle dataset version 2, updated 2019-11-08T01:18:21.147Z; native metadata inspected.",
+      "units_and_scope": "Recipes and user–recipe interactions from the 2000–2018 collection.",
+      "size": "231,637 recipes, 226,570 users and 1,132,367 reviews in the UCSD directory; Kaggle package metadata reports 280,350,373 bytes. The paper's filtered analysis sample is smaller.",
+      "coverage_and_dates": "Recipe submitted dates and interaction dates allow a declared temporal reference set; exact date completeness remains untested.",
+      "fields_and_links": "Recipes: id, name, contributor_id, submitted, ingredients, steps, tags, nutrition, minutes and counts. Interactions: user_id, recipe_id, date, rating and review. Link recipe_id to recipe id.",
+      "access": "public listing; download authentication unverified; reuse restricted/unclear",
+      "route": "Original shuyangli94 Kaggle listing; do not substitute a similarly named scrape.",
+      "authentication": "Kaggle download may require an account; no download or login was attempted.",
+      "inspected": "Creator directory, paper, and native Kaggle metadata match this dataset identity.",
+      "reuse_status": "copyright notice; no broad reuse grant found",
+      "reuse_terms": "Creator metadata says “Data files © Original Authors.” A different Food.com scrape's CC0 label cannot license this release.",
+      "reuse_group": "restricted",
+      "limitations": [
+        "Ratings measure reception, not novelty; nutrition fields do not by themselves validate health claims.",
+        "The paper applies recipe/user filtering and chronological splits: do not treat its filtered counts as the raw package.",
+        "Recipe posting dates indicate publication in this source, not invention dates."
+      ],
+      "suggested_task": "Compare ingredient-pair rarity, text distance and blinded judgments of substantive change. Use recipes with similar prose but different composition and the converse.",
+      "review_decision": "Interpretable recipe-recombination demonstration, conditional on reuse and acquisition.",
+      "documentation": [
+        {
+          "label": "UCSD creator directory, Food.com section",
+          "url": "https://cseweb.ucsd.edu/~jmcauley/datasets.html"
+        },
+        {
+          "label": "Generating Personalized Recipes, 2019",
+          "url": "https://aclanthology.org/D19-1613/"
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "name": "RecipePairs / SHARE recipe-editing data",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A07",
+      "kind": "arena",
+      "provider": "Hugging Face",
+      "entry_point": "https://huggingface.co/datasets/lishuyang/recipepairs",
+      "entry_point_note": "",
+      "release": "Creator HF revision fb87cbf30db41c4214e647a6bfac2f1dcb862c3e, modified 2023-03-21; card configuration 1.5.0.",
+      "units_and_scope": "Derived pairs of recipes and a linked recipe-content table. The original SHARE study's selected benchmark is a different manifestation.",
+      "size": "HF card reports 6,908,697 pair examples; pairs.parquet 71,788,476 bytes and recipes.parquet 169,885,896 bytes. The 2022 paper describes about 83K pairs. Selection/release reconciliation is unresolved.",
+      "coverage_and_dates": "Pair-table dates were not verified; historical novelty requires a checked join to original recipe dates.",
+      "fields_and_links": "Recipe-pair identifiers, similarity and dietary tags; linked recipe content in the separate recipes table. Exact parquet schema and key uniqueness require later inspection.",
+      "access": "public-download; declared GPL-3.0 with upstream-rights caveat",
+      "route": "Creator HF native parquet files.",
+      "authentication": "gated=false in creator metadata; no file acquisition.",
+      "inspected": "Creator card, repository file metadata and primary SHARE paper inspected.",
+      "reuse_status": "declared GPL-3.0; upstream provenance unresolved",
+      "reuse_terms": "HF labels this dataset GPL-3.0. That declaration does not settle rights in the underlying Food.com content or prove the paper's selected benchmark has identical terms.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Pairs are derived/matched examples, not observed human creative lineage, editing decisions or accepted improvements.",
+        "The roughly 83K-paper versus 6.9M-card discrepancy must be resolved before numerical replication.",
+        "Dataset-license labeling alone does not resolve underlying source rights."
+      ],
+      "suggested_task": "Compare lexical distance with changes to ingredients and procedural dependencies. Treat dietary labels as constraints to inspect rather than certified nutritional advice.",
+      "review_decision": "Diagnostic complement to Food.com; resolve the mismatch between the hosted dataset and published benchmark before acquisition.",
+      "documentation": [
+        {
+          "label": "Creator release",
+          "url": "https://huggingface.co/datasets/lishuyang/recipepairs"
+        },
+        {
+          "label": "SHARE, EMNLP 2022",
+          "url": "https://aclanthology.org/2022.emnlp-main.761/"
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "name": "Goodreads / UCSD Book Graph",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A08",
+      "kind": "arena",
+      "provider": "Mengting Wan",
+      "entry_point": "https://mengtingwan.github.io/data/goodreads.html",
+      "entry_point_note": "",
+      "release": "Late-2017 collection with May-2019 revisions documented on the moved-from UCSD Book Graph site. Current acquisition link not verified.",
+      "units_and_scope": "Books, works, authors, series, public user interactions and reviews.",
+      "size": "Creator page reports 2,360,655 books, 1,521,962 works, 829,529 authors, 400,390 series and 876,145 users; revised interactions 229,154,523 and approximately 15.7M reviews. Older counts on the same page describe earlier versions.",
+      "coverage_and_dates": "Public interaction/review dates where present; edition publication and work identity require separate treatment.",
+      "fields_and_links": "Book/user/review IDs; book-to-work, author and series links; shelves, reading/rating actions, text reviews and dates. Genre subsets can overlap.",
+      "access": "academic-use-only; current download unverified",
+      "route": "Creator site moved from the UCSD Google Site to mengtingwan.github.io; old Drive paths are deprecated.",
+      "authentication": "Current download and any account requirement not verified.",
+      "inspected": "Detailed moved-from creator documentation inspected; current page did not render substantive content in the text browser.",
+      "reuse_status": "restricted research reuse",
+      "reuse_terms": "Creator terms limit use to academic research, prohibit redistribution and prohibit commercial use. Do not bundle source reviews in a portable sample.",
+      "reuse_group": "restricted",
+      "limitations": [
+        "Similar-book graphs may not be closed within a genre subset.",
+        "Reading/rating activity and panel agreement do not measure durable evaluative skill.",
+        "Terms and current download availability make this a less portable starter than explicitly licensed sources."
+      ],
+      "suggested_task": "Compare description-level similarity with audience interpretation while keeping author, work and edition units separate.",
+      "review_decision": "Cultural-data reserve with explicit restrictions; verify the current creator route before acquisition.",
+      "documentation": [
+        {
+          "label": "Detailed creator documentation",
+          "url": "https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home"
+        },
+        {
+          "label": "Current creator destination",
+          "url": "https://mengtingwan.github.io/data/goodreads.html"
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "name": "MovieLens 32M",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "structured",
+      "provider": "GroupLens",
+      "entry_point": "https://grouplens.org/datasets/movielens/32m/",
+      "entry_point_note": "",
+      "release": "Stable ml-32m generated 2023-10-13; per-file MD5 values in the README.",
+      "units_and_scope": "Movie ratings and tag applications by users with at least twenty ratings; movie identity links.",
+      "size": "32,000,204 ratings; 2,000,072 tag applications; 87,585 movies; 200,948 users.",
+      "coverage_and_dates": "Ratings from 1995-01-09 through 2023-10-12; ratings and tags carry timestamps.",
+      "fields_and_links": "movies(movieId,title,genres), ratings(userId,movieId,rating,timestamp), tags(userId,movieId,tag,timestamp), links(movieId,imdbId,tmdbId). No demographics or full review corpus.",
+      "access": "public-download; custom research terms",
+      "route": "GroupLens static ZIP and README.",
+      "authentication": "No login documented for download; no ZIP acquired.",
+      "inspected": "Official release and full README inspected.",
+      "reuse_status": "custom noncommercial/research conditions",
+      "reuse_terms": "Acknowledge GroupLens; redistribution/transformation must retain the applicable conditions; commercial or revenue-bearing use requires permission. This is not an unrestricted open-data license.",
+      "reuse_group": "restricted",
+      "limitations": [
+        "The at-least-twenty-ratings inclusion criterion selects active users.",
+        "Cross-site IDs do not grant rights to external film content.",
+        "A dated rating records a platform action rather than initial exposure or a selection decision."
+      ],
+      "suggested_task": "Build a transparent linkage demonstration and compare summary ratings with selected content measures.",
+      "review_decision": "Structured comparison material; weaker as the main organizational-text demonstration.",
+      "documentation": [
+        {
+          "label": "Release",
+          "url": "https://grouplens.org/datasets/movielens/32m/"
+        },
+        {
+          "label": "README/schema/terms/checksums",
+          "url": "https://files.grouplens.org/datasets/movielens/ml-32m-README.html"
+        },
+        {
+          "label": "Harper and Konstan, 2015",
+          "url": "https://doi.org/10.1145/2827872"
+        }
+      ]
+    },
+    {
+      "id": "D07",
+      "name": "Open Food Facts",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A07",
+      "kind": "arena",
+      "provider": "Open Food Facts",
+      "entry_point": "https://world.openfoodfacts.org/data",
+      "entry_point_note": "",
+      "release": "Continuously updated product database; documentation checked 2026-10-11. No dated data snapshot acquired or frozen. Current API documentation identifies v3.6, with v2 deprecated.",
+      "units_and_scope": "Barcode-identified food products with contributed structured fields and label images.",
+      "size": "No current exact product count verified; avoid quoting a moving website total.",
+      "coverage_and_dates": "Record creation/modification timestamps concern database observations, not product launch dates or invention.",
+      "fields_and_links": "Barcode/code joins product names, brands, categories, ingredients, nutrients, labels and images. Brand names are not resolved firm identifiers.",
+      "access": "public access; explicitly licensed database",
+      "route": "Official API and documented bulk export route; bounded API retrieval would suit a later small demo.",
+      "authentication": "Reads do not require authentication; official docs require a custom User-Agent. No data records acquired.",
+      "inspected": "Official API and rights documentation inspected; the main data page did not render in the browser.",
+      "reuse_status": "explicit, component-specific",
+      "reuse_terms": "Database: ODbL; individual database contents: DbCL; images: CC BY-SA. Preserve attribution and applicable share-alike obligations. Third-party label artwork/content can have additional rights; do not assume one license covers every component.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Crowdsourced coverage and field missingness can differ systematically by product/region.",
+        "Structured entries are comparison evidence, not infallible ground truth.",
+        "A product snapshot supports relative difference within the reference set; it cannot establish historical novelty or market introduction."
+      ],
+      "suggested_task": "Create a new coded observation of a packaging or ingredient claim, linking each decision to the label source and checking against structured metadata.",
+      "review_decision": "Starter choice for product measurement with explicit component licenses and lightweight access.",
+      "documentation": [
+        {
+          "label": "API and licensing documentation",
+          "url": "https://openfoodfacts.github.io/openfoodfacts-server/api/"
+        },
+        {
+          "label": "Field examples and API cheat sheet",
+          "url": "https://openfoodfacts.github.io/openfoodfacts-server/api/ref-cheatsheet/"
+        }
+      ]
+    },
+    {
+      "id": "D08",
+      "name": "USPTO PatentsView disambiguated patent data",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A05",
+      "kind": "arena",
+      "provider": "U.S. Patent and Trademark Office",
+      "entry_point": "https://www.uspto.gov/ip-policy/economic-research/patentsview",
+      "entry_point_note": "",
+      "release": "Current USPTO description covers granted and pre-grant releases through 2025-12-31, with annualized derivative panels updated December 2025. Exact ODP file manifest/version was not obtained.",
+      "units_and_scope": "Patents/applications with disambiguated inventor and assignee entities, technology classifications and citations.",
+      "size": "Current row/file counts not verified. Coverage start depends on the selected table; do not transfer an old API count to the current bulk release.",
+      "coverage_and_dates": "Application, publication and grant dates have different meanings. Historical reference sets must use information actually public before each target cutoff.",
+      "fields_and_links": "Patent/application identifiers link bibliographic records, text tables, inventors, assignees, classifications and citations. Disambiguation versions can change longitudinal entity links.",
+      "access": "registration-controlled public source; current release terms unresolved",
+      "route": "USPTO Open Data Portal bulk datasets, including pvgpatdis; legacy PatentSearch is not assumed to be an available route.",
+      "authentication": "ODP registration/API-key requirement announced effective 2026-06-18, with additional profile fields in August 2026. No account or key used.",
+      "inspected": "Current USPTO source and ODP access notices inspected; current file acquisition untested.",
+      "reuse_status": "manifestation-dependent; current terms unverified",
+      "reuse_terms": "A legacy PatentSearch 2024 release explicitly states CC BY 4.0. Do not automatically transfer that statement to every current ODP file; check release-specific terms when acquiring.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Citations can reflect examiners and legal drafting as well as inventor knowledge search.",
+        "Grant timing cannot substitute for information availability; patents are selected inventions rather than the full innovation population.",
+        "Text metrics and citations do not reveal aspiration levels, internal search decisions or commercial value."
+      ],
+      "suggested_task": "Compare technical-component recombination with lexical distance, then construct a small source-linked assignee entry/event table.",
+      "review_decision": "Strong innovation candidate, conditional on current ODP access and release-manifest verification.",
+      "documentation": [
+        {
+          "label": "USPTO PatentsView program and releases",
+          "url": "https://www.uspto.gov/ip-policy/economic-research/patentsview"
+        },
+        {
+          "label": "Current granted-patent bulk route",
+          "url": "https://data.uspto.gov/bulkdata/datasets/pvgpatdis"
+        },
+        {
+          "label": "ODP transition guide",
+          "url": "https://data.uspto.gov/support/transition-guide/patentsview"
+        },
+        {
+          "label": "Legacy API release license",
+          "url": "https://search.patentsview.org/docs/2024/08/23/2.1.2-release"
+        },
+        {
+          "label": "Official registration announcement",
+          "url": "https://www.uspto.gov/subscription-center/2026/register-access-usptos-open-data-portal"
+        }
+      ]
+    },
+    {
+      "id": "D09",
+      "name": "SEC EDGAR filings and company facts",
+      "checked_at": "2026-10-11",
+      "group": "institutional",
+      "arena": "A02",
+      "kind": "arena",
+      "provider": "U.S. Securities and Exchange Commission",
+      "entry_point": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "entry_point_note": "",
+      "release": "Live submissions and XBRL APIs, updated in real time with nightly bulk packages. A dated source manifest must be frozen for a study; none was acquired here.",
+      "units_and_scope": "Issuer filings, filing events and standardized financial facts; issuer is identified by CIK.",
+      "size": "No finite study population selected. Submission responses include recent history and pointers to older chunks; do not infer full coverage from the initial response.",
+      "coverage_and_dates": "Filing dates, reporting periods and event dates are distinct. XBRL required from 2009; amendments and restatements matter for as-of analyses.",
+      "fields_and_links": "Ten-digit CIK, accession, form, dates and primary document link; names/tickers/exchanges; company facts keyed by taxonomy/concept/unit and filing context. Standardized aggregated facts omit custom tags.",
+      "access": "public access with official dissemination permission",
+      "route": "data.sec.gov submission/companyfacts endpoints and SEC filing documents.",
+      "authentication": "No API key required; identify automated requests and respect the official aggregate limit of ten requests/second.",
+      "inspected": "Official API and privacy/dissemination documentation inspected. No filing records acquired.",
+      "reuse_status": "official copying/distribution permission, with exclusions",
+      "reuse_terms": "SEC policy permits copying/distributing public information with source acknowledgment; logos/artwork have exclusions. Do not label every third-party exhibit public domain merely because EDGAR hosts it.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Filings are issuer representations and legally structured disclosures, not direct observation of internal decision processes.",
+        "Current facts and last-filed frames can leak later restatements into historical analyses.",
+        "A financial outcome is not an aspiration threshold, and a disclosure date is not necessarily a decision date."
+      ],
+      "suggested_task": "Create NEW event-level observations: issuer, role, event type, interim status, event date, disclosure date, accession and supporting passage. Resolve duplication and distinguish absence from unreported detail.",
+      "review_decision": "Starter choice for organizational disclosure research with stable identities and official source traces.",
+      "documentation": [
+        {
+          "label": "API documentation",
+          "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces"
+        },
+        {
+          "label": "Dissemination and access policy",
+          "url": "https://www.sec.gov/about/privacy-information"
+        }
+      ]
+    },
+    {
+      "id": "D10",
+      "name": "Federal Register documents and metadata",
+      "checked_at": "2026-10-11",
+      "group": "institutional",
+      "arena": "A01",
+      "kind": "arena",
+      "provider": "Office of the Federal Register and Government Publishing Office",
+      "entry_point": "https://www.federalregister.gov/developers/documentation/api/v1",
+      "entry_point_note": "",
+      "release": "Continuously updated API; published documents from 1994, public-inspection documents from November 2011. Freeze a dated query, identifiers and official source versions for any new dataset.",
+      "units_and_scope": "Regulatory/public-notice documents, their agency associations and separately coded obligations/events.",
+      "size": "No fixed study count obtained. API pagination returns only the first 2,000 results; partition queries by dates rather than assuming that a single broad query is complete.",
+      "coverage_and_dates": "Publication, effective, comment and action dates are different. Date presence and legal status need document-level checking.",
+      "fields_and_links": "Document number, publication date, document type, issuing agencies, title and full-text/PDF references; docket/RIN links where present. Issuing agency is not automatically the implementing actor.",
+      "access": "public access; government-content reuse with exclusions",
+      "route": "Official JSON/CSV API and document pages; use the linked official PDF/govinfo text when legal wording matters.",
+      "authentication": "No API key required; no records downloaded.",
+      "inspected": "Official developer documentation and Library of Congress rights statement inspected.",
+      "reuse_status": "government public-domain component; inspect exceptions",
+      "reuse_terms": "US government content is generally public domain; reprinted third-party copyrighted material can be an exception. NARA/OFR seals are not freely reusable. Do not blanket-license every attachment.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "The measured outcome is an explicit textual obligation, not observed cooperation or successful implementation.",
+        "Corrections, multiple documents per rule and multiple obligations per document change denominators.",
+        "API XML is informational; official PDF references matter. Existing corpus ownership does not make the new coded dataset already built."
+      ],
+      "suggested_task": "Construct NEW document–obligation records: implementing agency, assigned action, counterpart, authority, date, evidence passage and uncertainty. Distinguish issuing agencies, historical mentions, consultation and explicit implementation duties.",
+      "review_decision": "Strong source for regulatory framing and stated obligations; a committee creation, renewal and termination table is one proposed demonstration.",
+      "documentation": [
+        {
+          "label": "API documentation",
+          "url": "https://www.federalregister.gov/developers/documentation/api/v1"
+        },
+        {
+          "label": "Developer overview",
+          "url": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api"
+        },
+        {
+          "label": "Collection rights statement",
+          "url": "https://www.loc.gov/collections/federal-register/about-this-collection/rights-and-access/"
+        }
+      ]
+    },
+    {
+      "id": "D11",
+      "name": "OpenAlex scholarly graph",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A06",
+      "kind": "arena",
+      "provider": "OpenAlex",
+      "entry_point": "https://openalex.org/",
+      "entry_point_note": "",
+      "release": "Live graph and public snapshot route; documentation checked 2026-10-11. No current snapshot manifest pinned.",
+      "units_and_scope": "Works, authors, institutions and related scholarly entities linked through identifiers, authorship and citations.",
+      "size": "Current exact graph size not verified; the 2022 paper's size is historical and is not a current release count.",
+      "coverage_and_dates": "Publication dates and snapshot dates differ; entity resolution, affiliations and classifications can change.",
+      "fields_and_links": "Work IDs/DOIs, titles, dates, authorship/institutions, references/citations and abstracts where available. Full article text is not guaranteed by metadata availability.",
+      "access": "CC0 metadata; API account/key for regular use",
+      "route": "Current API access documentation and public snapshot distribution.",
+      "authentication": "Maintainer announced keys for regular API use from 2026-02-13 with limited keyless access. Current quotas/prices require checking at acquisition; no account used.",
+      "inspected": "Creator paper, official blog and dated maintainer access notice inspected; some help pages rendered only shells.",
+      "reuse_status": "CC0 metadata",
+      "reuse_terms": "Creator confirms CC0 underlying data and public snapshots. This does not license separately obtained article PDFs or all full text.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Coauthorship and affiliation do not directly measure coordination or decision authority.",
+        "Incomplete abstracts/references and changing disambiguation can shift novelty measures.",
+        "A literature graph is neither a verified effect-size database nor evidence that an agent configuration behaves as advertised."
+      ],
+      "suggested_task": "Build a dated source-linked entry/recombination measure, explicitly tracing institution and topic definitions.",
+      "review_decision": "Openly licensed graph complement; less immediate than source-level organizational records for a first demonstration.",
+      "documentation": [
+        {
+          "label": "Creator paper",
+          "url": "https://arxiv.org/abs/2205.01833"
+        },
+        {
+          "label": "Current help/access hub",
+          "url": "https://help.openalex.org/"
+        },
+        {
+          "label": "Official release blog",
+          "url": "https://blog.openalex.org/"
+        },
+        {
+          "label": "Maintainer API-key announcement",
+          "url": "https://groups.google.com/g/openalex-users/c/rI1GIAySpVQ"
+        }
+      ]
+    },
+    {
+      "id": "D12",
+      "name": "AMI Meeting Corpus",
+      "checked_at": "2026-10-11",
+      "group": "interaction",
+      "arena": "A09",
+      "kind": "arena",
+      "provider": "AMI Consortium",
+      "entry_point": "https://groups.inf.ed.ac.uk/ami/corpus/",
+      "entry_point_note": "",
+      "release": "Manual annotations v1.6.2, 2017-04-10 (content unchanged since 2014-06-16); automatic annotations v1.5.1, 2017-04-10.",
+      "units_and_scope": "English meeting recordings and synchronized annotations; approximately two-thirds scenario design meetings and one-third natural meetings.",
+      "size": "About 100 hours; manual annotation ZIP 22 MB; automatic annotations 68 MB. Annotation types/coverage vary by session.",
+      "coverage_and_dates": "Time-aligned word-level transcription, speaker turns and meeting sequences. Scenario projects comprise four meetings with four assigned roles.",
+      "fields_and_links": "Meeting and speaker IDs, timed words, dialogue acts, topics and summaries; audio/video, slides and other meeting artifacts where available.",
+      "access": "public download route; core CC BY 4.0 materials",
+      "route": "Official corpus download selector and annotation archives.",
+      "authentication": "Current annotation page exposes direct downloads; legacy overview describes registration. Current binary download was not tested.",
+      "inspected": "Official overview, licensing notice and exact annotation-version entries inspected.",
+      "reuse_status": "explicit CC BY 4.0 with component scope",
+      "reuse_terms": "Main site licenses signals, transcriptions and some annotations CC BY 4.0. Check add-on annotation terms separately; do not extend that statement to every derived layer.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "There is no AI treatment; scenario meetings are not natural firm decisions.",
+        "Public talk does not reveal unspoken intentions, off-meeting work, actual approval powers or latent learning.",
+        "Existing dialogue-act labels can assist retrieval but do not validate a new organizational construct."
+      ],
+      "suggested_task": "Trace proposal, evaluation, disagreement and recorded decision episodes. Link coding to timestamps, preserve contradictory turns and distinguish assigned roles from exercised authority.",
+      "review_decision": "Starter choice for process-rich material with a small annotation package and explicit core licensing.",
+      "documentation": [
+        {
+          "label": "Corpus and license",
+          "url": "https://groups.inf.ed.ac.uk/ami/corpus/"
+        },
+        {
+          "label": "Design and recording overview",
+          "url": "https://groups.inf.ed.ac.uk/ami/corpus/overview.shtml"
+        },
+        {
+          "label": "Versioned download list",
+          "url": "https://groups.inf.ed.ac.uk/ami/download/"
+        }
+      ]
+    },
+    {
+      "id": "D13",
+      "name": "WikiConv",
+      "checked_at": "2026-10-11",
+      "group": "interaction",
+      "arena": "A10",
+      "kind": "arena",
+      "provider": "Conversation AI",
+      "entry_point": "https://convokit.cornell.edu/documentation/wikiconv.html",
+      "entry_point_note": "ConvoKit documentation of WikiConv; the creator repository itself is on GitHub.",
+      "release": "Creator corpus reconstructed from Wikipedia dumps dated 2018-07-01; creator repository read-only/archived 2026-09-04. ConvoKit supplies year/language subsets with their own representations.",
+      "units_and_scope": "Wikipedia talk-page conversational actions and reconstructed discussion relationships across English, German, Russian, Chinese and Greek.",
+      "size": "Creator English corpus reports 241,288,668 actions and 90,930,244 conversations under its technical definition. ConvoKit's documented English-2003 example has 140,265 utterances and 91,787 conversations; these are not interchangeable counts.",
+      "coverage_and_dates": "Timestamps, revision/action histories and reply relationships support temporal reconstruction. Final utterance text can include later modifications.",
+      "fields_and_links": "Action/utterance, speaker, conversation, page/revision and reply/parent identifiers; text, time, modification/restoration metadata. ConvoKit's representation must be distinguished from raw actions.",
+      "access": "public archives; mixed CC0 and CC BY-SA 3.0 content",
+      "route": "Creator Figshare/Google Cloud links or documented ConvoKit year subsets.",
+      "authentication": "No research-approval requirement stated; no archive downloaded.",
+      "inspected": "Creator README/license and ConvoKit documentation inspected.",
+      "reuse_status": "component-specific explicit licenses",
+      "reuse_terms": "Creator labels the dataset CC0 while individual comments remain CC BY-SA 3.0. Preserve comment attribution/share-alike obligations; ConvoKit software licensing does not replace content terms.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "A technical conversation can contain one user; it is not automatically a collaborative episode.",
+        "Volunteer discussion differs from employment-based organizing.",
+        "Archival maintenance status, later-edited text and platform norms limit transfer to contemporary human–AI teams."
+      ],
+      "suggested_task": "Compare conclusions drawn from final text with those drawn from edits, reverts and reply timing; document how a changed state alters an episode interpretation.",
+      "review_decision": "Useful process source for state reconstruction, with more complicated content reuse and data representation than AMI.",
+      "documentation": [
+        {
+          "label": "ConvoKit schema and subsets",
+          "url": "https://convokit.cornell.edu/documentation/wikiconv.html"
+        },
+        {
+          "label": "Creator paper",
+          "url": "https://arxiv.org/abs/1810.13181"
+        }
+      ]
+    },
+    {
+      "id": "D14",
+      "name": "Noy–Zhang AI productivity experiment replication",
+      "checked_at": "2026-10-11",
+      "group": "interaction",
+      "arena": "A11",
+      "kind": "arena",
+      "provider": "Open Science Framework",
+      "entry_point": "https://osf.io/xd7qw/",
+      "entry_point_note": "",
+      "release": "OSF project DOI 10.17605/OSF.IO/XD7QW; project metadata last modified 2023-07-21T14:22:07.394749. Public file inventories inspected; file-specific versions matter.",
+      "units_and_scope": "Experiment with 453 college-educated professionals performing writing tasks, linked survey/essay data, external grades and follow-up surveys.",
+      "size": "Final study N=453. OSF inspected inventories contain 12 raw-data files and 11 code files; those are package counts, not the analysis sample for every result.",
+      "coverage_and_dates": "Two tasks, minute-level essay snapshots, self-reported task stages, and two-week/two-month follow-ups described in package README.",
+      "fields_and_links": "Hashed participant IDs, treatment/order/incentive variables, task times, essay text snapshots and word-change counts; grader writing/content/originality judgments and justifications. Merge eligibility and analysis sample must follow the original specification.",
+      "access": "public archive and file metadata; no declared license",
+      "route": "OSF native API/file links; UI rendering was unreliable but public inventories and README were readable.",
+      "authentication": "Project public=true, read permission confirmed; no login used.",
+      "inspected": "README PDF inspected in memory and raw/code directory pagination exhausted; actual data and analysis code not acquired or executed.",
+      "reuse_status": "unknown",
+      "reuse_terms": "OSF native metadata returned node_license=null; no dataset license established by the inspected README. Public file links do not establish a redistribution grant.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Stata Master.do and a Python analysis component require a later environment/dependency check; fixed paths and the revised grade-cleaning file need inspection.",
+        "Minute-level text evolution does not reveal which AI outputs were seen, rejected or selected, nor stopping reasons.",
+        "Follow-up AI use is not delayed unaided evaluative capability. Do not import older working-paper N=444 into the final study."
+      ],
+      "suggested_task": "Reproduce Figure 1 task-time and grade contrasts from the correct final-paper package. Trace discrepancies to sample, grade cleaning, text truncation, task order, software and specification.",
+      "review_decision": "Promising exact-replication candidate with concrete access evidence; reuse and runtime fidelity remain unresolved.",
+      "documentation": [
+        {
+          "label": "Original Science article",
+          "url": "https://doi.org/10.1126/science.adh2586"
+        },
+        {
+          "label": "Author paper PDF",
+          "url": "https://shakkednoy.com/Noy%20Zhang%20NBER%20SI.pdf"
+        },
+        {
+          "label": "OSF README",
+          "url": "https://osf.io/3efsw/"
+        },
+        {
+          "label": "Archive metadata",
+          "url": "https://api.osf.io/v2/nodes/xd7qw/"
+        }
+      ]
+    },
+    {
+      "id": "D15",
+      "name": "Hybrid working from home experiment replication",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "structured",
+      "provider": "Harvard Dataverse",
+      "entry_point": "https://doi.org/10.7910/DVN/6X4ZZL",
+      "entry_point_note": "",
+      "release": "Harvard Dataverse replication DOI 10.7910/DVN/6X4ZZL, version 1.1, updated 2024-05-20 according to DataCite registration.",
+      "units_and_scope": "Trip.com hybrid-work randomized experiment and anonymized outcome files described by the Nature article.",
+      "size": "Study N=1,612 workers. Public package file counts, sizes and exact field inventory not verified.",
+      "coverage_and_dates": "Six-month experiment August 2021–January 2022; article reports performance follow-up spanning July 2021–June 2023.",
+      "fields_and_links": "Article describes assignment, attrition, performance reviews, promotion, surveys and a code-output subset. Which fields and joins are exposed in the public package remains to verify.",
+      "access": "explicit CC BY 4.0 metadata; file access unverified",
+      "route": "Harvard Dataverse DOI deposit.",
+      "authentication": "Unknown for files. Dataverse UI/native routes failed or returned 403 in this inspection; DOI metadata was readable.",
+      "inspected": "Nature data-availability statement and DataCite release/rights metadata inspected. No public file inventory or download verified.",
+      "reuse_status": "CC BY 4.0 declared for deposit",
+      "reuse_terms": "DataCite rightsList explicitly identifies CC BY 4.0. File-specific conditions and availability still need to be inspected on the deposit.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "The article says data are split/anonymized to reduce reidentification; do not reconstruct an unrestricted person-level panel across deliberately separated files.",
+        "This is not an AI experiment and does not reveal aspirations or internal coordination decisions.",
+        "DOI licensing metadata confirms a declared license, not successful acquisition or runnable replication."
+      ],
+      "suggested_task": "Reconstruct the reported retention contrast and performance analysis, identifying which anonymized files supply each result.",
+      "review_decision": "Promising explicitly licensed replication candidate; archive file inventory still needs inspection.",
+      "documentation": [
+        {
+          "label": "Nature 2024 article",
+          "url": "https://www.nature.com/articles/s41586-024-07500-2"
+        },
+        {
+          "label": "Replication deposit",
+          "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6X4ZZL"
+        },
+        {
+          "label": "Machine-readable DOI registration",
+          "url": "https://api.datacite.org/dois/10.7910/DVN/6X4ZZL"
+        }
+      ]
+    },
+    {
+      "id": "D16",
+      "name": "QASPER",
+      "checked_at": "2026-10-11",
+      "group": "products",
+      "arena": "A06",
+      "kind": "arena",
+      "provider": "Allen Institute for AI",
+      "entry_point": "https://huggingface.co/datasets/allenai/qasper",
+      "entry_point_note": "",
+      "release": "Creator HF revision fdc9d8214fbab5dd782958601db4d678e6934a54, modified 2022-10-07. A repository revision does not pin every external file used by its loader.",
+      "units_and_scope": "Questions and evidence-linked answers about NLP research papers.",
+      "size": "5,049 questions over 1,585 papers.",
+      "coverage_and_dates": "Fixed benchmark content; no organizational event panel.",
+      "fields_and_links": "Paper IDs, title/abstract, structured full-text paragraphs, questions, answer types, evidence passages and figure/table captions or references. Includes unanswerable and yes/no questions.",
+      "access": "public benchmark; explicit CC BY 4.0",
+      "route": "AllenAI creator HF card/files and paper-linked release.",
+      "authentication": "gated=false in native metadata; no loader executed or data downloaded.",
+      "inspected": "Creator card, native version metadata and paper inspected.",
+      "reuse_status": "CC BY 4.0 dataset declaration",
+      "reuse_terms": "Creator card declares CC BY 4.0. Separate source PDFs/additional article content require their own terms; Apache-2.0 baseline software license is distinct.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "This is a supporting benchmark, not a substantive organizational dataset or validation of organizational constructs.",
+        "Well-known public benchmark exposure can confound current-model comparisons.",
+        "Evidence-match success does not establish correct downstream inference or genuine scientific discovery."
+      ],
+      "suggested_task": "Compare ordinary answering with answer-plus-evidence checking and explicit abstention.",
+      "review_decision": "Compact evidence-grounding fixture to use alongside a substantive source.",
+      "documentation": [
+        {
+          "label": "Creator dataset card",
+          "url": "https://huggingface.co/datasets/allenai/qasper"
+        },
+        {
+          "label": "Dasigi et al., 2021",
+          "url": "https://arxiv.org/abs/2105.03011"
+        }
+      ]
+    },
+    {
+      "id": "D17",
+      "name": "CFPB Consumer Complaint Database — current structured release",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "narrative-excluded",
+      "provider": "Consumer Financial Protection Bureau",
+      "entry_point": "https://www.consumerfinance.gov/data-research/consumer-complaints/",
+      "entry_point_note": "",
+      "release": "Live daily database; Release 24 (September 2026) removed complaint narratives and visualizations. Release 23 (July 2026) capped filtered CSV exports at 100,000 and retired JSON exports.",
+      "units_and_scope": "Published consumer complaints and structured company-response categories.",
+      "size": "Live population; no current exact row count verified. Download-export limits are not total population counts.",
+      "coverage_and_dates": "Received/sent dates; historical coverage varies by product. Taxonomies and released fields change.",
+      "fields_and_links": "Complaint ID, product/subproduct, issue/subissue, company, received/sent dates, submitted-via channel, state/ZIP and response/timeliness fields. Current public text narratives are absent.",
+      "access": "public structured data; explicit free-use statement",
+      "route": "Official public CSV exports and documented API, subject to current release changes.",
+      "authentication": "Public routes have no account requirement stated; no complaint records acquired.",
+      "inspected": "Current main page, API fields and September-2026 release notes inspected.",
+      "reuse_status": "official free-use statement",
+      "reuse_terms": "Main page states published data are freely available for use, analysis and building on; no standardized CC license was identified. Follow current source and sharing guidance.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Current acquisition cannot supply the former narrative-text task. Unverified mirrors are not a substitute for the current release.",
+        "Published complaints are selected reports with no market-exposure denominator; rates are not population failure probabilities.",
+        "Company public responses are preset categories, not free-form conversations; consent/disputed fields also changed in June 2026."
+      ],
+      "suggested_task": "Validate date/grouping/timeliness aggregation and show how a pipeline expecting narrative text detects the removed field rather than silently changing its task.",
+      "review_decision": "Retain for structured fields and the source-change example; unsuitable for current narrative-based selection.",
+      "documentation": [
+        {
+          "label": "Current database",
+          "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/"
+        },
+        {
+          "label": "API field definitions",
+          "url": "https://cfpb.github.io/api/ccdb/fields.html"
+        },
+        {
+          "label": "Release notes",
+          "url": "https://cfpb.github.io/api/ccdb/release-notes.html"
+        }
+      ]
+    },
+    {
+      "id": "D18",
+      "name": "UCI Online Retail",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "structured",
+      "provider": "UCI Machine Learning Repository",
+      "entry_point": "https://archive.ics.uci.edu/dataset/352/online+retail",
+      "entry_point_note": "",
+      "release": "UCI deposit donated 2015-11-05; DOI 10.24432/C5BW33; named file Online Retail.xlsx. No binary checksum acquired.",
+      "units_and_scope": "Transaction line items from one UK online retailer, including many wholesale customers.",
+      "size": "541,909 rows; workbook listed as 22.6 MB.",
+      "coverage_and_dates": "2010-12-01 through 2011-12-09; timestamped invoices.",
+      "fields_and_links": "InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country. Invoice numbers beginning with C indicate cancellations; product and customer identifiers permit grouping.",
+      "access": "public-download; explicit CC BY 4.0",
+      "route": "Official UCI workbook download.",
+      "authentication": "No login required by the displayed route; workbook not acquired.",
+      "inspected": "Official creator deposit page inspected, including variables, file and license.",
+      "reuse_status": "explicit CC BY 4.0",
+      "reuse_terms": "UCI explicitly permits sharing/adaptation with attribution under CC BY 4.0.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "One firm's transactions do not support a multi-firm theory test or customer-exposure denominator.",
+        "Repository metadata's missingness claim is not a substitute for profiling the workbook; no data-level completeness was verified.",
+        "A deterministic business-data control isolates computation failures but does not establish the validity of text-based organizational measures."
+      ],
+      "suggested_task": "Calculate a predeclared sales/return summary and identify how cancellation treatment, missing customer IDs and line-versus-invoice units change the conclusion.",
+      "review_decision": "Lean, explicitly licensed structured control alongside a substantive text task.",
+      "documentation": [
+        {
+          "label": "Deposit, schema and file",
+          "url": "https://archive.ics.uci.edu/dataset/352/online+retail"
+        },
+        {
+          "label": "Dataset DOI",
+          "url": "https://doi.org/10.24432/C5BW33"
+        }
+      ]
+    },
+    {
+      "id": "D19",
+      "name": "CoAuthor human–AI collaborative writing",
+      "checked_at": "2026-10-11",
+      "group": "interaction",
+      "arena": "A11",
+      "kind": "arena",
+      "provider": "CoAuthor Project",
+      "entry_point": "https://coauthor.stanford.edu/",
+      "entry_point_note": "",
+      "release": "CHI 2022 dataset; primary paper arXiv:2201.06796v2 (2022-01-25). Creator links to Drive session files and Google Sheets metadata/surveys; a versioned binary manifest was not exposed/inspected.",
+      "units_and_scope": "English writing sessions by 63 crowd writers interacting with four instances of GPT-3.",
+      "size": "1,445 sessions: 830 creative stories and 615 argumentative essays. File bytes not verified.",
+      "coverage_and_dates": "Timestamped interaction/keystroke sequences within sessions. Collection calendar range and cross-session identifiers require release-file verification.",
+      "fields_and_links": "Session events capture writing, cursor movement, requested suggestions, acceptance/dismissal and subsequent edits. Session metadata and surveys are linked from the creator site; exact raw key names/joins remain to inspect.",
+      "access": "public creator download links; dataset reuse unresolved",
+      "route": "Creator Drive files, metadata/survey sheet and session replay interface.",
+      "authentication": "No account requirement stated on the landing page; binary/Sheet access not tested.",
+      "inspected": "Creator overview and primary paper inspected; separate interface repository verified.",
+      "reuse_status": "unknown for dataset",
+      "reuse_terms": "No explicit data-specific reuse grant established. The interface is MIT-licensed and the arXiv paper has CC BY 4.0; neither automatically licenses session content, survey data or source prompts. Third-party license labels were not adopted.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Suggestion display does not prove attention, comprehension or a change in private criteria; session termination does not explain stopping motives.",
+        "Crowd writing with 2022-era systems does not establish contemporary workplace coordination, durable skill or multi-agent authority.",
+        "Do not silently equate the interface software release with the original dataset or use derivative-repository licenses as source-data permission."
+      ],
+      "suggested_task": "Reconstruct candidate→displayed suggestion→accept/dismiss→edit paths and compare them with conclusions from final text alone. Distinguish a recorded interface action from its interpretation.",
+      "review_decision": "High-value writing-process source for interaction diagnostics, conditional on data reuse clarification.",
+      "documentation": [
+        {
+          "label": "Creator site and tutorials",
+          "url": "https://coauthor.stanford.edu/"
+        },
+        {
+          "label": "Paper, fixed v2",
+          "url": "https://arxiv.org/html/2201.06796v2"
+        }
+      ]
+    },
+    {
+      "id": "D20",
+      "name": "Doshi–Hauser creativity experiment replication",
+      "checked_at": "2026-10-11",
+      "group": "interaction",
+      "arena": "A11",
+      "kind": "arena",
+      "provider": "Dryad",
+      "entry_point": "https://doi.org/10.5061/dryad.qfttdz0pm",
+      "entry_point_note": "",
+      "release": "Dryad release dated 2024-06-14; DataCite version 6. Related Zenodo record 11654403 reports the same Dryad DOI and CC0. ZIP md5 b329200a3bab35b5326fdd6c7191eaa8.",
+      "units_and_scope": "Randomized short-story writing experiment with separate evaluators and post-disclosure ownership judgments.",
+      "size": "293 stories/writers; 600 evaluators and 3,519 retained evaluations. Archive lists a 2,472,080-byte scripts/data ZIP and 3,657-byte README.",
+      "coverage_and_dates": "One experimental writing/evaluation sequence; release date is not collection date. No delayed unaided follow-up established.",
+      "fields_and_links": "Conditions: human-only, access to one AI idea, access to up to five ideas; story content, writer assessments, evaluator novelty/usefulness judgments and ownership responses. Exact variable names and story/evaluator merge keys require file inspection.",
+      "access": "public archive; explicit CC0",
+      "route": "Dryad canonical deposit and related Zenodo distribution; README describes raw CSV and processed Stata data.",
+      "authentication": "Public listing/download links, Zenodo access_right=open. No files acquired.",
+      "inspected": "Deposit README rendered in-page; native DataCite and Zenodo metadata checked.",
+      "reuse_status": "CC0 1.0",
+      "reuse_terms": "DataCite rightsList and Zenodo metadata explicitly identify CC0 for this deposit. Separate dependencies and software retain their own terms.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "The full rebuild requires Python, external language resources and an OpenAI API key; live calls may not reproduce historical embeddings/results. Processed-data analysis avoids that rebuild but still needs Stata/dependencies.",
+        "README mentions GenAI_creativity_data_and_scripts.zip while the listed file is GenAI_creativity_scripts.zip; inspect archive inventory before claiming runnable reproduction.",
+        "Creativity ratings are domain-specific judgments. Better rated stories, collective diversity and durable unaided capability are different outcomes."
+      ],
+      "suggested_task": "Follow the documented processed-data analysis path first, then separately diagnose which conclusions depend on rebuilding similarity/preprocessing inputs. Reconcile assignment, actual idea use and exclusions.",
+      "review_decision": "Preferred portable replication candidate: explicit license, compact package and two documented reproducibility paths. Execution remains untested.",
+      "documentation": [
+        {
+          "label": "Dryad deposit and README",
+          "url": "https://datadryad.org/dataset/doi:10.5061/dryad.qfttdz0pm"
+        },
+        {
+          "label": "Related Zenodo record/file checksums",
+          "url": "https://zenodo.org/records/11654403"
+        },
+        {
+          "label": "Science Advances paper",
+          "url": "https://doi.org/10.1126/sciadv.adn5290"
+        },
+        {
+          "label": "DOI release/rights metadata",
+          "url": "https://api.datacite.org/dois/10.5061/dryad.qfttdz0pm"
+        }
+      ]
+    },
+    {
+      "id": "D21",
+      "name": "BPI Challenge 2017 loan-application event log",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "structured",
+      "provider": "4TU.ResearchData",
+      "entry_point": "https://doi.org/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b",
+      "entry_point_note": "",
+      "release": "4TU dataset version 1, issued 2017-02-06; archive item 12696884. Canonical DOI metadata checked; Figshare-hosted record rendered.",
+      "units_and_scope": "Applications, multiple offers per application, and operational workflow events at one Dutch financial institution.",
+      "size": "Archive lists 28.29 MB compressed. A published challenge analysis reports 31,509 applications, 42,995 offers and 149 originators; originators include employees or systems, not necessarily distinct workers.",
+      "coverage_and_dates": "Applications filed during 2016; subsequent events through 2017-02-01 per archive. Timestamp/lifecycle interpretation and end-of-window censoring need checking.",
+      "fields_and_links": "Application and offer IDs; application type, requested amount and loan goal; offer amounts/terms, selected/accepted indicators, credit score and creating employee. Application/offer/workflow event classes permit case trajectories; verify actual XES attribute names and lifecycle fields.",
+      "access": "public archive; custom legacy terms not fully resolved",
+      "route": "4TU canonical DOI and linked Figshare record, compressed XML/XES distribution.",
+      "authentication": "Public download displayed; no archive acquisition attempted.",
+      "inspected": "Native DOI metadata, deposit description and primary challenge analysis inspected. Legacy DOI/terms resolver and organizer page failed in the browser.",
+      "reuse_status": "4TU General Terms of Use; operative text unresolved",
+      "reuse_terms": "Deposit and DataCite label the original release with 4TU General Terms of Use. Do not substitute CC BY 4.0 from a later derived event-graph release or Apache/MIT from analysis code. Inspect operative terms before redistribution.",
+      "reuse_group": "unresolved",
+      "limitations": [
+        "Elapsed time between events is not hands-on labor; suspend/resume and parallel work can defeat simple subtraction.",
+        "Resource IDs do not reveal actual authority, attention, skill or contractual roles; this has no AI treatment.",
+        "The 2012 log is a related earlier system, not an interchangeable release; a system change is not automatically exogenous."
+      ],
+      "suggested_task": "Construct NEW case-level handoff/rework observations, maintaining application–offer relations. Compare a naive timestamp summary with lifecycle-aware reconstruction.",
+      "review_decision": "Strong operational-process source, with legacy reuse terms unresolved.",
+      "documentation": [
+        {
+          "label": "Archive description",
+          "url": "https://figshare.com/articles/dataset/BPI_Challenge_2017/12696884"
+        },
+        {
+          "label": "DOI metadata",
+          "url": "https://api.datacite.org/dois/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b"
+        },
+        {
+          "label": "Published challenge analysis with field description",
+          "url": "https://ais.win.tue.nl/bpi/2017/bpi2017_paper_28.pdf"
+        }
+      ]
+    },
+    {
+      "id": "D22",
+      "name": "O*NET 31.0 occupation, task and work-activity database",
+      "checked_at": "2026-10-11",
+      "group": "institutional",
+      "arena": "A03",
+      "kind": "arena",
+      "provider": "National Center for O*NET Development",
+      "entry_point": "https://www.onetcenter.org/database.html",
+      "entry_point_note": "",
+      "release": "Production version 31.0, August 2026; prior versions remain in the release archive. Pin 31.0 rather than a mutable current-data endpoint.",
+      "units_and_scope": "Occupation-specific task statements and aggregate ratings, linked to skills, work activities and work context.",
+      "size": "31.0 lists 18,838 task statements and 165,780 task-rating rows; ratings cover 911 occupations. Occupation-data table has 1,016 rows, which is a different coverage denominator.",
+      "coverage_and_dates": "Release versions and field-update dates; a quarterly release is not a repeated survey of every occupation. Avoid interpreting asynchronous updates as real work change.",
+      "fields_and_links": "O*NET-SOC code + Task ID link statements and ratings; task type, source and update date; ratings include scale/category, value, N, uncertainty and suppression flags. Tasks-to-DWA maps provide a further work-activity join.",
+      "access": "public static downloads; CC BY 4.0",
+      "route": "Official Excel/CSV/JSON, SQL and RDF files with release-specific dictionaries.",
+      "authentication": "Static downloads are public; developer registration is optional. Web Services have a separate sign-up route.",
+      "inspected": "31.0 release/archive, task dictionaries and license inspected; files not downloaded.",
+      "reuse_status": "CC BY 4.0 for specified downloadable database files",
+      "reuse_terms": "Attribute the database version and USDOL/ETA, link the license and identify modifications. Trademark rules and separate career-exploration-tool licenses still apply; database terms do not license every O*NET website/tool.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Occupation aggregates are not observed employees, establishments or workflows.",
+        "Task descriptions do not establish AI adoption, feasible automation, time saved, authority transfer or job displacement.",
+        "A new questionnaire requires respondent testing; reusing O*NET wording does not validate the new instrument."
+      ],
+      "suggested_task": "Develop a source-linked coding scheme for information needs, review requirements and possible human/AI allocation. Keep inferred allocation labels separate from official task attributes.",
+      "review_decision": "Portable source for task and instrument design, with an explicit license and detailed versioned dictionaries.",
+      "documentation": [
+        {
+          "label": "Current version and file inventory",
+          "url": "https://www.onetcenter.org/database.html"
+        },
+        {
+          "label": "Release archive",
+          "url": "https://www.onetcenter.org/db_releases.html"
+        },
+        {
+          "label": "31.0 Task Statements dictionary",
+          "url": "https://www.onetcenter.org/dictionary/31.0/excel/task_statements.html"
+        },
+        {
+          "label": "31.0 Task Ratings dictionary",
+          "url": "https://www.onetcenter.org/dictionary/31.0/excel/task_ratings.html"
+        },
+        {
+          "label": "Database license",
+          "url": "https://www.onetcenter.org/license_db.html"
+        }
+      ]
+    },
+    {
+      "id": "D23",
+      "name": "GLEIF Golden Copy legal entities and relationships",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "structured",
+      "provider": "GLEIF",
+      "entry_point": "https://www.gleif.org/en/lei-data/gleif-golden-copy/download-the-golden-copy",
+      "entry_point_note": "",
+      "release": "Live Golden Copy files issued three times daily; schema documentation lists LEI-CDF 3.1, Relationship Record CDF 2.1 and Reporting Exceptions 2.1. No timestamped file release acquired.",
+      "units_and_scope": "LEI-identified legal entities, direct/ultimate accounting-consolidating parent relationships and explicit reporting exceptions.",
+      "size": "Current exact record count/bytes not verified. Choose a dated file manifest or bounded API result in later acquisition.",
+      "coverage_and_dates": "Registration/update information and current relationship records; delta windows of 8 hours, 24 hours, 7 days and 31 days. A database change is not necessarily the date of an ownership event.",
+      "fields_and_links": "LEI links entity reference data and parent/child relationships; legal names, addresses, mapped identifiers where available and exceptions. Missing parent LEI, no parent and non-reporting reasons must remain distinct.",
+      "access": "public, no registration; CC0",
+      "route": "Official Golden Copy/delta files and API; API offers field/name searches and relationship retrieval.",
+      "authentication": "GLEIF documents free access without registration; no data acquired.",
+      "inspected": "Official release/schema, API/access and terms pages inspected.",
+      "reuse_status": "CC0 1.0",
+      "reuse_terms": "GLEIF's LEI Data Terms of Use explicitly provide data through the Access Service under CC0. Preserve source/version provenance for research even where attribution is not a license condition.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Accounting-consolidating parenthood is not all beneficial ownership, voting control or everyday decision authority.",
+        "Entities with LEIs are a selected population, not a census of firms.",
+        "Current Golden Copy relationships do not supply a full historical ownership panel; examples in schema documentation are not observed validation cases. Do not assume an automatic CIK–LEI bridge."
+      ],
+      "suggested_task": "Construct a new adjudicated entity-resolution/parent-reporting table, optionally matched to SEC issuers where a defensible mapping exists. A later change dataset would require historical versions and event-source corroboration.",
+      "review_decision": "Strong legal-entity complement to SEC: explicit CC0, durable identifiers and meaningful missingness categories.",
+      "documentation": [
+        {
+          "label": "Golden Copy and delta definitions",
+          "url": "https://www.gleif.org/en/lei-data/gleif-golden-copy/download-the-golden-copy"
+        },
+        {
+          "label": "Current schemas",
+          "url": "https://www.gleif.org/en/lei-data/access-and-use-lei-data/supporting-documents"
+        },
+        {
+          "label": "API",
+          "url": "https://www.gleif.org/en/lei-data/gleif-api/"
+        },
+        {
+          "label": "Terms",
+          "url": "https://www.gleif.org/en/meta/lei-data-terms-of-use"
+        },
+        {
+          "label": "Golden Copy specification v2.2",
+          "url": "https://www.gleif.org/lei-data/gleif-golden-copy/2022-02-23_gleif-golden-copy-and-delta-files_v2.2-final.pdf"
+        }
+      ]
+    },
+    {
+      "id": "D24",
+      "name": "SocioPatterns contacts in a workplace",
+      "checked_at": "2026-10-11",
+      "group": "structured",
+      "arena": "",
+      "kind": "structured",
+      "provider": "SocioPatterns",
+      "entry_point": "https://sociopatterns.org/datasets/contacts-in-a-workplace/",
+      "entry_point_note": "",
+      "release": "Creator release posted 2016-06-23; two named files on the dataset page. File hashes were not obtained.",
+      "units_and_scope": "Anonymous person-pair proximity/contact intervals and workplace departments in one French office.",
+      "size": "Creator lists 153 KB contact file and 0.8 KB department file. Exact participant/event counts were not independently verified in this round.",
+      "coverage_and_dates": "2013-06-24 to 2013-07-03; 20-second intervals measured relative to midnight on June 24.",
+      "fields_and_links": "Contact table t,i,j; department table i,Di. Join anonymous person ID i (or j) to department; interval represented as [t−20 seconds,t].",
+      "access": "public direct files; CC0",
+      "route": "Creator tab-separated contact and department files.",
+      "authentication": "Direct downloads shown with no login; no records downloaded.",
+      "inspected": "Creator schema/period/size/terms page and linked CC0 deed inspected.",
+      "reuse_status": "CC0 1.0",
+      "reuse_terms": "Creator explicitly links the Creative Commons Public Domain Dedication; requests citation to the associated Network Science paper.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "Co-presence/contact does not reveal speech content, cooperation, information exchange or decision rights.",
+        "One short office observation cannot establish enduring organizational structure or an AI effect.",
+        "Anonymity does not justify reidentification; department/temporal coverage may be selective. No clinical or vaccination recommendation is proposed."
+      ],
+      "suggested_task": "Build an interdepartmental contact-duration network and compare justified temporal aggregation rules. Keep the output labeled recorded contact, not collaboration.",
+      "review_decision": "Small, openly reusable non-text process contrast; useful for construct discipline rather than rich qualitative theory building.",
+      "documentation": [
+        {
+          "label": "Creator documentation",
+          "url": "https://sociopatterns.org/datasets/contacts-in-a-workplace/"
+        },
+        {
+          "label": "Associated Network Science paper",
+          "url": "https://www.cambridge.org/core/journals/network-science/article/abs/data-on-facetoface-contacts-in-an-office-building-suggest-a-lowcost-vaccination-strategy-based-on-community-linkers/18AB49AB4F2AEA33CE7501F06ADBC8E8"
+        }
+      ]
+    },
+    {
+      "id": "D25",
+      "name": "WildChat writing-interaction annotations (Mysore et al.)",
+      "checked_at": "2026-10-11",
+      "group": "interaction",
+      "arena": "A11",
+      "kind": "arena",
+      "provider": "Microsoft",
+      "entry_point": "https://arxiv.org/abs/2505.16023",
+      "entry_point_note": "The annotations paper; the creator repository itself is on GitHub.",
+      "release": "Creator repository ID 992823885; pinned commit 65b858edb2be77bca417cafdb06a2c4cb4c113b5, 2025-09-19. Derived from WildChat-1M; do not count the parent as another new family here.",
+      "units_and_scope": "Observed user–LLM conversation sessions with machine-produced task, follow-up and writing-intent labels.",
+      "size": "README lists 159,134 selected sessions, 68,782 writing sessions and 32,697 final analysis sessions after annotation-alignment filtering. These are nested stages, not additive samples.",
+      "coverage_and_dates": "Turn order and conversation timestamp; README specifies timestamp as last turn in UTC, not an event time for every user action.",
+      "fields_and_links": "convid, ordered turns(author,utterance), model and timestamp; coarse_tasks, utterance_types and writing_intents. Repository also includes IP-derived fields; they are unnecessary for the proposed task and should be omitted.",
+      "access": "public creator repository; ODC-BY dataset declaration",
+      "route": "Three documented JSONL-related files in data/ at the pinned commit.",
+      "authentication": "Public GitHub metadata and README readable without login; data files not acquired.",
+      "inspected": "Native repo/commit metadata and exact-commit README inspected; primary paper checked.",
+      "reuse_status": "ODC-BY 1.0 declared for data",
+      "reuse_terms": "README explicitly licenses data ODC-BY. This database-level license should not be treated as clearance for every user-authored utterance; retain upstream provenance and inspect sharing/privacy scope before distributing raw conversations.",
+      "reuse_group": "explicit",
+      "limitations": [
+        "GPT-4o labels are model outputs, not human ground truth. The README's three-utterance selection wording needs reconciliation with the paper/actual records before sampling.",
+        "Only public WildChat material is released; do not assume access to every source used in the paper.",
+        "README still marks analysis/data-generation code as TODO. Conversation endings do not establish stopping reasons; logs do not show copied text, external editing, attention or actual workplace roles."
+      ],
+      "suggested_task": "Recode user requests and revisions using a human-checked event dictionary; compare inferred collaboration patterns before and after correcting labels and selection.",
+      "review_decision": "Observational complement to controlled CoAuthor; labels, filtering and missing analysis code need validation.",
+      "documentation": [
+        {
+          "label": "Primary paper",
+          "url": "https://arxiv.org/abs/2505.16023"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79062-79063]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26897]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90553; File No. SR-NASDAQ-2020-026]
+
+
+Self-Regulatory Organizations; The Nasdaq Stock Market LLC; 
+Notice of Designation of a Longer Period for Commission Action on 
+Proceedings To Determine Whether To Approve or Disapprove a Proposed 
+Rule Change, as Modified by Amendment Nos. 1 and 2, To Adopt a New 
+Requirement Related to the Qualification of Management for Companies 
+From Restrictive Markets
+
+December 2, 2020.
+    On May 29, 2020, The Nasdaq Stock Market LLC (``Nasdaq'' or 
+``Exchange'') filed with the Securities and Exchange Commission 
+(``Commission''), pursuant to Section 19(b)(1) of the Securities 
+Exchange Act of 1934 (``Act'') \1\ and Rule 19b-4 thereunder,\2\ a 
+proposed rule change to adopt a new requirement related to the 
+qualification of management for companies whose business is principally 
+administered in a jurisdiction that has secrecy laws, blocking 
+statutes, national security laws, or other laws or regulations 
+restricting access to information by regulators of U.S.-listed 
+companies. The proposed rule change was published for comment in the 
+Federal Register on June 12, 2020.\3\ On July 20, 2020, pursuant to 
+Section 19(b)(2) of the Act,\4\ the Commission designated a longer 
+period within which to approve the proposed rule change, disapprove the 
+proposed rule change, or institute proceedings to determine whether to 
+disapprove the proposed rule change.\5\ On August 21, 2020, the 
+Exchange filed Amendment No. 1 to the proposed rule change,
+
+[[Page 79063]]
+
+which replaced and superseded the proposed rule change as originally 
+filed.\6\ On September 9, 2020, the Commission published notice of 
+Amendment No. 1 and instituted proceedings under Section 19(b)(2)(B) of 
+the Act \7\ to determine whether to approve or disapprove the proposed 
+rule change, as modified by Amendment No. 1.\8\ On November 17, 2020, 
+the Exchange submitted Amendment No. 2 to the proposed rule change.\9\
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ See Securities Exchange Act Release No. 89028 (June 8, 
+2020), 85 FR 35967. Comments on the proposed rule change can be 
+found at: <a href="https://www.sec.gov/comments/sr-nasdaq-2020-026/srnasdaq2020026.htm">https://www.sec.gov/comments/sr-nasdaq-2020-026/srnasdaq2020026.htm</a>.
+    \4\ 15 U.S.C. 78s(b)(2).
+    \5\ See Securities Exchange Act Release No. 89342, 85 FR 44951 
+(July 24, 2020). The Commission designated September 10, 2020 as the 
+date by which the Commission shall approve or disapprove, or 
+institute proceedings to determine whether to approve or disapprove, 
+the proposed rule change.
+    \6\ Amendment No. 1 is available at <a href="https://www.sec.gov/comments/sr-nasdaq-2020-026/srnasdaq2020026.htm">https://www.sec.gov/comments/sr-nasdaq-2020-026/srnasdaq2020026.htm</a>.
+    \7\ 15 U.S.C. 78s(b)(2)(B).
+    \8\ See Securities Exchange Act Release No. 89794, 85 FR 57260 
+(September 15, 2020).
+    \9\ Amendment No. 2 is available at <a href="https://www.sec.gov/comments/sr-nasdaq-2020-026/srnasdaq2020026.htm">https://www.sec.gov/comments/sr-nasdaq-2020-026/srnasdaq2020026.htm</a>.
+---------------------------------------------------------------------------
+
+    Section 19(b)(2) of the Act \10\ provides that, after initiating 
+disapproval proceedings, the Commission shall issue an order approving 
+or disapproving the proposed rule change not later than 180 days after 
+the date of publication of notice of filing of the proposed rule 
+change. The Commission may extend the period for issuing an order 
+approving or disapproving the proposed rule change, however, by not 
+more than 60 days if the Commission determines that a longer period is 
+appropriate and publishes the reasons for such determination. The date 
+of publication of notice of filing of the proposed rule change was June 
+12, 2020. December 9, 2020 is 180 days from that date, and February 7, 
+2021 is 240 days from that date.
+---------------------------------------------------------------------------
+
+    \10\ 15 U.S.C. 78s(b)(2).
+---------------------------------------------------------------------------
+
+    The Commission finds it appropriate to designate a longer period 
+within which to issue an order approving or disapproving the proposed 
+rule change so that it has sufficient time to consider this proposed 
+rule change. Accordingly, the Commission, pursuant to Section 19(b)(2) 
+of the Act,\11\ designates February 7, 2021, as the date by which the 
+Commission shall either approve or disapprove the proposed rule change, 
+as modified by Amendment Nos. 1 and 2 (File No. SR-NASDAQ-2020-026).
+---------------------------------------------------------------------------
+
+    \11\ Id.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\12\
+---------------------------------------------------------------------------
+
+    \12\ 17 CFR 200.30-3(a)(57).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26897 Filed 12-7-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre></body>
+</html>

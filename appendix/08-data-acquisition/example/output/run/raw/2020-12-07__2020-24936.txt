@@ -1,0 +1,802 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Proposed Rules]
+[Pages 78815-78820]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-24936]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF DEFENSE
+
+GENERAL SERVICES ADMINISTRATION
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+48 CFR Parts 2, 3, 7, 13, 15, 17, and 52
+
+[FAR Case 2015-038, Docket No. 2015-0038, Sequence No. 1]
+RIN 9000-AN31
+
+
+Federal Acquisition Regulation: Reverse Auction Guidance
+
+AGENCY: Department of Defense (DoD), General Services Administration 
+(GSA), and National Aeronautics and Space Administration (NASA).
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: DoD, GSA, and NASA are proposing to amend the Federal 
+Acquisition Regulation (FAR) to provide guidance on the use of reverse 
+auctions.
+
+DATES: Interested parties should submit comments to the Regulatory 
+Secretariat at one of the addresses shown below on or before February 
+5, 2021 to be considered in the formulation of a final rule.
+
+ADDRESSES: Submit comments in response to FAR case 2015-038 to <a href="http://www.regulations.gov">http://www.regulations.gov</a>. Submit comments via the Federal eRulemaking portal 
+by entering ``FAR Case 2015-038''. Select the link ``Comment Now'' that 
+corresponds with ``FAR Case 2015-038.'' Follow the instructions 
+provided on the screen. Please include your name, company name (if 
+any), and ``FAR Case 2015-038'' on your attached document. If your 
+comment cannot be submitted using <a href="https://www.regulations.gov">https://www.regulations.gov</a>, call or 
+email the points of contact in the FOR FURTHER INFORMATION CONTACT 
+section of this document for alternate instructions.
+    Instructions: Please submit comments only and cite ``FAR case 2015-
+038'' in all correspondence related to this case. All comments received 
+will be posted without change to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, including 
+any personal and/or business confidential information provided. To 
+confirm receipt of your comment(s), please check <a href="https://www.regulations.gov">https://www.regulations.gov</a>, approximately two-to-three days after submission 
+to verify posting.
+
+FOR FURTHER INFORMATION CONTACT: For clarification of content, contact 
+Mr. Curtis E. Glover, Sr., Procurement Analyst, at 202-501-1448. For 
+information pertaining to status or publication schedules, contact the 
+Regulatory Secretariat at 202-501-4755. Please cite ``FAR Case 2015-
+038.''
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    DoD, GSA, and NASA are proposing to revise the FAR in response to 
+Government Accountability Office (GAO) report, GAO-14-108, Reverse 
+Auctions: Guidance is Needed to Maximize Competition and Achieve Cost 
+Savings, dated December 2013, and GAO report 18-446, Reverse Actions: 
+Additional Guidance Could Help Increase Benefits and Reduce Fees, dated 
+July 2018. Reverse auctions are a tool utilized by Federal agencies to 
+obtain competitive pricing for an acquisition. Some of the potential 
+benefits of reverse auctions include increased competition, price 
+reductions, and greater small business participation. During a reverse 
+auction, multiple vendors compete with one another to win a contract 
+from the Government by lowering the offered price for which the vendor 
+is willing to sell a particular product or service. The offered 
+price(s), but not the offerors' identity, may be revealed to all 
+offerors during the auction, and offerors have the opportunity to 
+submit lower priced offers during the auction.
+
+[[Page 78816]]
+
+    The use of reverse auctions to obtain competitive pricing is not a 
+new concept to the Government or industry. The reverse auction model 
+was introduced in the mid-1990s. Many private companies now offer 
+software and/or services to facilitate reverse auctions, as well as use 
+reverse auctions in their own supply chain management scheme. In 1997, 
+the FAR was also amended to permit the use of reverse auctions in 
+Federal acquisitions. Since then, Federal agencies have been able to 
+use reverse auctions to obtain pricing, while operating within the 
+constructs of the FAR and any supplemental agency guidance. As a 
+result, this rule intends to implement Governmentwide policy and 
+guidance on reverse auctions to ensure a standardized and consistent 
+use amongst all Federal agencies.
+    Between its 2013 and 2018 reports, GAO reviewed Federal agencies' 
+use of reverse auctions over almost a decade (between 2008 and 2017). 
+Six agencies were identified as the largest users of reverse auctions, 
+conducting approximately 15,000 reverse auctions in 2016. Through its 
+review of the contract awards that resulted from these agencies' use of 
+reverse auctions, GAO found that: Reverse auctions are generally used 
+when acquiring commercial products; reverse auctions predominately 
+result in the award of a fixed price contract valued less than $150,000 
+to a small business; the total annual value of contracts that utilize 
+reverse auctions regularly represents less than one percent of all 
+annual Government contract spending; and most used the services of a 
+commercial reverse auction service provider.
+    GAO reviewed and analyzed various aspects of agencies' use of 
+reverse auctions. GAO found that: Confusion exists concerning a lack of 
+documentation about reverse auction service provider fees and their 
+application to Federal contracts; there is a lack of sufficient data 
+available for agencies to verify actual cost savings resulting from a 
+reverse auction; the potential benefits of reverse auctions are not 
+being maximized, as many reverse auctions are resulting in the receipt 
+of only one offer or a lack of interactive competition amongst offerors 
+(i.e., the submission of more than one offer by a vendor); and when 
+reverse auctions are used in the acquisition of items from preexisting 
+contracts, agencies need to consider the impact of potentially paying 
+two fees, one to use the contract and one to use the services of the 
+reverse auction service provider, when determining whether the use of a 
+reverse auction is cost effective, in comparison to other methods that 
+are available to obtain pricing for an acquisition.
+    As a result of its findings in 2013, GAO recommended that the 
+Director of the Office of Management and Budget amend the FAR to 
+address agencies' use of reverse auctions and issue Governmentwide 
+guidance to maximize competition and savings when using reverse 
+auctions. In response, the Office of Federal Procurement Policy issued 
+a memorandum on June 1, 2015, entitled Effective Use of Reverse 
+Auctions. This proposed rule implements the policy of the OFPP memo and 
+addresses some of the concerns in the GAO reports.
+
+II. Discussion and Analysis
+
+A. New Subpart 17.8 and Associated Provision and Clauses
+
+    Amendments to the FAR are proposed by this rule. To address GAO 
+recommendations, a new FAR subpart 17.8, Reverse Auctions, is added. 
+This new subpart:
+    <bullet> Provides Governmentwide policy on: When the use of reverse 
+auctions may be appropriate, conducting reverse auctions, and utilizing 
+reverse auction service providers, including the evaluation of fees;
+    <bullet> Identifies when reverse auctions shall not be used;
+    <bullet> Requires contracting officers to evaluate and document 
+that the use of a reverse auction service provider is cost effective;
+    <bullet> Requires agency acquisitions for reverse auction services 
+to be competed amongst commercial reverse auction service providers, 
+and for the resulting contract or agreement to be sufficiently 
+documented and made available to agency contracting officers for future 
+reference and verification needs;
+    <bullet> Clarifies requirements for contracting officers when 
+conducting a reverse auction or utilizing the services of a reverse 
+auction service provider;
+    <bullet> Requires the contracting officer's contact information to 
+be available to offerors; and
+    <bullet> Provides guidance for situations in which only one offer 
+is received in response to a reverse auction.
+    The subpart also prescribes the use of a new provision, FAR 
+provision 52.217-XX, Reverse Auction, and two new clauses, FAR clause 
+52.217-YY, Reverse Auction-Orders or Calls, and 52.217-ZZ, Reverse 
+Auction Services.
+    FAR provision 52.217-XX is included in solicitations when the 
+contracting officer will utilize a reverse auction to obtain 
+competitive pricing for an award. It notifies offerors that by 
+submission of a quote or proposal, offerors agree to participate in the 
+reverse auction and agree that the Government may reveal to all 
+offerors the offered price(s), but without revealing any offeror's 
+identity, except for the awardee's identity subsequent to an award 
+resulting from the auction. The provision also reserves the 
+Government's right to cancel the auction, in the event only one offer 
+is received, identifies that the Government may use the services of a 
+reverse auction service provider to conduct the auction, and notifies 
+offerors how to withdraw agreement from further participation in the 
+auction.
+    FAR clause 52.217-YY is included in solicitations for and within 
+indefinite-delivery, indefinite-quantity contracts and blanket purchase 
+agreements (BPA) when a reverse auction may be used to award an order 
+under the contract or agreement. The clause provides BPA holders and 
+contractors with a notification similar to that of FAR provision 
+52.217-XX, but applies to delivery orders, task orders, or calls to be 
+made under the basic contract or BPA.
+    FAR clause 52.217-ZZ is included in solicitations and contracts for 
+reverse auction services and specifies requirements for reverse auction 
+service providers that provide reverse auction services to the 
+Government.
+
+B. Other Amendments to the FAR
+
+    To implement reverse auction guidance, this rule proposes 
+additional FAR amendments as follows:
+    A definition for ``reverse auction'' is provided in FAR 2.101.
+    In FAR 3.104-4, language is added to show that during reverse 
+auctions, agencies may reveal to all offerors the offered price(s), but 
+may not reveal any offeror's identity except for the awardee's identity 
+subsequent to an award resulting from the auction.
+    FAR 7.105(b)(4) is revised to address ``reverse auctions'' under 
+acquisition plan requirements.
+    FAR 13.104 is revised to refer contracting officers to the 
+requirements of proposed subpart 17.8 when promoting competition and 
+utilizing simplified acquisition procedures.
+    The limitations at FAR 15.306(e)(3) are revised to permit the 
+Government to reveal to all offerors the offered price(s), without 
+revealing any offeror's identity, when having exchanges with offerors 
+under negotiated acquisition procedures and utilizing a reverse auction 
+to obtain pricing.
+    FAR 17.000(d) is added to include reverse auctions in the list of 
+special contracting methods in part 17.
+
+[[Page 78817]]
+
+III. Applicability to Contracts at or Below the Simplified Acquisition 
+Threshold and for Commercial Items, Including Commercially Available 
+Off-The-Shelf Items
+
+    The reverse auction provision and clauses are available for use at 
+or below the simplified acquisition threshold, and for commercial 
+items, including commercially available off-the-shelf items.
+
+IV. Executive Orders 12866 and 13563
+
+    Executive Orders (E.O.s) 12866 and 13563 direct agencies to assess 
+all costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). E.O. 
+13563 emphasizes the importance of quantifying both costs and benefits, 
+of reducing costs, of harmonizing rules, and of promoting flexibility. 
+This is not a significant regulatory action and, therefore, was not 
+subject to review under section 6(b) of E.O. 12866, Regulatory Planning 
+and Review, dated September 30, 1993. This rule is not a major rule 
+under 5 U.S.C. 804.
+
+V. Executive Order 13771
+
+    This rule is not subject to E.O. 13771, because this rule is not a 
+significant regulatory action under E.O. 12866.
+
+VI. Regulatory Flexibility Act
+
+    DoD, GSA, and NASA do not expect this rule to have a significant 
+economic impact on a substantial number of small entities within the 
+meaning of the Regulatory Flexibility Act, 5 U.S.C. 601, et seq. 
+However, an initial regulatory flexibility analysis has been performed 
+and is summarized as follows:
+
+    DoD, GSA, and NASA are proposing to revise the Federal 
+Acquisition Regulation (FAR) in response to a Government 
+Accountability Office (GAO) report, GAO-14-108, Reverse Auctions: 
+Guidance is Needed to Maximize Competition and Achieve Cost Savings, 
+dated December 2013, and GAO report 18-446, Reverse Actions: 
+Additional Guidance Could Help Increase Benefits and Reduce Fees, 
+dated July 2018. Reverse auctions are a tool utilized by Federal 
+agencies to increase competition and reduce the cost of certain 
+items. During a reverse auction, offerors provide sequentially lower 
+prices in an effort to win the contract award. The GAO report noted 
+that the FAR does not specifically address reverse auctions and 
+recommended that the Office of Management and Budget (OMB) take 
+steps to amend the FAR to address agencies' use of reverse auctions.
+    This proposed rule implements the June 1, 2015, Office of 
+Federal Procurement Policy memorandum, Effective Use of Reverse 
+Auctions, and addresses some of the concerns in the GAO reports. The 
+objective of the rule is to ensure the effective use of reverse 
+auctions to procure supplies and services within the Federal 
+Government.
+    The Government does not currently collect data on the number of 
+awards that utilized a reverse auction to obtain pricing. However, 
+GAO report 18-446 indicates that, while the total value of contracts 
+awarded annually that utilize reverse auctions represents less than 
+one percent of all annual Government contract spending, a majority 
+of the annual contracts awarded that utilize reverse auctions are 
+awarded to small business entities.
+    The proposed rule does not impose any Paperwork Reduction Act 
+reporting or recordkeeping requirements on any small entities. The 
+rule does not duplicate, overlap, or conflict with any other Federal 
+rules. No alternative approaches were considered. It is not 
+anticipated that the proposed rule will have a significant economic 
+impact on small entities.
+
+    The Regulatory Secretariat has submitted a copy of the IRFA to the 
+Chief Counsel for Advocacy of the Small Business Administration. A copy 
+of the IRFA may be obtained from the Regulatory Secretariat. DoD, GSA, 
+and NASA invite comments from small business concerns and other 
+interested parties on the expected impact of this rule on small 
+entities.
+    DoD, GSA, and NASA will also consider comments from small entities 
+concerning the existing regulations in subparts affected by this rule 
+consistent with 5 U.S.C. 610. Interested parties must submit such 
+comments separately and should cite 5 U.S.C. 610 (FAR Case 2015-038) in 
+correspondence.
+
+VII. Paperwork Reduction Act
+
+    The rule does not contain any information collection requirements 
+that require the approval of the Office of Management and Budget under 
+the Paperwork Reduction Act (44 U.S.C. chapter 35).
+
+List of Subjects in 48 CFR Parts 2, 3, 7, 13, 15, 17, and 52
+
+    Government procurement.
+
+William F. Clark,
+Director, Office of Government-wide Acquisition Policy, Office of 
+Acquisition Policy, Office of Government-wide Policy.
+
+    Therefore, DoD, GSA, and NASA are proposing to amend 48 CFR parts 
+2, 3, 7, 13, 15, 17, and 52 as set forth below:
+
+0
+1. The authority citation for 48 CFR parts 2, 3, 7, 13, 15, 17, and 52 
+continues to read as follows:
+
+    Authority:  40 U.S.C. 121(c); 10 U.S.C. chapter 137; and 51 
+U.S.C. 20113.
+
+PART 2--DEFINITIONS OF WORDS AND TERMS
+
+0
+2. Amend section 2.101(b)(2) by adding in alphabetical order a 
+definition for ``Reverse auction'' to read as follows:
+
+
+2.101   Definitions.
+
+* * * * *
+    (b) * * *
+    (2) * * *
+    Reverse auction means the process for obtaining pricing, usually 
+supported by an electronic tool, where offerors see competing offerors' 
+price(s), without disclosure of the competing offerors' identity, and 
+have the opportunity to submit lower priced offers until the close of 
+the auction.
+* * * * *
+
+PART 3--IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF 
+INTEREST
+
+0
+3. Amend section 3.103-2 by adding paragraph (a)(1)(iv) to read as 
+follows:
+
+
+3.103-2   Evaluating the certification.
+
+    (a) * * *
+    (1) * * *
+    (iv) Participating in a reverse auction (see subpart 17.8).
+* * * * *
+0
+4. Amend section 3.104-4 by revising paragraph (e)(1) to read as 
+follows:
+
+
+3.104-4   Disclosure, protection, and marking of contractor bid or 
+proposal information and source selection information.
+
+* * * * *
+    (e) * * *
+    (1) A contractor from disclosing its own bid or proposal 
+information or the recipient from receiving that information. During 
+reverse auctions, agencies may reveal to all offerors the offered 
+price(s), but may not reveal any offeror's identity except for the 
+awardee's identity subsequent to an award resulting from the auction 
+(see subpart 17.8);
+* * * * *
+
+PART 7--ACQUISITION PLANNING
+
+
+7.105   [Amended]
+
+0
+5. Amend section 7.105 by removing from paragraph (b)(4) introductory 
+text ``including'' and adding ``including the basis for using a reverse 
+auction (when applicable),'' in its place.
+
+PART 13--SIMPLIFIED ACQUISITION PROCEDURES
+
+0
+6. Amend section 13.104 by adding paragraph (c) to read as follows:
+
+
+13.104   Promoting competition.
+
+* * * * *
+
+[[Page 78818]]
+
+    (c) When conducting a reverse auction, see subpart 17.8.
+
+PART 15--CONTRACTING BY NEGOTIATION
+
+0
+7. Amend section 15.306 by revising paragraph (e)(3) to read as 
+follows:
+
+
+15.306   Exchanges with offerors after receipt of proposals.
+
+* * * * *
+    (e) * * *
+    (3) Reveals an offeror's price without that offeror's permission. 
+However, the contracting officer may inform an offeror that its price 
+is considered by the Government to be too high, or too low, and reveal 
+the results of the analysis supporting that conclusion. It is also 
+permissible, at the Government's discretion, to indicate to all 
+offerors the cost or price that the Government's price analysis, market 
+research, and other reviews have identified as reasonable (41 U.S.C. 
+2102 and 2107). When using reverse auction procedures (see subpart 
+17.8), it is also permissible to reveal to all offerors the offered 
+price(s), without revealing any offeror's identity;
+* * * * *
+
+PART 17--SPECIAL CONTRACTING METHODS
+
+0
+8. Revise section 17.000 by--
+0
+a. Removing from paragraph (b) the word ``and'';
+0
+b. Removing from paragraph (c) ``contracting.'' and adding 
+``contracting; and'' in its place; and
+0
+c. Adding paragraph (d).
+    The addition reads as follows:
+
+
+17.000   Scope of part.
+
+* * * * *
+    (d) The use of reverse auctions to obtain competitive pricing.
+0
+9. Add subpart 17.8 to read as follows:
+Subpart 17.8--Reverse Auctions
+Sec.
+17.800 Scope of subpart.
+17.801 Definition.
+17.802 Policy.
+17.803 Applicability.
+17.804 Procedures.
+17.805 Solicitation provision and contract clauses.
+
+Subpart 17.8--Reverse Auctions
+
+
+17.800   Scope of subpart.
+
+    This subpart prescribes policies and procedures for conducting 
+reverse auctions and utilizing reverse auction service providers.
+
+
+17.801   Definition.
+
+    As used in this subpart, reverse auction service provider means a 
+commercial or Government entity that provides a means for conducting 
+reverse auctions when acquiring supplies or services to be used by the 
+Government.
+
+
+17.802   Policy.
+
+    (a) The use of reverse auctions may be appropriate when market 
+research indicates that--
+    (1) A competitive marketplace exists for the supplies and/or 
+services being acquired;
+    (2) Multiple offerors can satisfy the agency's requirement; and
+    (3) The nature of the supplies and/or services being acquired 
+(e.g., clearly defined specifications, less complex requirements) 
+encourages an iterative bidding process (i.e., multiple offerors 
+participate and at least one offeror submits more than one offer during 
+the reverse auction).
+    (b) The reverse auction process is used to obtain pricing for an 
+acquisition. When using the reverse auction process, contracting 
+officers are still required to follow the acquisition policies and 
+procedures (i.e., subpart 8.4 or 16.5 or part 13 or 15) prescribed 
+elsewhere in the FAR, as appropriate for the particular acquisition.
+    (c)(1) A service platform for conducting reverse auctions may be 
+provided by a commercial or Government entity.
+    (2) While some reverse auction service providers are paid directly 
+by the Government for reverse auction services, other providers may 
+incorporate a fee structure that uses an indirect payment method. When 
+using an indirect payment method, the reverse auction service provider 
+adds a fee(s) to the price of the winning offer that is provided to the 
+Government at the close of an auction. The Government then pays the 
+winning offeror the total price of the offer, which includes the fee(s) 
+added by the reverse auction service provider. The reverse auction 
+service provider then collects its fee(s) from the winning offeror.
+    (3) When acquiring reverse auction services to be provided by a 
+commercial reverse auction service provider, agencies shall--
+    (i) Compete the requirement;
+    (ii) Sufficiently detail the provider's fee structure in the 
+resultant contract or agreement for reverse auction services; and
+    (iii) Make the details of the contract or agreement for reverse 
+auction services, including the provider's fee structure, available to 
+contracting officers for consideration when determining whether to use 
+a reverse auction service provider, in accordance with 17.804(a).
+    (d) Contracting officers shall only use the services of a reverse 
+auction service provider that--
+    (1) Does not assert or imply that it can or will obtain a 
+Government contract for participants of a reverse auction;
+    (2) Allows entities to register, at no cost, as potential offerors 
+for reverse auctions conducted on behalf of the Government on the 
+provider's reverse auction platform;
+    (3) Allows each entity, as part of the registration process, the 
+opportunity to execute a proprietary data protection agreement with the 
+provider; provided that the terms in the agreement do not affect the 
+terms and conditions of a Government solicitation or contract;
+    (4) Protects from unauthorized use or disclosure and does not 
+release outside of the Government--
+    (i) All contractor bid or proposal information (see 3.104-1) and 
+source selection information associated with providing reverse auction 
+services to the Government;
+    (ii) All information similarly generated to support the issuance of 
+a task or delivery order or call against a blanket purchase agreement; 
+and
+    (iii) Information identified by an offeror as restricted from 
+duplication, use, or disclosure--in whole or in part--for any purpose 
+other than to evaluate the reverse auction participant's price or 
+proposal;
+    (5) At the close of each auction--
+    (i) Provides the Government with the winning offer, along with 
+information that separately identifies the offeror's price and the 
+price for each provider fee or charge included in the total price;
+    (ii) Provides the Government with all information and documentation 
+received from offerors in response to the reverse auction; and
+    (iii) Removes all documentation received from offerors in response 
+to the reverse auction from its business and computer systems;
+    (6) Does not participate as an offeror in any reverse auction which 
+the provider is hosting on behalf of the Government. This prohibition 
+includes participation in a reverse auction by any entity with which 
+the provider has a relationship that raises an actual or potential 
+conflict of interest; and
+    (7) Asserts no rights or license in the data gathered or generated 
+during a reverse auction.
+    (e) Only a contracting officer shall--
+    (1) Exclude an offeror from participating in an auction;
+    (2) Determine the awardee(s) of any reverse auction; or
+    (3) Determine that the offeror is a responsible prospective 
+contractor (see 9.103, 9.104-1, and 9.405(d)).
+
+[[Page 78819]]
+
+17.803   Applicability.
+
+    Reverse auction processes shall not be used for--
+    (a) Design-build construction contracts (see part 36);
+    (b) Sealed bids (see part 14); or
+    (c) Acquisition of personal protective equipment.
+
+
+17.804   Procedures.
+
+    (a) When considering the use of a reverse auction service provider, 
+the contracting officer shall--
+    (1) Conduct market research for available sources of reverse 
+auction services (e.g., existing agency contracts or agreements (see 
+17.802(c)), commercial service providers (see 17.802(d)), or Government 
+service providers);
+    (2) Evaluate the fee structure for each reverse auction service 
+provider; and
+    (3) Document the contract file with a determination that the use of 
+a reverse auction service provider is cost effective.
+    (b) When conducting a reverse auction, the contracting officer 
+shall--
+    (1) Only provide the offered price(s) to all offerors, without 
+disclosing the identity of the offeror(s) (see 3.104-4(a) and (e)(1));
+    (2) Allow offerors the opportunity to continually revise their 
+prices downward during the reverse auction until the close of the 
+auction; and
+    (3) Allow an offeror to withdraw an offer from further 
+consideration prior to the close of an auction.
+    (c) When using the services of a reverse auction service provider, 
+contracting officers shall--
+    (1) Include contact information in the solicitation that will allow 
+offerors to contact the contracting officer directly with any 
+questions;
+    (2) Upon receipt of a winning offer, verify that any provider fees 
+or charges included in the price are in accordance with the provider's 
+fee structure, as evaluated in accordance with paragraph (a)(2) of this 
+section; and
+    (3) Include in the contact file any information and/or 
+documentation received by the reverse auction service provider from 
+offerors responding to the reverse auction.
+    (d) If only one offeror participates in an auction, the contracting 
+officer may--
+    (1) Cancel the auction and document the contract file with evidence 
+of the participation of only one offeror; or
+    (2) Accept the offer, only if the price is determined to be fair 
+and reasonable (see 13.106-3(a)(2) and 15.404-1).
+
+
+17.805   Solicitation provision and contract clauses.
+
+    (a) The contracting officer shall insert the provision at 52.217-
+XX, Reverse Auction, in solicitations, when the contracting officer is 
+utilizing a reverse auction to award a contract or blanket purchase 
+agreement.
+    (b) The contracting officer shall insert the clause at 52.217-YY, 
+Reverse Auction-Orders or Calls, in solicitations and contracts for a 
+multiple award indefinite-delivery/indefinite-quantity contract or 
+blanket purchase agreement, and a reverse auction may be used to place 
+orders or calls under the basic contract or blanket purchase agreement.
+    (c) The contracting officer shall insert the clause at 52.217-ZZ, 
+Reverse Auction Services, in all solicitations and contracts for the 
+purchase of reverse auction services.
+
+PART 52--SOLICITATION PROVISIONS AND CONTRACT CLAUSES
+
+0
+10. Add sections 52.217-XX, 52.217-YY, and 52.217-ZZ to read as 
+follows:
+* * * * *
+52.217-XX Reverse auction.
+52.217-YY Reverse auction-orders or calls.
+52.217-ZZ Reverse auction services.
+* * * * *
+
+
+52.217-XX   Reverse auction.
+
+    As prescribed in 17.805(a), insert the following provision:
+
+Reverse Auction (Date)
+
+    (a) Definitions. As used in this provision--
+    Reverse auction means the process for obtaining pricing, usually 
+supported by an electronic tool, where offerors see competing 
+offerors' price(s), without disclosure of the competing offerors' 
+identity, and have the opportunity to submit lower priced offers 
+until the close of the auction.
+    Reverse auction service provider means a commercial or 
+Government entity that provides a means for conducting reverse 
+auctions when acquiring supplies or services to be used by the 
+Government.
+    (b) Reverse auction. The Government intends to conduct a reverse 
+auction under this solicitation to award a contract or blanket 
+purchase agreement.
+    (c) Offeror agreement. By submission of a quote or proposal in 
+response to the solicitation, the Offeror agrees to participate in 
+the reverse auction, and agrees that the Government may reveal to 
+all Offerors the offered price(s) in the auction, without revealing 
+any Offeror's identity, except for the awardee's identity subsequent 
+to an award resulting from the auction. The Offeror may withdraw its 
+agreement to further participate in the process by withdrawing its 
+offer before the close of the auction by notifying the Contracting 
+Officer via the contact method identified in the solicitation.
+    (d) Only one offer. If the reverse auction produces only one 
+offer, the Government reserves the right to cancel the auction.
+    (e) Release of information. The Government may use a reverse 
+auction service provider to conduct the reverse auction. Any price 
+or proposal information or source selection information received by 
+the reverse auction service provider in relation to the reverse 
+auction shall not be released, outside of the Government, unless 
+otherwise required by law. However, this does not prevent the 
+Government from revealing to all Offerors the offered price(s) in 
+the auction, without revealing any Offeror's identity. Price or 
+proposal information includes, but is not limited to--
+    (1) Contractor bid or proposal information, as defined at 
+Federal Acquisition Regulation 3.104-1; and
+    (2) Information identified by the Offeror as restricted from 
+duplication, use, or disclosure--in whole or in part--for any 
+purpose other than to evaluate the Offeror's price or proposal.
+
+(End of Provision)
+
+
+52.217-YY   Reverse auction-orders or calls.
+
+    As prescribed in 17.805(b), insert the following clause:
+
+Reverse Auction--Orders or Calls (Date)
+
+    (a) Definitions. As used in this clause--
+    Reverse auction means the process for obtaining pricing, usually 
+supported by an electronic tool, where offerors see competing 
+offerors' price(s), without disclosure of the competing offerors' 
+identity, and have the opportunity to submit lower priced offers 
+until the close of the auction.
+    Reverse auction service provider means a commercial or 
+Government entity that provides a means for conducting reverse 
+auctions when acquiring supplies or services to be used by the 
+Government.
+    (b) Reverse auction. The Contracting Officer may conduct a 
+reverse auction to award an order or call under this contract or 
+blanket purchase agreement.
+    (c) Offeror agreement. When a reverse auction is conducted under 
+this contract or blanket purchase agreement, the following applies:
+    (1) The Contractor's or blanket purchase agreement holder's 
+submission of a quote or proposal in response to the solicitation 
+for an order or call constitutes agreement to participate in the 
+auction.
+    (2) The Government may reveal to all Offerors the offered 
+price(s) in the auction, without revealing any Offerors' identity, 
+except for the awardee's identity subsequent to an award resulting 
+from the auction.
+    (3) The Contractor or blanket purchase agreement holder may 
+withdraw its agreement to further participation in the reverse 
+auction by withdrawing its offer. To withdraw an offer made in 
+response to a reverse auction solicitation issued under this 
+contract or blanket purchase agreement, the Contractor or blanket 
+purchase agreement holder shall notify the Contracting Officer of 
+the request before the close of the auction via the contact method 
+identified in the solicitation.
+    (4) If the reverse auction produces only one offer, the 
+Government reserves the right to cancel the auction.
+
+[[Page 78820]]
+
+    (d) Release of information. The Government may use a reverse 
+auction service provider to conduct the reverse auction. Any price 
+or proposal information or source selection information received by 
+the reverse auction service provider in relation to the reverse 
+auction shall not be released, outside of the Government. However, 
+this does not prevent the Government from revealing to all Offerors 
+the offered price(s) in the auction, without revealing any Offeror's 
+identity. Price or proposal information includes, but is not limited 
+to--
+    (1) Contractor bid or proposal information, as defined at 
+Federal Acquisition Regulation 3.104-1;
+    (2) Price or proposal information similarly generated for a task 
+or delivery order or a call against a blanket purchase agreement; 
+and
+    (3) Information identified by the Offeror as restricted from 
+duplication, use, or disclosure--in whole or in part--for any 
+purpose other than to evaluate the Offeror's price or proposal.
+
+
+(End of Clause)
+
+
+52.217-ZZ  Reverse auction services.
+
+    As prescribed in 17.805(c), insert the following clause:
+
+Reverse Auction Services (Date)
+
+    (a) Definition. Reverse auction means the process for obtaining 
+pricing, usually supported by an electronic tool, where offerors see 
+competing offerors' price(s), without disclosure of the competing 
+offeror's identity, and have the opportunity to submit lower priced 
+offers until the close of the auction.
+    (b) Duties of the reverse auction service provider. When 
+providing reverse auction services to the Government, the Contractor 
+shall--
+    (1) Not assert or imply that it can or will obtain a Government 
+contract for the participants of a reverse auction;
+    (2) Allow entities to register, at no cost, as potential 
+offerors for any reverse auction conducted on behalf of the 
+Government on the provider's reverse auction platform. As part of 
+the registration process, the Contractor shall allow each entity the 
+opportunity to execute a proprietary data protection agreement with 
+the Contractor; however, the Contractor shall not negotiate terms in 
+the agreement that affect the terms and conditions of a Government 
+solicitation or contract;
+    (3) Protect from unauthorized use or disclosure and not release 
+outside of the Government any price or proposal information or any 
+source selection information (see the ``source selection 
+information'' definition in Federal Acquisition Regulation (FAR) 
+2.101) received by the Contractor in relation to a reverse auction. 
+However, this does not prevent the Contractor from revealing to all 
+reverse auction participants the offered price(s) in the auction, 
+without revealing any reverse auction participants' identity. Price 
+or proposal information shall include, but is not limited to--
+    (i) Contractor bid or proposal information, as defined at FAR 
+3.104-1;
+    (ii) Price or proposal information similarly generated for a 
+task or delivery order or a call against a blanket purchase 
+agreement; and
+    (iii) Information identified by the reverse auction participant 
+as restricted from duplication, use, or disclosure--in whole or in 
+part--for any purpose other than to evaluate the reverse auction 
+participant's price or proposal;
+    (4) Not participate as an offeror in any reverse auction which 
+the Contractor is hosting on behalf of the Government. This 
+prohibition includes participation in a reverse auction by any 
+entity with which the Contractor has a relationship that raises an 
+actual or potential conflict of interest;
+    (5) At the close of each auction--
+    (i) Provide the Contracting Officer with the winning offer, 
+along with information that separately identifies the offeror's 
+price and the price for each provider fee or charge included in the 
+total price;
+    (ii) Provide the Contracting Officer with all information and 
+documentation received from reverse auction participants in response 
+to the reverse auction; and
+    (iii) Remove all documentation received from reverse auction 
+participants in response to the reverse auction from its business 
+and computer systems; and
+    (6) Assert no right or license in the data gathered or generated 
+during a reverse auction.
+
+
+(End of Clause)
+
+[FR Doc. 2020-24936 Filed 12-4-20; 8:45 am]
+BILLING CODE 6820-EP-P
+
+
+</pre></body>
+</html>

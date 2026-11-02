@@ -1,0 +1,113 @@
+{
+ "component": "02-literature",
+ "title": "Textual-data literature reviews and database",
+ "website": "https://textdata.info/foundation/literature-reviews/",
+ "schema": "textdata-literature/2",
+ "entry_points": [
+  "README.md",
+  "AI-PROMPT.md",
+  "docs/DATABASE_NOTES.md",
+  "tool/query.py"
+ ],
+ "counts": {
+  "records": 10732,
+  "with_abstract_on_file": 107,
+  "abstract_text_shipped": 0,
+  "with_reading_note": 8236,
+  "with_url": 10114,
+  "with_doi": 9857,
+  "by_catalogue": {
+   "annotation_checkpoint": 318,
+   "annotation_successor": 319,
+   "annotation_journals": 8222,
+   "catalogue_d": 1873
+  }
+ },
+ "files": [
+  {
+   "path": "AI-PROMPT.md",
+   "bytes": 1398,
+   "sha256": "106a96dfc8db4ee5c2236cf7f637caee2d9aa952c9df6792be093efde84d0e2e"
+  },
+  {
+   "path": "NOTICE.md",
+   "bytes": 1489,
+   "sha256": "3c7d15939019252ceaddd081e2ce5cf36a4867d61d315bc22f2f81f5c4751d96"
+  },
+  {
+   "path": "README.md",
+   "bytes": 3166,
+   "sha256": "8e261071d69e0e1a3dae113a3d7cb10a8f69adc141c82236fa36c0c1e795b342"
+  },
+  {
+   "path": "checks/verify_counts.py",
+   "bytes": 5995,
+   "sha256": "91df135b757d8f1ebb5d2eef5e4c121df9e5fbeab6702e483309466e196c3ef4"
+  },
+  {
+   "path": "data/records.csv.gz",
+   "bytes": 3556528,
+   "sha256": "cc3dafaebc71dfe6195926ddad93af2d5c2cdd7e6c923ac2ff6cc7aa74cc7b8a"
+  },
+  {
+   "path": "data/records.json.gz",
+   "bytes": 3674686,
+   "sha256": "f84ba8b36a3cf6a3630b4dcc8238a09670d909371fa5d96f33c4097cd3aa3f70"
+  },
+  {
+   "path": "data/summary.json",
+   "bytes": 801,
+   "sha256": "96ed283f4374f34b75a76b989d7ef696f39665e25780b82b2c92048e89d420aa"
+  },
+  {
+   "path": "docs/DATABASE_NOTES.md",
+   "bytes": 2977,
+   "sha256": "8cecaf7891fbb3a55a06f52be43cbc9b32b27850f064fab6c8ad7b09332bd5b4"
+  },
+  {
+   "path": "docs/SYNTHESES.json",
+   "bytes": 1289,
+   "sha256": "9428a6d8c7fd614b8d681182c8173bedfbf143537f1725c8685e3283826260fb"
+  },
+  {
+   "path": "docs/annotation-methods.md",
+   "bytes": 16042,
+   "sha256": "5bdf9fcadffa59cb3603f990bb5efcf9d44b9fd0fdde3618ea1a739bcaeb0ec4"
+  },
+  {
+   "path": "docs/workflow-literature.md",
+   "bytes": 7956,
+   "sha256": "a17bda746bbcbeb08fa132d6781a59f0cb657e0947be686be015d551beb1b354"
+  },
+  {
+   "path": "example/input/QUERY.json",
+   "bytes": 300,
+   "sha256": "cddd400dfe5b7fbaab29385d9e73d9b0c877e050d08c1a27b6d7d126d43b68cc"
+  },
+  {
+   "path": "example/output/counts.json",
+   "bytes": 249,
+   "sha256": "402a2c10554d2ab4273862f269f82bbaa980561cdd2e5abf23f86656a88e63f9"
+  },
+  {
+   "path": "example/output/record-W026.json",
+   "bytes": 1537,
+   "sha256": "8211077ba2bcb25ea6e9ff559dfe40bb298711f03a0f7057c492f23e467ef3c1"
+  },
+  {
+   "path": "example/output/search-inter-rater-reliability.json",
+   "bytes": 772,
+   "sha256": "eece85e4d76d53f2a90280ae10d91700dc1f4a54aacf0b1acefc0f56f5ca7a95"
+  },
+  {
+   "path": "tool/build_sqlite.py",
+   "bytes": 2038,
+   "sha256": "e6bf213282558d09329eaa728d1134008446e701782d25e96f8c9247528ccead"
+  },
+  {
+   "path": "tool/query.py",
+   "bytes": 2990,
+   "sha256": "9673fab9c875b1cee72b73ede626db35e0c2c8b7eac4838ecabdc747db41cc17"
+  }
+ ]
+}

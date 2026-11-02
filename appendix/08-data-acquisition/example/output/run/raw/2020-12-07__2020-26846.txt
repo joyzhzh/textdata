@@ -1,0 +1,658 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78874-78879]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26846]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+NUCLEAR REGULATORY COMMISSION
+
+[Docket Nos. 50-528, 50-529, 50-530, and 72-044; NRC-2020-0260]
+
+
+In the Matter of Arizona Public Service Company; Palo Verde 
+Nuclear Generating Station
+
+AGENCY: Nuclear Regulatory Commission.
+
+ACTION: Confirmatory Order; issuance.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Nuclear Regulatory Commission (NRC) issued a 
+Confirmatory Order to Arizona Public Service Company (APS) on November 
+17, 2020. The purpose of the Confirmatory Order was to document 
+commitments made as part of a settlement agreement between the NRC and 
+APS to address the licensee's failure to: Perform a written evaluation 
+for a change to the NAC MAGNASTOR spent fuel dry cask storage system 
+and obtain a license amendment for a change in methodology for 
+performing tip-over calculations, and (2) adequately analyze the 
+consequences of a hypothetical MAGNASTOR CC5 spent fuel cask tip-over 
+accident on the independent spent fuel storage installation pad located 
+at APS' Palo Verde Nuclear Generating Station.
+
+DATES: The Confirmatory Order became effective on November 17, 2020.
+
+ADDRESSES: Please refer to Docket ID NRC-2020-0260 when contacting the 
+NRC about the availability of information regarding this document. You 
+may obtain publicly available information related to this document 
+using any of the following methods:
+    <bullet> Federal Rulemaking website: Go to <a href="https://www.regulations.gov">https://www.regulations.gov</a> and search for Docket ID NRC-2020-0260. Address 
+questions about Docket IDs in <a href="http://Regulations.gov">Regulations.gov</a> to Jennifer Borges; 
+telephone: 301-287-9127; email: [email redacted]. For technical 
+questions, contact the individual listed in the FOR FURTHER INFORMATION 
+CONTACT section of this document.
+    <bullet> NRC's Agencywide Documents Access and Management System 
+(ADAMS): You may obtain publicly available documents online in the 
+ADAMS Public Documents collection at <a href="https://www.nrc.gov/reading-rm/adams.html">https://www.nrc.gov/reading-rm/adams.html</a>. To begin the search, select ``Begin Web-based ADAMS 
+Search.'' For problems with ADAMS, please contact the NRC's Public 
+Document Room (PDR) reference staff at 1-800-397-4209, 301-415-4737, or 
+by email to [email redacted]. The Confirmatory Order to Arizona 
+Public Service Company is available in ADAMS under Accession No. 
+ML20323A035.
+    <bullet> Attention: The PDR, where you may examine and order copies 
+of public documents is currently closed. You may submit your request to 
+the PDR via email at [email redacted] or call 1-800-397-4209 
+between 8:00 a.m. and 4:00 p.m. (EST), Monday through Friday, except 
+Federal holidays.
+
+FOR FURTHER INFORMATION CONTACT: Peter Jayroe, Region IV, U.S. Nuclear 
+Regulatory Commission, Arlington, TX 76011-4511; telephone: 817-200-
+1174, email: [email redacted].
+
+SUPPLEMENTARY INFORMATION: The text of the Order is attached.
+
+    Dated: December 2, 2020.
+
+    For the Nuclear Regulatory Commission.
+Scott A. Morris,
+Regional Administrator, NRC Region IV.
+
+Attached--Confirmatory Order
+
+United States of America
+
+Nuclear Regulatory Commission
+
+    In the Matter of: Arizona Public Service Company Palo Verde Nuclear 
+Generating Station.
+
+Docket Nos. 50-528, 50-529, 50-530, 72-044
+License Nos. NPF-41, NPF-51, NPF-74
+EA-20-054
+
+Confirmatory Order Modifying License
+
+(Effective Upon Issuance)
+
+I
+
+    Arizona Public Service Company (APS or Licensee) is the holder of 
+Renewed Facility Operating License Nos. NPF-41, NPF-51, and NPF-74 
+issued on April 21, 2011, by the U.S. Nuclear Regulatory Commission 
+(NRC or Commission) pursuant to Part 50 of Title 10 of the Code of 
+Federal Regulations (10 CFR), ``Domestic Licensing of Production and 
+Utilization Facilities.'' The license authorizes the operation of Palo 
+Verde Nuclear Generating Station (facility) in accordance with 
+conditions specified therein. The facility is located on the Licensee's 
+site in Tonopah, Arizona.
+    This Confirmatory Order is the result of an agreement reached 
+during an alternative dispute resolution (ADR) mediation session 
+conducted on September 16, 2020.
+
+II
+
+    On July 6, 2020, the NRC issued Inspection Report 05000528/2020010, 
+05000529/2020010, 05000530/2020010, and 07200044/2020001 to APS which 
+documented the identification of two apparent violations that were 
+being considered for escalated enforcement action in accordance with 
+the NRC Enforcement Policy. The apparent
+
+[[Page 78875]]
+
+violations included: (1) An apparent violation of 10 CFR 
+72.48(c)(2)(viii) for the failure to perform a written evaluation for a 
+change to the NAC MAGNASTOR dry cask storage system and obtain a 
+license amendment for a change in methodology for performing tip-over 
+calculations; and (2) an apparent violation of 10 CFR 72.146(a) for the 
+failure to adequately analyze the consequences of a hypothetical 
+MAGNASTOR CC5 spent fuel cask tip-over accident on the independent 
+spent fuel storage installation pad.
+    By letter dated July 6, 2020, the NRC notified APS of the results 
+of the inspection with an opportunity to: (1) Provide a response in 
+writing, (2) attend a predecisional enforcement conference; or (3) to 
+participate in an ADR mediation session in an effort to resolve these 
+concerns.
+    In response to the NRC's offer, APS requested the use of the NRC's 
+ADR process to resolve differences it had with the NRC. On September 
+16, 2020, the NRC and APS met in an ADR session mediated by a 
+professional mediator, arranged through Cornell University's Institute 
+on Conflict Resolution. The ADR process is one in which a neutral 
+mediator, with no decision-making authority, assists the parties in 
+reaching an agreement on resolving any differences regarding the 
+dispute. This Confirmatory Order is issued pursuant to the agreement 
+reached during the ADR process.
+
+III
+
+    During the ADR session, APS and the NRC reached a preliminary 
+settlement agreement. The elements of the agreement include the 
+following:
+    APS acknowledged that it: (1) Failed to perform a written 
+evaluation for a change to the NAC MAGNASTOR dry cask storage system 
+and obtain a license amendment for a change in methodology for 
+performing tip-over calculations; and (2) failed to adequately analyze 
+the consequences of a hypothetical MAGNASTOR CC5 spent fuel cask tip 
+over accident on the Independent Spent Fuel Storage Installation 
+(ISFSI) pad.
+    Corrective actions already implemented by APS included:
+    A. Prior to loading fuel in the first MAGNASTOR cask at the Palo 
+Verde Nuclear Generating Station (Palo Verde), APS directed NAC to 
+perform a new tip-over analysis of the Palo Verde plant specific 
+vertical concrete MAGNASTOR CC5 cask on the Palo Verde ISFSI pad using 
+the NAC final safety analysis report (FSAR) described method of 
+evaluation, LS-DYNA.
+    B. On February 28, 2020, APS revised 10 CFR 72.48 screening 72.48 
+S-20-001 to no longer accept the linear scaling method that was 
+originally done for the MAGNASTOR tip-over analysis. The revision of 
+the screening was done to review and accept the tip-over analysis using 
+the NAC FSAR-described method of evaluation, LS-DYNA.
+    C. On February 28, 2020, APS revised the Palo Verde ISFSI 10 CFR 
+72.212 Evaluation Report for the MAGNASTOR System to incorporate the 
+revised 10 CFR 72.48 screening that accepted the tip-over analysis 
+using the NAC FSAR-described method of evaluation, LS-DYNA.
+    D. APS completed a Level 1 Root Cause Analysis that was approved by 
+the Palo Verde Corrective Action Review Board. The root cause analysis 
+addressed the failure to identify a change in a MAGNASTOR FSAR required 
+methodology resulting in APS not complying with 10 CFR 
+72.48(c)(2)(viii) and 10 CFR 72.146(a).
+    E. As part of the root cause analysis, APS performed a review of 
+the tip-over analysis for the UMS dry cask system, used at Palo Verde 
+prior to MAGNASTOR, and confirmed that the UMS tip-over analysis was 
+performed using LS-DYNA as required by the NAC FSAR.
+    F. As part of the root cause analysis, APS performed an extent of 
+condition review of the 10 CFR 72.48 and 10 CFR 50.59 screenings and 
+evaluations performed over the last 5 years. Of the over 600 screenings 
+and evaluations reviewed, APS identified three items of interest that 
+required additional evaluation and were entered into the APS corrective 
+action program.
+    Additional commitments made in the preliminary settlement 
+agreement, as signed by both parties, consist of the following:
+
+Communications
+
+    A. Within 2 months of the issuance date of the Confirmatory Order, 
+APS will develop a communication that will include: A summary of the 
+ISFSI event that resulted in the Confirmatory Order, the root and 
+contributing causes, the corrective actions from the root cause 
+evaluation, and the additional corrective actions from the Confirmatory 
+Order, and APS will submit the proposed communication to the NRC for 
+its review. The NRC will provide any comments to APS on the 
+communication within 1 month from the date of the submittal. APS will 
+consider the NRC's comments and incorporate those comments that APS 
+agrees are appropriate.
+    B. Within 4 months of the issuance date of the Confirmatory Order, 
+APS will issue the Condition A communication as a stand-alone 
+communication from the Chief Nuclear Officer to all qualified personnel 
+in the development, review, and approval of 10 CFR 50.59/72.48 
+``Changes, test, and experiments'' documents. APS will retain a copy of 
+the communication presented and verifiable evidence of the personnel 
+receiving the communication. APS will document the reason for any 
+person not obtaining the communication and the additional efforts used 
+to provide the communication.
+    C. Within 6 months of the issuance date of the Confirmatory Order, 
+APS will develop a presentation and will submit the proposed 
+presentation to the NRC for its review. The NRC will provide any 
+comments to APS on the presentation within 1 month from the date of the 
+submittal. APS will consider the NRC's comments and incorporate those 
+comments that APS agrees are appropriate. The presentation will:
+    1. Include a summary of the ISFSI event that resulted in the 
+Confirmatory Order, the root and contributing causes, the corrective 
+actions from the root cause evaluation, additional corrective actions 
+from the Confirmatory Order, and a discussion on what a Methodology is 
+and what are input parameters.
+    2. Emphasize a General Licensee's requirement to adequately review 
+a vendor's 10 CFR 72.48 analysis through its 10 CFR 50.59/72.48 program 
+for acceptance prior to being implemented at the General Licensee's 
+site.
+    D. Within 15 months of the issuance date of the Confirmatory Order, 
+APS will deliver the presentation to: (1) The INPO Engineering VP 
+Forum, (2) the NEI Used Fuel Conference, and (3) the NEI High Level 
+Waste Working Group (subject to acceptance of the forum or conference 
+organizing committee) as allowed by current COVID-19 considerations.
+
+Training
+
+    E. Within 6 months of the issuance date of the Confirmatory Order, 
+APS will develop a refresher training on 10 CFR 50.59/72.48 
+requirements and processes and will submit the proposed training to the 
+NRC for its review. The NRC will provide any comments to APS on the 
+proposed training within 1 month from the date of the submittal. APS 
+will consider the NRC's comments and incorporate those comments that 
+APS agrees are appropriate.
+    F. Within 9 months of the issuance date of the Confirmatory Order, 
+APS
+
+[[Page 78876]]
+
+will provide the training to all qualified personnel in the 
+development, review, and approval of 10 CFR 50.59/72.48 changes. APS 
+will continue to provide the refresher training at intervals not to 
+exceed 15 months until December 31, 2024. APS will retain a copy of the 
+training and verifiable evidence of the personnel receiving the 
+training. APS will document the reason for any person not obtaining the 
+training and the additional efforts used to provide the training.
+
+Reviews
+
+    G. Within 4 months of the issuance date of the Confirmatory Order, 
+APS will create a challenge review board consisting of three 10 CFR 
+50.59 program single point of contact (SPOC) members who will review 10 
+CFR 72.48 screenings and evaluations prior to the change implementation 
+until December 31, 2024. By March 31 of the calendar year following the 
+Condition G reviews, APS will send a copy of the previous calendar 
+reviews and a copy of any additional corrective actions developed from 
+the reviews to the NRC.
+    H. APS will utilize a design review board to review NAC's design 
+changes with experienced qualified 10 CFR 50.59/72.48 individuals on 
+both NAC MAGNASTOR and NAC UMS systems, applicable to APS, prior to all 
+loading campaigns through December 31, 2024. By March 31 of the 
+calendar year following the Condition H reviews, APS will send a copy 
+of the previous calendar year reviews and a copy of any additional 
+corrective actions developed from the reviews to the NRC.
+
+Training Assessment
+
+    I. Within 12 months of the issuance date of the Confirmatory Order, 
+APS will perform a training needs analysis to determine what training 
+should be provided to engineering personnel relative to software 
+quality assurance. The training needs analysis will consider procedures 
+and processes related to the APS software quality assurance program and 
+aspects of the Spent Fuel Project Office Interim Staff Guidance--21 
+(ISG-21), ``Use of Computational Modeling Software,'' NRC's Agencywide 
+Documents Access and Management System (ADAMS) Accession No. 
+ML061080669. APS will send the results of the training needs analysis 
+and proposed training to the NRC for its review. The NRC will provide 
+any comments to APS on the training within 1 month from the date of the 
+submittal. APS will consider the NRC's comments and incorporate those 
+comments that APS agrees are appropriate.
+    J. Within 24 months of the issuance date of the Confirmatory Order, 
+APS will provide the training resulting from the training needs 
+analysis discussed in Paragraph I to qualified personnel in the 
+development, review, and approval of 10 CFR 50.59/72.48 changes.
+
+Effectiveness Reviews
+
+    K. By December 31 of calendar years 2021 and 2023, APS will perform 
+an effectiveness review of the implemented root cause evaluation 
+corrective actions, and actions associated with the Confirmatory Order. 
+The effectiveness review will include lessons learned from each action 
+implementation or completion, new operating experience since issuance 
+of the Confirmatory Order, and training feedback associated with 10 CFR 
+50.59/72.48 which occurred during the effectiveness review period. APS 
+will modify its corrective actions, as needed and consistent with this 
+Confirmatory Order, based on the results of the effectiveness review. 
+By March 31 of each year following the effectiveness review, APS will 
+send a copy of the effectiveness review and a copy of any additional 
+corrective actions developed from the effectiveness review to the NRC.
+
+Administrative Items
+
+    L. Until December 31, 2026, APS will retain a copy of all 
+documentation created during the implementation of the Confirmatory 
+Order Conditions.
+    M. Documents that are required to be sent to the NRC as a result of 
+the Confirmatory Order Conditions will be sent the Director, Division 
+of Nuclear Materials Safety, U.S. Nuclear Regulatory Commission, Region 
+IV, 1600 E Lamar Blvd., Arlington, TX 76011-4511 and emailed to 
+[email redacted].
+    N. In consideration of the Conditions delineated above, the NRC 
+agrees that the issuance of this Confirmatory Order will not be 
+considered as escalated enforcement. However, for any future escalated 
+enforcement actions involving 10 CFR 72.48 or 10 CFR 72.146, the NRC 
+will consider this Confirmatory Order for the civil penalty assessment 
+purposes as discussed in the NRC Enforcement Policy.
+    O. In consideration of the Conditions delineated above, the NRC 
+agrees not to issue a notice of violation and not impose a civil 
+penalty for the apparent violations discussed in the NRC inspection 
+report to APS dated July 6, 2020.
+    P. In the event of the transfer of the license of APS to another 
+entity, the terms and conditions set forth hereunder shall continue to 
+apply to the new entity and accordingly survive any transfer of 
+ownership or license.
+    Q. The NRC and APS agree that the above elements will be 
+incorporated into a Confirmatory Order.
+    Based on the completed actions described above, and the commitments 
+described in Section V below, the NRC agrees to not pursue any further 
+enforcement action based on the apparent violations identified in the 
+NRC's July 6, 2020, letter.
+    On November 5, 2020, APS consented to issuing this Confirmatory 
+Order with the commitments, as described in Section V below. APS 
+further agreed that this Confirmatory Order is to be effective upon 
+issuance, the agreement memorialized in this Confirmatory Order settles 
+the matter between the parties, and that it has waived its right to a 
+hearing.
+
+IV
+
+    I find that APS's actions completed, as described in Section III 
+above, combined with the commitments as set forth in Section V are 
+acceptable and necessary, and conclude that with these commitments the 
+public health and safety are reasonably assured. In view of the 
+foregoing, I have determined that public health and safety require that 
+APS's commitments be confirmed by this Confirmatory Order. Based on the 
+above and APS's consent, this Confirmatory Order is effective upon 
+issuance.
+
+V
+
+    Accordingly, pursuant to Sections 103, 161b., 161i., 161o., 182, 
+and 186 of the Atomic Energy Act of 1954, as amended, and the 
+Commission's regulations in 10 CFR 2.202 and 10 CFR part 50, it is 
+hereby ordered, effective upon issuance, that license Nos. NPF-41, NPF-
+51, and NPF-74 are modified as follows:
+
+Communications
+
+    A. Within 2 months of the issuance date of the Confirmatory Order, 
+APS will develop a communication that will include: A summary of the 
+ISFSI event that resulted in the Confirmatory Order, the root and 
+contributing causes, the corrective actions from the root cause 
+evaluation, and the additional corrective actions from the Confirmatory 
+Order, and APS will submit the proposed communication to the NRC for 
+its review. The NRC will provide any comments to APS on the 
+communication within 1 month from the date of the submittal. APS will 
+consider the NRC's comments and incorporate those comments that APS 
+agrees are appropriate.
+
+[[Page 78877]]
+
+    B. Within 4 months of the issuance date of the Confirmatory Order, 
+APS will issue the Condition A communication as a stand-alone 
+communication from the Chief Nuclear Officer to all qualified personnel 
+in the development, review, and approval of 10 CFR 50.59/72.48 
+``Changes, test, and experiments'' documents. APS will retain a copy of 
+the communication presented and verifiable evidence of the personnel 
+receiving the communication. APS will document the reason for any 
+person not obtaining the communication and the additional efforts used 
+to provide the communication.
+    C. Within 6 months of the issuance date of the Confirmatory Order, 
+APS will develop a presentation and will submit the proposed 
+presentation to the NRC for its review. The NRC will provide any 
+comments to APS on the presentation within 1 month from the date of the 
+submittal. APS will consider the NRC's comments and incorporate those 
+comments that APS agrees are appropriate. The presentation will:
+    1. Include a summary of the ISFSI event that resulted in the 
+Confirmatory Order, the root and contributing causes, the corrective 
+actions from the root cause evaluation, additional corrective actions 
+from the Confirmatory Order, and a discussion on what a Methodology is 
+and what are input parameters.
+    2. Emphasize a General Licensee's requirement to adequately review 
+a vendor's 10 CFR 72.48 analysis through its 10 CFR 50.59/72.48 program 
+for acceptance prior to being implemented at the General Licensee's 
+site.
+    D. Within 15 months of the issuance date of the Confirmatory Order, 
+APS will deliver the presentation developed in Condition C to: (1) The 
+INPO Engineering VP Forum, (2) the NEI Used Fuel Conference, and (3) 
+the NEI High Level Waste Working Group (subject to acceptance of the 
+forum or conference organizing committee) as allowed by current COVID-
+19 considerations.
+
+Training
+
+    E. Within 6 months of the issuance date of the Confirmatory Order, 
+APS will develop a Systematic Approach to Training refresher training 
+on 10 CFR 50.59/72.48 requirements and processes and will submit 
+proposed training to the NRC for its review. The NRC will provide any 
+comments to APS on the training within 1 month from the date of the 
+submittal. APS will consider the NRC's comments and incorporate those 
+comments that APS agrees are appropriate.
+    F. Within 9 months of the issuance date of the Confirmatory Order, 
+APS will provide the training developed in Condition E above to all 
+qualified personnel in the development, review, and approval of 10 CFR 
+50.59/72.48 changes. APS will continue to provide the refresher 
+training at intervals not to exceed 15 months until December 31, 2024. 
+APS will retain a copy of the training and verifiable evidence of the 
+personnel receiving the training. APS will document the reason for any 
+person not obtaining the training and the additional efforts used to 
+provide the training.
+
+Reviews
+
+    G. Within 4 months of the issuance date of the Confirmatory Order 
+and until December 31, 2024, APS will create a challenge review board 
+consisting of three 10 CFR 50.59 program single point of contact (SPOC) 
+members who will review 10 CFR 72.48 screenings and evaluations prior 
+to the implementation of a design change. By March 31 of the calendar 
+year following the Condition G reviews, APS will send a copy of the 
+previous calendar year reviews and a copy of any additional corrective 
+actions developed from the reviews to the NRC.
+    H. Within 4 months of the issuance date of the Confirmatory Order 
+and until December 31, 2024, APS will utilize a design review board to 
+review NAC's design changes with experienced, qualified 10 CFR 50.59/
+72.48 individuals on both NAC MAGNASTOR and NAC UMS systems applicable 
+to APS prior to all loading campaigns. By March 31 of the calendar year 
+following the Condition H reviews, APS will send a copy of the previous 
+calendar year reviews and a copy of any additional corrective actions 
+developed from the reviews to the NRC.
+
+Training Assessment
+
+    I. Within 12 months of the issuance date of the Confirmatory Order, 
+APS will perform a training needs analysis to determine what training 
+should be provided to engineering personnel relative to software 
+quality assurance. The training needs analysis will consider procedures 
+and processes related to the APS software quality assurance program and 
+aspects of NUREG-2215, ``Standard Review Plan for Spent Fuel Dry 
+Storage Systems and Facilities,'' Appendix 4A, ``Computational Modeling 
+Software Technical Review Guidance,'' NRC's Agencywide Documents Access 
+and Management System (ADAMS) Accession No. ML20121A190. APS will send 
+the results of the training needs analysis and proposed training to the 
+NRC for its review. The NRC will provide any comments to APS on the 
+training within 1 month from the date of the submittal. APS will 
+consider the NRC's comments and incorporate those comments that APS 
+agrees are appropriate.
+    J. Within 24 months of the issuance date of the Confirmatory Order, 
+APS will provide the training resulting from the training needs 
+analysis discussed in Condition I to qualified personnel in the 
+development, review, and approval of 10 CFR 50.59/72.48 changes.
+
+Effectiveness Reviews
+
+    K. By December 31 of calendar years 2021 and 2023, APS will perform 
+an effectiveness review of the implemented root cause evaluation 
+corrective actions, and actions associated with the Confirmatory Order. 
+The effectiveness review will include lessons learned from each action 
+implementation or completion, new operating experience since issuance 
+of the Confirmatory Order, and training feedback associated with 10 CFR 
+50.59/72.48 which occurred during the effectiveness review period. APS 
+will modify its corrective actions, as needed and consistent with the 
+Confirmatory Order, based on the results of the effectiveness review. 
+By March 31 of each year following the effectiveness review, APS will 
+send a copy of the effectiveness review and a copy of any additional 
+corrective actions developed from the effectiveness review to the NRC.
+
+Administrative Items
+
+    L. Until December 31, 2026, APS will retain a copy of all 
+documentation created during the implementation of the Confirmatory 
+Order Conditions.
+    M. Documents that are required to be sent to the NRC as a result of 
+the Confirmatory Order Conditions will be sent to the Director, 
+Division of Nuclear Materials Safety, U.S. Nuclear Regulatory 
+Commission, Region IV, 1600 E Lamar Blvd., Arlington, TX 76011-4511 and 
+emailed to [email redacted].
+    N. In consideration of the Conditions delineated above, the NRC 
+agrees that the issuance of this Confirmatory Order will not be 
+considered as escalated enforcement. However, for any future escalated 
+enforcement actions involving 10 CFR 72.48 or 10 CFR 72.146, the NRC 
+will consider this Confirmatory Order for the civil penalty assessment 
+purposes as discussed in the NRC Enforcement Policy.
+    O. In consideration of the Conditions delineated above, the NRC 
+agrees not to issue a notice of violation and not
+
+[[Page 78878]]
+
+impose a civil penalty for the apparent violations discussed in the NRC 
+inspection report to APS dated July 6, 2020.
+    In the event of the transfer of the license of APS to another 
+entity, the terms and conditions set forth hereunder shall continue to 
+apply to the new entity and accordingly survive any transfer of 
+ownership or license. The Regional Administrator, Region IV, may, in 
+writing, relax, rescind, or withdraw any of the above conditions upon 
+demonstration by APS or its successors of good cause.
+
+VI
+
+    In accordance with 10 CFR 2.202 and 10 CFR 2.309, any person 
+adversely affected by this Confirmatory Order, other than APS, may 
+request a hearing within thirty (30) calendar days of the date of 
+issuance of this Confirmatory Order. Where good cause is shown, 
+consideration will be given to extending the time to request a hearing. 
+A request for extension of time must be made in writing to the 
+Director, Office of Enforcement, U.S. Nuclear Regulatory Commission, 
+Washington, DC 20555, and include a statement of good cause for the 
+extension.
+    All documents filed in NRC adjudicatory proceedings, including a 
+request for hearing and petition for leave to intervene (petition), any 
+motion or other document filed in the proceeding prior to the 
+submission of a request for hearing or petition to intervene, and 
+documents filed by interested governmental entities that request to 
+participate under 10 CFR 2.315(c), must be filed in accordance with the 
+NRC's E-Filing rule (72 FR 49139; August 28, 2007, as amended at 77 FR 
+46562; August 3, 2012). The E-Filing process requires participants to 
+submit and serve all adjudicatory documents over the internet, or in 
+some cases to mail copies on electronic storage media. Detailed 
+guidance on making electronic submissions may be found in the Guidance 
+for Electronic Submissions to the NRC and on the NRC website at <a href="https://www.nrc.gov/site-help/e-submittals.html">https://www.nrc.gov/site-help/e-submittals.html</a>. Participants may not submit 
+paper copies of their filings unless they seek an exemption in 
+accordance with the procedures described below.
+    To comply with the procedural requirements of E-Filing, at least 10 
+days prior to the filing deadline, the participant should contact the 
+Office of the Secretary by email at [email redacted], or by 
+telephone at 301-415-1677, to (1) request a digital identification (ID) 
+certificate, which allows the participant (or its counsel or 
+representative) to digitally sign submissions and access the E-Filing 
+system for any proceeding in which it is participating; and (2) advise 
+the Secretary that the participant will be submitting a petition or 
+other adjudicatory document (even in instances in which the 
+participant, or its counsel or representative, already holds an NRC-
+issued digital ID certificate). Based upon this information, the 
+Secretary will establish an electronic docket for the hearing in this 
+proceeding if the Secretary has not already established an electronic 
+docket.
+    Information about applying for a digital ID certificate is 
+available on the NRC's public website at <a href="http://www.nrc.gov/site-help/e-submittals/getting-started.html">http://www.nrc.gov/site-help/e-submittals/getting-started.html</a>. Once a participant has obtained a 
+digital ID certificate and a docket has been created, the participant 
+can then submit adjudicatory documents. Submissions must be in Portable 
+Document Format (PDF). Additional guidance on PDF submissions is 
+available on the NRC's public website at <a href="http://www.nrc.gov/site-help/electronic-sub-ref-mat.html">http://www.nrc.gov/site-help/electronic-sub-ref-mat.html</a>. A filing is considered complete at the 
+time the document is submitted through the NRC's E-Filing system. To be 
+timely, an electronic filing must be submitted to the E-Filing system 
+no later than 11:59 p.m. Eastern Time on the due date. Upon receipt of 
+a transmission, the E-Filing system time-stamps the document and sends 
+the submitter an email notice confirming receipt of the document. The 
+E-Filing system also distributes an email notice that provides access 
+to the document to the NRC's Office of the General Counsel and any 
+others who have advised the Office of the Secretary that they wish to 
+participate in the proceeding, so that the filer need not serve the 
+document on those participants separately. Therefore, applicants and 
+other participants (or their counsel or representative) must apply for 
+and receive a digital ID certificate before adjudicatory documents are 
+filed so that they can obtain access to the documents via the E-Filing 
+system.
+    A person filing electronically using the NRC's adjudicatory E-
+Filing system may seek assistance by contacting the NRC's Electronic 
+Filing Help Desk through the ``Contact Us'' link located on the NRC's 
+public website at <a href="https://www.nrc.gov/site-help/e-submittals.html">https://www.nrc.gov/site-help/e-submittals.html</a>, by 
+email to [email redacted], or by a toll-free call at 1-866-672-
+7640. The NRC Electronic Filing Help Desk is available between 9 a.m. 
+and 6 p.m., Eastern Time, Monday through Friday, excluding government 
+holidays.
+    Participants who believe that they have good cause for not 
+submitting documents electronically must file an exemption request, in 
+accordance with 10 CFR 2.302(g), with their initial paper filing 
+stating why there is good cause for not filing electronically and 
+requesting authorization to continue to submit documents in paper 
+format. Such filings must be submitted by: (1) First class mail 
+addressed to the Office of the Secretary of the Commission, U.S. 
+Nuclear Regulatory Commission, Washington, DC 20555-0001, Attention: 
+Rulemaking and Adjudications Staff; or (2) courier, express mail, or 
+expedited delivery service to the Office of the Secretary, 11555 
+Rockville Pike, Rockville, Maryland, 20852, Attention: Rulemaking and 
+Adjudications Staff. Participants filing adjudicatory documents in this 
+manner are responsible for serving the document on all other 
+participants. Filing is considered complete by first-class mail as of 
+the time of deposit in the mail, or by courier, express mail, or 
+expedited delivery service upon depositing the document with the 
+provider of the service. A presiding officer, having granted an 
+exemption request from using E-Filing, may require a participant or 
+party to use E-Filing if the presiding officer subsequently determines 
+that the reason for granting the exemption from use of E-Filing no 
+longer exists.
+    Documents submitted in adjudicatory proceedings will appear in the 
+NRC's electronic hearing docket which is available to the public at 
+<a href="https://adams.nrc.gov/ehd">https://adams.nrc.gov/ehd</a>, unless excluded pursuant to an Order of the 
+Commission or the presiding officer. If you do not have an NRC-issued 
+digital ID certificate as described above, click ``Cancel'' when the 
+link requests certificates and you will be automatically directed to 
+the NRC's electronic hearing dockets where you will be able to access 
+any publicly available documents in a particular hearing docket. 
+Participants are requested not to include personal privacy information, 
+such as social security numbers, home addresses, or personal phone 
+numbers in their filings, unless an NRC regulation or other law 
+requires submission of such information. For example, in some 
+instances, individuals provide home addresses in order to demonstrate 
+proximity to a facility or site. With respect to copyrighted works, 
+except for limited excerpts that serve the purpose of the adjudicatory 
+filings and would constitute a Fair Use application, participants are 
+requested not to include copyrighted materials in their submission.
+
+[[Page 78879]]
+
+    The Commission will issue a notice or order granting or denying a 
+hearing request or intervention petition, designating the issues for 
+any hearing that will be held and designating the Presiding Officer. A 
+notice granting a hearing will be published in the Federal Register and 
+served on the parties to the hearing.
+    If a person (other than APS) requests a hearing, that person shall 
+set forth with particularity the manner in which his interest is 
+adversely affected by this Confirmatory Order and shall address the 
+criteria set forth in 10 CFR 2.309(d) and (f).
+    If a hearing is requested by a person whose interest is adversely 
+affected, the Commission will issue an order designating the time and 
+place of any hearings. If a hearing is held, the issue to be considered 
+at such hearing shall be whether this Confirmatory Order should be 
+sustained.
+    In the absence of any request for hearing, or written approval of 
+an extension of time in which to request a hearing, the provisions 
+specified in Section V above shall be final 30 days from the date of 
+this Confirmatory Order without further order or proceedings. If an 
+extension of time for requesting a hearing has been approved, the 
+provisions specified in Section V shall be final when the extension 
+expires if a hearing request has not been received.
+
+    For the Nuclear Regulatory Commission.
+
+/RA/
+
+Scott A. Morris,
+
+Regional Administrator, NRC Region IV.
+
+    Dated this 17th day of November 2020.
+
+[FR Doc. 2020-26846 Filed 12-4-20; 8:45 am]
+BILLING CODE 7590-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

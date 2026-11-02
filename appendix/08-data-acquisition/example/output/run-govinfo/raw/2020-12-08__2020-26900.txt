@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79070-79071]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26900]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+[Summary Notice No. PE-2021-2037]
+
+
+Petition for Exemption; Summary of Petition Received; The Boeing 
+Company
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of petition for exemption received.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This notice contains a summary of a petition seeking relief 
+from specified requirements of Federal Aviation Regulations. The 
+purpose of this notice is to improve the public's awareness of, and 
+participation in, the FAA's exemption process. Neither publication of 
+this notice nor the
+
+[[Page 79071]]
+
+inclusion or omission of information in the summary is intended to 
+affect the legal status of the petition or its final disposition.
+
+DATES: Comments on this petition must identify the petition docket 
+number and must be received on or before December 28, 2020.
+
+ADDRESSES: Send comments identified by docket number FAA-2020-1141 
+using any of the following methods:
+    <bullet> Federal eRulemaking Portal: Go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> and follow the online instructions for sending your 
+comments electronically.
+    <bullet> Mail: Send comments to Docket Operations, M-30; U.S. 
+Department of Transportation (DOT), 1200 New Jersey Avenue SE, Room 
+W12-140, West Building Ground Floor, Washington, DC 20590-0001.
+    <bullet> Hand Delivery or Courier: Take comments to Docket 
+Operations in Room W12-140 of the West Building Ground Floor at 1200 
+New Jersey Avenue SE, Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    <bullet> Fax: Fax comments to Docket Operations at 202-493-2251.
+    Privacy: In accordance with 5 U.S.C. 553(c), DOT solicits comments 
+from the public to better inform its rulemaking process. DOT posts 
+these comments, without edit, including any personal information the 
+commenter provides, to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, as described in the 
+system of records notice (DOT/ALL-14 FDMS), which can be reviewed at 
+<a href="http://www.dot.gov/privacy">http://www.dot.gov/privacy</a>.
+    Docket: Background documents or comments received may be read at 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a> at any time. Follow the online instructions 
+for accessing the docket or go to the Docket Operations in Room W12-140 
+of the West Building Ground Floor at 1200 New Jersey Avenue SE, 
+Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays.
+
+FOR FURTHER INFORMATION CONTACT: Deana Stedman, AIR-612, Federal 
+Aviation Administration, 2200 South 216th Street, Des Moines, WA 98198, 
+phone and fax 206-231-3187, email [email redacted]; or Alphonso 
+Pendergrass, ARM-200, Office of Rulemaking, Federal Aviation 
+Administration, 800 Independence Avenue SW, Washington, DC 20591, phone 
+202-267-4713, email [email redacted].
+    This notice is published pursuant to 14 CFR 11.85.
+
+    Issued in Des Moines, Washington, on December 2, 2020.
+James E. Wilborn,
+Acting Manager, Transport Standards Branch.
+
+Petition for Exemption
+
+    Docket No.: FAA-2020-1141.
+    Petitioner: The Boeing Company.
+    Section(s) of 14 CFR Affected: Sec.  25.1103(b)(2).
+    Description of Relief Sought: The Boeing Company is seeking relief 
+from the listed airplane design requirement in order to support a 
+supplemental type certificate (STC) application for the Model 747-8 
+airplane. The proposed STC includes modifications to the airplane's 
+auxiliary power unit (APU) and the exemption would apply to the APU air 
+inlet system.
+
+[FR Doc. 2020-26900 Filed 12-7-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,776 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78859-78865]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26799]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Food and Drug Administration
+
+[Docket No. FDA-2019-N-5900]
+
+
+Agency Information Collection Activities; Submission for Office 
+of Management and Budget Review; Comment Request; Endorser Status and 
+Explicitness of Payment in Direct-to-Consumer Promotion
+
+AGENCY: Food and Drug Administration, HHS.
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Food and Drug Administration (FDA, Agency, or we) is 
+announcing that a proposed collection of information has been submitted 
+to the Office of Management and Budget (OMB) for review and clearance 
+under the Paperwork Reduction Act of 1995.
+
+DATES: Submit written comments (including recommendations) on the 
+collection of information by January 6, 2021.
+
+ADDRESSES: To ensure that comments on the information collection are 
+received, OMB recommends that written comments be submitted to <a href="https://www.reginfo.gov/public/do/PRAMain">https://www.reginfo.gov/public/do/PRAMain</a>. Find this particular information 
+collection by selecting ``Currently under Review--Open for Public 
+Comment'' or by using the search function. The title of this 
+information collection is ``Endorser Status and Explicitness of Payment 
+in Direct-to-Consumer Promotion.'' Also include the FDA docket number 
+found in brackets in the heading of this document.
+
+FOR FURTHER INFORMATION CONTACT: Ila S. Mizrachi, Office of Operations, 
+Food and Drug Administration, Three White Flint North, 10A-12M, 11601 
+Landsdown St., North Bethesda, MD 20852, 301-796-7726, 
+[email redacted].
+    For copies of the questionnaires contact: Office of Prescription 
+Drug Promotion (OPDP) Research Team, [email redacted].
+
+SUPPLEMENTARY INFORMATION: In compliance with 44 U.S.C. 3507, FDA has 
+submitted the following proposed collection of information to OMB for 
+review and clearance.
+
+Endorser Status and Explicitness of Payment in Direct-to-Consumer 
+Promotion
+
+OMB Control Number 0910--NEW
+
+I. Background
+
+    Section 1701(a)(4) of the Public Health Service Act (42 U.S.C. 
+300u(a)(4)) authorizes FDA to conduct research relating to health 
+information. Section 1003(d)(2)(C) of the Federal Food, Drug, and 
+Cosmetic Act (FD&C Act) (21 U.S.C. 393(d)(2)(C)) authorizes FDA to 
+conduct research relating to drugs and other FDA regulated products in 
+carrying out the provisions of the FD&C Act.
+    The Office of Prescription Drug Promotion's (OPDP) mission is to 
+protect the public health by helping to ensure that prescription drug 
+promotion is truthful, balanced, and accurately communicated. OPDP's 
+research program provides scientific evidence to help ensure that our 
+policies related to prescription drug promotion will have the greatest 
+benefit to public health. Toward that end, we have consistently 
+conducted research to evaluate the aspects of prescription drug 
+promotion that are most central to our mission. Our research focuses in 
+particular on three main topic areas: Advertising features, including 
+content and format; target populations; and research quality. Through 
+the evaluation of advertising features, we assess how elements such as 
+graphics, format, and disease and
+
+[[Page 78860]]
+
+product characteristics impact the communication and understanding of 
+prescription drug risks and benefits; focusing on target populations 
+allows us to evaluate how understanding of prescription drug risks and 
+benefits may vary as a function of audience, and our focus on research 
+quality aims at maximizing the quality of our research data through 
+analytical methodology development and investigation of sampling and 
+response issues. This study will inform the first topic area, 
+advertising features.
+    Because we recognize that the strength of data and the confidence 
+in the robust nature of the findings is improved by utilizing the 
+results of multiple converging studies, we continue to develop evidence 
+to inform our thinking. We evaluate the results from our studies within 
+the broader context of research and findings from other sources, and 
+this larger body of knowledge collectively informs our policies as well 
+as our research program. Our research is documented on our homepage, 
+which can be found at: <a href="https://www.fda.gov/aboutfda/centersoffices/officeofmedicalproductsandtobacco/cder/ucm090276.htm">https://www.fda.gov/aboutfda/centersoffices/officeofmedicalproductsandtobacco/cder/ucm090276.htm</a>. The website 
+includes links to the latest Federal Register notices and peer-reviewed 
+publications produced by our office. The website maintains information 
+on studies we have conducted, dating back to a survey on direct-to-
+consumer (DTC) advertisements conducted in 1999.
+    Advertisers have used celebrity endorsers for years, and DTC 
+pharmaceutical promotion is no different. As researchers studied the 
+influence of celebrity endorsers, they theorized that a correspondence 
+bias occurs in which people believe that endorsers truly believe what 
+they are saying. LaTour and Smith (Ref. 1) examined whether a 
+pharmacist, physician, celebrity, or consumer would be most persuasive 
+in advertisements for four different types of OTC products. They found 
+that endorsements by expert physicians and pharmacists were the most 
+likely to lead to purchase intentions, followed by endorsements by 
+consumers, and lastly, by celebrities. The type of OTC product did not 
+affect the persuasiveness of an endorsement.
+    Bhutada and Rollins (Ref. 2) recently completed a study examining 
+the role of endorser type (i.e., celebrity vs. expert vs. non-
+celebrity), and endorser and consumer gender in product DTC ads. They 
+found, like LaTour and Smith (Ref. 1), that expert endorsers were 
+thought of as higher in credibility and generally resulted in the same 
+amount of attention as celebrities. The authors did not find that 
+endorsement by experts resulted in greater consumer intention to pursue 
+the drug product.
+    We propose to extend previous research by examining four types of 
+endorsers in two separate studies (celebrity, physician, patient, non-
+celebrity influencer) \1\ and examining whether the presence of a 
+disclosure of their payment status influences participant reactions. We 
+propose to also test two different types of disclosure language--one 
+direct and more consumer-friendly, and one less direct.
+---------------------------------------------------------------------------
+
+    \1\ A ``non-celebrity influencer'' is a person who has gained a 
+following on a blog, a Twitter feed, or other social media outlet. 
+In the 60-day notice, the term ``influencer'' was used; we have 
+added language to specify influencers who were not previously 
+celebrities before their social media activities.
+---------------------------------------------------------------------------
+
+    To complete this research, we propose the following concurrent 
+studies.\2\
+---------------------------------------------------------------------------
+
+    \2\ For case allocation, the literature suggests that some 
+proportion of consumers may not recall seeing the disclosure 
+statement in the advertisement (see, for example, Boerman et al.; 
+Ref. 3). Rather than allotting equal numbers of cases to each 
+condition, we will assign more cases to the disclosure present 
+condition to increase power in these cells.
+---------------------------------------------------------------------------
+
+Study 1
+
+                                        Table 1a--Study 1 Design--Pretest
+                                [0.80 power, 0.10 alpha, small effect size f=.2]
+----------------------------------------------------------------------------------------------------------------
+                                                                     Endorser
+               Payment disclosure                ------------------------------------------------      Total
+                                                     Celebrity       Physician        Patient
+----------------------------------------------------------------------------------------------------------------
+Present.........................................              50              50              50             150
+Absent..........................................              33              33              33              99
+                                                 ---------------------------------------------------------------
+    Total.......................................              83              83              83             249
+----------------------------------------------------------------------------------------------------------------
+
+
+                                      Table 1b--Study 1 Design--Main Study
+                                [0.90 power, 0.05 alpha, small effect size f=.2]
+----------------------------------------------------------------------------------------------------------------
+                                                                     Endorser
+               Payment disclosure                ------------------------------------------------      Total
+                                                     Celebrity       Physician        Patient
+----------------------------------------------------------------------------------------------------------------
+Present.........................................              81              81              81             243
+Absent..........................................              54              54              54             162
+                                                 ---------------------------------------------------------------
+    Total.......................................             135             135             135             405
+----------------------------------------------------------------------------------------------------------------
+
+    Study 1 will manipulate endorser type (three levels: Celebrity, 
+physician, patient) and payment disclosure (two levels: Present, 
+absent) within a print DTC ad for a fictitious acne product. For this 
+study, we will recruit 654 general population individuals (249 pretest; 
+405 main study) from the Kantar Lightspeed national nonprobability 
+internet panel. All participants must report familiarity with the 
+celebrity to be included in our study. The celebrity will be one who 
+has publicly spoken out about acne. We are not divulging the identity 
+of the celebrity in this public forum to maintain the integrity of our 
+research process. Stock photos will be used to depict a physician and a 
+patient in the other experimental conditions. Participants will be 
+randomly assigned to see one of the endorsers and to see the ad either 
+with or without a payment disclosure. The payment disclosure in Study 1 
+will be determined in cognitive
+
+[[Page 78861]]
+
+testing but will be similar to: ``[Endorser] has been paid to appear in 
+this ad for Drug X.''
+
+Study 2
+
+                                        Table 2a--Study 2 Design--Pretest
+                                [0.80 power, 0.10 alpha, small effect size f=.2]
+----------------------------------------------------------------------------------------------------------------
+                                                                             Endorser
+                       Payment disclosure                        --------------------------------      Total
+                                                                    Influencer        Patient
+----------------------------------------------------------------------------------------------------------------
+Present-Direct..................................................              50              50             100
+Present-Indirect................................................              50              50             100
+Absent..........................................................              33              33              66
+                                                                 -----------------------------------------------
+    Total.......................................................             133             133             266
+----------------------------------------------------------------------------------------------------------------
+
+
+                                      Table 2b--Study 2 Design--Main Study
+                                [0.90 power, 0.05 alpha, small effect size f=.2]
+----------------------------------------------------------------------------------------------------------------
+                                                                             Endorser
+                       Payment disclosure                        --------------------------------      Total
+                                                                    Influencer        Patient
+----------------------------------------------------------------------------------------------------------------
+Present-Direct..................................................              81              81             162
+Present-Indirect................................................              81              81             162
+Absent..........................................................              54              54             108
+                                                                 -----------------------------------------------
+    Total.......................................................             216             216             432
+----------------------------------------------------------------------------------------------------------------
+
+    In Study 2, we will also manipulate endorser type, examining a 
+patient and an internet influencer, one who provides online content to 
+a number of followers. We will also manipulate the explicitness of the 
+payment disclosure, resulting in a 2 (endorser: Influencer, patient) by 
+3 (payment disclosure: Present-direct, present-indirect, absent) 
+between-subjects design. The disclosure will be direct (e.g., ``Paid 
+ad. . .''), indirect (e.g., #sp for ``sponsored''), or absent. The 
+setting for this study will be an Instagram post for a fictitious 
+endometriosis product. This study partially replicates Study 1 and 
+extends it by further examining the explicitness of payment as another 
+manipulated variable and using a different set of endorser types and in 
+a different promotional setting.
+    For Study 2, we will recruit 698 (266 pretest; 432 main study) 
+followers of an internet influencer who maintains an Instagram page 
+with more than 500,000 followers and has posted about endometriosis. As 
+in the first study, we are not revealing the influencer's identity in 
+this public forum to maintain the integrity of the study.
+    In both studies, we are interested in the role of endorsement and 
+disclosure of payment status on participants' recall, benefit and risk 
+perceptions, and behavioral intentions. Participants will view one 
+promotional piece and answer questions via the internet. The study is 
+expected to take less than 20 minutes to complete. Dependent variables 
+will include attention to disclosure statement and risk/benefit 
+information; retention of risk/benefit information; recognition of 
+piece as promotion and endorser as paid; perceived benefits and risks, 
+attitudes toward the product, endorser, and ad; and behavioral 
+intentions, such as asking a doctor about the drug.
+    In the Federal Register of January 28, 2020 (85 FR 4994), FDA 
+published a 60-day notice requesting public comment on the proposed 
+collection of information. FDA received six submissions that were PRA-
+related. One submission (<a href="https://www.regulations.gov/docketBrowser?rpp=25&po=0&dct=PS&D=FDA-2019-N-5900&refD=FDA-2019-N-5900-0001">https://www.regulations.gov/docketBrowser?rpp=25&po=0&dct=PS&D=FDA-2019-N-5900&refD=FDA-2019-N-5900-0001</a>) was a brief statement of support for the research and is not 
+addressed further. Within the remaining five submissions, FDA received 
+multiple comments that the Agency has addressed below. For brevity, 
+some public comments are paraphrased and, therefore, may not reflect 
+the exact language used by the commenter. We assure commenters that the 
+entirety of their comments was considered even if not fully captured by 
+our paraphrasing in this document. The following acronyms are used 
+here: DTC = direct-to-consumer; FDA and ``The Agency'' = Food and Drug 
+Administration; OPDP = FDA's Office of Prescription Drug Promotion; and 
+FTC = Federal Trade Commission.
+    (Comment 1) One comment suggested that the proposed research, at 
+least in part, is duplicative of information otherwise reasonably 
+available to FDA. The comment pointed out that the Notice cites three 
+scientific references, and it does not address the other literature 
+that exists on the subject of endorsers in advertising. The comment 
+recommended that FDA assemble and review the relevant literature on 
+endorsement to ensure the research questions have not already been 
+answered.
+    (Response) A literature review was conducted as part of this 
+project that identified relevant literature. We identified a 
+significant gap in the literature regarding the impact of social media 
+influencers in prescription drug DTC advertisements, as well as a lack 
+of information about the impact of explicit payment disclosure. The 
+research questions outlined in our proposed research were designed to 
+address this gap.
+    (Comment 2) One comment suggested that, although the studies 
+contain clear variables, they appear to lack clearly defined primary 
+outcomes and prespecified hypotheses for testing. The comment also 
+noted that the studies do not appear to be designed to account for Type 
+I error; thus, the results may be uninterpretable. The comment 
+recommended that FDA propose a primary endpoint for each study and 
+power each study to test it.
+    (Response) Specific hypotheses have been developed for each of the 
+outcome variables, as described earlier in the notice. We will adjust 
+for multiple comparisons using the Bonferroni correction.
+
+[[Page 78862]]
+
+    (Comment 3) One comment suggested that it is unclear how FDA came 
+up with the proposed sample sizes for the two related studies. For 
+example, the comment stated that the chart for pretest 1 contains the 
+following notation: ``(0.80 power, 0.10 alpha, small effect size 
+f=.2),'' but it is unclear what f=.2 means in this context. The comment 
+requested that FDA explain what statistical model it used to estimate 
+the study size and how it determined that the relevant effect size is 
+.2.
+    (Response) f=.2 is a common standard used to calculate small effect 
+size in experimental studies (Ref. 4). We used G*Power to estimate 
+study size (Ref. 5).
+    (Comment 4) One comment suggested that the proposed research is 
+unnecessary to the proper performance of FDA's functions because the 
+FTC takes the lead on regulating endorsement. The comment stated that 
+FDA has not addressed the extensive framework and guidance available 
+from the FTC on this topic. The comment further stated that, although 
+use of an endorser might conceivably inform an assessment of whether 
+advertising or promotion is false or misleading, it is not clear how 
+FDA views this new research on endorser status as fitting into its core 
+regulatory jurisdiction or activities.
+    (Response) FDA and the FTC have a long history of working 
+collaboratively to protect American consumers. While the FTC does 
+regulate endorsement in many types of commercial advertisements, FDA 
+has authority to regulate prescription drug advertising with respect to 
+the safety and effectiveness of such drugs. In line with FDA's 
+responsibility to ensure that prescription drug advertising and other 
+promotional communications are truthful and non-misleading, the present 
+research will provide data on how elements related to endorsement 
+presentations in prescription drug promotion impact audience perception 
+and comprehension. Collecting this data is critical to FDA's science-
+based approach to assessing prescription drug promotion to determine 
+whether it communicates information about prescription drugs to 
+consumers in a truthful, non-misleading way. We note that as part of 
+the process of developing the present research, FDA carefully evaluated 
+the FTC guidance on endorser issues.
+    (Comment 5) One comment recommended that alignment and input should 
+be obtained from the FTC regarding the design of the study and 
+usability of the results.
+    (Response) We evaluated the current FTC guidance on endorsement 
+disclosure when developing this study and all relevant elements of its 
+design, including our hypotheses, test stimuli, etc.
+    (Comment 6) One comment suggested that the research may be skewed 
+by the influence of a particular celebrity. The comment recommended 
+that the study be amended so it is not subject to bias by the influence 
+of one particular well-known celebrity.
+    (Response) Familiarity with an endorser has shown to be an 
+important factor in attention to DTC advertisements, but the evidence 
+is less strong that familiarity uniquely affects other outcomes such as 
+behavioral intention (see, for example, Refs. 2 and 6). The celebrity 
+used in Study 1 will have high levels of public recognition, so we 
+anticipate few participants will be filtered out due to low levels of 
+familiarity with endorser. We recognize that the individual 
+characteristics of the celebrity may drive responses. This possibility 
+is an unavoidable limitation of the study design, and we will be 
+transparent when reporting results.
+    (Comment 7) One comment recommended that FDA use #ad instead of 
+#sp. The comment noted that FTC has stated that #ad is an effective 
+disclosure of sponsorship.
+    (Response) Our review of current practices shows that vendors 
+continue to indicate endorsement by #sp online. An indirect disclosure 
+such as #sp serves as a useful comparator to a direct disclosure such 
+as ``Paid ad. . .'', helping us answer the research question of whether 
+direct and indirect acknowledgements of endorsement vary in their 
+influence on attitudes and perceptions.
+    (Comment 8) One comment recommended that FDA incorporate some type 
+of control into each study.
+    (Response) We have designed these studies to include a control. The 
+control, in both studies, is a duplicate version of the promotion 
+featuring endorsement by a patient, as opposed to a celebrity or 
+influencer, without inclusion of a payment disclosure.
+    (Comment 9) One comment suggested that FDA should ensure that the 
+hypothetical products used in the proposed surveys do not too closely 
+resemble real products. For example, the conditions of use and the risk 
+of the hypothetical products should not mirror FDA-approved labeling 
+language for any marketed products. In addition, FDA should only 
+present hypothetical drug advertisements for diseases with many 
+treatment options from multiple sponsors. Otherwise, the comment states 
+that FDA's research could inadvertently harm one particular sponsor.
+    (Response) The prescription drugs used in this study, while based 
+on existing prescription treatments, are fictitious with names and 
+branding that do not mirror any marketed products. Although we have 
+created the pieces to be as realistic as possible, FDA does not intend 
+to single out any real product on the basis of our fictional promotion. 
+We specifically use fictitious products and materials to avoid the 
+confound of prior knowledge of actual products. Moreover, it is the 
+endorser type and messaging around the endorsement disclosure that are 
+being investigated. The fictional drug is not a study variable and 
+therefore is held constant.
+    (Comment 10) One comment suggested that the route of drug 
+administration may influence the participants' responses, as oral 
+administration and inhaled medication is preferable compared to 
+injections. Therefore, the comment suggested that the study use 
+fictitious drugs with routes of administration that are similar to top 
+advertised DTC prescription drugs.
+    (Response) This is outside the scope of study objectives. The goal 
+of the studies is to understand the effect of endorsement and payment 
+disclosure on perceived risks and benefits of DTC promotion. Because 
+the same drug is being presented in each experimental condition, the 
+effects of mode of administration are being held constant in each 
+study; therefore, any observed effects are not related to the route of 
+administration chosen.
+    (Comment 11) One comment suggested that in order to increase 
+internal validity, the location of the disclosures in the promotional 
+pieces should be consistent across endorser and/or disclosure type.
+    (Response) FDA will ensure that for each study, disclosures will 
+appear in the same area of the promotional piece, using similar font 
+and style treatment.
+    (Comment 12) One comment suggested that acne and endometriosis 
+drugs are not representative of the top advertised prescription drugs 
+and that the current proposed study design, therefore, may not 
+represent the most advertised DTC drugs in the market.
+    (Response) The purpose of the studies is to understand the effect 
+of endorsement and payment disclosure on perceived risks and benefits 
+of DTC promotion. The value of our approach is random assignment to 
+experimental conditions and control of extraneous variables. Choice of 
+drug is not a study variable and therefore held constant. Although the 
+type of drug may play a
+
+[[Page 78863]]
+
+role in the perceptions of risks and benefits, the value of our study 
+is the comparisons between experimental conditions.
+    (Comment 13) Two comments suggested that participants' 
+unfamiliarity with the proposed conditions may bias their responses, so 
+it may be more useful to include only patients with the condition as 
+participants in each study.
+    (Response) The study population is those who are exposed to 
+prescription drug advertisements. For Study 1, we chose a high 
+incidence condition (acne) so that it would be relatable to a large 
+segment of the population. Regardless of whether or not the condition 
+is personally salient, the public is still exposed to these 
+advertisements.
+    For Study 2, we chose a condition that is important to the 
+influencer in the study--and this information would be known to many of 
+her followers, who are the research audience for Study 2. Engagement 
+and e-Word of Mouth have been shown to be important behavioral outcomes 
+from social media promotion (Ref. 3). Thus, in a real-world setting, 
+audience members may choose to comment on or share the advertised 
+content with family or friends, regardless of whether or not they have 
+the health condition themselves.
+    For both studies, we ask about personal experience and involvement 
+with the health condition, and we will assess whether these variables 
+have any effects.
+    (Comment 14) One comment suggested ensuring that neutral language 
+is used when recruiting for Study 1's general population, so as not to 
+select for participants that are more susceptible to the celebrity's 
+influence. For example, the comment suggested that the study ask 
+participants if they ``recognize'' the celebrity vs. if they are a 
+``fan'' of the celebrity.
+    (Response) In screeners for both studies, we ask if participants 
+are ``familiar'' with celebrities/influencers, thus maintaining neutral 
+language.
+    (Comment 15) Two comments suggested participants' familiarity with 
+the endorser may bias responses and limit participant demographics. One 
+comment suggested that recruiting participants from the follower list 
+of an Instagram influencer, as proposed in Study 2, may skew the 
+average age of the participants to be younger, especially if the 
+influencer chosen for this study is a ``handheld name'' versus a 
+``household name.'' The comment also suggested that the participants 
+may have a female skew. Another comment suggested that the current 
+inclusion criteria should be expanded to also include followers of 
+influencers with similar content, recognition, and follower 
+demographics as the endorser being tested, which will increase external 
+validity by encompassing viewers that would likely see the post through 
+suggestions via Instagram's algorithm.
+    (Response) Familiarity with an endorser has been shown to be an 
+important factor in attention given to DTC advertisements (Ref. 2), and 
+that is one driver of an influencer's value as an endorser. By 
+including endorser type as an experimental condition, we seek to 
+isolate these effects. Thus, the biases inherent in these relationships 
+are a necessary aspect of this topic area.
+    The study design is a between-subjects design. Because participants 
+are only exposed to one promotional piece, the specific effects from 
+behavioral bias can be isolated.
+    We agree with the commenter that Study 2 will have a younger, 
+female skew. This is consistent with Instagram's audience more 
+generally (Ref. 7). Advertisers who use Instagram influencers as 
+endorsers will access the same audience (i.e., Instagram followers) as 
+in our study. To minimize confounds, we will limit the sample to the 
+influencer's followers, who are likely to be the most influenced by 
+her. Future research can be conducted on whether our findings 
+extrapolate to men and older audiences.
+    (Comment 16) One comment suggested that to account for the 
+potential bias in these studies, it would be useful to include 
+questions relating to participant demographics in the surveys, such as 
+age, gender, and attitude toward the celebrity or influencer, if they 
+are not already included.
+    (Response) The survey includes questions about participant 
+demographics and attitude toward endorser.
+    (Comment 17) One comment suggested that in order to prevent bias, 
+the study should exclude consumers who work in healthcare or marketing 
+settings, primary care providers that spend less than 50 percent of 
+their time on patient care, and Department of Health and Human Service 
+employees.
+    (Response) The studies in this research do not include physician 
+participants. Consumers will be excluded if they work for a 
+pharmaceutical company, an advertising agency, a market research firm, 
+or the U.S. Department of Health and Human Services. They will also be 
+screened out if they are not familiar with the celebrity/influencer, 
+and, for Study 2, if they are biologically male, as men cannot have 
+endometriosis.
+    (Comment 18) One comment suggested that the questionnaire is too 
+long and recommended deleting questions or rewording.
+    (Response) We have had individuals unfamiliar with the study test 
+the survey for length, and we found it takes less than 20 minutes to 
+complete. Moreover, we will also conduct pretesting to check timing and 
+make adjustments, if necessary, based on the data from those pretests.
+    (Comment 19) One comment suggested we should consistently use 
+balanced Likert scales with a neutral midpoint.
+    (Response) This is a matter of debate in the literature and has 
+never been resolved. Many of our measures derive from previously 
+validated scales, and we prefer to maintain the scales on which they 
+were validated. However, where appropriate, we do use 5-point Likert 
+scales with a neutral midpoint.
+    (Comment 20) One comment recommended rewording Q17 (in both study 
+questionnaires) to state ``What do you remember about the safety 
+information presented?''
+    (Response) Q17 is a validated (OMB control number 0910-0861) 
+closed-ended item asking how much risk information was read (with a 
+thumbnail image highlighting the important safety information). In 
+order to increase quality of response, we will keep the closed-ended 
+item. Moreover, open-ended questions take longer to answer, and we want 
+to maintain an appropriate length of time to complete the survey.
+    (Comment 21) One comment suggested that the adjectives that the 
+respondent is asked to rank in Q18a-Q18e (Study 1) are redundant with 
+only nuanced differences that may not be distinguishable to 
+respondents, and therefore suggested these items be deleted. If they 
+are retained, the comment suggested labeling answer choice #3 with 
+``Neither unimportant nor important.''
+    (Response) These items were adapted from Zaichowsky's Disease State 
+Involvement scale (Ref. 8). The original validated items used a 7-point 
+scale without a labeled midpoint. To be consistent with most of the 
+items and with previous comments, we reduced the scale to 5 points. 
+However, we did not include a labeled midpoint because it could result 
+in under-response for values 2 and 4. This response applies to Q20 
+(Study 2) as well, where we want to ensure that individuals taking 
+Study 2 on their mobile devices are not overwhelmed.
+
+[[Page 78864]]
+
+    (Comment 22) One comment suggested that Q20 and Q21 (Study 1) may 
+be redundant, and since Q20 uses more consumer-friendly language to 
+seek respondent opinion on effectiveness of drug, the comment 
+recommended removing Q21. This comment also applies to Q22 and Q23 of 
+Study 2.
+    (Response) We will remove Q21 (Study 1) and Q23 (Study 2).
+    (Comment 23) One comment recommended that Q22 (Study 1) be framed 
+differently to help understand how endorsers influence the 
+understanding of safety and risk and that the answer choice should have 
+an option for respondents who do not know.
+    (Response) We decline to make the recommended change because this 
+is a validated item that FDA has used in past survey experiments to 
+measure perceived risk likelihood.
+    (Comment 24) One comment questioned the utility of asking whether 
+an endorser is ``Attractive,'' ``Classy,'' and ``Elegant'' (Q30, Study 
+1); whether a drug name and endorser name ``go together'' (Q31, Study 
+1); and how a subject feels about the life and values of the endorser 
+(Q32, Study 1). The comment recommended that FDA consider deleting 
+these questions.
+    (Response) In the marketing literature on celebrity endorsements, 
+these three elements are well established as important moderators in 
+attitude toward advertisement and behavioral intention. ``Attractive,'' 
+``Classy,'' and ``Elegant'' are elements in a 15-item scale validated 
+by Ohanian (1990) to measure endorser credibility (Ref. 9). The 
+literature refers to ``whether a drug name and endorser go together'' 
+as ``product match-up'' (Ref. 10), and high match-up was recently shown 
+to be predictive of behavioral intention for e-cigarettes (Ref. 11). 
+The level of identification that consumers have with a celebrity 
+endorser has been shown to influence how consumers attend to and 
+process information in an advertisement (Refs. 12 and13). Thus, we will 
+maintain these questions.
+    (Comment 25) One comment suggested that, if the research is 
+intended to assess the influence of endorsers or their payment status, 
+Q15-Q17 in both surveys and Q20-Q27 for Study 1 and Q22-Q29 for Study 2 
+appear to be outside of the scope. With these questions, subjects would 
+be asked to assess the risks and benefits of a drug based on an 
+advertisement. The comment recommended that FDA delete these questions 
+or revise them so they are focused instead on payment or endorsement.
+    (Response) As part of the examination of the effect of the 
+endorser, one purpose of the study is to understand the effect of 
+endorsement and payment disclosure in DTC promotion on perceived risks 
+and benefits of a prescription drug. The questions mentioned in this 
+comment measure these dependent variables--consumer perceptions of risk 
+and benefit information presented in the promotion. We will maintain 
+these questions in order to assess if endorsement and the payment 
+disclosure have any effects on perceptions of risk and benefit 
+information.
+    (Comment 26) One comment suggested that the structure of Q28 (Study 
+1) and Q30 (Study 2) should be consistent with other questions in this 
+survey. It recommended changing each question to include ``What is the 
+likelihood'' (e.g., What is the likelihood that you would ask your 
+doctor to prescribe) and presenting answer choices in a 5-point Likert 
+scale.
+    (Response) We will assess how this item functions in pretesting and 
+make any change that is warranted.
+    (Comment 27) One comment suggested moving Q28a (Study 1) and Q30a 
+(Study 2) up in the survey, after Q13, as this question could function 
+as a priming question after initial viewing of ad.
+    (Response) Because this item is part of a validated scale (Ref. 
+14), we will maintain it at its current location in both surveys.
+    (Comment 28) One comment suggested that Q31 (Study 1) and Q33 
+(Study 2) construct and answer choices should align with other 
+similarly constructed question and answer choices in this section of 
+the survey.
+    (Response) This is a validated item (Ref. 15) to measure endorser-
+product match-up. Therefore, we will maintain the current format.
+    (Comment 29) One comment suggested that Q33 (Study 1) and Q35 
+(Study 2) could cause respondent confusion regarding what is meant by 
+``background,'' which could lead to uninterpretable results. It 
+recommended explicitly stating what is meant by ``background'' (e.g., 
+``I prefer a product recommended by an endorser because of his/her 
+experience with this illness'').
+    (Response) This is a validated item (Ref. 16) that measures 
+identification with endorser; thus, we will maintain its original form 
+in both studies.
+    (Comment 30) One comment mentioned that Q43-Q45 (Study 1) and Q45-
+Q47 (Study 2) probe the level of influence that endorsers have over 
+respondents and suggested adding a question asking if the respondent 
+has followed the advice of an endorser.
+    (Response) Q36-Q48 (Study 1) and Q45-47 (Study 2) are validated 
+items in the celebrity-persona parasocial-involvement scale (Ref. 17); 
+thus, we will maintain the integrity of the scale and not add another 
+question in this series.
+    (Comment 31) One comment suggested that the debriefing statements 
+in both questionnaires may serve the respondent better if placed 
+earlier in the document as a disclaimer and suggested placing the 
+disclaimer language prior to showing the promotional piece.
+    (Response) To maximize the attention participants give to this 
+survey task, we do not wish to inform them of the information in the 
+debriefing statement until they have completed the survey.
+    (Comment 32) One comment suggested that Q18 and Q19 (Study 2) are 
+redundant, although respondents may not define a paid endorser post as 
+advertising, and that the items seem irrelevant. It recommended 
+removing Q18 from the questionnaire.
+    (Response) Previous experimental studies on social media promotion 
+have found that participants did not consistently notice a payment 
+disclosure or interpret a sponsored post as advertising (Ref. 1). These 
+issues are central to the question of whether consumers process payment 
+disclosures. Moreover, participants in cognitive testing distinguished 
+between the two items.
+    (Comment 33) One comment noticed that Q20 in Study 2 is similar to 
+Q18 in Study 1; however, answer choices are not provided in a similar 
+construct. The comment recommended utilizing a 5-point Likert scale to 
+measure the outcome.
+    (Response) We simplified the response scale for Study 2 items, 
+where possible, to account for anticipated higher usage of mobile 
+devices. Because we prefer a larger number of response options in 
+general, we plan to maintain the 5-point Likert scale for Study 1, but 
+use the 3-point scale in Study 2 to account for mobile devices.
+    (Comment 34) One comment suggested that Q24 (Study 2) could be 
+framed differently to help understand how endorsers influence the 
+understanding of safety and risk. The comment recommended asking ``Do 
+you recall the risk associated with the medication?'' and suggested 
+that the answer choice should have an option for respondents who do not 
+know.
+    (Response) Q24 and Q25 from Study 2 are closed-ended questions that 
+ask about recall of drug benefits and risks. To be balanced, the 
+question stem and
+
+[[Page 78865]]
+
+response options should be parallel between the two items. Moreover, we 
+cannot add additional open-ended questions to the survey without 
+increasing participant fatigue. Thus, we will maintain the closed-ended 
+nature of the question. We recognize that this will be a difficult 
+question for participants, and therefore, we prefer not to provide an 
+option for ``don't know.''
+    FDA estimates the burden of this collection of information as 
+follows:
+
+                                 Table 3--Estimated Annual Reporting Burden \1\
+----------------------------------------------------------------------------------------------------------------
+                                                   Number of
+           Activity                Number of     responses per   Total annual    Average burden     Total hours
+                                  respondents     respondent       responses      per response
+----------------------------------------------------------------------------------------------------------------
+Study 1 Screener..............             933               1             933  0.08 (5 minutes)           74.64
+Study 1 Pretest...............             249               1             249  0.33 (20                   82.17
+                                                                                 minutes).
+Study 1 Main Test.............             405               1             405  0.33 (20                  133.65
+                                                                                 minutes).
+Study 2 Screener..............           1,417               1           1,417  0.08 (5 minutes)          113.36
+Study 2 Pretest...............             266               1             266  0.33 (20                   87.78
+                                                                                 minutes).
+Study 2 Main Test.............             432               1             432  0.33 (20                  142.56
+                                                                                 minutes).
+                               ---------------------------------------------------------------------------------
+    Total.....................  ..............  ..............  ..............  ................          634.16
+----------------------------------------------------------------------------------------------------------------
+\1\ There are no capital costs or operating and maintenance costs associated with this collection of
+  information.
+
+II. References
+
+    The following references are on display with the Dockets Management 
+Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 
+1061, Rockville, MD 20852, 240-402-7500, and are available for viewing 
+by interested persons between 9 a.m. and 4 p.m., Monday through Friday; 
+these are not available electronically at <a href="https://www.regulations.gov">https://www.regulations.gov</a> 
+as these references are copyright protected. Some may be available at 
+the website address, if listed. FDA has verified the website addresses, 
+as of the date this document publishes in the Federal Register, but 
+websites are subject to change over time.
+
+1. LaTour, C. and M. Smith (1986). ``A Study of Expert Endorsement 
+of OTC Pharmaceutical Products.'' Journal of Pharmaceutical 
+Marketing & Management, vol. 1(2), pp. 117-128.
+2. Bhutada, N.S. and B.L. Rollins (2015). ``Disease-Specific Direct-
+to-Consumer Advertising of Pharmaceuticals: An Examination of 
+Endorser Type and Gender Effects on Consumers' Attitudes and 
+Behaviors.'' Research in Social Administrative Pharmacy, vol. 11(6), 
+pp. 891-900.
+3. Boerman, S.C., L.M. Willemsen, and E.P. Van Der Aa (2017). `` 
+`This post is sponsored': Effects of Sponsorship Disclosure on 
+Persuasion Knowledge and Electronic Word of Mouth in the Context of 
+Facebook.'' Journal of Interactive Marketing, vol. 38, pp. 82-92.
+4. Cohen, J. (1988), ``Statistical Power Analysis for the Behavioral 
+Sciences.'' Routledge. ISBN 978-1-134-74270-7.
+5. Faul, F., E. Erdfelder, A.G. Lang, et al. (2007). ``G*Power 3: A 
+Flexible Statistical Power Analysis Program for the Social, 
+Behavioral, and Biomedical Sciences.'' Behavior Research Methods, 
+vol. 39, pp. 175-191.
+6. Woods, C.B., S. Baxter, E. King, et al. (2017). ``Celebrity? 
+Doctor? Celebrity doctor? Which Spokesperson Is Most Effective for 
+Cancer Prevention?'' In E. Kendal and B. Diug (Eds.) Teaching 
+Medicine and Medical Ethics Using Popular Culture (pp. 71-98). 
+Palgrave Studies in Science and Popular Culture. Cham, Switzerland: 
+Palgrave Macmillan. doi:10.1007/978-3-319-65451-5_5.
+7. <a href="https://www.statista.com/statistics/398166/us-instagram-user-age-distribution/">https://www.statista.com/statistics/398166/us-instagram-user-age-distribution/</a>.
+8. Zaichkowsky, J.L. (1994). ``The Personal Involvement Inventory: 
+Reduction, Revision, and Application to Advertising.'' Journal of 
+Advertising, vol. 23(4), pp. 59-70.
+9. Ohanian, R. (1990). ``Construction and Validation of a Scale to 
+Measure Celebrity Endorsers' Perceived Expertise, Trustworthiness, 
+and Attractiveness.'' Journal of Advertising, vol. 19(3), pp. 39-52.
+10. Kamins, M.A. and K. Gupta (1994). ``Congruence Between 
+Spokesperson and Product Type: A Matchup Hypothesis Perspective.'' 
+Psychology & Marketing, vol. 11(6), pp. 569-586.
+11. Phua, J., J.S.E. Lin, and D.J. Lim (2018). ``Understanding 
+Consumer Engagement with Celebrity-Endorsed E-Cigarette Advertising 
+on Instagram.'' Computers in Human Behavior, vol. 84, pp. 93-102.
+12. Brown, W.J. and M.C. Bocarnea (2007). ``Celebrity-Persona 
+Interaction Scale.'' In R.A. Reynolds, R. Woods, and J.D. Baker 
+(Eds.) Handbook of Research on Electronic Surveys and Measurements 
+(pp. 302-305). Hershey, PA: Idea Group Reference.
+13. Brown, W.J. and M.A.C. De Matviuk (2010). ``Sports Celebrities 
+and Public Health: Diego Maradona's Influence on Drug Use 
+Prevention.'' Journal of Health Communication, vol. 15(4), pp. 358-
+373.
+14. Huh, J., D.E. DeLorme, and L.N. Reid (2005). ``Factors Affecting 
+Trust in On-Line Prescription Drug Information and Impact of Trust 
+on Behavior Following Exposure to DTC Advertising.'' Journal of 
+Health Communication, vol. 10(8), pp. 711-731.
+15. Till, B.D. and M. Busler (2000). ``The Match-Up Hypothesis: 
+Physical Attractiveness, Expertise, and the Role of Fit on Brand 
+Attitude, Purchase Intent and Brand Beliefs.'' Journal of 
+Advertising, vol. 29(3), pp. 1-13.
+16. Biswas, D., A. Biswas, and N. Das (2006). ``The Differential 
+Effects of Celebrity and Expert Endorsements on Consumer Risk 
+Perceptions: The Role of Consumer Knowledge, Perceived Congruency, 
+and Product Technology Orientation.'' Journal of Advertising, vol. 
+35(2), pp. 17-31.
+17. Bocarnea, M.C. and W.J. Brown (2007). ``Celebrity-Persona 
+Parasocial Interaction Scale.'' In R.A. Reynolds, R. Woods, and J.D. 
+Baker (Eds.) Handbook of Research on Electronic Surveys and 
+Measurements (pp. 309-312). Hershey, PA: Idea Group Reference.
+
+    Dated: December 1, 2020.
+Lauren K. Roth,
+Acting Principal Associate Commissioner for Policy.
+[FR Doc. 2020-26799 Filed 12-4-20; 8:45 am]
+BILLING CODE 4164-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79016-79017]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26970]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Administration for Children and Families
+
+[CFDA Number: 93.595]
+
+
+Announcement of the Intent To Award a Single-Source Grant to the 
+University of Maryland in College Park, Maryland
+
+AGENCY: Office of Planning, Research, and Evaluation (OPRE), 
+Administration for Children and Families (ACF), Department of Health 
+and Human Services (HHS).
+
+ACTION: Notice of Issuance of a Single-Source award.
+
+-----------------------------------------------------------------------
+
+SUMMARY: ACF/OPRE announces the intent to award a grant in the amount 
+of $499,514 to the University of Maryland in College Park, Maryland. 
+The purpose of this award is to develop alternative statistical methods 
+for adjusting Temporary Assistance for Needy Families (TANF) caseload 
+data to account for states' programmatic differences and examine the 
+relative effectiveness of state programs.
+
+DATES: The proposed period of performance is January 1, 2021 to 
+December 31, 2023.
+
+FOR FURTHER INFORMATION CONTACT: Girley Wright, Senior Program Analyst, 
+Office of Planning, Research, and Evaluation, 330 C Street SW, 
+Washington, DC 20201. Telephone: 202-401-5070; Email: 
+[email redacted].
+
+SUPPLEMENTARY INFORMATION: The University of Maryland plans to develop 
+several alternative statistical methods for comparing TANF outcomes 
+across states and complete two reports. The first report will describe 
+the results of applying the selected models to each of the TANF 
+performance measures, the sensitivity of the analyses to assumptions 
+and model specifications, the sufficiency of the existing federal TANF 
+data, and the usefulness of supplemental, state-level TANF data. The 
+second report will describe the grantee efforts to convene cross-state, 
+peer-to-peer performance improvement exchanges, including the results 
+of an evaluation of states' efforts. The results of this award will 
+increase ACF's ability to answer questions about how well TANF helps 
+recipients increase their employment and earnings and move toward self-
+sufficiency. The Office of Family Assistance in coordination with OPRE 
+would find this analysis informative and useful for ongoing TANF 
+performance management efforts.
+
+
+[[Page 79017]]
+
+
+    Statutory Authority: Social Security Act, Title IV, Section 
+413(a), 42 U.S.C. Sec.  613(a).
+
+Elizabeth Leo,
+Senior Grants Policy Specialist, Office of Grants Policy, Office of 
+Administration.
+[FR Doc. 2020-26970 Filed 12-7-20; 8:45 am]
+BILLING CODE 8414-09-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,318 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Proposed Rules]
+[Pages 78811-78813]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26818]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 71
+
+[Docket No. FAA-2020-1014; Airspace Docket No. 20-ASW-7]
+RIN 2120-AA66
+
+
+Proposed Amendment of Class D and E Airspace; Farmington, NM
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: This action proposes to modify Class D airspace at Four 
+Corners Regional Airport. This action also proposes to modify the Class 
+E airspace designated as a surface area to match the modified Class D 
+dimensions. Additionally, this action proposes to modify the Class E 
+airspace, extending upward from 700 feet above the surface. Further, 
+this action proposes to remove the Class E airspace, extending upward 
+from 1,200 feet above the surface. This action also proposed to remove 
+the Four Corners Regional ILS Localizer and the Farmington VORTAC from 
+the legal descriptions' text headers and airspace descriptions. Lastly, 
+this action proposes several administrative corrections to the airspace 
+legal descriptions. This action would ensure the safety and management 
+of instrument flight rules (IFR) operations at the airport.
+
+DATES: Comments must be received on or before January 21, 2021.
+
+ADDRESSES: Send comments on this proposal to the U.S. Department of 
+Transportation, Docket Operations, 1200 New Jersey Avenue SE, West 
+Building Ground Floor, Room W12-140, Washington, DC 20590; telephone: 
+1-800-647-5527, or (202) 366-9826. You must identify FAA Docket No. 
+FAA-2020-1014; Airspace Docket No. 20-ASW-7, at the beginning of your 
+comments. You may also submit comments through the internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a>.
+    FAA Order 7400.11E, Airspace Designations and Reporting Points, and 
+subsequent amendments can be viewed online at <a href="https://www.faa.gov/air_traffic/publications/">https://www.faa.gov/air_traffic/publications/</a>. For further information, you can contact the 
+Airspace Policy Group, Federal Aviation Administration, 800 
+Independence Avenue SW, Washington, DC 20591; telephone: (202) 267-
+8783. The Order is also available for inspection at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of FAA Order 7400.11E at NARA, email [email redacted] 
+or go to <a href="https://www.archives.gov/federal-register/cfr/ibr-locations.html">https://www.archives.gov/federal-register/cfr/ibr-locations.html</a>.
+
+FOR FURTHER INFORMATION CONTACT: Matthew Van Der Wal, Federal Aviation 
+Administration, Western Service Center, Operations Support Group, 2200 
+S 216th Street, Des Moines, WA 98198; telephone (206) 231-3695.
+
+SUPPLEMENTARY INFORMATION:
+
+Authority for This Rulemaking
+
+    The FAA's authority to issue rules regarding aviation safety is 
+found in Title 49 of the United States Code. Subtitle I, Section 106 
+describes the authority of the FAA Administrator. Subtitle VII, 
+Aviation Programs, describes in more detail the scope of the agency's 
+authority. This rulemaking is promulgated under the authority described 
+in Subtitle VII, Part A, Subpart I, Section 40103. Under that section, 
+the FAA is charged with prescribing regulations to assign the use of 
+airspace necessary to ensure the safety of aircraft and the efficient 
+use of airspace. This regulation is within the scope of that authority, 
+as it would amend the Class D and Class E airspace at Four Corners 
+Regional Airport, Farmington, NM, to support IFR operations at the 
+airport.
+
+Comments Invited
+
+    Interested parties are invited to participate in this proposed 
+rulemaking by submitting such written data, views, or arguments, as 
+they may desire. Comments that provide the factual basis supporting the 
+views and suggestions presented are particularly helpful in developing 
+reasoned regulatory decisions on the proposal. Comments are 
+specifically invited on the overall regulatory, aeronautical, economic, 
+environmental, and energy-related aspects of the proposal. 
+Communications should identify both docket numbers and be submitted in 
+triplicate to the address listed above. Persons wishing the FAA to 
+acknowledge receipt of their comments on this notice must submit with 
+those comments a self-addressed, stamped
+
+[[Page 78812]]
+
+postcard on which the following statement is made: ``Comments to Docket 
+No. FAA-2020-1014; Airspace Docket No. 20-ASW-7''. The postcard will be 
+date/time stamped and returned to the commenter.
+    All communications received before the specified closing date for 
+comments will be considered before taking action on the proposed rule. 
+The proposal contained in this notice may be changed in light of the 
+comments received. A report summarizing each substantive public contact 
+with FAA personnel concerned with this rulemaking will be filed in the 
+docket.
+
+Availability of NPRMs
+
+    An electronic copy of this document may be downloaded through the 
+internet at <a href="https://www.regulations.gov">https://www.regulations.gov</a>. Recently published rulemaking 
+documents can also be accessed through the FAA's web page at <a href="https://www.faa.gov/air_traffic/publications/airspace_amendments/">https://www.faa.gov/air_traffic/publications/airspace_amendments/</a>.
+    You may review the public docket containing the proposal, any 
+comments received, and any final disposition in person in the Dockets 
+Office (see the ADDRESSES section for the address and phone number) 
+between 9:00 a.m. and 5:00 p.m., Monday through Friday, except federal 
+holidays. An informal docket may also be examined during normal 
+business hours at the Northwest Mountain Regional Office of the Federal 
+Aviation Administration, Air Traffic Organization, Western Service 
+Center, Operations Support Group, 2200 S 216th Street, Des Moines, WA 
+98198.
+
+Availability and Summary of Documents for Incorporation by Reference
+
+    This document proposes to amend FAA Order 7400.11E, Airspace 
+Designations and Reporting Points, dated July 21, 2020, and effective 
+September 15, 2020. FAA Order 7400.11E is publicly available as listed 
+in the ADDRESSES section of this document. FAA Order 7400.11E lists 
+Class A, B, C, D, and E airspace areas, air traffic service routes, and 
+reporting points.
+
+The Proposal
+
+    The FAA is proposing an amendment to Title 14 Code of Federal 
+Regulations Part 71 by modifying the Class D airspace at Four Corners 
+Regional Airport, Farmington, NM. To properly contain IFR departures, 
+an extension should be added to the eastern boundary of the Class D 
+airspace. The extension is designed to properly contain IFR departures 
+flying toward or over rising terrain. This airspace area would be 
+described as follows: That airspace extending upward from the surface 
+to and including 8,000 feet MSL within a 4.7-mile radius of the 
+airport, and within 1.8 miles each side of the 086[deg] bearing from 
+the airport, extending from the 4.7-mile radius to 5.6 miles east of 
+Four Corners Regional Airport. This Class D airspace area is effective 
+during the specific dates and times established in advance by a Notice 
+to Airmen. The effective date and time will thereafter be continuously 
+published in the Chart Supplement.
+    This action also proposes to modify the Class E airspace designated 
+as a surface area to be coincident with the new Class D dimensions. 
+This airspace area would be described as follows: Within a 4.7-mile 
+radius of Four Corners Regional Airport and within 1 mile each side of 
+the Four Corners Regional ILS Localizer east course extending from the 
+4.7-mile radius to 5.6 miles east of the airport. This Class E airspace 
+area is effective during the specific dates and times established in 
+advance by a Notice to Airman. The effective date and time will 
+thereafter be continuously published in the Airport/Facility Directory.
+    Additionally, this action proposes to modify the Class E airspace 
+extending upward from 700 feet above the surface. The current 
+configuration does not properly contain IFR aircraft performing an 
+instrument approach to the airport. This airspace is designed to 
+contain IFR departures to 1,200 feet above the surface and IFR arrivals 
+descending below 1,500 feet above the surface. This airspace area would 
+be described as follows: That airspace extending upward from 700 feet 
+above the surface within a 6.7-mile radius of the airport, and within 4 
+miles north and 8 miles south of the 088[deg] bearing from the airport, 
+extending from the 6.7-mile radius of the airport, and extending from 4 
+miles east of the airport to 22.4 miles east of the airport, and within 
+4.2 miles each side of the 267[deg] bearing from the airport, extending 
+from the 6.7-mile radius to 12.5 miles west of Four Corners Regional 
+Airport.
+    This action also proposes to remove the Class E airspace extending 
+upward from 1,200 feet above the surface. This area is wholly contained 
+with the Denver en route airspace and duplication is not necessary.
+    The action also proposes to remove the Four Corners Regional ILS 
+Localizer from the Class D and Class E2 text headers and airspace 
+descriptions. The action also proposes to remove the Farmington VORTAC 
+from the Class E5 airspace text header and airspace description. The 
+navigational aids are not needed to define the airspace. Removal of the 
+navigational aids allows the airspace to be defined from a single 
+reference point which simplifies how the airspace is described.
+    Lastly, this action proposes several administrative corrections to 
+the airspaces' legal descriptions. This action proposes to remove the 
+city name from the second line of Class D, Class E2, and Class E5 the 
+text header. The legal descriptions for the Class D and Class E2 
+airspace contain the outdated term ``Airport/Facility Directory'' this 
+action proposes to update the term to ``Chart Supplement''. The 
+airport's geographic coordinates in the Class D and Class E2 text 
+headers do not match the FAA database; this action proposes to update 
+the geographic coordinates to ``lat. 36[deg]44'29'' N, long. 
+108[deg]13'48'' W.''
+    Class D, E2, and E5 airspace designations are published in 
+paragraphs 5000, 6002, and 6005, respectively, of FAA Order 7400.11E, 
+dated July 21, 2020, and effective September 15, 2020, which is 
+incorporated by reference in 14 CFR 71.1. The Class D and Class E 
+airspace designations listed in this document will be published 
+subsequently in the Order.
+    FAA Order 7400.11, Airspace Designations and Reporting Points, is 
+published yearly and effective on September 15.
+
+Regulatory Notices and Analyses
+
+    The FAA has determined that this regulation only involves an 
+established body of technical regulations for which frequent and 
+routine amendments are necessary to keep them operationally current, is 
+non-controversial, and unlikely to result in adverse or negative 
+comments. It, therefore: (1) Is not a ``significant regulatory action'' 
+under Executive Order 12866; (2) is not a ``significant rule'' under 
+DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 
+1979); and (3) does not warrant preparation of a regulatory evaluation 
+as the anticipated impact is so minimal. Since this is a routine matter 
+that will only affect air traffic procedures and air navigation, it is 
+certified that this rule, when promulgated, would not have a 
+significant economic impact on a substantial number of small entities 
+under the criteria of the Regulatory Flexibility Act.
+
+Environmental Review
+
+    This proposal will be subject to an environmental analysis in 
+accordance with FAA Order 1050.1F, ``Environmental Impacts: Policies 
+and
+
+[[Page 78813]]
+
+Procedures'' prior to any FAA final regulatory action.
+
+List of Subjects in 14 CFR Part 71
+
+    Airspace, Incorporation by reference, Navigation (air).
+
+The Proposed Amendment
+
+    Accordingly, pursuant to the authority delegated to me, the Federal 
+Aviation Administration proposes to amend 14 CFR part 71 as follows:
+
+PART 71--DESIGNATION OF CLASS A, B, C, D, AND E AIRSPACE AREAS; AIR 
+TRAFFIC SERVICE ROUTES; AND REPORTING POINTS
+
+0
+1. The authority citation for 14 CFR part 71 continues to read as 
+follows:
+
+    Authority:  49 U.S.C. 106(f), 106(g), 40103, 40113, 40120; E.O. 
+10854, 24 FR 9565, 3 CFR, 1959-1963 Comp., p. 389.
+
+
+Sec.  71.1   [Amended]
+
+0
+2. The incorporation by reference in 14 CFR 71.1 of FAA Order 7400.11E, 
+Airspace Designations and Reporting Points, dated July 21, 2020, and 
+effective September 15, 2020, is amended as follows:
+
+Paragraph 5000 Class D Airspace.
+
+* * * * *
+
+ASW NM D Farmington, NM [Amended]
+
+Four Corners Regional Airport, NM
+    (Lat. 36[deg]44'29'' N, long. 108[deg]13'48'' W)
+
+    That airspace extending upward from the surface to and including 
+8,000 feet MSL within a 4.7-mile radius of the airport, and within 
+1.8 miles each side of the 086[deg] bearing from the airport, 
+extending from the 4.7-mile radius to 5.6 miles east of Four Corners 
+Regional Airport. This Class D airspace area is effective during the 
+specific dates and times established in advance by a Notice to 
+Airmen. The effective date and time will thereafter be continuously 
+published in the Chart Supplement.
+
+Paragraph 6002 Class E Airspace Designated as a Surface Area.
+
+* * * * *
+
+ASW NM E2 Farmington, NM [Amended]
+
+Four Corners Regional Airport, NM
+    (Lat. 36[deg]44'29'' N, long. 108[deg]13'48'' W)
+
+    That airspace extending upward from the surface within a 4.7-
+mile radius of the airport, and within 1.8 miles each side of the 
+086[deg] bearing from the airport, extending from the 4.7-mile 
+radius to 5.6 miles east of Four Corners Regional Airport. This 
+Class E airspace area is effective during the specific dates and 
+times established in advance by a Notice to Airman. The effective 
+date and time will thereafter be continuously published in the Chart 
+Supplement.
+
+Paragraph 6005 Class E Airspace Areas Extending Upward From 700 
+Feet or More Above the Surface of the Earth.
+
+* * * * *
+
+ASW NM E5 Farmington, NM [Amended]
+
+Four Corners Regional Airport, NM
+    (Lat. 36[deg]44'29'' N, long. 108[deg]13'48'' W)
+
+    That airspace extending upward from 700 feet above the surface 
+within a 6.7-mile radius of the airport, and within 4 miles north 
+and 8 miles south of the 088[deg] bearing from the airport, 
+extending from the 6.7-mile radius of the airport, and extending 
+from 4 miles east of the airport to 22.4 miles east of the airport, 
+and within 4.2 miles each side of the 267[deg] bearing from the 
+airport, extending from the 6.7-mile radius to 12.5 miles west of 
+Four Corners Regional Airport.
+
+    Issued in Seattle, Washington, on December 1, 2020.
+B.G. Chew,
+Acting Group Manager, Operations Support Group, Western Service Center.
+[FR Doc. 2020-26818 Filed 12-4-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

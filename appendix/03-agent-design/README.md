@@ -1,30 +1,44 @@
 # AI research systems and agent design
 
-[Webpage](https://textdata.info/foundation/ai-research-systems/) · [All components](../README.md)
+[Explore the databases](https://textdata.info/foundation/ai-research-systems/) · [All components](../README.md)
 
-This folder contains the technical account of this component. The linked webpage provides illustrations and the materials currently available there. This addition does not include the component’s implementation files or underlying datasets.
+Two searchable databases connect research requirements to technical design options, keeping mechanisms, evidence and limitations alongside proposed uses in TextData.
 
-## Purpose and scope
+- **34 agent-design assessments across seven categories**, with a local browser, comparison-ready records, and JSON, CSV and SQLite exports.
+- **22,640 public survey entries across 14 research functions**, drawn from a survey of 22,667 typed entries. Entries are not unique systems; function memberships overlap.
+- **A worked LangGraph record** connects a proposed restart test to an unconfirmed report of repeated tool calls.
 
-These two databases help researchers and developers translate a research requirement into candidate technical designs. Their value is to connect what a component claims to do with its mechanism, supporting evidence and limits, making infrastructure choices open to examination.
+[Explore with your AI](AI-PROMPT.md) — copy the tailored prompt into your assistant.
 
-## Design and components
+## Try the prototype
 
-The broad survey organizes earlier research by functions such as discovery, measurement, coordination and evaluation. The review package provides a screened survey index and worked source records. The focused agent-design database provides the fuller design assessments, covering delegation, memory, tools and related mechanisms.
+Open the [agent-design browser](data/agent-design/index.html) locally with JavaScript enabled. Search for **AD-014** to inspect LangGraph persistence: a checkpoint saves execution position, but external actions need their own protection against repetition. The record proposes interrupting a task and checking both where it resumes and whether a tool call repeats.
 
-The broad collection supplies coverage across research functions; the focused collection offers closer comparison of agent mechanisms. A record separates the mechanism, reported evidence and limitations from a possible TextData application. This structure makes the databases useful for designing a configuration without treating an attractive description as evidence that the configuration will work.
+The [worked reading](example/output/AD-014.md) connects this assessment to seven survey entries through shared public source addresses. [Issue 7417](https://github.com/langchain-ai/langgraph/issues/7417) reports a second dispatch while earlier calls were still active. The report remains unconfirmed; the restart test has not been run.
 
-## Use and outputs
+From this folder, use Python 3.9 or newer. These commands need no account, extra package, model call or network connection:
 
-Consider a study that must resume an interrupted analysis without sending the same task twice. In the agent-design database, the record on LangGraph distinguishes the saved position of a running task from information retained across tasks. Saving a position does not ensure that an external action, such as a tool call, will occur only once. The record therefore proposes keeping the execution position separate from the study evidence. It also specifies a test in which a researcher interrupts the task and checks both where work resumes and whether an action is repeated.
+```sh
+python3 -I tool/query_survey.py --id I-1aea8ea4c6bffc5c6e
+python3 -I tool/query_survey.py --function 'Evaluation and verification' --search LangGraph --limit 3
+python3 -I example/show_record.py AD-014 | diff example/output/AD-014.md -
+python3 -I checks/verify_counts.py
+```
 
-The systems survey adds source-linked reports about the same software, including an account of long-running calls being repeated after a restart. The worked example connects the two resources by a shared source address. A researcher can inspect the report underlying the proposed test and decide whether that failure matters for a particular study.
+The comparison is silent on success; the verifier reports zero failures. It checks the supplied files and example, not LangGraph performance.
 
-## Evidence and limitations
+## Data and interpretation
 
-The worked example recovers an existing design assessment and the evidence behind it. Its interruption test is proposed. The project did not install or benchmark the component or evaluate a TextData configuration, and no documented TextData decision has yet used a focused design record. The survey preserves assessments from earlier inquiries. Its entries can represent different kinds of evidence about the same system, and omissions may reflect the earlier search or reading. Neither database has had an independent review.
+| Material | Contents |
+| --- | --- |
+| [Agent-design database](data/agent-design/data/catalogue.json) | 34 assessments; 19 use selected primary text and 15 documented source summaries. [SQLite](data/agent-design/exports/textdata-agent-design.sqlite) · [CSV](data/agent-design/exports/records.csv) · [Dictionary](docs/agent-design-data-dictionary.md) |
+| [Survey index](data/systems-survey/survey-index.csv) | 22,640 entries with research functions, evidence states, gaps and public source addresses where available. [Dictionary](docs/survey-data-dictionary.md) |
+| [Survey synthesis](docs/survey-synthesis.md) | What the evidence suggests for research-system design, with [method and limits](docs/survey-method.md). |
 
-## Proposed development
+The survey excludes 27 entries and omits 19,401 summary passages for privacy or reuse reasons. Empty summaries and unresolved fields do not establish that a capability is absent. Assessments are documentary, coverage is bounded, and repeated sources do not supply independent corroboration.
 
-We will use these resources to develop and evaluate TextData configurations and update the records as agent methods change. Evaluation will examine their contribution to research tasks, including whether evidence survives delegation and whether contrary passages lead to substantive revision.
+## What remains proposed
 
+The databases and browsing/query tools work now. No listed system was installed or benchmarked for TextData, no TextData configuration has been evaluated, and no documented TextData decision has yet used a focused design record. Next work will use the records to develop and evaluate configurations, including whether evidence survives delegation and contrary passages prompt substantive revision.
+
+[Sources and licences](NOTICE.md) · [File inventory and hashes](MANIFEST.json)

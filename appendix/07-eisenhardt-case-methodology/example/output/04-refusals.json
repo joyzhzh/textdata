@@ -1,0 +1,30 @@
+{
+  "apply-with-wrong-hash": {
+    "payload": {
+      "error": "--apply requires the exact sealed --approve-plan-sha value",
+      "status": "REFUSED"
+    },
+    "returncode": 1
+  },
+  "apply-without-approval": {
+    "payload": {
+      "error": "--apply requires the exact sealed --approve-plan-sha value",
+      "status": "REFUSED"
+    },
+    "returncode": 1
+  },
+  "tampered-plan-same-seal": {
+    "payload": {
+      "error": "plan seal mismatch: calculated a7d6829053ac33eac36e9a135196a851a00535b7a3dcbaa48fd63c1979b804f6",
+      "status": "REFUSED"
+    },
+    "returncode": 1
+  },
+  "workspace-drift-after-sealing": {
+    "payload": {
+      "error": "precondition drift for beta-sealed: logical_bytes expected 167, got 206",
+      "status": "REFUSED"
+    },
+    "returncode": 1
+  }
+}

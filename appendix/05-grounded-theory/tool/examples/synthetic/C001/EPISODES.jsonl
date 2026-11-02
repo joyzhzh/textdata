@@ -1,0 +1,2 @@
+{"boundary_basis": "SOURCE_EXPLICIT", "episode_id": "E001", "note": "Invented episode; not evidence.", "outcome_status": "ACCEPTED", "source_refs": ["MNF-SYNTHETIC-001"]}
+{"boundary_basis": "UNCERTAIN", "derived_from": {"episode_ids": ["EPI-SYNTHETIC"], "package_id": "PKG-SYNTHETIC"}, "episode_id": "E002", "note": "Invented episode with an unknown ending.", "outcome_status": "UNKNOWN", "source_refs": ["MNF-SYNTHETIC-002"]}

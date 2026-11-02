@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Proposed Rules]
+[Pages 78814-78815]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-25145]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+47 CFR Part 54
+
+[WC Docket Nos. 18-143, 10-90, 14-58; FCC 19-95; FRS 17234]
+
+
+The Uniendo a Puerto Rico Fund and the Connect USVI Fund, Connect 
+America Fund, ETC Annual Reports and Certifications; Correction
+
+AGENCY: Federal Communications Commission.
+
+ACTION: Notification of intent to correct.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document announces that the Commission will correct an 
+error in the regulatory text of a Federal Register document that took 
+major steps to promote the deployment of advanced, hardened networks in 
+the Territories by allocating nearly a billion dollars in Federal 
+universal service support in Puerto Rico and the U.S. Virgin Islands 
+once an effective date is established for the relevant section. The 
+summary was published in the Federal Register on November 7, 2019.
+
+DATES: When the Commission publishes a document in the Federal Register 
+announcing the effective date of the sections published 84 FR 59937 
+(November 7, 2019), it will also correct this error.
+
+FOR FURTHER INFORMATION CONTACT: Alexander Minard, Wireline Competition 
+Bureau, (202) 418-7400.
+
+SUPPLEMENTARY INFORMATION: This summary contains a correction to the 
+regulatory text of a Federal Register document, 84 FR 59937, November 
+7, 2019. The full text of the Commission's Report and Order and Order 
+on Reconsideration in WC Docket Nos. 18-143, 10-90, 14-58; FCC 19-95, 
+released
+
+[[Page 78815]]
+
+on September 30, 2019 is available for public inspection during regular 
+business hours in the FCC Reference Center, 45 L Street NE, Washington, 
+DC 20554.
+
+Correction
+
+0
+In final rule FR Doc. 2019-22842, published November 7, 2019 (84 FR 
+59937), on page 59964, in the first column, in amendatory instruction 
+3, paragraph (b)(7) is corrected to read as follows:
+
+
+Sec.  54.316   [Corrected]
+
+    (b) * * *
+    (7) Recipients of Uniendo a Puerto Rico Fund Stage 2 fixed and 
+Connect USVI Fund fixed Stage 2 fixed support shall provide: On an 
+annual basis by the last business day of the second calendar month 
+following each service milestone in Sec.  54.1506, a certification that 
+by the end of the prior support year, it was offering broadband meeting 
+the requisite public interest obligations specified in Sec.  54.1507 to 
+the required percentage of its supported locations in Puerto Rico and 
+the U.S. Virgin Islands as set forth in Sec.  54.1506. The annual 
+certification shall quantify the carrier's progress toward or, as 
+applicable, completion of deployment in accordance with the resilience 
+and redundancy commitments in its application and in accordance with 
+the detailed network plan it submitted to the Wireline Competition 
+Bureau.
+
+Federal Communications Commission.
+Marlene Dortch,
+Secretary.
+[FR Doc. 2020-25145 Filed 12-4-20; 8:45 am]
+BILLING CODE 6712-01-P
+
+
+</pre></body>
+</html>

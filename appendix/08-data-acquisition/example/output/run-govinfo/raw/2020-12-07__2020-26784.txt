@@ -1,0 +1,388 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78890-78892]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26784]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-90542; File No. SR-NASDAQ-2020-078]
+
+
+Self-Regulatory Organizations; The Nasdaq Stock Market LLC; 
+Notice of Filing and Immediate Effectiveness of Proposed Rule Change To 
+Exempt Proxy Portfolio Shares From Certain Governance Requirements and 
+Include Proxy Portfolio Shares to the List of Products Covered Under 
+Nasdaq Rule 4120 (Limit Up-Limit Down Plan and Trading Halts)
+
+December 1, 2020.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(``Act''),\1\ and Rule 19b-4 thereunder,\2\ notice is hereby given that 
+on November 19, 2020, The Nasdaq Stock Market LLC (``Nasdaq'' or 
+``Exchange'') filed with the Securities and Exchange Commission 
+(``Commission'') the proposed rule change as described in Items I and 
+II below, which Items have been prepared by the Exchange. The 
+Commission is publishing this notice to solicit comments on the 
+proposed rule change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+---------------------------------------------------------------------------
+
+I. Self-Regulatory Organization's Statement of the Terms of Substance 
+of the Proposed Rule Change
+
+    The Exchange proposes to provide an exemption from certain 
+governance requirements, as well as to include Proxy Portfolio Shares 
+(listed on the Exchange pursuant to Nasdaq Rule 5750) to the list of 
+products covered under Nasdaq Rule 4120 (Limit Up-Limit Down Plan and 
+Trading Halts).
+    The text of the proposed rule change is available on the Exchange's 
+website at <a href="https://listingcenter.nasdaq.com/rulebook/nasdaq/rules">https://listingcenter.nasdaq.com/rulebook/nasdaq/rules</a>, at 
+the principal office of the Exchange, and at the Commission's Public 
+Reference Room.
+
+II. Self-Regulatory Organization's Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change
+
+    In its filing with the Commission, the Exchange included statements 
+concerning the purpose of and basis for the proposed rule change and 
+discussed any comments it received on the proposed rule change. The 
+text of these statements may be examined at the places specified in 
+Item IV below. The Exchange has prepared summaries, set forth in 
+sections A, B, and C below, of the most significant aspects of such 
+statements.
+
+A. Self-Regulatory Organization's Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change
+
+1. Purpose
+    The Exchange recently adopted Nasdaq Rule 5750, which relates to 
+the listing and trading of Proxy Portfolio Shares \3\ on the 
+Exchange.\4\ Nasdaq proposes to amend the definition of ``Derivative 
+Securities'' under Nasdaq Rule 5615(a)(6)(B) as well as certain 
+portions of Nasdaq Rule 4120 to include and apply to a series of Proxy 
+Portfolio Shares listed on the Exchange pursuant to Nasdaq Rule 5750.
+---------------------------------------------------------------------------
+
+    \3\ The term ``Proxy Portfolio Shares'' means ``a security that: 
+(A) Represents an interest in an investment company registered under 
+the Investment Company Act of 1940 (``Investment Company'') 
+organized as an open- end management investment company, that 
+invests in a portfolio of securities selected by the Investment 
+Company's investment adviser consistent with the Investment 
+Company's investment objectives and policies; (B) is issued in a 
+specified aggregate minimum number in return for a deposit of a 
+specified Proxy Basket and/or a cash amount with a value equal to 
+the next determined net asset value; (C) when aggregated in the same 
+specified minimum number, may be redeemed at a holder's request, 
+which holder will be paid specified Proxy Basket and/or a cash 
+amount with a value equal to the next determined net asset value; 
+and (D) the portfolio holdings for which are disclosed within at 
+least 60 days following the end of every fiscal quarter.''
+    \4\ See Securities and Exchange Act Release No. 34-89110 (June 
+22, 2020), 85 FR 38461 (June 26, 2020) (SR-NASDAQ-2020-032) (the 
+``Rule Proposal''). The Rule Proposal was effective upon filing 
+pursuant to Section 19(b)(3)(A)(iii) of the Act and Rule 19b-4(f)(6) 
+thereunder and became operative 30 calendar days following the 
+filing date of June 11, 2020.
+---------------------------------------------------------------------------
+
+    Nasdaq notes that the proposed rule change, as discussed below, 
+results from the Exchange proposing to make conforming changes to its 
+corporate governance requirements in order to accommodate the listing 
+of Proxy Portfolio Shares. This will subject Proxy Portfolio Shares to 
+the same corporate governance requirements as other exchange-traded 
+products listed on the Exchange.
+    Currently, Nasdaq Rule 5615(a)(5) provides management investment 
+companies exemptions to certain corporate governance requirements.\5\ 
+Nasdaq Rule 5615(a)(5) also provides that management investment 
+companies that are Derivative Securities (as defined in Nasdaq Rule 
+5615(a)(6)(B)) \6\ are also exempt from the additional requirements of 
+Nasdaq Rule 5600 as outlined in Nasdaq Rule 5615(a)(6)(A). In addition 
+to the exemptions found in Nasdaq Rule 5615(a)(5), Nasdaq Rule 
+5615(a)(6)(A) also includes exemptions from the audit committee 
+requirements in Nasdaq Rule 5605(c), except for the applicable 
+requirements of SEC Rule 10A-3.\7\
+---------------------------------------------------------------------------
+
+    \5\ See Nasdaq Rule 5605(b) (Independent Directors); Nasdaq Rule 
+5605(d) (Compensation Committee); Nasdaq Rule 5605(e) (Independent 
+Director Oversight of Director Nominations); and Nasdaq Rule 5610 
+(Codes of Conduct).
+    \6\ Nasdaq Rule 5615(a)(6)(B) states: ``For the purposes of this 
+Rule 5600 Series only, the term ``Derivative Securities'' is defined 
+as the following: Exchange Traded Fund Shares (Rule 5704), Portfolio 
+Depository Receipts and Index Fund Shares (Rule 5705); Equity Index-
+Linked Securities (Rule 5710(k)(i)), Commodity-Linked Securities 
+(Rule 5710(k)(ii)), Fixed Income Index-Linked Securities 
+(5710(k)(iii)), Futures-Linked Securities (5710(k)(iv)), Multifactor 
+Index-Linked Securities (5710(k)(v)), Index-Linked Exchangeable 
+Notes (Rule 5711(a)), Equity Gold Shares (Rule 5711(b)), Trust 
+Certificates (Rule 5711(c)), Commodity-Based Trust Shares (Rule 
+5711(d)), Currency Trust Shares (Rule 5711(e)), Commodity Index 
+Trust Shares (Rule 5711(f)), Commodity Futures Trust Shares (Rule 
+5711(g)), Partnership Units (Rule 5711(h)), Managed Trust Securities 
+(Rule 5711(j)), SEEDS (Rule 5715), Trust Issued Receipts (Rule 
+5720), Managed Fund Shares (Rule 5735), and NextShares (Rule 5745). 
+Derivative Securities are subject to certain exemptions to the Rule 
+5600 Series as described in Rule 5615(a)(6).''
+    \7\ 17 CFR 240.10A-3.
+---------------------------------------------------------------------------
+
+    Index Fund Shares, Managed Fund Shares and Exchange Traded Fund 
+Shares are all considered Derivative Securities and, therefore, exempt 
+from the audit committee requirements set forth in Nasdaq Rule 5605(c). 
+They are exempted from such requirements because they are otherwise 
+subject to the accounting and auditing requirements of the Investment 
+Company Act of 1940 (the ``1940 Act''), including Section 32(a).\8\
+---------------------------------------------------------------------------
+
+    \8\ 15 U.S.C. 80a-31.
+---------------------------------------------------------------------------
+
+    Proxy Portfolio Shares are also subject to the accounting and 
+auditing requirements under the 1940 Act and are so similarly situated 
+as Index Fund Shares, Managed Fund Shares and Exchange Traded Fund 
+Shares, that the Exchange believes Proxy Portfolio Shares should be 
+subject to, and exempt from, the same corporate governance
+
+[[Page 78891]]
+
+requirements associated with listing on the Exchange. Thus, Nasdaq is 
+proposing to make a change to amend Nasdaq Rule 5615(a)(6)(B) to add 
+Proxy Portfolio Shares to the definition of Derivative Securities. 
+Nasdaq Rule 5615(a)(5) allows management investment companies that are 
+considered Derivative Securities to be subject to the exemptions from 
+the audit committee requirements in Nasdaq Rule 5605(c) (except for the 
+applicable requirements of SEC Rule 10A-3) included in Nasdaq Rule 
+5615(a)(6)(A).
+    Index Fund Shares, Managed Fund Shares and Exchange Traded Fund 
+Shares are all considered Derivative Securities and, therefore, exempt 
+from the annual meeting requirements set forth in Nasdaq Rule 5620(a). 
+They are exempted from such requirements because they are securities 
+issued by an open-end investment company registered under the 1940 Act 
+that are available for creation and redemption on a continuous basis, 
+and require dissemination of a relevant portfolio value at regular 
+intervals. These requirements provide important investor protections 
+and ensure that the net asset value and the market price remain closely 
+tied to one another while maintaining a liquid market for the security. 
+These protections, along with the disclosure documents regularly 
+received by investors, allow shareholders of Index Fund Shares, Managed 
+Fund Shares and Exchange Traded Fund Shares to value their holdings on 
+an ongoing basis and lessen the need for shareholders to directly deal 
+with management at an annual meeting.\9\
+---------------------------------------------------------------------------
+
+    \9\ See Securities and Exchange Act Release No. 34-86072 (June 
+10, 2019), 84 FR 27816 (June 14, 2020) (SR-NASDAQ-2019-039).
+---------------------------------------------------------------------------
+
+    Thus, Nasdaq is proposing to amend Nasdaq Rule 5615(a)(6)(B) to add 
+Proxy Portfolio Shares to the definition of Derivative Securities. 
+Nasdaq Rule 5615(a)(5) allows management investment companies that are 
+considered Derivative Securities to be subject to the exemptions in 
+Nasdaq Rule 5615(a)(6)(A), which includes the exemption from the annual 
+meeting requirements in Nasdaq Rule 5620(a). The Exchange notes that 
+the proposed changes would result in rules that are substantially 
+similar to that of NYSE Arca, Inc.\10\
+---------------------------------------------------------------------------
+
+    \10\ See Securities and Exchange Act Release No. 34-89185 (June 
+29, 2020), 85 FR 40328 (July 6, 2020) (SR-NYSEArca-2019-95).
+---------------------------------------------------------------------------
+
+    Nasdaq is also proposing to amend Nasdaq Rule 4120(a)(9) to include 
+Proxy Portfolio Shares in the list of securities that Nasdaq will have 
+discretion to halt trading in if ``(A) trading in underlying securities 
+comprising the index or portfolio applicable to that series has been 
+halted in the primary market(s), (B) the extent to which trading has 
+ceased in securities underlying the index or portfolio, or (C) the 
+presence of other unusual conditions or circumstances detrimental to 
+the maintenance of a fair and orderly market.'' Nasdaq believes change 
+this is appropriate because it will subject Proxy Portfolio Shares to 
+the same halt requirements as other Nasdaq listed securities that 
+derive value from an index or portfolio of underlying securities.
+    Additionally, Nasdaq is proposing to amend Nasdaq Rule 4120(a)(10) 
+to specify that Nasdaq will halt trading in a series of Proxy Portfolio 
+Shares if the net asset value, Proxy Basket, or Fund Portfolio are not 
+being disseminated to market participants at the same time. Nasdaq 
+believes this change is appropriate because it will subject Proxy 
+Portfolio Shares to the same halt requirements as other Nasdaq listed 
+securities that are required to publish similar values on a regular 
+basis.
+    Nasdaq is also proposing to add Proxy Portfolio Shares to the 
+definition of ``Derivative Securities Products'' as found in Nasdaq 
+Rule 4120(b)(4)(A). Nasdaq believes change this is appropriate because 
+it will specify the Proxy Portfolio Shares are subject to the 
+requirements of Nasdaq Rule 4120(a)(10).
+2. Statutory Basis
+    The Exchange believes that its proposal is consistent with Section 
+6(b) of the Act,\11\ in general, and furthers the objectives of Section 
+6(b)(5) of the Act,\12\ in particular, in that it is consistent with 
+the Section 6(b)(5) requirements that the rules of an exchange be 
+designed to prevent fraudulent and manipulative acts and practices, to 
+promote just and equitable principles of trade, to remove impediments 
+to and perfect the mechanism of a free and open market and a national 
+market system, and, in general, to protect investors and the public 
+interest.
+---------------------------------------------------------------------------
+
+    \11\ 15 U.S.C. 78f(b).
+    \12\ 15 U.S.C. 78f(b)(5).
+---------------------------------------------------------------------------
+
+    The Exchange believes that the proposed change to amend Nasdaq Rule 
+5615(a)(6)(B) to include Proxy Portfolio Shares in the definition of 
+Derivative Securities (along with Index Fund Shares, Managed Fund 
+Shares and Exchange Traded Fund Shares, among others), and thereby 
+exempting Proxy Portfolio Shares from the audit committee requirements 
+in Nasdaq Rule 5605(c) (except for the applicable requirements of SEC 
+Rule 10A-3) and the annual meeting requirements in Nasdaq Rule 5620(a), 
+is consistent with the Act because it is meant only to subject Proxy 
+Portfolio Shares to the same corporate governance requirements 
+currently applicable to the very similar product structures of Index 
+Fund Shares, Managed Fund Shares and Exchange Traded Fund Shares. The 
+Exchange believes that this will promote just and equitable principles 
+of trade, remove impediments to and perfect the mechanism of a free and 
+open market and a national market system, and, in general, protect 
+investors and the public interest.
+    The Exchange further believes that the proposed changes to Nasdaq 
+Rule 4120(a)(9), Nasdaq Rule 4120(a)(10), and Nasdaq Rule 4120(b)(4)(A) 
+are consistent with the Act because it is meant only to subject Proxy 
+Portfolio Shares to the same halt requirements currently applicable to 
+the very similar product structures of Index Fund Shares, Managed Fund 
+Shares and Exchange Traded Fund Shares. Nasdaq believes that this too 
+will promote just and equitable principles of trade, remove impediments 
+to and perfect the mechanism of a free and open market and a national 
+market system, and, in general, protect investors and the public 
+interest.
+
+B. Self-Regulatory Organization's Statement on Burden on Competition
+
+    The Exchange does not believe that the proposed rule change will 
+impose any burden on competition that is not necessary or appropriate 
+in furtherance of the purposes of the Act. To the contrary, the 
+Exchange believes that the proposed rule change would promote both 
+intermarket and intramarket competition by providing Proxy Portfolio 
+Shares the same exemptions as management investment companies from 
+certain corporate governance requirements \13\ the audit committee 
+requirements set forth in Nasdaq Rule 5605(c) (except for the 
+applicable requirements of SEC Rule 10A-3) and the annual meeting 
+requirements of Nasdaq Rule 5620(a). This is consistent with the 
+exemptions provided to Index Fund Shares, Managed Fund Shares, and 
+Exchange Traded Fund Shares.
+---------------------------------------------------------------------------
+
+    \13\ Supra note 5.
+---------------------------------------------------------------------------
+
+    Additionally, the Exchange believes that the proposed changes to 
+Nasdaq Rule 4120(a)(9), Nasdaq Rule 4120(a)(10), and Nasdaq Rule 
+4120(b)(4)(A) will not impose any burden on competition that is not 
+necessary or appropriate in furtherance of the purposes of the Act 
+because these only serve to subject Proxy Portfolio
+
+[[Page 78892]]
+
+Shares to the same halt requirements currently applicable to the 
+similar product structures of Index Fund Shares, Managed Fund Shares 
+and Exchange Traded Fund Shares.
+
+C. Self-Regulatory Organization's Statement on Comments on the Proposed 
+Rule Change Received From Members, Participants, or Others
+
+    No written comments were either solicited or received.
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for 
+Commission Action
+
+    Because the foregoing proposed rule change does not: (i) 
+Significantly affect the protection of investors or the public 
+interest; (ii) impose any significant burden on competition; and (iii) 
+become operative for 30 days from the date on which it was filed, or 
+such shorter time as the Commission may designate, it has become 
+effective pursuant to Section 19(b)(3)(A) of the Act \14\ and Rule 19b-
+4(f)(6) thereunder.\15\
+---------------------------------------------------------------------------
+
+    \14\ 15 U.S.C. 78s(b)(3)(A).
+    \15\ 17 CFR 240.19b-4(f)(6). In addition, Rule 19b-4(f)(6)(iii) 
+requires a self-regulatory organization to give the Commission 
+written notice of its intent to file the proposed rule change, along 
+with a brief description and text of the proposed rule change, at 
+least five business days prior to the date of filing of the proposed 
+rule change, or such shorter time as designated by the Commission. 
+The Exchange has satisfied this requirement.
+---------------------------------------------------------------------------
+
+    At any time within 60 days of the filing of the proposed rule 
+change, the Commission summarily may temporarily suspend such rule 
+change if it appears to the Commission that such action is necessary or 
+appropriate in the public interest, for the protection of investors, or 
+otherwise in furtherance of the purposes of the Act.
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views, and 
+arguments concerning the foregoing, including whether the proposed rule 
+change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to  [email redacted]. Please include 
+File Number SR-NASDAQ-2020-078 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549-1090.
+
+All submissions should refer to File Number SR-NASDAQ-2020-078. This 
+file number should be included on the subject line if email is used. To 
+help the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change that are filed with 
+the Commission, and all written communications relating to the proposed 
+rule change between the Commission and any person, other than those 
+that may be withheld from the public in accordance with the provisions 
+of 5 U.S.C. 552, will be available for website viewing and printing in 
+the Commission's Public Reference Room, 100 F Street NE, Washington, DC 
+20549 on official business days between the hours of 10:00 a.m. and 
+3:00 p.m. Copies of the filing also will be available for inspection 
+and copying at the principal office of the Exchange. All comments 
+received will be posted without change. Persons submitting comments are 
+cautioned that we do not redact or edit personal identifying 
+information from comment submissions. You should submit only 
+information that you wish to make available publicly. All submissions 
+should refer to File Number SR-NASDAQ-2020-078 and should be submitted 
+on or before December 28, 2020.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\16\
+---------------------------------------------------------------------------
+
+    \16\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+J. Matthew DeLesDernier,
+Assistant Secretary.
+[FR Doc. 2020-26784 Filed 12-4-20; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

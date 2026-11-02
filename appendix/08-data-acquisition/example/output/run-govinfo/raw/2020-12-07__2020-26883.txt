@@ -1,0 +1,229 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78932-78933]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26883]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF THE TREASURY
+
+Financial Crimes Enforcement Network
+
+
+Agency Information Collection Activities; Proposed Renewal; 
+Comment Request; Renewal Without Change of Reports Relating to Currency 
+in Excess of $10,000 Received in a Trade or Business, or Received as 
+Bail by Court Clerks; Form 8300
+
+AGENCY: Financial Crimes Enforcement Network (FinCEN), Treasury.
+
+ACTION: Notice and request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: As part of its continuing effort to reduce paperwork and 
+respondent burden, FinCEN invites comments on the proposed renewal, 
+without change, of a currently approved information collection found in 
+existing Bank Secrecy Act regulations. Specifically, FinCEN invites 
+comment on a renewal, without change, of existing information 
+collection requirements for reports of currency in excess of $10,000 
+received by a trade or business, or by court clerks as bail. These 
+transactions are reported on Form 8300. This request for comments is 
+made pursuant to the Paperwork Reduction Act of 1995.
+
+DATES: Written comments are welcome, and must be received on or before 
+February 5, 2021.
+
+ADDRESSES: Comments may be submitted by any of the following methods:
+    <bullet> Federal E-rulemaking Portal: <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+Follow the instructions for submitting comments. Refer to Docket Number 
+FINCEN-2020-0014 and the specific Office of Management and Budget (OMB) 
+control number 1506-0018.
+    <bullet> Mail: Policy Division, Financial Crimes Enforcement 
+Network, P.O. Box 39, Vienna, VA 22183. Refer to Docket Number FINCEN-
+2020-0014 and OMB control number 1506-0018.
+    Please submit comments by one method only. Comments will also be 
+incorporated into FinCEN's review of existing regulations, as provided 
+by Treasury's 2011 Plan for Retrospective Analysis of Existing Rules. 
+All comments submitted in response to this notice will become a matter 
+of public record. Therefore, you should submit only information that 
+you wish to make publicly available.
+
+FOR FURTHER INFORMATION CONTACT: The FinCEN Regulatory Support Section 
+at 1-800-767-2825 or electronically at [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Statutory and Regulatory Provisions
+
+    The legislative framework generally referred to as the Bank Secrecy 
+Act (BSA) consists of the Currency and Financial Transactions Reporting 
+Act of 1970, as amended by the Uniting and Strengthening America by 
+Providing Appropriate Tools Required to Intercept and Obstruct 
+Terrorism Act of 2001 (USA PATRIOT Act) (Pub. L. 107-56) and other 
+legislation. The BSA is codified at 12 U.S.C. 1829b, 12 U.S.C. 1951-
+1959, 31 U.S.C. 5311-5314 and 5316-5332, and notes thereto, with 
+implementing regulations at 31 CFR Chapter X.
+    The BSA authorizes the Secretary of the Treasury, inter alia, to 
+require financial institutions to keep records and file reports that 
+are determined to have a high degree of usefulness in criminal, tax, 
+and regulatory matters, or in the conduct of intelligence or counter-
+intelligence activities to protect against international terrorism, and 
+to implement anti-money laundering (AML) programs and compliance 
+procedures.\1\ Regulations implementing the BSA appear at 31 CFR 
+Chapter X. The authority of the Secretary to administer the BSA has 
+been delegated to the Director of FinCEN.\2\
+---------------------------------------------------------------------------
+
+    \1\ Section 358 of the USA PATRIOT Act added language expanding 
+the scope of the BSA to intelligence or counter-intelligence 
+activities to protect against international terrorism.
+    \2\ Treasury Order 180-01 (re-affirmed Jan. 14, 2020).
+---------------------------------------------------------------------------
+
+    31 U.S.C. 5331 of the BSA and 26 U.S.C. 6050I of the Internal 
+Revenue Code require that certain transactions be reported to both 
+FinCEN and the Internal Revenue Service (IRS) in the form and manner 
+prescribed by the Secretary of the Treasury. Specifically, reporting is 
+required by any person engaged in a trade or business who, in the 
+course of such trade or business, receives more than $10,000 in coins 
+or currency in one transaction or two or more related transactions.\3\ 
+Reporting is also required by any clerk of a federal
+
+[[Page 78933]]
+
+or state court who receives more than $10,000 in currency as bail for 
+any individual charged with a specified criminal offense.\4\ Reports 
+filed under these authorities are made through the joint FinCEN/IRS 
+Form 8300.\5\ Furthermore, verification requirements apply to 
+transactions requiring the filing of Form 8300.\6\ Reports filed under 
+31 CFR 1010.330 and 31 CFR 1010.331 must be maintained for five years 
+after the date of filing.\7\
+---------------------------------------------------------------------------
+
+    \3\ 31 CFR 1010.330. Pursuant to 31 CFR 1021.330(c), non-gaming 
+businesses at casino hotels and resorts are separate trades or 
+businesses in which the receipt of currency in excess of $10,000 is 
+reportable under 31 U.S.C. 5331 and 31 CFR 1010.330.
+    \4\ 31 CFR 1010.331.
+    \5\ Currency transactions reportable under 31 U.S.C. 5313 or 31 
+CFR 1010.311, 1010.313, 1020.315, 1021.311, or 1021.313 are excluded 
+from the Form 8300 reporting requirement. There are also several 
+exceptions to the reporting requirement included in the regulation.
+    \6\ 31 CFR 1010.330(e)(2); 31 CFR 1010.331(c)(2).
+    \7\ 31 CFR 1010.330(e)(3); 31 CFR 1010.331(c)(1) (incorporating 
+the requirements of 26 CFR 1.6050I-2(c)(3)(i)).
+---------------------------------------------------------------------------
+
+II. Paperwork Reduction Act of 1995 (PRA) \8\
+---------------------------------------------------------------------------
+
+    \8\ Public Law 104-13, 44 U.S.C. 3506(c)(2)(A).
+---------------------------------------------------------------------------
+
+    Title: Reports Relating to Currency in Excess of $10,000 Received 
+in a Trade or Business, or Received as Bail by Court Clerks; Form 8300 
+(31 CFR 1010.330 and 31 CFR 1010.331).
+    OMB Control Number: 1506-0018.
+    Report Number: Form 8300.
+    Abstract: FinCEN is issuing this notice to renew the OMB control 
+number for the requirements for (1) any person in a trade or business 
+who, in the course of the trade or business, receives more than $10,000 
+in coin or currency in one or more related transactions to report it to 
+FinCEN, and (2) any clerk of a federal or state court who receives more 
+than $10,000 in currency as bail for any individual charged with a 
+specified criminal offense to make report of information with respect 
+to receipt of that currency.
+    Affected Public: Businesses or other for-profit institutions, and 
+non-profit institutions.
+    Type of Review:
+    <bullet> Renewal without change of a currently approved information 
+collection.
+    Frequency: As required.
+    Estimated Number of Respondents: 32,500 respondents.\9\
+---------------------------------------------------------------------------
+
+    \9\ In 2019, FinCEN received form 8300s from 32,462 unique 
+filers based on their tax identification numbers (TIN). FinCEN is 
+conservatively rounding this estimate to 32,500 respondents 
+annually.
+---------------------------------------------------------------------------
+
+    Estimated Recordkeeping and Reporting Burden:
+    The information required to be reported on the Form 8300 is basic 
+information to which a filer would have access to in the course of 
+doing business. For instance, the Form 8300 requires a trade or 
+business or court clerk to report identifying information about the 
+individual from whom the cash was received, as well as any person on 
+whose behalf the transaction was conducted. The Form 8300 also requires 
+the filer to report a description of the transaction and method of 
+payment, as well as identifying information for the business that 
+received the cash. As this information is readily available to a trade 
+or business or court clerk, FinCEN estimates that reporting this 
+information will take 20 minutes on average. Additionally, while the 
+Form 8300 may be filed electronically, which allows the filer to save 
+an electronic version of the form and satisfy the recordkeeping 
+requirement, many filers choose to file a paper copy of the Form 8300. 
+Therefore, FinCEN estimates that the recordkeeping requirement will 
+take 10 minutes on average. FinCEN estimates total hourly burden of 
+reporting and recordkeeping for each Form 8300 is 30 minutes.
+    Estimated Total Annual Responses: 323,067 Form 8300s were filed in 
+calendar year 2019.
+    Estimated Total Annual Recordkeeping Burden: The estimated total 
+annual PRA burden is 161,534 hours (323,067 Form 8300s filed in 
+calendar year 2019 multiplied by 30 minutes and converted to hours).
+    Estimated Total Annual Recordkeeping Cost: FinCEN estimates the 
+following annual burden cost: 161,534 x $30.60 per hour \10\ = 
+$4,942,940.
+---------------------------------------------------------------------------
+
+    \10\ The U.S. Bureau of Labor Statistics, Occupational 
+Employment Statistics-National, May 2019, available at <a href="https://www.bls.gov/oes/tables.htm">https://www.bls.gov/oes/tables.htm</a>. The most recent data from the BLS 
+corresponds to May 2019. For the benefits component of total 
+compensation, see U.S. Bureau of Labor Statistics, Employer's Cost 
+per Employee Compensation as of December 2019, available at <a href="https://www.bls.gov/oes/tables.htm">https://www.bls.gov/oes/tables.htm</a>. The ratio between benefits and wages for 
+financial activities is $15.95 (hourly benefits)/$32.05 (hourly 
+wages) = 0.50. The benefit factor is 1 plus the benefit/wages ratio, 
+or 1.50. Multiplying each hourly wage by the benefit factor produces 
+the fully-loaded hourly wage per position. The May 2019 Bureau of 
+Labor Statistics average hourly wage for ``43-3099 Financial Clerk'' 
+is $20.40. ($20.40 x 1.50 = $30.60).
+---------------------------------------------------------------------------
+
+    An Agency may not conduct or sponsor, and a person is not required 
+to respond to, a collection of information unless the collection of 
+information displays a valid OMB control number. Records required to be 
+retained under the BSA must be retained for five years.
+
+General Request for Comments
+
+    Comments submitted in response to this notice will be summarized 
+and/or included in the request for OMB approval. All comments will 
+become a matter of public record. Comments are invited on: (i) Whether 
+the collection of information is necessary for the proper performance 
+of the functions of the agency, including whether the information shall 
+have practical utility; (ii) the accuracy of the agency's estimate of 
+the burden of the collection of information; (iii) ways to enhance the 
+quality, utility, and clarity of the information to be collected; (iv) 
+ways to minimize the burden of the collection of information on 
+respondents, including through the use of automated collection 
+techniques or other forms of information technology; and (v) estimates 
+of capital or start-up costs and costs of operation, maintenance, and 
+purchase of services to provide information.
+
+Michael G. Mosier,
+Deputy Director, Financial Crimes Enforcement Network.
+[FR Doc. 2020-26883 Filed 12-4-20; 8:45 am]
+BILLING CODE 4810-02-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "scope": "Software integrity and deliberate semantic-limit demonstrations; no accuracy test",
+  "passed": 16,
+  "total": 16,
+  "cases": [
+    {
+      "case": "original",
+      "passed": true
+    },
+    {
+      "case": "unsupported_quote",
+      "passed": true,
+      "refusal": "unsupported quote in u2: 'invented action absent from source'"
+    },
+    {
+      "case": "unknown_label",
+      "passed": true,
+      "refusal": "unknown modality: u2"
+    },
+    {
+      "case": "duplicate_unit",
+      "passed": true,
+      "refusal": "unknown or duplicate unit ID: u1"
+    },
+    {
+      "case": "unknown_unit",
+      "passed": true,
+      "refusal": "unknown or duplicate unit ID: unknown-unit"
+    },
+    {
+      "case": "ambiguous_actor_location",
+      "passed": true,
+      "refusal": "ambiguous quote in u4; return a longer unique quote"
+    },
+    {
+      "case": "duplicate_relation",
+      "passed": true,
+      "refusal": "duplicate relation within unit: u2"
+    },
+    {
+      "case": "missing_response_preserved",
+      "passed": true
+    },
+    {
+      "case": "abstention_is_not_negative",
+      "passed": true
+    },
+    {
+      "case": "wrong_package_receipt",
+      "passed": true,
+      "refusal": "response receipt targets a different frozen package"
+    },
+    {
+      "case": "wrong_response_hash",
+      "passed": true,
+      "refusal": "response bytes do not match producer receipt"
+    },
+    {
+      "case": "no_false_human_reference",
+      "passed": true,
+      "refusal": "this adapter exports candidates only; never manufactures reference judgments"
+    },
+    {
+      "case": "semantic_limit_wrong_actor_still_passes",
+      "passed": true
+    },
+    {
+      "case": "semantic_limit_omission_still_passes",
+      "passed": true
+    },
+    {
+      "case": "changed_annotation_breaks_seal",
+      "passed": true
+    },
+    {
+      "case": "all_frozen_files_match",
+      "passed": true
+    }
+  ]
+}

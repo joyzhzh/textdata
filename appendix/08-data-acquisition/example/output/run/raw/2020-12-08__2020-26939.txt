@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79036-79037]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26939]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF JUSTICE
+
+[OMB Number 1121-NEW]
+
+
+Agency Information Collection Activities; Proposed eCollection 
+eComments Requested; New Collection: National Prisoner Statistics 
+Program: Coronavirus Pandemic Supplement
+
+AGENCY: Bureau of Justice Statistics, Department of Justice.
+
+ACTION: 60-Day notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Justice (DOJ), Office of Justice Programs, 
+Bureau of Justice Statistics, will be submitting the following 
+information collection request to the Office of Management and Budget 
+(OMB) for review and approval in accordance with the Paperwork 
+Reduction Act of 1995.
+
+DATES: Comments are encouraged and will be accepted for 60 days until 
+February 8, 2021.
+
+FOR FURTHER INFORMATION CONTACT: If you have additional comments 
+especially on the estimated public burden or associated response time, 
+suggestions, or need a copy of the proposed information collection 
+instrument with instructions or additional information, please contact 
+E. Ann Carson, Statistician, Bureau of Justice Statistics, 810 Seventh 
+Street NW, Washington, DC 20531 (email: [email redacted]; 
+telephone: 202-616-3496).
+
+SUPPLEMENTARY INFORMATION: Written comments and suggestions from the 
+public and affected agencies concerning the proposed collection of 
+information are encouraged. Your comments should address one or more of 
+the following four points:
+
+--Evaluate whether the proposed collection of information is necessary 
+for the proper performance of the functions of the Bureau of Justice 
+Statistics, including whether the information will have practical 
+utility;
+--Evaluate the accuracy of the agency's estimate of the burden of the 
+proposed collection of information, including the validity of the 
+methodology and assumptions used;
+
+[[Page 79037]]
+
+--Evaluate whether and if so how the quality, utility, and clarity of 
+the information to be collected can be enhanced; and
+--Minimize the burden of the collection of information on those who are 
+to respond, including through the use of appropriate automated, 
+electronic, mechanical, or other technological collection techniques or 
+other forms of information technology, e.g., permitting electronic 
+submission of responses.
+
+Overview of This Information Collection
+
+    (1) Type of Information Collection: New collection.
+    (2) The Title of the Form/Collection: National Prisoner Statistics 
+program: Coronavirus Pandemic Supplement (NPS-CPan).
+    (3) The agency form number, if any, and the applicable component of 
+the Department sponsoring the collection: The form number is NPS-CPan. 
+The applicable component within the Department of Justice is the Bureau 
+of Justice Statistics, in the Office of Justice Programs.
+    (4) Affected public who will be asked or required to respond, as 
+well as a brief abstract: Respondents will be staff from state 
+departments of correction and the Federal Bureau of Prisons. The NPS-
+CPan survey will request information on the prison response to the 
+coronavirus disease (COVID-19) between March 1, 2020 and February 28, 
+2021, including: Monthly counts of admissions and stock populations in 
+all publicly and privately operated facilities within each state, the 
+total number of persons who received expedited release from prison due 
+to the COVID-19 pandemic and criteria for deciding which prisoners 
+received expedited release, the number of tests performed on prisoners 
+and staff, the number of unique prisoners and staff testing positive 
+for COVID-19, the age, sex, and race distributions of prisoners testing 
+positive for, and dying from COVID-19, the number of prison staff who 
+died from COVID-19, and the use of common mitigation tactics in 
+facilities to identify persons with the disease and prevent its spread.
+    (5) An estimate of the total number of respondents and the amount 
+of time estimated for an average respondent to respond: BJS estimates 
+that responding to the NPS-CPan survey will require an average of 4 
+hours, based on feedback from respondents to a cognitive test of the 
+data collection.
+    (6) An estimate of the total public burden (in hours) associated 
+with the collection: There is an estimated 204 total burden hours 
+associated with this collection.
+    If additional information is required contact: Melody Braswell, 
+Department Clearance Officer, United States Department of Justice, 
+Justice Management Division, Policy and Planning Staff, Two 
+Constitution Square, 145 N Street NE, 3E.405A, Washington, DC 20530.
+
+    Dated: December 3, 2020.
+Melody Braswell,
+Department Clearance Officer for PRA, U.S. Department of Justice.
+[FR Doc. 2020-26939 Filed 12-7-20; 8:45 am]
+BILLING CODE 4410-18-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

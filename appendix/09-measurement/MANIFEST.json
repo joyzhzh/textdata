@@ -1,0 +1,311 @@
+{
+  "component": 9,
+  "folder": "appendix/09-measurement",
+  "title": "Combining ML, NLP and LLMs",
+  "appendix_item": 9,
+  "website": "https://textdata.info/toolkit/combining-ml-nlp-llms/",
+  "example": {
+    "input": [
+      "example/input/ASKIN_MEASURE_CARD.jsonl"
+    ],
+    "output": [
+      "example/output/structure_check.txt",
+      "example/output/submission_check.txt"
+    ],
+    "command": "python3 tool/scripts/validate_measure_cards.py example/input/ASKIN_MEASURE_CARD.jsonl",
+    "expected_exit_status": 0,
+    "second_command": "python3 tool/scripts/validate_measure_cards.py --submission example/input/ASKIN_MEASURE_CARD.jsonl",
+    "second_command_expected_exit_status": 1,
+    "needs_network": false,
+    "needs_model": false
+  },
+  "counts": [
+    {
+      "what": "method families",
+      "value": 14,
+      "unit": "records",
+      "where": "docs/g9-design/METHOD_FAMILIES.json"
+    },
+    {
+      "what": "application settings",
+      "value": 35,
+      "unit": "rows (application cells)",
+      "where": "docs/g9-design/APPLICATION_COVERAGE.csv"
+    },
+    {
+      "what": "research questions",
+      "value": 61,
+      "unit": "lane records",
+      "where": "docs/g9-design/LANES.jsonl"
+    },
+    {
+      "what": "missions (research areas)",
+      "value": 12,
+      "unit": "records",
+      "where": "docs/g9-design/MISSIONS.json"
+    },
+    {
+      "what": "application-method entries, all unassessed and unsearched",
+      "value": 490,
+      "unit": "rows",
+      "where": "docs/g9-design/METHOD_APPLICABILITY.csv"
+    },
+    {
+      "what": "registry specifications, all empty schemas",
+      "value": 6,
+      "unit": "entries",
+      "where": "docs/g9-design/REGISTRY_CONTRACTS.json"
+    },
+    {
+      "what": "browse records in the catalogue",
+      "value": 110,
+      "unit": "lines (14 method, 35 application, 61 research-question records)",
+      "where": "data/catalogue/records.jsonl"
+    },
+    {
+      "what": "populated measurement specifications",
+      "value": 1,
+      "unit": "measure cards (teaching example about a published non-text measure)",
+      "where": "example/input/ASKIN_MEASURE_CARD.jsonl"
+    },
+    {
+      "what": "fields in that card",
+      "value": 44,
+      "unit": "fields in 9 sections (17 reported with locators, 24 unknown, 3 proposed)",
+      "where": "example/input/ASKIN_MEASURE_CARD.jsonl"
+    },
+    {
+      "what": "texts scored or estimates validated with this toolkit",
+      "value": 0,
+      "unit": "texts",
+      "where": "whole component"
+    }
+  ],
+  "status": {
+    "working": [
+      "offline catalogue and searchable website",
+      "measure-card schema and structural validator"
+    ],
+    "proposed": [
+      "product-description scoring workflow",
+      "measurement agent skill"
+    ],
+    "texts_scored": 0,
+    "validated_estimates": 0,
+    "teaching_card": "One unreviewed example about musical typicality; not a text measure."
+  },
+  "entry_points": [
+    "README.md",
+    "AI-PROMPT.md",
+    "docs/catalogue/index.html",
+    "data/catalogue/records.jsonl",
+    "tool/scripts/validate_measure_cards.py",
+    "tool/schemas/measure-card.schema.json",
+    "docs/g9-design/CAMPAIGN_DESIGN.md",
+    "docs/g9-design/EXTRACTION_AND_VALIDATION.md"
+  ],
+  "sources": [
+    {
+      "what": "Project-authored measurement design and reference tables",
+      "where": "docs/g9-design/",
+      "credit": "NOTICE.md"
+    },
+    {
+      "what": "Teaching notes on Askin and Mauskapf (2017)",
+      "where": "example/input/ASKIN_MEASURE_CARD.jsonl",
+      "credit": "NOTICE.md; source locators in the card"
+    }
+  ],
+  "licenses": {
+    "code": "Apache-2.0",
+    "project_documentation_data_schema_template_and_prompt": "CC BY 4.0",
+    "third_party": "Cited works retain their own terms; see NOTICE.md."
+  },
+  "data": [
+    {
+      "source": "Project-authored design and derived catalogue",
+      "included": true
+    },
+    {
+      "source": "Project-authored teaching notes on a published measure",
+      "included": true
+    },
+    {
+      "source": "Product Hunt collection",
+      "included": false,
+      "note": "Restricted source data; no records or text distributed."
+    }
+  ],
+  "checks": [
+    {
+      "command": "python3 -B checks/verify_component.py",
+      "expects": "Counts, file hashes and catalogue formats agree; the teaching card passes structure and is refused for submission."
+    },
+    {
+      "command": "python3 -B tool/scripts/build_catalogue.py",
+      "expects": "Unchanged inputs reproduce supplied outputs. Changed releases are refused before output writes; use a fresh folder. Fresh SQLite bytes can vary by SQLite version."
+    },
+    {
+      "command": "python3 -B checks/test_build_catalogue.py",
+      "expects": "Seven builder regressions pass."
+    }
+  ],
+  "files": [
+    {
+      "path": "AI-PROMPT.md",
+      "bytes": 1949,
+      "sha256": "15c5aff44bf7f56d54c2b2e6b9637957cad57adc028a16987dd5febb5882d9d8"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1801,
+      "sha256": "c5561bb1da26bad5d67a52dc996c1fe77050a7a793dd672700e923bed5518422"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4066,
+      "sha256": "1e44e8cea936b6bb63b8d8140ba934468276f76d1ca5bac3011c9b91c93cc7b7"
+    },
+    {
+      "path": "checks/test_build_catalogue.py",
+      "bytes": 6853,
+      "sha256": "ea23e777ab36bd7fa8976948ff3c1c336911aabb0c815606763aa1e42a43329b"
+    },
+    {
+      "path": "checks/verify_component.py",
+      "bytes": 11128,
+      "sha256": "35cc269d4ec91467f7531acd857d032f5c3b7e1c0949b667d764c3ce4f2483b6"
+    },
+    {
+      "path": "data/catalogue/BUILD_RECEIPT.json",
+      "bytes": 601,
+      "sha256": "a32fb8faea46f07653fc65d6e1f2ba086c87d197886f0241d48cdcd9425ef422"
+    },
+    {
+      "path": "data/catalogue/applicability.csv",
+      "bytes": 24610,
+      "sha256": "3f73d2f90d0c6069a2a99305180c33cf667675cfca28e2097065c175a51a9cfd"
+    },
+    {
+      "path": "data/catalogue/catalogue.json",
+      "bytes": 375107,
+      "sha256": "13403f2fd0750d0a07bc90e8755cd0938d6099a9d0a863ada3b0369ebf5fa604"
+    },
+    {
+      "path": "data/catalogue/novelty-design.sqlite",
+      "bytes": 385024,
+      "sha256": "bbfad52dd945080c2aeb60cb73bc98db6734b43ba59bd274f5dcf738d9f23eb3"
+    },
+    {
+      "path": "data/catalogue/records.jsonl",
+      "bytes": 126131,
+      "sha256": "61f5e88536f7d58d7a94cbf91aad4a63580f492d854d56084a0d822b1f554069"
+    },
+    {
+      "path": "docs/README.md",
+      "bytes": 506,
+      "sha256": "29988a59b69e2f381381ca1e00a597dd7181ce611fdf78a5afd93c8ae882c1f9"
+    },
+    {
+      "path": "docs/catalogue/index.html",
+      "bytes": 393882,
+      "sha256": "06e172b0bae5dd30c9a87e3e42e5f07fc2ebeb73bc1adb6b2470425065a2387e"
+    },
+    {
+      "path": "docs/g9-design/APPLICATION_COVERAGE.csv",
+      "bytes": 10486,
+      "sha256": "7eeb7453b6e9b9e2d0a6f430ad192d4a1f6c0a89585daa4be3255f03d006a08e"
+    },
+    {
+      "path": "docs/g9-design/CAMPAIGN_DESIGN.md",
+      "bytes": 4811,
+      "sha256": "a2cb02e98709131cd41a31e143ec23703c3ae157b944761d81307cc46d8f0907"
+    },
+    {
+      "path": "docs/g9-design/EXTRACTION_AND_VALIDATION.md",
+      "bytes": 12670,
+      "sha256": "51aab69ac70579e46a5fd1de3f402b20e890f9cae59cde781f087b1ef5302fba"
+    },
+    {
+      "path": "docs/g9-design/LANES.jsonl",
+      "bytes": 57417,
+      "sha256": "e4dfce3d5d6815b9d42affc13fccad5b795dce3be3c92760876a5f7f37b38bee"
+    },
+    {
+      "path": "docs/g9-design/METHOD_APPLICABILITY.csv",
+      "bytes": 24119,
+      "sha256": "bca9ebab35a7dbed430d48baa8f71ea95a7a3cc657047936bf22d118b7bec0a7"
+    },
+    {
+      "path": "docs/g9-design/METHOD_FAMILIES.json",
+      "bytes": 1601,
+      "sha256": "0b66619be5fee52f2c535f5364f04babcc6444bd24e33bcaa8d7daa9788a2eda"
+    },
+    {
+      "path": "docs/g9-design/MISSIONS.json",
+      "bytes": 4560,
+      "sha256": "604090198cf395b141619d10f292b49f42eeb95442b4280e6cfae75764cc33f4"
+    },
+    {
+      "path": "docs/g9-design/MISSIONS.md",
+      "bytes": 2928,
+      "sha256": "74dc0e8a88e9f6a26843a1b6e4c362b67ee3a6df4ca36cb85d1f02cd6dd93a05"
+    },
+    {
+      "path": "docs/g9-design/README.md",
+      "bytes": 1208,
+      "sha256": "2dc84aa73dff8ac9cc31d18225602119ddb9b2781097b7abe99dcda1c0fb94c1"
+    },
+    {
+      "path": "docs/g9-design/REGISTRY_CONTRACTS.json",
+      "bytes": 3223,
+      "sha256": "82c059101a7228defa2fceb5a3d76bf29308dd0bec2d262f6938d288e3dba680"
+    },
+    {
+      "path": "docs/g9-design/SEARCH_PROTOCOL.md",
+      "bytes": 4423,
+      "sha256": "0a1bf97cf4adb4cf7d3d2b96bec6b792996970d466e048c5c958a85cf110b203"
+    },
+    {
+      "path": "docs/measure-card-example-note.md",
+      "bytes": 892,
+      "sha256": "b33e8822e41ff66fd8bdd8566997cef8e460985de62dc27d3066268a6eaa47c2"
+    },
+    {
+      "path": "example/input/ASKIN_MEASURE_CARD.jsonl",
+      "bytes": 8209,
+      "sha256": "08843da6f97dcc759d9fcd7564a8b36a02acfafee8b213df0bde7d4f94cba119"
+    },
+    {
+      "path": "example/output/structure_check.txt",
+      "bytes": 94,
+      "sha256": "8626a81c36f5c771e121508c58d6cc60ce51e7c8b0516df881c6555f0809bfce"
+    },
+    {
+      "path": "example/output/submission_check.txt",
+      "bytes": 103,
+      "sha256": "3168c00100d7160d95c8159c05c84c88564960bee2192099d0ee9d77c198dad8"
+    },
+    {
+      "path": "tool/schemas/measure-card.schema.json",
+      "bytes": 12046,
+      "sha256": "af88b98d1d19c20335549ce3cfd592de7a40c14db2e623d93f0bfc73db17ab60"
+    },
+    {
+      "path": "tool/scripts/build_catalogue.py",
+      "bytes": 12731,
+      "sha256": "6cb59029cbbc7eb3428b4e5130f558d6007640909e3b90b924127e29577ad742"
+    },
+    {
+      "path": "tool/scripts/validate_measure_cards.py",
+      "bytes": 5073,
+      "sha256": "2be0a5cad1c9430911853c6d726ef3c8d919734de80f8c983350e8d4088d4d80"
+    },
+    {
+      "path": "tool/templates/catalogue-template.html",
+      "bytes": 18793,
+      "sha256": "3612ea2659454364fda0c2a6d33610849ae20084a905678886d79c2ed6bb61f5"
+    }
+  ],
+  "size_bytes": 1517045
+}

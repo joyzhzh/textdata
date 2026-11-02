@@ -1,0 +1,147 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78855-78856]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26859]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Centers for Medicare & Medicaid Services
+
+[Document Identifiers: CMS-10733]
+
+
+Agency Information Collection Activities: Proposed Collection; 
+Comment Request
+
+AGENCY: Centers for Medicare & Medicaid Services, Health and Human 
+Services (HHS).
+
+ACTION: Notice.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Centers for Medicare & Medicaid Services (CMS) is 
+announcing an opportunity for the public to comment on CMS' intention 
+to collect information from the public. Under the Paperwork Reduction 
+Act of 1995 (the PRA), federal agencies are required to publish notice 
+in the Federal Register concerning each proposed collection of 
+information (including each proposed extension or reinstatement of an 
+existing collection of information) and to allow 60 days for public 
+comment on the proposed action. Interested persons are invited to send 
+comments regarding our burden estimates or any other aspect of this 
+collection of information, including the necessity and utility of the 
+proposed information collection for the proper performance of the 
+agency's functions, the accuracy of the estimated burden, ways to 
+enhance the quality, utility, and clarity of the information to be 
+collected, and the use of automated collection techniques or other 
+forms of information technology to minimize the information collection 
+burden.
+
+DATES: Comments must be received by February 5, 2021.
+
+ADDRESSES: When commenting, please reference the document identifier or 
+OMB control number. To be assured consideration, comments and 
+recommendations must be submitted in any one of the following ways:
+    1. Electronically. You may send your comments electronically to 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for ``Comment or 
+Submission'' or ``More Search Options'' to find the information 
+collection document(s) that are accepting comments.
+    2. By regular mail. You may mail written comments to the following 
+address: CMS, Office of Strategic Operations and Regulatory Affairs, 
+Division of Regulations Development, Attention: Document Identifier/OMB 
+Control Number _____, Room C4-26-05, 7500 Security Boulevard, 
+Baltimore, Maryland 21244-1850.
+    To obtain copies of a supporting statement and any related forms 
+for the proposed collection(s) summarized in this notice, you may make 
+your request using one of following:
+    1. Access CMS' website address at <a href="https://www.cms.gov/Regulations-and-Guidance/Legislation/PaperworkReductionActof1995/PRA-Listing.html">https://www.cms.gov/Regulations-and-Guidance/Legislation/PaperworkReductionActof1995/PRA-Listing.html</a>.
+    2. Call the Reports Clearance Office at (410) 786-1326.
+
+FOR FURTHER INFORMATION CONTACT: William N. Parham at (410) 786-4669.
+
+SUPPLEMENTARY INFORMATION:
+
+Contents
+
+    This notice sets out a summary of the use and burden associated 
+with the following information collections. More detailed information 
+can be found in each collection's supporting statement and associated 
+materials (see ADDRESSES).
+
+CMS-10733 Data Management Plan Self-Attestation Questionnaire (DMP SAQ)
+
+    Under the PRA (44 U.S.C. 3501-3520), federal agencies must obtain 
+approval from the Office of Management and Budget (OMB) for each 
+collection of information they conduct or sponsor. The term 
+``collection of information'' is defined in 44 U.S.C. 3502(3) and 5 CFR 
+1320.3(c) and includes agency requests or requirements that members of 
+the public submit reports, keep records, or provide information to a 
+third party. Section 3506(c)(2)(A) of the PRA requires federal agencies 
+to publish a 60-day notice in the Federal Register concerning each 
+proposed collection of information, including each proposed extension 
+or reinstatement of an existing collection of information, before 
+submitting the collection to OMB for approval. To comply with this 
+requirement, CMS is publishing this notice.
+
+Information Collection
+
+    1. Type of Information Collection Request: New collection (Request 
+for a new OMB control number); Title of Information Collection: Data 
+Management Plan Self-Attestation Questionnaire (DMP SAQ); Use: The 
+Privacy Act of 1974 allows for discretionary releases of data 
+maintained in Privacy Act protected systems of records under Sec.  
+552a(b) (Conditions of Disclosure). The mandate to account for 
+disclosures of data under the Privacy Act is found at Sec.  
+552a(c)(Accounting of Certain Disclosures). This section states that 
+certain information must be maintained regarding disclosures made by 
+each agency. This information is: Date, Nature, Purpose, and Name/
+Address of Recipient. Section 552a(e) sets the overall Agency 
+Requirements that each agency must meet in order to maintain records 
+under the Privacy Act. The Data Use Agreement (DUA) form is needed as 
+part of the review of each CMS data request to ensure compliance with 
+the requirements of the Privacy Act for disclosures that contain PII.
+    The DUA legally binds the user to the Agreement's terms. The user 
+must agree to all the terms and sign off on them prior to the release 
+or access to data files containing protected health information, and 
+individual identifiers. The DMP SAQ is a technical, evidence-based 
+questionnaire that DUA users must complete as part of the data request 
+packet. The DMP SAQ will enable CMS to evaluate researcher data systems 
+to ensure that CMS data are adequately secured and appropriately 
+protected, as per the Privacy Act and the HIPAA Privacy Rule. The DMP 
+SAQ also allows CMS to measure compliance through the implementation of 
+security and privacy controls as outlined in the National Institute of 
+Standards and Technology (NIST) Special Publication 800-53 and the 
+Centers for Medicare & Medicaid Services (CMS) Information Security and 
+Acceptable Risk Safeguards (ARS). The second component of the DMP SAQ 
+is to provide ongoing oversight. All organizations will be subject to 
+routine audits of the environments used to store and process CMS data, 
+as described in their organizational-level DMP SAQ.
+
+[[Page 78856]]
+
+Form Number: CMS-10733 (OMB control number: 0938-New); Frequency: 
+Annually; Affected Public: Private Sector, State, Local, or Tribal 
+Governments, Federal Government, Business or other for-profits, Not-
+for-profits institutions; Number of Respondents: 1,000; Total Annual 
+Responses: 1,000; Total Annual Hours: 1,500. (For policy questions 
+regarding this collection contact James Krometis at 410-786-0340.)
+
+    Dated: December 2, 2020.
+William N. Parham, III,
+Director, Paperwork Reduction Staff, Office of Strategic Operations and 
+Regulatory Affairs.
+[FR Doc. 2020-26859 Filed 12-4-20; 8:45 am]
+BILLING CODE 4120-01-P
+
+
+</pre></body>
+</html>

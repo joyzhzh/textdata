@@ -1,0 +1,19 @@
+{
+  "all_as_expected": true,
+  "apply": "PASS_APPLIED",
+  "copies": 0,
+  "deletions": 0,
+  "dry_run": "PASS_PREFLIGHT",
+  "inventory": "PASS_READ_ONLY_INVENTORY",
+  "reapply": "REFUSED",
+  "refusals": {
+    "apply-with-wrong-hash": "REFUSED",
+    "apply-without-approval": "REFUSED",
+    "tampered-plan-same-seal": "REFUSED",
+    "workspace-drift-after-sealing": "REFUSED"
+  },
+  "renames": 2,
+  "sealed_plan_sha256": "f0c1025a5dcc9496c3041a253195e1fd55c30b4de0b2ce9e7c45bc4b2e73112f",
+  "symlinks": 2,
+  "verify": "PASS_POST_MOVE_STRUCTURE_HASHES_ALIASES"
+}

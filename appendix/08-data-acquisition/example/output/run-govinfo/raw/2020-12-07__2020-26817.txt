@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78852-78853]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26817]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+GENERAL SERVICES ADMINISTRATION
+
+[OMB Control No. 3090-0300; Docket No. 2020-0001; Sequence No. 9]
+
+
+Submission for OMB Review; General Services Administration 
+Acquisition Regulation; Implementation of Information Technology 
+Security Provision
+
+AGENCY: Office of Acquisition Policy, General Services Administration 
+(GSA).
+
+ACTION: Notice of request for comments regarding an extension to an 
+existing OMB information collection.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Under the provisions of the Paperwork Reduction Act of 1995, 
+the Regulatory Secretariat Division will be submitting to the Office of 
+Management and Budget (OMB) a request to review and approve a renewal 
+of the currently approved information collection requirement regarding 
+Implementation of Information Technology Security Provision.
+
+DATES: Submit comments on or before January 6, 2021.
+
+ADDRESSES: Written comments and recommendations for this information 
+collection should be sent within 30 days of publication of this notice 
+to <a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>.
+    Find this particular information collection by selecting 
+``Currently under Review--Open for Public Comments'' or by using the 
+search function.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Johnnie McDowell, Program Analyst, 
+Office of Acquisition Policy, at (202) 718-6112, or [email redacted].
+
+SUPPLEMENTARY INFORMATION:
+
+A. Purpose
+
+    GSA's Office of the Chief Information Officer (OCIO) issued ``CIO 
+IT Security Procedural Guide 09-48, GSA IT Security Procedural Guide: 
+Security and Privacy Acquisition Requirements,'' to provide IT security 
+standards, policies and reporting requirements. The GSA OCIO also 
+issued ``CIO 12-2018, GSA IT Policy Requirements Guide'' requiring 
+contracting officers and the contracting officer's representatives to 
+coordinate with GSA Information Technology approving officials or their 
+delegate for review of contractor submissions which may impact GSA's 
+internal information systems. These streamlined policies into two 
+centralized policies will reduce contractors' time to comply with GSA's 
+IT policies and increase the security of GSA's internal information 
+systems. These policies include the requirement for contractors to 
+submit an IT Security Plan to the contracting officer and contracting 
+officer's representative that describes the processes and procedures 
+that will be followed to ensure appropriate security of IT resources 
+that are developed, processed, or used under the contract. The clause 
+will also require that contractors submit written proof of IT security 
+authorization six months after contract award, and verify that the IT 
+Security Plan remains valid annually.
+
+[[Page 78853]]
+
+B. Annual Reporting Burden
+
+    Respondents: 91.
+    Responses Per Respondent: 2.
+    Total Annual Responses: 182.
+    Hours per Response: 5.
+    Total Burden Hours: 910.
+
+C. Public Comments
+
+    A 60-day notice published in the Federal Register at 85 FR 55678 on 
+September 9, 2020. There were no comments.
+    Obtaining Copies of Proposals: Requesters may obtain a copy of the 
+information collection documents from the GSA Regulatory Secretariat 
+Division, by calling 202-501-4755 or emailing [email redacted]. Please 
+cite OMB Control No. 3090-0300, Implementation of Information 
+Technology Security Provision, in all correspondence.
+
+Jeffrey Koses,
+Senior Procurement Executive, Office of Acquisition Policy, Office of 
+Government-wide Policy.
+[FR Doc. 2020-26817 Filed 12-4-20; 8:45 am]
+BILLING CODE 6820-61-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

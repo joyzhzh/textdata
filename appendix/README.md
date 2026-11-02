@@ -1,6 +1,6 @@
 # Technical appendix components
 
-The ten component folders retain the detailed accounts accompanying the summary appendix: purpose, design, use, evidence and limitations, and proposed development. The website links provide illustrations and currently available materials. Implementation files and underlying datasets are not included in this documentation addition.
+The ten folders contain the finished resources and working examples accompanying the proposal. Start with a component’s README or use its `AI-PROMPT.md` with your own AI assistant. The paired webpage illustrates what it does; the README explains how to try it and what remains proposed.
 
 | No. | Component | Webpage | Documentation |
 | --- | --- | --- | --- |
@@ -14,3 +14,5 @@ The ten component folders retain the detailed accounts accompanying the summary 
 | 8 | Large-scale data acquisition | [Open](https://textdata.info/toolkit/large-scale-data-acquisition/) | [08-data-acquisition](08-data-acquisition/README.md) |
 | 9 | Combining ML, NLP and LLMs | [Open](https://textdata.info/toolkit/combining-ml-nlp-llms/) | [09-measurement](09-measurement/README.md) |
 | 10 | LLM-annotation workflow | [Open](https://textdata.info/toolkit/llm-annotation-workflow/) | [10-annotation](10-annotation/README.md) |
+
+Code is licensed under the Apache License 2.0 ([LICENSE](../LICENSE)); documents and data authored for TextData are licensed under CC BY 4.0 ([LICENSE-docs](../LICENSE-docs)). Third-party material keeps its own terms, as each folder’s NOTICE states.

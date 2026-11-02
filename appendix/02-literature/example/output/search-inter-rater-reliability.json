@@ -1,0 +1,26 @@
+{
+ "query": "inter-rater reliability",
+ "matching_entries": 2,
+ "entries": [
+  {
+   "id": "annotation_checkpoint:W026",
+   "title": "Inter‐Rater Reliability of AI Scores: A Call to Move from Correlational to Factor Analytical Estimation",
+   "authors": "Andrew B. Speer",
+   "year": 2026,
+   "journal": "Personnel Psychology",
+   "doi": "10.1111/peps.70036",
+   "abstract_on_file": true,
+   "has_reading_note": true
+  },
+  {
+   "id": "annotation_successor:W026",
+   "title": "Inter‐Rater Reliability of AI Scores: A Call to Move from Correlational to Factor Analytical Estimation",
+   "authors": "Andrew B. Speer",
+   "year": 2026,
+   "journal": "Personnel Psychology",
+   "doi": "10.1111/peps.70036",
+   "abstract_on_file": true,
+   "has_reading_note": true
+  }
+ ]
+}

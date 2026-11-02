@@ -1,0 +1,2060 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Rules and Regulations]
+[Pages 78770-78787]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26832]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+45 CFR Part 1
+
+RIN 0991-AC17
+
+
+Department of Health and Human Services Good Guidance Practices
+
+AGENCY: Office of the Secretary, Department of Health and Human 
+Services.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Health and Human Services finalizes its 
+proposed regulations governing the agency's release and maintenance of 
+guidance documents. These regulations will help to ensure that the 
+public receives appropriate notice of new guidance and that the 
+Department's guidance does not impose obligations on regulated parties 
+that are not already reflected in duly enacted statutes or regulations 
+lawfully promulgated under them.
+
+DATES: This final rule is effective January 6, 2021.
+
+FOR FURTHER INFORMATION CONTACT: Brenna Jenny, Department of Health and 
+Human Services, 200 Independence, Avenue SW, Room 713F, Washington, DC 
+20201. Email: [email redacted]. Telephone: (202) 690-7741.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Statutory and Regulatory Background
+
+    Subject to certain exceptions, the Administrative Procedure Act 
+(``APA''), 5 U.S.C. 551 et seq., mandates that rules imposing new 
+obligations on regulated parties must go through notice-and-comment 
+rulemaking. See, e.g., Chrysler Corp. v. Brown, 441 U.S. 281, 302 
+(1979). This is true regardless of whether agencies frame these rules 
+as sub-regulatory guidance. See, e.g., Iowa League of Cities v. EPA, 
+711 F.3d 844, 875 (8th Cir. 2013); Gen. Elec. Co. v. EPA, 290 F.3d 377, 
+385 (D.C. Cir. 2002). The APA's procedural requirements sound in 
+notions of good governance. See, e.g., Smiley v. Citibank (S.D.), N.A., 
+517 U.S. 735, 741 (1996). Agencies can generally issue interpretive 
+rules and statements of policy without conducting notice-and-comment 
+rulemaking,\1\ although such sub-regulatory guidance lacks the force 
+and effect of law, and cannot bind regulated parties. See, e.g., 
+Shalala v. Guernsey Mem'l Hosp., 514 U.S. 87, 99 (1995).
+---------------------------------------------------------------------------
+
+    \1\ But see Azar v. Allina Health Servs., 139 S. Ct. 1804 
+(2019).
+---------------------------------------------------------------------------
+
+    To promote the appropriate issuance and use of guidance documents, 
+and consistent with the requirements of Executive Order 13891, 
+``Promoting the
+
+[[Page 78771]]
+
+Rule of Law Through Improved Agency Guidance Documents,'' 84 FR 55,235 
+(Oct. 15, 2019), the United States Department of Health and Human 
+Services (``HHS'' or ``the Department'') proposed regulations that set 
+forth good guidance practices. This good guidance practices rule is one 
+component of the Department's broader regulatory reform initiative.\2\ 
+The final rule is designed to increase accountability, improve the 
+fairness of guidance issued by the Department, guard against unlawful 
+regulation through guidance, and safeguard the important principles 
+underlying the United States administrative law system.
+---------------------------------------------------------------------------
+
+    \2\ See, e.g., HHS, FY 2020 Annual Performance Plan and Report--
+Regulatory Reform, <a href="https://www.hhs.gov/about/budget/fy2020/performance/regulatory-reform/index.html">https://www.hhs.gov/about/budget/fy2020/performance/regulatory-reform/index.html</a>.
+---------------------------------------------------------------------------
+
+II. Provisions of the Proposed Rule and Analysis of and Response to 
+Public Comments
+
+    In the August 20, 2020 Federal Register (85 FR 51,396), HHS 
+published a proposed rule titled ``Department of Health and Human 
+Services Good Guidance Practices'' (hereinafter, ``Good Guidance 
+Practices proposed rule''). In response to the publication of that 
+proposed rule, HHS received 88 comments from industry trade 
+organizations, patient advocacy groups, providers, health insurers, 
+manufacturers, a law firm, and members of the public. HHS published a 
+correction to this proposed rule on August 26, 2020 (85 FR 52,515) 
+updating certain proposed effective dates. In the following sections of 
+this final rule, HHS includes a summary of the provisions of the August 
+20, 2020 proposed rule, the public comments received, HHS's responses 
+to the comments, and any changes made to the regulatory text as a 
+result.
+    Comment: Several commenters viewed the 30-day comment period (which 
+began on August 17, 2020, the day that the Federal Register publicly 
+displayed the proposed rule) as too short, and they requested a longer 
+comment period.
+    Response: HHS respectfully disagrees with these commenters and 
+continues to view a 30-day comment period as adequate for this notice 
+of proposed rulemaking. The proposed rule, at only six pages in the 
+Federal Register, is not lengthy. Neither the APA nor any other statute 
+requires a longer comment period for the proposed rule. Instead, the 
+APA merely requires that ``[a]fter notice required by this section, the 
+agency shall give interested persons an opportunity to participate in 
+the rule making through submission of written data, views, or arguments 
+with or without opportunity for oral presentation.'' This standard was 
+met here. Indeed, the fact that the Department received 88 comments 
+from a broad cross-section of interested parties, including many trade 
+organizations representing numerous stakeholders, confirms that the 
+public had ample time to participate in this rulemaking.
+
+A. Scope (Sec.  1.1)
+
+    HHS proposed to add 45 CFR 1.1, stating that the requirements to be 
+established pursuant to the proposed rule would apply to all guidance 
+documents issued by all components of the Department, except for the 
+Food and Drug Administration (``FDA''), which has its own good guidance 
+practices regulations that the Secretary plans to amend to conform 
+those regulations to the requirements of Executive Order 13891. FDA 
+currently operates under a set of good guidance practices regulations, 
+see 21 CFR 10.115, as required by the Federal Food, Drug, and Cosmetic 
+Act (FDCA), 21 U.S.C. 371(h), but no other division within HHS operates 
+under a similar set of regulations.
+    Comment: One commenter urged HHS to amend FDA's good guidance 
+practices regulations to be consistent with the requirements in the 
+proposed rule.
+    Response: HHS agrees. The Secretary still plans to amend FDA's good 
+guidance practices regulations, issued as required by the Federal Food, 
+Drug, and Cosmetic Act, 21 U.S.C. 371(h), to conform to the 
+requirements of Executive Order 13891. However, such amendments have 
+not proceeded in parallel with the Department's broader regulation. 
+Accordingly, in order to avoid significant disparities between the 
+rules around guidance that apply to FDA and the rest of the Department, 
+this final rule clarifies that FDA must comply with all requirements 
+implemented in this HHS Good Guidance Practices final rule--to the 
+extent not already incorporated in the FDA good guidance practices 
+regulations--until the Secretary issues a final rule amending FDA's 
+good guidance practices regulations. Primary provisions of this Good 
+Guidance Practices final rule that are not already incorporated into 
+FDA's good guidance practices include, but are not limited to, the 
+requirement that guidance documents issued after the effective date of 
+this rule include a disclaimer clarifying that the contents do not have 
+the force and effect of law (unless the FDCA or other statute 
+authorizes the issuance of binding guidance), as well as the 
+information fields specified at 45 CFR 1.3(a)(3)(iii); the requirement 
+that all significant guidance documents be issued only following a 
+public notice and comment period (unless an exemption applies); that 
+all guidance documents be included in the HHS guidance repository and 
+if not, they will be considered rescinded; and that all FDA guidance 
+documents shall be subject to the petition process at 45 CFR 1.5.
+    Comment: One commenter suggested that the final rule exempt Centers 
+for Medicare & Medicaid Services (CMS) guidance documents from being 
+within the rule's scope, just as HHS had proposed to exempt FDA 
+guidance documents from the scope of the rule.
+    Response: HHS declines to exempt CMS guidance documents from the 
+scope of the Good Guidance Practices final rule. No division of the 
+Department will be operating in a manner inconsistent with the 
+important protections contained in this final rule. As HHS explained in 
+the proposed rule, FDA has long operated under its own set of good 
+guidance practices regulations, and as this final rule clarifies, FDA 
+will be subject to the requirements of this Good Guidance Practices 
+final rule until the Secretary amends FDA's own good guidance practices 
+regulations to conform to the requirements of Executive Order 13891.
+    HHS is finalizing the proposed scope of this rule but clarifying 
+that until the Secretary amends FDA's own good guidance practices 
+regulations, FDA will be subject to the requirements in this Good 
+Guidance Practices final rule. After the Secretary amends FDA's good 
+guidance practices regulations, this rule will, as proposed, apply to 
+all guidance documents issued by HHS except for guidance documents 
+issued by FDA.
+
+B. Definitions (Sec.  1.2)
+
+1. Guidance Document
+    HHS proposed that the HHS Good Guidance Practices regulations would 
+apply to all guidance documents and proposed to define the term 
+``guidance document'' as any Department statement of general 
+applicability which is intended to have future effect on the behavior 
+of regulated parties and which sets forth a policy on a statutory, 
+regulatory, or technical or scientific issue, or an interpretation of a 
+statute or regulation. In the proposed rule, HHS explained that the 
+contents of a transmission, rather than its format, dictates whether it 
+would constitute a guidance document; guidance would
+
+[[Page 78772]]
+
+not need to be in the form of a formal written document to constitute a 
+``guidance document.'' The hallmark of guidance is that it includes 
+statements of general applicability intended to govern the future 
+behavior of regulated parties. Thus, HHS proposed that agency releases 
+of technical or scientific information by itself would not constitute 
+guidance unless the release also contains a policy on, or related to, 
+technical or scientific information that is intended to affect the 
+future behavior of regulated parties. However, HHS clarified that the 
+Good Guidance Practices regulations would not require HHS to justify 
+the quality of information; regulated parties and other stakeholders 
+should use existing mechanisms to address the quality of information 
+contained in documents issued by HHS.
+    Materials directed to government employees or agency contractors, 
+rather than regulated parties, would also generally not constitute 
+guidance within the meaning of this proposed rule. Similarly, most 
+agency statements communicating news updates about the agency would not 
+constitute guidance. Agency statements of specific applicability--such 
+as advisory or legal opinions directed to particular parties about 
+circumstance-specific questions; notices regarding particular 
+locations, facilities, or products; and correspondence with individual 
+persons or entities, including congressional correspondence or notices 
+of violation--would also generally not be ``guidance.''
+    HHS proposed that certain categories of documents would be excluded 
+from the term guidance document: Rules promulgated pursuant to notice 
+and comment under 5 U.S.C. 553 or similar statutory provisions; rules 
+exempt from rulemaking requirements under 5 U.S.C. 553(a); rules of 
+agency organization, procedure, or practice; decisions of agency 
+adjudications under 5 U.S.C. 554 or similar statutory provisions; 
+internal guidance directed to the Department or other agencies that is 
+not intended to have substantial future effect on the behavior of 
+regulated parties; internal executive branch legal advice or legal 
+opinions addressed to executive branch officials; legal briefs and 
+other court filings; grant solicitations and awards; or contract 
+solicitations and awards.
+    HHS proposed that whether a document would be exempt as a rule of 
+agency organization, procedure, or practice is a functional test. 
+Documents that are designed to shape the behavior of the Department 
+would be exempt; documents designed to shape the behavior of regulated 
+parties would be considered guidance if they also set forth a policy on 
+a statutory, regulatory, or technical or scientific issue, or an 
+interpretation of a statute or regulation.
+    Pre-enforcement rulings, which are formal written communications 
+applying the law to a specific set of facts (as opposed to making 
+statements of general applicability) would also not constitute guidance 
+documents under the proposed rule. Examples include letter rulings, 
+advisory opinions directed to a specific party, and no-action letters. 
+But material embedded within an advisory opinion or similar letter that 
+otherwise satisfies the definition of ``guidance document'' would still 
+be guidance for purposes of this rule. If a document addressed to 
+specific individuals nonetheless contains a statement of general 
+applicability setting forth a relevant policy or interpretation that is 
+intended to have future effect by guiding the conduct of other 
+regulated parties, then the document would be a guidance document.
+    Consistent with its existing responsibilities, HHS proposed that 
+the HHS Office of the General Counsel (``OGC''), after discussing with 
+senior officials within the Department, would make the legal 
+determination of whether a document is excluded from the term 
+``guidance document'' and whether a purported guidance document is, in 
+fact, a legislative rule that must go through notice-and-comment 
+rulemaking. OGC would continue to determine whether certain guidance 
+relating to Medicare should nonetheless go through notice-and-comment 
+rulemaking as a result of the Supreme Court's decision in Azar v. 
+Allina Health Services, 139 S. Ct. 1804 (2019).
+    HHS received the following comments on the proposed definition of 
+``guidance document.''
+    Comment: Several commenters thought that the definition of 
+``guidance'' as materials ``intended to have future effect'' was too 
+vague and confusing because it would be difficult to determine the 
+Department's ``intent'' in its issuance of a document in order for 
+affected parties to determine whether it is intended to govern the 
+future behavior of regulated parties. Some commenters also noted that 
+regulated parties may also rely on internal agency documents in guiding 
+their future conduct, and thus these documents should not be exempt 
+from being considered ``guidance documents.'' A small number of 
+commenters suggested that rather than use the phrase ``sets forth a 
+policy,'' the definition of guidance document should say ``sets forth 
+an expectation.''
+    Response: The phrase ``intended to have future effect'' is not a 
+subjective test of an agency official's thought processes, but rather, 
+is an objective test to be applied when reviewing the face of a 
+guidance document. For example, a document satisfies this standard when 
+it provides information in a manner that can be reasonably interpreted 
+as designed to encourage regulated entities to voluntarily take certain 
+actions. This definition is consistent with the Office of Management 
+and Budget's (``OMB's'') longstanding definition of guidance as ``an 
+agency statement of general applicability and future effect . . . that 
+sets forth a policy on a statutory, regulatory, or technical issue or 
+an interpretation of a statutory or regulatory issue,'' where ``future 
+effect'' means the ``intended . . . impacts due to voluntary compliance 
+with a guidance document.'' See OMB Bulletin 07-02, ``Agency Good 
+Guidance Practices,'' 72 FR 3432, 3434-35 (Jan. 25, 2007). HHS has no 
+basis for believing that regulated parties have found this definition 
+confusing in the past and therefore is incorporating a very similar 
+definition in this final rule. It believes that the phrase ``sets forth 
+an expectation'' is captured by the phrase ``intended to have future 
+effect.'' HHS agrees with the commenters who noted that internal agency 
+documents can sometimes constitute guidance documents if they are 
+designed to guide the conduct not just of agency officials, but also 
+regulated parties, and it reiterates that whether a document is 
+properly considered a ``guidance document'' under this rule is a 
+functional test.
+    Comment: Several commenters thought that the definition of 
+``guidance'' was too vague and confusing, because categorization of a 
+statement as guidance rests not on the format, but on the content of 
+the communication, such that they believed that ``guidance'' could be 
+contained ``within nonguidance.'' These commenters also asserted that 
+the final rule should require OGC to publicly release its analyses of 
+whether a document is a guidance document, ``nonguidance document'' or 
+``nonguidance'' within a guidance document. A few commenters stated 
+that the definition of ``guidance'' is too vague because the proposed 
+rule did not explain how the term ``guidance document'' will be defined 
+in the context of Medicaid, CHIP, and other programs administered by 
+CMS.
+    Response: HHS clarifies that guidance is not embedded in 
+``nonguidance.'' Rather, if a document that would generally fall 
+outside of the definition of
+
+[[Page 78773]]
+
+guidance, e.g., a document of specific applicability, such as an 
+advisory opinion, contains a statement of general applicability setting 
+forth a relevant policy or interpretation that is intended to govern 
+the future behavior of regulated parties--in other words, contains 
+guidance--then the entire document would constitute a guidance document 
+under this rule. As a result, there is no need to designate certain 
+parts of documents as guidance and other parts ``nonguidance.'' See 
+also 85 FR at 51,397 (``If a document addressed to specific individuals 
+nonetheless contains a statement of general applicability setting forth 
+a relevant policy or interpretation that is intended to have future 
+effect by guiding the conduct of other regulated parties, then the 
+document would be a guidance document.'' (emphasis added)). With 
+respect to the suggestion that HHS OGC publicly post its analysis of 
+whether material constitutes ``guidance,'' HHS declines to incorporate 
+this requirement. Whether material constitutes ``guidance'' is a legal 
+question and as such, HHS OGC's internal analyses of these questions 
+will generally be privileged and confidential. Furthermore, HHS OGC 
+does not have the resources to prepare formal written analyses of every 
+single document that potentially constitutes guidance. If an interested 
+party has a question about whether a document is properly considered 
+guidance, the interested party could petition the agency under the 
+process set forth in Sec.  1.5, and HHS OGC will work with the relevant 
+operating division to prepare a non-privileged public response.
+    HHS believes the proposed rule provided sufficient information 
+about how the Department proposed to define the term ``guidance 
+document.'' It was not feasible for HHS, in the proposed rule preamble, 
+to specifically articulate how the term ``guidance document'' will be 
+applied in each program implemented by HHS. Further, this proposed term 
+builds on OMB's longstanding definition of guidance document and OMB's 
+Final Bulletin on Agency Good Guidance Practices, to which HHS cited in 
+the preamble to the proposed rule. See 85 FR at 51,396. This context, 
+in combination with HHS's own preamble discussion about the term, 
+provided commenters with significant detail about the proposed 
+definition.
+    Comment: A few commenters asked HHS to clarify the meaning of the 
+term ``regulated party'' within the definition of ``guidance 
+document.'' One commenter asked that HHS clarify that ``regulated 
+parties'' include States or state agencies.
+    Response: ``Regulated party'' is a broad term that covers any 
+person or entity that is subject, or potentially subject, to the 
+regulatory authority of any division of HHS. HHS agrees that States and 
+state agencies can be ``regulated parties'' for purposes of this rule, 
+such as in the context of guidance documents relating to the Medicaid 
+program.
+    Comment: One commenter asked HHS to limit the definition of 
+``guidance document'' to written materials. This commenter also asked 
+HHS to clarify that discussions of technical advisory groups are not 
+``guidance.''
+    Response: HHS declines to limit the definition of ``guidance 
+document'' to written materials. As we explained in the proposed rule, 
+citing to OMB's 2007 ``Agency Good Guidance Practices'' (72 FR 3432), 
+the definition of ``guidance document'' encompasses all guidance 
+materials, such as videos, in any format. HHS is reiterating that, 
+consistent with the 2007 OMB Bulletin, the ``definition of `guidance 
+document' encompasses all guidance materials, regardless of format.'' 
+Id. at 3434. Divisions of HHS commonly issue communications with 
+regulated parties through website and blog entries and social media 
+posts. Using such means of communicating with the public can offer 
+benefits to HHS, including more effective outreach to interested 
+parties; however, such electronic communications may often satisfy the 
+definition of ``guidance document,'' and therefore would be subject to 
+all of the requirements in this final rule, including that they cannot 
+purport to impose binding new obligations on regulated entities. It 
+would be arbitrary, and ultimately undermine the important procedural 
+protections of this rule, if HHS were required to follow certain 
+processes for written materials, but not to follow those same 
+requirements for non-written or non-printed materials, even where they 
+transmitted the same information to regulated parties. However, HHS 
+agrees with the commenter that discussions of technical advisory groups 
+do not constitute guidance because the statements are from members of 
+the public and, thus, are not ``agency statements.''
+    Comment: A few commenters asked HHS to clarify that guidance from 
+HHS to agency contractors is ``guidance'' under the rule. Another 
+commenter asked HHS to revise the rule to require its contractors to 
+also be obligated to adhere to HHS good guidance practices.
+    Response: Materials sent from HHS to agency contractors, such as 
+technical directions, are generally not ``guidance'' under the rule, 
+unless the content is designed to guide the conduct of regulated 
+parties. Documents issued by HHS to agency contractors can be guidance 
+documents if they include interpretive rules or policies that are of 
+general applicability, particularly if they are also intended to serve 
+a broader audience in addition to contractors, such as CMS Rulings. 
+However, CMS Rulings, like all guidance documents, must still comply 
+with procedural requirements imposed by the APA and Section 1871 of the 
+Social Security Act.
+    Comment: Several commenters asked HHS to clarify whether particular 
+types of documents are guidance documents, such as Paperwork Reduction 
+Act materials, the Medicaid Managed Care Rate Development Guide, PDP 
+Bid Instructions, guidance documents directed to Medicare Accrediting 
+Organizations, the State Operations Manual, the PACE Manual, the 
+Qualified Health Plan Issuer Application Instructions, the October 31, 
+2019 memorandum from OMB implementing Executive Order 13891 (``October 
+31, 2019 OMB Memo''), MLN Matters documents, Frequently Asked Questions 
+(``FAQs''), documents issued by Medicare Administrative Contractors 
+(``MACs''), OIG advisory opinions, and preambles to proposed and final 
+regulations.
+    Response: This Rule does not affect HHS's obligations under the 
+Paperwork Reduction Act. The Paperwork Reduction Act requires that when 
+an agency seeks to collect information from ten or more persons, 44 
+U.S.C. 3501, the agency must, subject to certain exceptions, submit the 
+collection of information to OMB's Office of Information and Regulatory 
+Affairs (OIRA) for clearance and must publish the proposed information 
+collection in the Federal Register for public comment. 44 U.S.C. 3506, 
+3507. Whether a document containing a collection of information under 
+the Paperwork Reduction Act is also ``guidance'' under this Rule, as 
+opposed to a purely factual collection of information, depends on the 
+content of the document. Similarly, we would evaluate Paperwork 
+Reduction Act clearance documents and Federal Register notices based on 
+their contents to assess whether they constitute guidance, although we 
+do not expect that they would be guidance.
+    The Medicaid Managed Care Rate Development Guide, PDP Bid 
+Instructions, guidance documents directed at Medicare Accrediting 
+Organizations, the State Operations Manual, the PACE Manual, and the
+
+[[Page 78774]]
+
+Qualified Health Plan Issuer Application Instructions are all 
+``guidance documents'' within the meaning of this rule, because they 
+set forth a policy on a statutory, regulatory, or technical or 
+scientific issue, or an interpretation of a statute or regulation, and 
+they are designed to have future effect on the behavior of regulated 
+parties. HHS cannot opine on whether the October 31, 2019 OMB 
+Implementing Memo is ``guidance'' under the HHS rule. That is because 
+this final rule only applies to statements issued by HHS, and OMB, not 
+HHS, issued that memorandum. MLN Matters documents and HHS-issued FAQs 
+are the type of blog posts and web statements that will generally 
+constitute guidance. Instructions from MACs are not ``Department 
+statements'' and, thus, are not guidance documents. OIG advisory 
+opinions are generally not considered guidance because they are 
+designed to contain statements of specific, rather than general, 
+applicability. Since the inception of the advisory opinion process, in 
+accordance with Section 1128D(b)(4)(A) of the Social Security Act, OIG 
+has taken the view that all advisory opinions issued under this statute 
+are legally binding on the Department (including the OIG) and the 
+requestor, but only with respect to the specific conduct of the 
+particular requestor, and that no third parties are bound nor may they 
+rely on an advisory opinion. HHS and OIG have concluded that the 
+advisory opinions OIG has issued prior to the issuance of this final 
+rule are not guidance. Preambles to proposed and final regulations are 
+generally considered to be guidance, because they inform the 
+interpretation of the text of a regulation. See, e.g., Tex. Children's 
+Hosp. v. Azar, 315 F. Supp. 3d 322, 334 (D.D.C. 2018); \3\ but see 
+Natural Res. Def. Council v. E.P.A., 559 F.3d 561, 564-65 (D.C. Cir. 
+2009) (``While preamble statements may in some unique cases constitute 
+binding, final agency action susceptible to judicial review, this is 
+not the norm.'' (internal citation omitted)). We are finalizing the 
+definition of ``guidance document'' as proposed.
+---------------------------------------------------------------------------
+
+    \3\ As explained above, HHS is finalizing the proposed 
+definition of ``guidance repository,'' which permits the primary 
+guidance repository, at <a href="http://www.hhs.gov">www.hhs.gov</a>, to link to subsidiary guidance 
+repositories. HHS will include a link to the Federal Register on the 
+HHS guidance repository. Interpretive rules and policies in 
+preambles to proposed and final HHS rules contained in the Federal 
+Register will be considered guidance included in the guidance 
+repository. HHS will not separately post preambles to the guidance 
+repository.
+---------------------------------------------------------------------------
+
+2. Significant Guidance Document
+    In the proposed rule, HHS proposed to classify certain guidance 
+documents as ``significant guidance documents,'' which HHS proposed to 
+define as a guidance document that is likely to lead to an annual 
+effect on the economy of $100 million or more, or adversely affect in a 
+material way the economy, a sector of the economy, productivity, 
+competition, jobs, the environment, public health or safety, or state, 
+local, or tribal governments or communities; create a serious 
+inconsistency or otherwise interfere with an action taken or planned by 
+another agency; materially alter the budgetary impact of entitlements, 
+grants, user fees, or loan programs or the rights or obligations of 
+recipients thereof; or raise novel legal or policy issues arising out 
+of legal mandates, the President's priorities, or the principles of 
+Executive Order 12866, ``Regulatory Planning and Review.'' In the 
+proposed rule, HHS explained that to calculate whether a guidance 
+document is likely to have an annual effect on the economy of $100 
+million or more, HHS would be required to assess the benefits, costs, 
+or transfer impacts imposed by that guidance document; as part of this 
+analysis, any benefit, cost or transfer occurring in any consecutive 
+twelve-month period would be compared against the $100 million 
+threshold. Future cost savings would not be used to offset upfront 
+costs. In performing these analyses, HHS further explained in the 
+proposed rule that the Department would recognize that guidance 
+documents are not legally binding and, therefore, not all regulated 
+parties would necessarily conform their behavior to the recommendations 
+set forth in the guidance, and furthermore, that the benefits, costs, 
+and transfers may have been accounted for when HHS issued an underlying 
+regulation, if any.
+    In the proposed rule, HHS explained that it anticipated that only a 
+subset of guidance documents would satisfy the proposed rule's 
+definition of a significant guidance document. This is because to 
+qualify as guidance, as opposed to a legislative rule, a document must 
+reflect, implement, interpret, or describe a legal obligation imposed 
+by a pre-existing, external source or advise the public prospectively 
+of the manner in which the agency intends to exercise a discretionary 
+power. It is HHS's presumption that a guidance document that HHS deems 
+significant is actually a legislative rule that must go through notice-
+and-comment rulemaking. HHS shall make all initial decisions as to 
+whether a guidance document is significant, and OMB shall make all 
+final determinations. If a significance determination requires a legal 
+conclusion regarding HHS's governing statutes or regulations, however, 
+OMB cannot reach legal conclusions on behalf of HHS.
+    HHS received the following comments on the proposed definition of 
+``significant guidance document.''
+    Comment: Several commenters thought that the definition of 
+``significant guidance'' was confusing and unclear because it does not 
+provide a clear explanation for how costs related to significant 
+guidance would be calculated and provided no discussion of standards, 
+methodologies, or other criteria to determine whether guidance is 
+``significant.'' One commenter specifically suggested that the test for 
+inconsistencies with the planned actions of other agencies and the 
+novel legal issues test be eliminated from the definition of 
+``significant guidance,'' because these tests would impose a burdensome 
+cross-agency review of all sub-regulatory guidance. Other commenters 
+supported the proposed definition of ``significant guidance.''
+    Response: HHS appreciates the comments. The definition of 
+``significant guidance'' is modeled after the major-rule test from the 
+Congressional Review Act. See 5 U.S.C. 804(2). For example, to 
+determine whether guidance is significant because it will likely result 
+in an annual effect on the economy of $100 million or more, HHS will 
+use the well-established test for making that same determination under 
+the Congressional Review Act, as noted in the proposed rule. The other 
+criteria for determining whether guidance is significant are also 
+specified in the proposed rule, and some of these criteria also have 
+some overlap with the Congressional Review Act's definition of major 
+rule. Specifically, guidance is significant if it adversely affects in 
+a material way the economy, a sector of the economy, productivity, 
+competition, jobs, the environment, public health or safety, or state, 
+local, or tribal governments or communities; creates a serious 
+inconsistency or otherwise interferes with an action taken or planned 
+by another agency; materially alters the budgetary impact of 
+entitlements, grants, user fees, or loan programs or the rights or 
+obligations of recipients thereof; or raises novel legal or policy 
+issues arising out of legal mandates, the President's priorities, or 
+the principles of Executive Order 12866, ``Regulatory Planning and 
+Review.'' HHS believes the Department has discretion in assessing these 
+factors and that these types of assessments are well
+
+[[Page 78775]]
+
+within the Department's expertise to make. HHS respectfully disagrees 
+that the criteria relating to novel legal issues or the planned actions 
+of other agencies would require a cross-agency review of all sub-
+regulatory guidance. OMB--which has an excellent overview of guidance 
+and regulatory issues across all agencies--will make all final 
+decisions on the significant guidance determination and will help 
+identify guidance documents that could trigger this criterion. If an 
+interested party believes that the Department has incorrectly 
+categorized a guidance document as non-significant, the interested 
+party may utilize the petition process set forth at Sec.  1.5.
+    Comment: Several commenters asserted that the proposed definitions 
+of ``guidance document'' and ``significant guidance'' provided 
+insufficient information to allow for effective comment.
+    Response: HHS respectfully disagrees with these comments. HHS 
+received a diverse set of comments on various aspects of the proposed 
+definitions of ``guidance document'' and ``significant guidance 
+document,'' as summarized above and below, which confirms that the 
+Department provided the public with sufficient information about its 
+proposals to permit comment on the proposed definitions. See Nuvio 
+Corp. v. FCC, 473 F.3d 302, 310 (D.C. Cir. 2006) (citing comments 
+received as evidence that notice of proposed rulemaking ``gave 
+interested parties a reasonable opportunity . . . to present relevant 
+information on the central issues''); see also, e.g., Ne. Md. Waste 
+Disposal Auth. v. EPA, 358 F.3d 936, 952 (D.C. Cir. 2004); Appalachian 
+Power Co. v. EPA, 135 F.3d 791, 816 (D.C. Cir. 1998) (per curiam); 
+Stringfellow Mem'l Hosp. v. Azar, 317 F. Supp. 3d 168, 187 (D.D.C. 
+2018).
+    Comment: One commenter suggested that HHS expand the definition of 
+``significant guidance'' to include any guidance that sets forth an 
+initial interpretation of a statutory or regulatory requirement or 
+changes such an interpretation. Another commenter suggested that HHS 
+expand the definition of ``significant guidance'' to include any 
+guidance that requires states to revise their statutes or regulations.
+    Response: HHS appreciates the first commenter's suggestion. 
+However, HHS believes this would significantly expand the set of 
+documents categorized as ``significant guidance'' and may prove 
+unworkable. HHS will consider potentially expanding the category of 
+significant documents in the future, as the Department gains more 
+experience implementing this final rule. HHS also declines to include 
+within ``significant guidance'' any instructions that require states to 
+revise their statutes or regulations. Guidance documents cannot impose 
+new binding obligations on any entity. As a result, if a document 
+purported newly to require states to revise a statute or regulation, 
+such a purported instruction could not, by definition, be guidance. 
+Guidance documents may, however, restate and discuss binding statutory 
+or regulatory requirements, but should, when doing so, provide the 
+citation for the applicable statutory or regulatory requirement.
+    Comment: Several commenters concluded that any document categorized 
+as ``significant'' is in fact a legislative rule that must go through 
+the APA notice-and-comment rulemaking process. Another commenter 
+expressed concern that significant guidance will be viewed as 
+permissibly being able to impose binding new obligations on regulated 
+parties.
+    Response: HHS appreciates the commenters' concerns. As explained in 
+the preamble to the proposed rule, HHS expects significant guidance 
+documents to be relatively few, because as these commenters note, many 
+issuances satisfying one of the significant guidance document criteria 
+may also impose binding new obligations and as such, are legislative 
+rules that must go through the APA's notice-and-comment rulemaking 
+process. Interested parties who believe that HHS has incorrectly 
+classified a legislative rule as a significant guidance document may 
+utilize the petition process set forth in Sec.  1.5.
+    HHS disagrees that significant guidance documents will be viewed as 
+authorized to impose binding new obligations on regulated parties. 
+These guidance documents, like all other guidance documents, will be 
+posted to the HHS guidance repository, which will carry a disclaimer 
+reiterating that all documents contained therein do not impose any new 
+binding obligations unless authorized by law to do so. In addition, any 
+significant guidance documents issued after this rule is finalized will 
+generally include on their face the disclaimer set forth at Sec.  1.3, 
+which reiterates that such documents ``do not have the force and effect 
+of law and are not meant to bind the public in any way.''
+    HHS finalizes the definition of ``significant guidance'' as 
+proposed.
+3. Issued
+    In the proposed rule, HHS defined ``issued'' to mean a distribution 
+of information to the public that HHS initiated or sponsored. However, 
+HHS clarified that if a document directed solely to Department 
+employees must be made publicly available under law or agency 
+disclosure policies, for example posted on an agency website as the 
+result of multiple requests under the Freedom of Information Act, the 
+document would not be considered to be issued.
+    HHS received one comment on the definition of ``issued'':
+    Comment: A commenter expressed concern that the proposed definition 
+of ``issued'' excluded documents directed solely to government 
+employees or agency contractors, explaining that CMS and others have 
+attempted to use instructions to contractors to impose binding 
+requirements on Medicare Advantage plans through audit and other 
+enforcement activities.
+    Response: As HHS explained in the proposed rule, whether something 
+is a guidance document is a functional test. Documents ostensibly 
+directed at government employees or agency contractors but that are 
+designed to, or are used to, shape the behavior of regulated parties 
+will be considered guidance if they also set forth a policy on a 
+statutory, regulatory, or technical or scientific issue, or an 
+interpretation of a statute or regulation.
+    HHS is finalizing the definition of ``issued'' as proposed.
+4. Guidance Repository
+    HHS proposed to define ``guidance repository'' to mean an online 
+electronic database containing or linking to guidance documents, and 
+proposed that the Department's primary guidance repository could link 
+to subsidiary guidance repositories.
+    Comment: One commenter asked HHS to clarify that the online 
+electronic database would be publicly available and free to access.
+    Response: HHS clarifies that by ``online,'' the final rule refers 
+to a publicly available internet portal that is not behind a paywall.
+    Comment: A few commenters commended FDA's pre-existing guidance 
+website for its functionality and utility and expressed a desire for 
+the HHS guidance repository to become more user-friendly.
+    Response: HHS is glad that regulated parties have found FDA's 
+guidance website to be useful. We note that FDA's guidance website has 
+been operational for far longer than the HHS guidance repository, and 
+HHS will consider incorporating additional functionality elements in 
+the future, as the
+
+[[Page 78776]]
+
+Department gains more experience with administering the guidance 
+repository.
+    HHS finalizes the definition of ``guidance repository'' as 
+proposed.
+
+C. Requirements for Department Issuance and Use of Guidance Documents 
+(Sec.  1.3)
+
+    In the proposed rule, HHS proposed that, unless otherwise 
+authorized by statute, HHS may not issue any guidance document that 
+establishes legal obligations not reflected in duly enacted statutes or 
+regulations lawfully promulgated under them, and may not use any 
+guidance document for purposes of requiring persons or entities outside 
+HHS to take any action or to refrain from taking any action beyond what 
+is already required by the terms of an applicable statute or 
+regulation. HHS explained that this is an existing legal obligation but 
+that the Department proposed to codify this requirement in order to 
+ensure consistent compliance with these important legal principles.
+    HHS also proposed a process for issuing guidance that would 
+formalize guardrails designed to ensure that guidance documents are 
+appropriately issued and used. HHS proposed that after November 16, 
+2020, each guidance document issued by HHS, or any of its components, 
+would be required specifically to state that it is a ``guidance'' 
+document and use the following language, unless the guidance is 
+authorized by law to be binding: ``The contents of this document do not 
+have the force and effect of law and are not meant to bind the public 
+in any way, unless specifically incorporated into a contract. This 
+document is intended only to provide clarity to the public regarding 
+existing requirements under the law.'' HHS proposed that no guidance 
+document issued by HHS would be able to direct parties outside the 
+federal government to take or refrain from taking action, except when 
+restating--with citations to statutes, regulations, or binding judicial 
+precedent--mandates contained in a statute or regulation.
+    In the proposed rule, HHS also proposed to require that each 
+guidance document issued by HHS or any component of HHS after November 
+16, 2020, must also include the following information: (1) The 
+activities to which, and the persons to whom, the guidance applies; (2) 
+the date HHS issued the guidance document; (3) a unique agency 
+identifier; (4) a statement indicating whether the guidance document 
+replaces or revises a previously issued guidance document and, if so, 
+identifying the guidance document that it replaces or revises; (5) a 
+citation to the statutory provision(s) and/or regulation(s) (in Code of 
+Federal Regulations format) that the guidance document is interpreting 
+or applying; and (6) a short summary of the subject matter covered in 
+the guidance document. For guidance documents issued before November 
+16, 2020, HHS proposed that the Department would not retrospectively 
+revise those guidance documents to include the information listed in 
+this paragraph. HHS further clarified that any guidance document issued 
+in conjunction with one or more other agencies would nonetheless be 
+required to comply with all requirements that would be applicable if 
+the guidance document were issued solely by HHS.
+    HHS proposed to apply additional procedures to significant guidance 
+documents. HHS would submit all significant guidance documents to OIRA 
+for review under Executive Order 12866 prior to issuance. Significant 
+guidance documents would be required to comply with applicable 
+requirements for significant regulatory actions, as set forth in 
+executive orders, except that only economically significant guidance 
+documents would require a separate Regulatory Impact Analysis. The 
+Secretary, on a non-delegable basis, would have to approve any 
+significant guidance document before the Department issues it. HHS 
+specifically requested comments as to whether the Secretary should 
+instead have the limited authority to delegate approval of guidance 
+documents to the Deputy Secretary, and whether the Secretary should be 
+required to approve certain non-significant guidance documents prior to 
+publication.
+    HHS proposed that, prior to issuing any significant guidance 
+document, HHS must offer a public notice and comment period of at least 
+30 days. HHS would be required to publish a public notice in both the 
+Federal Register and the guidance repository. This notice would list 
+the end of the comment period, provide information about where the 
+public may access a copy of the proposed significant guidance document, 
+and include how written comments may be submitted on the proposed 
+significant guidance document and an internet website where those 
+comments may be reviewed by the public. When issuing the significant 
+guidance document, HHS would be required to review all comments 
+received and publish an easily accessible public response to major 
+concerns raised. Cf., e.g., New Lifecare Hosps. of Chester Cty. LLC v. 
+Azar, 417 F. Supp. 3d 31, 43-44 (D.D.C. 2019) (discussing APA standard 
+for agency responses to public comments during notice-and-comment 
+rulemaking).
+    Under the proposed rule, HHS could elect not to conduct a comment 
+period if it were to find that notice and public comment are 
+impracticable, unnecessary, or contrary to the public interest. The 
+Secretary, as the individual approving the significant guidance 
+document, would be required to make this finding, and the significant 
+guidance document would have to incorporate the finding and a brief 
+statement of reasons in support of such finding. In addition, a 
+significant guidance document could be exempted from any other 
+requirement otherwise applicable to significant guidance documents if 
+the Secretary of HHS and the Administrator of OIRA were to agree that 
+exigency, safety, health, or other compelling cause warrants the 
+exemption.
+    HHS also proposed that it would seek from OIRA, as appropriate, 
+categorical determinations that classes of guidance presumptively do 
+not qualify as significant. Any guidance satisfying such a categorical 
+exemption presumptively need not comply with the requirements of Sec.  
+1.3(b) but would need to comply with all other requirements applicable 
+to guidance documents. OIRA may request to review guidance documents 
+within a categorical exemption and may nonetheless conclude that a 
+guidance document that is presumptively not significant is in fact 
+significant.
+    HHS received the following comments on the proposed process for 
+issuing guidance documents:
+    Comment: Several commenters stated that the APA exempts guidance 
+documents from the notice-and-comment requirements of 5 U.S.C. 553, and 
+that the Congressional Review Act, 5 U.S.C. Sections 801-808, also does 
+not require guidance to go through notice and comment procedures. They 
+assert that HHS fails to explain the statutory basis authorizing it to 
+apply notice and comment requirements to guidance documents.
+    Response: The APA requires that agencies must publish notice of a 
+proposed rulemaking and give the public the opportunity to participate, 
+usually by submitting comments, prior to issuing the rule. See 5 U.S.C. 
+553(b). Subsection 553(b) exempts interpretative rules, general 
+statements of policy, or rules of agency organization, procedure, or 
+practice from the notice and comment requirement, unless otherwise 
+required by statute. However, it does not prohibit agencies from using 
+additional
+
+[[Page 78777]]
+
+procedures for rules that would otherwise be exempt from notice and 
+comment procedures. The Supreme Court has recognized that the APA 
+provides a statutory floor, not a ceiling, on the administrative 
+procedures an agency may choose to adopt when promulgating legislative 
+rules or issuing guidance. See Vt. Yankee Nuclear Power Corp. v. 
+Natural Res. Def. Council, Inc., 435 U.S. 519, 524 (1978) (``Agencies 
+are free to grant additional procedural rights in the exercise of their 
+discretion . . . .'').
+    HHS has previously adopted procedures above the APA floor. In 1971, 
+then-Health Education and Welfare Secretary Richardson announced that, 
+despite the exemption in the APA, the department would no longer 
+consider matters relating to public property, loans, grants, benefits, 
+and contracts exempt from notice and comment rulemaking (36 FR 2532 
+(Feb. 5, 1971)), and the courts have enforced the requirement that 
+these programs use notice and comment rulemaking ever since. See, e.g., 
+Humana of S.C. v. Califano, 590 F.2d 1070, 1084 (D.C. Cir. 1978) 
+(discussing waiver of benefit exemption and application of mandatory 
+rulemaking procedures). See generally Service v. Dulles, 354 U.S. 363, 
+388 (1957) (where agency had adopted regulations governing decision 
+committed to the Secretary's discretion by statute, failure to apply 
+agency regulations was illegal).
+    Similarly, nothing in the Congressional Review Act precludes the 
+adoption of additional procedures for guidance documents, nor does 
+using these procedures affect whether any particular guidance is also a 
+rule subject to the Congressional Review Act.
+    The requirements within this final rule are well within the 
+authority provided by the APA and the Congressional Review Act. HHS 
+does not need additional statutory authority to provide notice and 
+solicit public comments on significant guidance documents, or to apply 
+any of the other procedures implemented by this final rule.
+    Comment: Several commenters noted that the Congressional Review Act 
+requires agencies to submit certain guidance documents to Congress, 
+even if they are exempt from notice and comment rulemaking. The 
+commenters expressed concern that the proposed rule did not mention 
+these requirements and did not explicitly discuss congressional review 
+of significant guidance.
+    Response: The Congressional Review Act requires agencies to give 
+Congress notice whenever they issue rules, 5 U.S.C. 801(a)(1)(A), which 
+the Congressional Review Act defines to include interpretive rules and 
+policy statements if they are ``designed to implement, interpret, or 
+prescribe law or policy,'' 5 U.S.C. 551, as incorporated by 5 U.S.C. 
+804(3). The Congressional Review Act authorizes OIRA to make a 
+determination whether a rule is a ``major rule'' under the 
+Congressional Review Act. 5 U.S.C. 804(2). For rules determined by OIRA 
+to be ``major rules,'' agencies must generally provide advance notice 
+to Congress. 5 U.S.C. 801(a)(3). Section 1.2 of this final rule 
+incorporates and extends the major rule test from the Congressional 
+Review Act in the definition of ``significant guidance.'' Section 
+1.3(b)(2)(i) of the final rule requires the Department to submit 
+significant guidance to OIRA for review. To the extent that a guidance 
+document is also a ``rule'' subject to the Congressional Review Act, 
+this final rule does not purport to change or modify the Congressional 
+Review Act's requirements for Congressional notification.
+    Comment: Several commenters pointed to what they perceived to be 
+important questions left open by the proposed rule, such as whether HHS 
+has an obligation to consider and respond to comments and how 
+stakeholder input would be considered or integrated into proposed 
+significant guidance.
+    Response: As HHS explained in the preamble to the final rule, HHS 
+does have an obligation to consider all comments and to respond not to 
+each individual comment, but rather to all major concerns raised. See 
+85 FR at 51,398 (``HHS would be required to review all comments 
+received and publish an easily accessible public response to major 
+concerns raised.''). This is a familiar standard for the Department and 
+commenters. Cf. Envtl. Def. Fund v. E.P.A., 922 F.3d 446, 458 (D.C. 
+Cir. 2019) (describing obligation under the APA to respond to major 
+substantive comments during notice-and-comment rulemaking). 
+Accordingly, HHS clarifies that the Department will consider comments 
+timely submitted during a comment period and, as appropriate, modify a 
+significant guidance document based upon stakeholder feedback in a 
+manner similar to the process the Department uses for reviewing and 
+incorporating feedback during the APA notice-and-comment rulemaking 
+process.
+    Comment: Several commenters asked whether significant guidance 
+issued through a notice-and-comment process could be rescinded without 
+notice and comment.
+    Response: HHS will not use a notice-and-comment process for 
+rescinding significant guidance documents. As the proposed rule 
+explained, significant guidance documents are a subset of guidance 
+documents, and the Department can rescind a guidance document by not 
+posting it, or not maintaining its posting, on the HHS guidance 
+repository. With the limited exception of certain Medicare guidance for 
+which notice-and-comment rulemaking is required under Section 1871 of 
+the Social Security Act, the Department is under no obligation to 
+rescind significant guidance documents through a notice-and-comment 
+process simply because the Department elected to apply such a process 
+to the issuance of the significant guidance document. See Vermont 
+Yankee, 435 U.S. at 524, 543-44; Perez v. Mortg. Bankers Ass'n, 575 
+U.S. 92, 101 (2015). HHS notes that if, after the effective date of 
+this final rule, rescinded guidance is replaced by a new guidance 
+document, the replacement guidance must contain a reference to the 
+rescinded guidance, and, if significant, the replacement guidance would 
+itself be subject to notice and comment.
+    Comment: A few commenters expressed concern that the proposed 
+notice-and-comment process for significant guidance documents would be 
+too cumbersome, and it would inhibit the Department's ability to timely 
+issue significant guidance documents, particularly in circumstances 
+such as during public health emergencies. Other commenters expressed 
+strong support for the proposed notice-and-comment process, indicating 
+that they welcomed the opportunity to participate in the development of 
+significant guidance documents. Some of these commenters suggested that 
+the Department should offer a longer comment period, such as 60 days 
+instead of 30 days, in order to ensure robust public participation. 
+Other commenters expressed support for the proposed exceptions to the 
+notice-and-comment process, under which HHS could elect not to conduct 
+a comment period if it were to find that notice and public comment are 
+impracticable, unnecessary, or contrary to the public interest. Some of 
+these commenters asked HHS to provide specific examples of when the 
+Secretary might invoke this exceptions process. A couple of commenters 
+recommended that HHS implement a process for soliciting public feedback 
+about whether a guidance document is significant.
+    Response: HHS appreciates the comments and agrees that the benefits 
+of
+
+[[Page 78778]]
+
+receiving stakeholder input on significant guidance documents generally 
+outweigh any administrative costs or incremental delays. A 30-day 
+comment period generally strikes the right balance between competing 
+needs, namely, the Department's interest in promptly issuing 
+significant guidance and the public's interest in having sufficient 
+time to offer thorough feedback. Nonetheless, HHS also agrees with the 
+commenters who voiced support for the exceptions process. HHS plans to 
+use this exceptions process when needed, as the Department acknowledges 
+that certain circumstances, such as public health emergencies, may make 
+it appropriate to invoke this exceptions process.
+    HHS does not plan to solicit public feedback as to whether a 
+guidance document is significant. First, this would further lengthen 
+the process of issuing a significant guidance document, which may make 
+it more difficult for the Department to timely issue relevant guidance. 
+HHS also believes that the criteria for a guidance document being 
+``significant'' require an assessment of factors that lie within the 
+unique expertise of the Department and OMB. And finally, as indicated 
+in the preamble to the proposed rule, OMB will make all final 
+determinations as to whether a guidance document is significant. If HHS 
+concludes in the future that public feedback on any question relating 
+to significant guidance would be helpful, HHS may issue a Request for 
+Information.
+    Comment: A couple commenters suggested specific documents that HHS 
+should work with OMB to categorize as presumptively exempt from being 
+considered significant guidance, and furthermore, that HHS provide a 
+notice and comment process for categories of documents that are being 
+contemplated for exemption.
+    Response: HHS will consider seeking public feedback through a 
+future request for information as to categories of documents that 
+should qualify for an exemption. OMB will make final determinations as 
+to the categories of documents that are considered presumptively 
+exempt.
+    Comment: Several commenters claimed that the proposed rule failed 
+to address joint guidance issued by multiple agencies. Other commenters 
+asked HHS to carefully coordinate with other agencies when jointly 
+issuing guidance, in order to avoid legal and operational challenges 
+for regulated parties.
+    Response: HHS respectfully disagrees that the proposed rule did not 
+address guidance jointly issued by multiple agencies. In the preamble 
+to the proposed rule, HHS stated, ``Any guidance issued in conjunction 
+with one or more other agencies would nonetheless be required to comply 
+with all requirements that would be applicable if the guidance document 
+were issued solely by HHS.'' 85 FR at 51,398. HHS agrees that 
+coordination with other agencies when jointly issuing guidance will be 
+important. HHS has significant experience, in particular working with 
+the Department of Labor, the Department of Agriculture, and the 
+Department of the Treasury, on jointly issued guidance. HHS will 
+continue to work closely with other agencies when issuing guidance to 
+minimize any procedural complications that could affect regulated 
+parties.
+    Comment: Several commenters criticized the disclaimer HHS proposed 
+to apply to all guidance documents issued after the final rule. These 
+commenters stated that the disclaimer's statement that each guidance 
+document ``has no legal effect'' has the potential to be confusing to 
+regulated entities and members of the public. This is because, for 
+example, regulated entities may believe they can ignore HHS guidance 
+documents and substitute their own interpretations of regulations in 
+place of the Department's interpretations. One commenter stated that 
+the disclaimer is confusing because it is not clear whether regulated 
+parties will need to conduct their own legal analysis to determine 
+whether a guidance document is ``authorized by law.'' A few commenters 
+asked whether significant guidance documents must include the 
+disclaimer, and how HHS plans to incorporate the disclaimer into non-
+written guidance materials such as video clips or make them searchable. 
+Other commenters expressed strong support for the disclaimer 
+requirement. Two commenters, while expressing support for the 
+disclaimer, suggested that HHS should modify the proposed text, because 
+they believe that the second sentence of the proposed disclaimer 
+appears to suggest that guidance documents are binding because they 
+purport to provide clarity regarding existing requirements under the 
+law.
+    Response: The proposed disclaimer is correct as a matter of law and 
+is unlikely to be confusing. As a result of the notice, the public and 
+regulated entities will have greater clarity about the role and 
+implications of guidance documents when they are informed through the 
+disclaimer that guidance documents cannot impose binding legal 
+obligations above and beyond such legal obligations that are imposed by 
+statute or regulation. Because the APA forbids agencies from imposing 
+binding obligations on regulated parties through sub-regulatory 
+guidance, unless authorized by law, regulated parties have always been 
+free to choose not to adhere to interpretive rules set forth in 
+guidance documents. However, they do so at their own risk, because 
+guidance documents often provide important insight into how HHS 
+interprets, and applies, its statutes and regulations. Regulated 
+parties that take actions inconsistent with HHS's interpretive 
+statements in guidance documents may be violating underlying statutory 
+or regulatory obligations. HHS clarifies that regulated parties do not 
+need to undertake their own legal analyses to determine whether any 
+provision of law authorizes binding guidance documents: If a provision 
+of law does authorize HHS to issue binding guidance documents, then the 
+guidance document will not include the disclaimer stating that it lacks 
+the force and effect of law. See Sec.  1.3(a)(3)(i) of the final rule, 
+stating that guidance documents must include the specified disclaimer, 
+``unless the guidance is authorized by law to be binding.''
+    HHS does not believe that the second sentence in the proposed 
+disclaimer text (``This document is intended only to provide clarity to 
+the public regarding existing requirements under the law.'') suggests 
+that guidance documents are binding. The first sentence clearly states 
+that the contents of the document ``do not have the force and effect of 
+law.'' Thus, the ``existing requirements under the law'' must arise 
+from other sources that do have the force and effect of law, namely, 
+validly enacted statutes and regulations.
+    HHS clarifies that significant guidance documents must include the 
+proposed disclaimer. All guidance documents issued after the final 
+rule's effective date must include the disclaimer, and significant 
+guidance documents are a subset of guidance documents. HHS will also 
+include this disclaimer on non-written forms of guidance documents, 
+such as videos. HHS will do so in a format appropriate to the medium, 
+for example, in a guidance video, HHS might include an audio voiceover 
+or a textual statement. If an operating division issues a non-written 
+guidance document, the operating division is also responsible for 
+creating a searchable transcript of that non-written guidance document 
+and uploading it to the guidance repository.
+    Comment: A couple of commenters expressed the concern that this 
+Good Guidance Practices rule will inhibit informal agency 
+communications with
+
+[[Page 78779]]
+
+regulated parties, such as CMS stakeholder engagement calls.
+    Response: HHS does not intend for this rule to adversely impact 
+informal agency communications with regulated parties. Many of these 
+communications do not constitute guidance, because they involve the 
+application of laws to a regulated party's specific factual 
+circumstances. However, where an HHS operating division provides 
+information that satisfies the definition of ``guidance document,'' HHS 
+expects that information also to be posted to the guidance repository. 
+This will ultimately inure to the benefit of regulated parties, because 
+a broader set of entities will now have access to the guidance.
+    Comment: One commenter opposed the proposed additional rules 
+relating to the issuance and use of guidance documents, explaining that 
+it had not seen a pattern of overreach by HHS, through its guidance 
+documents, that would justify the additional proposed rules.
+    Response: The rule is not being promulgated as a remedy for 
+overreach. HHS believes that the Good Guidance Practices rule will 
+improve its guidance practices and help to ensure that it acts in a 
+fair, transparent, and lawful manner.
+    Comment: Commenters generally expressed support for the inclusion 
+of the proposed six categories of information on all guidance documents 
+issued after the final rule. Some commenters suggested that HHS should 
+include these six information categories on all guidance documents, 
+even those issued before the implementation date of the final rule. 
+Some commenters also suggested that HHS also add to the required 
+categories of information the effective date of the guidance document, 
+and furthermore, that HHS make guidance documents effective only after 
+a reasonable implementation period.
+    Response: HHS appreciates the commenters' support. Unfortunately, 
+HHS does not currently have the resources to add the six categories of 
+information to all of the thousands of guidance documents in the 
+guidance repository that were issued before the effective date of this 
+final rule. Accordingly, HHS finalizes its proposal to only apply this 
+requirement prospectively, to guidance documents issued after the 
+effective date of this final rule.
+    HHS also finalizes the set of six categories of information, 
+without adding any additional information fields, such as the guidance 
+document's effective date. Generally, a guidance document will be 
+effective as of the date it is issued, which is one of the six 
+information categories that must be included in all guidance documents 
+issued after this final rule's effective date. If a guidance document 
+has a different effective date, HHS expects the issuing operating 
+division will make that clear in the guidance document. HHS always 
+strives to issue guidance documents in a timely manner, so that 
+regulated parties can take HHS's views into account, but it believes 
+that imposing a particular delay in effective date for guidance 
+documents is outside the scope of the proposed rule. Nonetheless, HHS 
+does not believe that issuing such a requirement in future rulemaking 
+is necessary, given that guidance documents cannot impose binding new 
+obligations.
+    Comment: A few commenters expressed concern as to the statement in 
+the proposed disclaimer that guidance documents ``are not meant to bind 
+the public in any way, unless specifically incorporated into a 
+contract.'' A couple of these commenters explained that many federal 
+healthcare programs involve mandatory contracts with CMS, and CMS often 
+includes in these contracts a general covenant to abide by all sub-
+regulatory guidance that CMS has issued in the past or may issue in the 
+future. Another commenter requested that HHS modify this portion of the 
+disclaimer to clarify that it only applies to a legally enforceable 
+contract, rather than an opt-in agreement that simply memorializes a 
+party's decision to participate in a certain program and abide by the 
+program's laws and regulations.
+    Response: HHS agrees that so-called ``catchall'' clauses that 
+generically purport to bind the signatory to all guidance ever issued 
+by the Department do not fall within this exception, because the 
+guidance materials are not ``specifically'' incorporated into the 
+contract. If the government intends for a guidance document 
+incorporated into a contract by reference to have independent legal 
+basis, the government must make that intention clear through 
+unambiguous language. For example, if a contract states that Medicare 
+Advantage organizations must operate ``in compliance with the 
+requirements of this contract and applicable Federal statutes, 
+regulations, and policies (e.g., policies as described in the Call 
+Letter, Medicare Managed Care Manual, etc.),'' the signatory must 
+comply with CMS call letters and the Medicare Managed Care Manual, 
+because these sub-regulatory materials are specifically referenced in 
+the contract. However, the contract does not make compliance with any 
+other sub-regulatory guidance issued by HHS legally binding. This 
+narrow exception applies to the same extent to contracts categorized as 
+opt-in agreements. HHS also clarifies that grants are analogous to 
+contracts for purposes of this rule and the Department can accordingly 
+also render guidance documents binding on grantees by specifically 
+incorporating them into the grant agreement.
+    Comment: Several commenters asked HHS to clarify the intersection 
+between the Good Guidance Practices rule and the Department's 
+obligations under Social Security Act Section 1871, as interpreted by 
+the Supreme Court in Allina Health Services. One commenter suggested 
+that the Department amend proposed Sec.  1.3(a)(1) expressly to 
+acknowledge the Supreme Court's decision in Allina Health Services. 
+This commenter also noted that Section 1871 of the Social Security Act 
+further imposes requirements on HHS that the Department is currently 
+not satisfying, namely, to ``publish in the Federal Register, not less 
+frequently than every 3 months, a list of all manual instructions, 
+interpretative rules, statements of policy, and guidelines of general 
+applicability which--(A) are promulgated to carry out this subchapter, 
+but (B) are not published pursuant to subsection (a)(1) and have not 
+been previously published in a list under this subsection.'' See 42 
+U.S.C. 1395hh(c)(1) (Section 1871(c)(1) of the Social Security Act).
+    Response: In the preamble to the proposed rule, HHS noted that 
+``OGC would continue to determine whether the contents of certain 
+guidance relating to Medicare'' must go through notice-and-comment as a 
+result of the Supreme Court's decision in Allina Health Services, but 
+that ``[s]uch guidance documents would still need to meet all 
+applicable requirements'' of the Good Guidance Practices rule. 85 FR at 
+51,397. HHS clarifies that some substantive legal standards otherwise 
+qualifying as ``guidance documents'' under this rule may also be 
+subject to notice-and-comment obligations imposed by Section 1871. If 
+so, the substantive legal standards must comply both with the 
+obligations imposed by Section 1871 and the requirements in this final 
+rule. Thus, for example, following publication in proposed and final 
+rules, consistent with Section 1871, HHS would post the guidance 
+document to the guidance repository.
+    HHS believes Sec.  1.3(a)(1) accurately describes its obligations 
+under Section 1871 and the APA as proposed, and declines to amend it. 
+Section 1.3(a)(1) states, ``Under the Administrative Procedure Act, the 
+Department may not
+
+[[Page 78780]]
+
+issue any guidance document that establishes a legal obligation that is 
+not reflected in a duly enacted statute or in a regulation lawfully 
+promulgated under a statute.'' Even if an interpretive rule qualifies 
+as a substantive legal standard that is subject to notice-and-comment 
+obligations under Section 1871, as an interpretive rule, it cannot 
+``establish[ ] a legal obligation.'' Nothing in this Good Guidance 
+Practices rule purports to override or alter the statutory obligations 
+imposed on HHS with respect to the Medicare program under Section 1871.
+    HHS acknowledges that it has not been fully complying with the 
+requirements of Social Security Act Section 1871(c)(1) and commits to 
+moving into full compliance with this requirement.
+    Comment: A few commenters expressed support for the proposal that 
+only the Secretary (on a non-delegable basis) can approve significant 
+guidance documents. HHS did not receive any comments as to whether the 
+Secretary should be required to approve certain non-significant 
+guidance documents prior to publication.
+    Response: We appreciate the commenters' support and agree that the 
+Secretary should be required to approve, on a non-delegable basis, all 
+significant guidance documents. The Department has also concluded that 
+the Secretary should approve certain guidance documents that have the 
+potential to materially impact the Department's work, even though their 
+consequences external to the Department do not cause them to be 
+considered ``significant.'' Accordingly, the Secretary must also 
+approve, on a non-delegable basis, all non-significant guidance 
+documents that he determines will either (1) implicate, including 
+potentially impede, any policy matter of priority to the Secretary, or 
+(2) where one operating division's proposed non-significant guidance 
+document may create a serious inconsistency, or otherwise interfere, 
+with an action taken or planned by another operating division or the 
+Office of the Secretary.
+    HHS finalizes the process for issuing guidance documents, including 
+significant guidance documents, as proposed, except to specify that the 
+effective date of the rule will be 30 days after publication of this 
+final rule. HHS is also defining two types of non-significant guidance 
+documents that the Secretary must review on a non-delegable basis.
+
+D. Guidance Repository (Sec.  1.4)
+
+    In the proposed rule, HHS proposed to make its guidance documents 
+available to the public through the internet, by establishing a 
+guidance repository on the HHS website at <a href="http://www.hhs.gov/guidance">www.hhs.gov/guidance</a>. HHS 
+proposed that by November 16, 2020, the Department would be required to 
+have posted to the guidance repository all guidance documents in effect 
+that were issued by any component of the Department, and that the 
+guidance repository must be fully text searchable.
+    HHS proposed that any web page in the guidance repository that 
+contains guidance documents would clearly indicate that any guidance 
+document previously issued by the Department would no longer be in 
+effect and would be considered rescinded if it is not included in the 
+guidance repository by November 16, 2020. All web pages in the guidance 
+repository containing guidance documents would also state that the 
+guidance documents contained therein ``lack the force and effect of 
+law, except as authorized by law or as specifically incorporated into a 
+contract'' and ``the Department may not cite, use, or rely on any 
+guidance that is not posted on the guidance repository, except to 
+establish historical facts.'' HHS proposed that if the Department would 
+like to reinstate a rescinded guidance document not posted to the 
+guidance repository by November 16, 2020, the Department would be able 
+to do so only by following all requirements applicable to newly issued 
+guidance documents.
+    HHS proposed that guidance documents issued after November 16, 2020 
+would be required to comply with all applicable requirements in Sec.  
+1.3, Requirements for Department Issuance and Use of Guidance 
+Documents. HHS would be required to post a new or amended guidance 
+document to the guidance repository within three business days of the 
+date on which that guidance document was issued. For significant 
+guidance documents issued after November 16, 2020, HHS would be 
+required to post proposed versions of significant guidance documents to 
+the guidance repository as part of the notice-and-comment process. The 
+Department shall clearly indicate the end of each significant guidance 
+document's comment period and the mechanisms by which members of the 
+public may submit comments on the proposed significant guidance 
+document. The Department would also be required to post online all HHS 
+responses to major concerns raised in public comments.
+    HHS received the following comments relating to the proposed 
+guidance repository:
+    Comment: Some commenters strongly supported the creation of the 
+guidance repository and the enhanced transparency, accountability, and 
+fairness that they believe would come with the requirement that HHS 
+post all operative guidance materials to the guidance repository. Some 
+of these commenters pointed out that, under the Department's existing 
+processes, it is often not apparent when HHS issues guidance documents, 
+and it is challenging to stay abreast of the Department's constantly 
+evolving guidance documents.
+    However, other commenters criticized the proposed requirement that 
+any guidance document not posted to the guidance repository by November 
+16, 2020, would be considered rescinded, and that HHS could not cite, 
+use, or rely on such guidance documents except to establish historical 
+facts. These commenters argued that the proposed process for rescinding 
+guidance documents decreased agency transparency as compared to the 
+status quo, rather than increasing it. Some commenters also expressed 
+concern that HHS did not have sufficient time to come into compliance 
+with the rule and transfer to the guidance repository all guidance 
+documents that the Department intends to keep in effect, and that HHS 
+should delay the effective date of the final rule. Due to the concern 
+that HHS may accidentally rescind guidance documents by unintentionally 
+omitting them from the guidance repository, several commenters 
+recommended that HHS create a grace period during which time regulated 
+parties could provide inadvertently omitted guidance documents to HHS 
+for posting, without those guidance documents being considered 
+rescinded. A couple commenters suggested that HHS should give a 30-day 
+grace period for any guidance document that is rescinded, before it is 
+treated as being rescinded. Some commenters further stated that it 
+would be confusing to the public and regulated entities if a guidance 
+document appears on an HHS website but is not included in the 
+repository. Other commenters asked HHS to clarify what regulated 
+entities should do if they are unsure as to whether a guidance document 
+is still valid. A few commenters recommended that HHS create a guidance 
+repository housing all rescinded guidance documents, and that where a 
+guidance document replaces another guidance document, the new guidance 
+document should link to the old guidance document being replaced.
+    Response: HHS believes that the requirement that any guidance
+
+[[Page 78781]]
+
+document be posted to the guidance repository or otherwise be 
+considered rescinded will improve upon existing levels of transparency 
+and ultimately will decrease confusion. Currently, it is difficult for 
+regulated parties definitively to ascertain what set of guidance 
+documents HHS views as operative and what guidance documents they are 
+expected to consider. This uncertainty carries its own confusion and 
+causes a lack of transparency. The guidance repository will allow 
+regulated parties to identify the complete set of guidance materials 
+potentially applicable to their conduct. Nor does the fact that HHS can 
+rescind a guidance document by not posting it to the guidance 
+repository diminish existing levels of transparency. With the limited 
+exception of certain Medicare guidance for which notice-and-comment 
+rulemaking is required under Section 1871 of the Social Security Act, 
+and thus a notice-and-comment process is required to rescind them, HHS 
+is free to elect to stop relying on or using a guidance document, 
+including without soliciting public feedback. But currently, the public 
+has no way to know that HHS has decided to withdraw a guidance 
+document, unless HHS chooses to make a specific announcement. Operating 
+divisions remain free to announce when they are rescinding or replacing 
+a guidance document, and we encourage operating divisions to do so. But 
+regardless of whether they do, under the new process, the public will 
+also be able to know that HHS has rescinded a guidance document, 
+because the guidance document will not appear in, or will cease to 
+appear in, the guidance repository.
+    Posting a comprehensive list of all guidance documents HHS is 
+rescinding and providing a justification for each guidance document the 
+Department is rescinding would impose a significant burden on HHS, for 
+the simple fact that the Department currently lacks a comprehensive 
+list of all guidance documents it has issued. Prior to the issuance of 
+Executive Order 13891, few agencies were required to house all of their 
+guidance documents in a single location. This regulation and Executive 
+Order 13891 are intended to address a symptom of the current problem--
+the Department issues guidance documents in various media without ever 
+transparently aggregating those materials. HHS has undertaken 
+significant efforts to locate all of its guidance documents and include 
+them in the repository, to help remedy the difficulties previously 
+faced by regulated parties who were unable to ascertain all potentially 
+applicable guidance materials. The rule provides additional clarity 
+over the status quo, because where a guidance document issued after the 
+effective date of this final rule replaces an existing document, the 
+guidance document must indicate that it ``replaces or revises a 
+previously issued guidance document'' and ``identify the guidance 
+document that it replaces or revises.'' 45 CFR 1.3(a)(3)(iii)(D).
+    Following the issuance of Executive Order 13891, HHS has been 
+working to implement the guidance repository before it issued the 
+August 20, 2020 Notice of Proposed Rulemaking, and HHS does not believe 
+that an additional delay in the effective date, beyond the 30 days 
+incorporated into this final rule, is warranted.\4\ The Department 
+acknowledges that it may erroneously rescind a guidance document 
+because it has failed to identify and upload the guidance document to 
+the guidance repository by the effective date of this rule. However, 
+both HHS and regulated parties effectively have a 30-day grace period 
+before any guidance documents become rescinded as a result of HHS 
+erroneously omitting them from the guidance repository. This is because 
+this final rule will go into effect 30 days after publication. HHS 
+encourages regulated parties to review the guidance documents posted on 
+the guidance repository and notify HHS of guidance documents that may 
+have been inadvertently omitted. Please email the Department at 
+[email redacted] or contact the issuing component of HHS. To the 
+extent a guidance document appears on an HHS website but is not 
+contained in the guidance repository, this should not be confusing: 
+under this final rule, the guidance document is considered rescinded. 
+However, this inconsistency may be a sign that HHS inadvertently failed 
+to upload that guidance document to the guidance repository, and, as 
+discussed in further detail below, HHS can remedy this mistake by 
+issuing the guidance consistent with the procedures in this rule.
+---------------------------------------------------------------------------
+
+    \4\ OMB has been involved with this implementation process and 
+approved extensions to provide HHS with additional time to come into 
+compliance with the requirements of Executive Order 13891. See 85 FR 
+55306 (Sept. 4, 2020); 85 FR 39919 (July 2, 2020); 85 FR 15482 (Mar. 
+18, 2020).
+---------------------------------------------------------------------------
+
+    Comment: Several commenters also stated that HHS should provide the 
+public with an opportunity to weigh in on what guidance documents 
+should be rescinded. These commenters generally recommended that HHS 
+publish the criteria it will apply when deciding to rescind guidance 
+documents. Some commenters also requested that HHS post a justification 
+for every guidance document that the Department rescinds.
+    Response: HHS currently has discretion to rescind a guidance 
+document without soliciting public feedback and, indeed, without even 
+providing notice to regulated parties. The proposed rule was not 
+intended to alter the Department's existing authority to rescind 
+guidance documents without engaging in a public comment process, 
+although, as described above, the proposed rule would ensure that 
+regulated parties, by searching the guidance repository, can identify 
+when guidance documents are or are not considered operative. HHS 
+currently lacks the resources to draft publicly issued justifications 
+for every guidance document that the Department rescinds. And, as 
+previously explained, HHS cannot compile a list of guidance documents 
+that potentially may be rescinded, or a justification for why they are 
+being rescinded. HHS will post all guidance documents that it intends 
+to continue to use to the guidance repository, and it will not so post 
+guidance documents that are outdated, or that HHS otherwise no longer 
+intends to use.
+    Comment: A few commenters asked HHS to provide notification, for 
+those who choose to opt into receiving such notifications, of when the 
+Department posts new guidance documents to the guidance repository and 
+when HHS rescinds a guidance document.
+    Response: HHS currently lacks the resources to implement this 
+process. It will consider adding this requested functionality in the 
+future. However, the guidance repository allows users to sort by 
+``Issue Date,'' i.e., the date on which the guidance document was 
+issued. This will allow users to review the subset of most recently 
+issued guidance documents.
+    Comment: A couple of commenters suggested that HHS maintain a 
+repository of rescinded guidance documents, and that where a guidance 
+document replaces another guidance document, the new guidance document 
+should link to the replaced guidance document.
+    Response: HHS currently lacks the resources to implement either 
+suggestion. In particular and as discussed above, the Department 
+currently lacks a comprehensive list of all guidance documents it has 
+issued. HHS will consider a future guidance repository of guidance 
+documents rescinded after the effective date of the final rule. 
+Regardless, for these guidance
+
+[[Page 78782]]
+
+documents, regulated parties will be able to ascertain if a rescinded 
+guidance is replaced by a new guidance document, because the 
+replacement guidance will be required to contain a reference to the 
+rescinded guidance.
+    Comment: A few commenters asked HHS to clarify the effect of HHS 
+rescinding a guidance document. One commenter asked HHS to clarify that 
+if a guidance document's rescission has substantive effect, that the 
+effect will be prospective only. One commenter suggested that HHS 
+incorporate a ``hold harmless'' provision in the final rule, which 
+would guarantee regulated entities that they would not be penalized if 
+they rely on a guidance document that has been rescinded due to not 
+being included in the guidance repository.
+    Response: If HHS rescinds a guidance document, the Department may 
+not cite, use, or rely on that guidance document, except to establish 
+historical facts. Guidance documents reflect the Department's 
+interpretations and policies during the time period that they are in 
+effect. Because guidance documents cannot impose binding legal 
+obligations on regulated entities independent of obligations imposed by 
+duly enacted statutes or regulations, the consequences of rescinding a 
+guidance document should generally be minimal. See Mortgage Bankers, 
+575 U.S. at 103 (explaining that interpretive rules cannot change the 
+regulation or statute they interpret). Because guidance documents 
+generally cannot impose any new binding obligations, there rarely 
+should be circumstances where entities adopt practices consistent with 
+a guidance document that is subsequently rescinded and, as a result, 
+are in noncompliance with the law and subject to penalty. Accordingly, 
+HHS sees no need for inclusion of a ``hold harmless'' clause in the 
+final rule.
+    Comment: A couple commenters stated that the process for 
+reinstating rescinded guidance is vague, impractical, time consuming, 
+creates uncertainty, and will inhibit access to guidance documents. 
+Other commenters claimed that rescinding guidance would create 
+confusion, because it could be interpreted by some as a reversion to a 
+different policy than the one explained in the rescinded guidance.
+    Response: HHS respectfully disagrees with these commenters. As 
+explained in the proposed rule, to reinstate a rescinded guidance 
+document, HHS will merely need to use the same process that it will use 
+for all guidance documents newly issued after the effective date of 
+this final rule. That process, for all but the generally small number 
+of significant guidance documents, merely requires HHS to include a 
+disclaimer and six information fields in the guidance document, and to 
+ensure that the content adheres to pre-existing legal obligations under 
+the APA. This process is not overly burdensome for the Department, and 
+if an operating division wants to re-issue guidance, it can, and will, 
+readily do so. HHS believes that some of the commenters' concerns stem 
+from misunderstandings about guidance documents. Guidance documents 
+cannot alter legal obligations, and therefore whether a guidance 
+document is rescinded should not create any confusion about a regulated 
+party's legal obligations--they remain the same. If a regulated party 
+is confused about whether an operating division is altering its 
+interpretation of a statute or regulation, the regulated party should 
+reach out to the relevant operating division to ask for clarification.
+    Comment: A few commenters suggested that HHS continue to post 
+guidance materials to operating division-specific websites, in addition 
+to posting those same materials to the guidance repository. A couple 
+commenters further suggested that guidance materials on operating 
+division websites link to the guidance document in the guidance 
+repository.
+    Response: HHS currently lacks the resources to provide the 
+requested cross-linking between guidance documents on operating 
+division websites and on the guidance repository. However, HHS will 
+continue to post guidance documents on operating division websites, in 
+parallel with posting those materials to the guidance repository. In 
+general, the posting of guidance documents to the guidance repository 
+is not intended to, and will not, alter or otherwise disrupt the 
+posting of guidance documents to operating division websites.
+    HHS finalizes the requirements relating to the guidance repository 
+as proposed, except to specify that the effective date of the rule will 
+be 30 days after publication of this final rule.
+
+E. Procedure To Petition for Review of Guidance (Sec.  1.5)
+
+    In the proposed rule, HHS proposed that any interested party would 
+be able to petition HHS to withdraw or modify any particular guidance 
+document. Such petitions would include requests to determine whether
+    <bullet> A guidance document, no matter how styled, imposes binding 
+obligations on parties beyond what is required by the terms of 
+applicable statutes and/or regulations.
+    <bullet> An HHS component is using a guidance document to create 
+additional legal obligations beyond what is required by the terms of 
+applicable statutes and/or regulations.
+    <bullet> HHS is improperly exempting a guidance document from the 
+procedures set forth in the proposed rule.
+    As part of this petition process, HHS proposed that the interested 
+party would be able to ask HHS to remedy the deficiency relating to the 
+use or contents of the guidance document by modifying or withdrawing 
+the guidance document.\5\ HHS notes that the remedy for a successful 
+petition commonly may be modification or withdrawal of a guidance 
+document, and HHS is not waiving the presentment and exhaustion 
+requirements for claims arising under the Medicare statute, including 
+claims for payment and coverage. Any such claim that an interested 
+party asserts is related to the guidance document that is the subject 
+of a petition under this section must still move through the existing 
+administrative process for that claim, including exhaustion.
+---------------------------------------------------------------------------
+
+    \5\ However, an interested party could not use this process to 
+seek changes based on the quality of the information contained in a 
+document; there are other processes to address the quality of 
+information contained in HHS issuances.
+---------------------------------------------------------------------------
+
+    HHS proposed that petitions must be addressed to HHS in writing, 
+and the guidance repository would include clear instructions to members 
+of the public regarding how to petition for review of guidance, 
+including how such petitions can be submitted, and an HHS office 
+responsible for coordinating such requests.
+    HHS proposed that, in order to facilitate transparency and avoid 
+duplication of work, HHS would publish all responses to petitions for 
+guidance review in a designated section of its online guidance 
+repository. If HHS were to receive multiple similar petitions within a 
+short time period, HHS proposed that the Department could aggregate 
+those petitions and respond to them in a single response, so long as 
+all petitions were responded to within the appropriate time period. It 
+further proposed that HHS must respond to all petitions within 90 
+business days of the date on which the petition was received. The time 
+period to respond would be suspended if HHS were to need to request 
+additional information from the person who submitted the petition or to 
+consult with other stakeholders. Under the proposed rule, HHS's 
+response to any such petition would be considered final agency action 
+reviewable in court, because it would mark the
+
+[[Page 78783]]
+
+consummation of HHS's decision-making process and legal consequences 
+flow from the response to the petition. See, e.g., Appalachian Power 
+Co. v. E.P.A., 208 F.3d 1015, 1022 (D.C. Cir. 2000) (defining 
+reviewable agency action).
+    HHS received the following comments relating to the proposed 
+petition process.
+    Comment: Several commenters supported the proposed petition 
+process. Other commenters were concerned that the petition process 
+might delay the issuance of guidance documents or that the petition 
+process would be too burdensome on the Department. A couple of 
+commenters stated that the petition process would create uncertainty 
+and confusion, because regulated parties would feel as though they 
+cannot rely on guidance that could be rescinded at any time, and 
+furthermore, the ability of ``any interested party'' to use the 
+proposed petition process would give almost anyone the opportunity to 
+undermine guidance documents. A few commenters suggested that the 
+petition process should only apply to guidance documents issued after 
+the effective date of the final rule; others conversely asked HHS to 
+clarify that the petition process does apply to guidance documents 
+issued before the effective date of the final rule. One commenter asked 
+HHS to clarify that petitions can be filed whenever an interested party 
+identifies a perceived issue with a guidance document.
+    Response: HHS appreciates the commenters' support and agrees in 
+particular with the commenter who characterized the petition process as 
+``key to policing compliance with the principles'' set forth in this 
+Good Guidance Practices rule. HHS does not believe that the proposed 
+petition process would delay or otherwise impact the issuance of 
+guidance documents. This is because the petition process is only 
+available to challenge guidance documents that have already been 
+issued, and guidance documents will remain in effect throughout the 
+petition process, unless and until HHS issues a petition response 
+concluding that a guidance document should be modified or rescinded. 
+HHS believes that the 90-business-day period in which to respond to 
+petitions provides sufficient time to accommodate petition responses 
+alongside the work of issuing new guidance documents, without unduly 
+straining HHS resources and delaying the issuance of new guidance 
+documents.
+    HHS agrees that the term ``interested party'' is broad, and extends 
+to more than merely regulated parties, however, HHS does not think that 
+the petition process will undermine the utility of the Department's 
+guidance documents: HHS can currently rescind guidance documents at any 
+time; therefore, it does not believe that the petition process would 
+undermine the extent to which regulated parties feel comfortable 
+looking to guidance documents for HHS's current views on the subjects 
+covered by such documents.
+    HHS clarifies that the petition process can be applied to any HHS 
+guidance document, regardless of when HHS issued that guidance 
+document, so long as the guidance document is in effect at the time the 
+petition is filed. HHS also clarifies that interested parties can file 
+a petition at any time. In other words, regulated parties are under no 
+obligation to file a petition within a certain time period.
+    Comment: One commenter asked HHS to clarify the standard that HHS 
+will use to grant a petition. This commenter also suggested that HHS 
+clarify that the final rule requires the Department to clearly grant or 
+deny the requested remedy and include a rationale for the decision. One 
+commenter asked HHS to clarify that the petition process can be used to 
+challenge a guidance document that HHS initially treated as non-
+significant and assert that it should actually be categorized as 
+significant.
+    Response: Under Sec.  1.5(a)(1)-(3), as finalized in this 
+rulemaking, interested parties can petition HHS and assert one of three 
+bases for the petition:
+    <bullet> The substance of an HHS guidance document is unlawful, 
+i.e., the guidance document purports to impose binding new obligations 
+on regulated parties.
+    <bullet> While the substance of an HHS guidance document may be 
+lawful, a division of HHS is using or interpreting the guidance 
+document unlawfully, i.e., to impose binding new obligations on 
+regulated parties.
+    <bullet> HHS is improperly exempting a guidance document from the 
+requirements in the Good Guidance Practices rule.
+    HHS clarifies that Sec.  1.5(a)(3) allows interested parties to 
+challenge a guidance document that HHS initially treated as non-
+significant, thereby improperly exempting that guidance document from 
+this rule's requirements for significant guidance documents.
+    HHS will respond to a petition, generally by agreeing either to 
+modify or withdraw the challenged guidance document or documents, 
+modify its application or treatment of the challenged guidance document 
+or documents, or declining to take any action. If HHS agrees with the 
+petitioner that a guidance document is substantively unlawful, is being 
+used unlawfully, or is being improperly exempted from the requirements 
+of this rule, then HHS will take actions that bring the Department's 
+conduct, and the guidance documents, into compliance with all legal 
+obligations, including this Good Guidance Practices regulation. HHS 
+agrees that the proposed Sec.  1.5(e) is insufficiently clear about 
+what is required in HHS's response to a petition. Accordingly, in 
+finalizing Sec.  1.5(e), HHS modifies the text to clarify that the 
+Department's petition response must state whether the Department agrees 
+or disagrees with the petition; the Department's rationale for such 
+position; and if the Department agrees that the petitioner has 
+identified an unlawful action, that the Department must remedy the 
+unlawful action.
+    Comment: A few commenters asked HHS to give regulated parties an 
+opportunity to respond to or comment on petitions.
+    Response: In order to streamline the petition process and ensure a 
+prompt response within the 90-business-day time limit, HHS will not 
+accept comments on petitions from third parties.
+    Comment: Some commenters asked HHS to clarify that guidance 
+documents would remain in effect during the petition process, while 
+other commenters suggested that HHS clarify that guidance documents 
+will be held in abeyance, and viewed as not in effect, pending the 
+Department's response to a petition.
+    Response: The initiation of a petition regarding a particular 
+guidance document or documents will have no immediate impact on those 
+guidance documents. Instead, only if HHS agrees with the petitioner 
+that the guidance document(s) at issue in the petition are unlawful 
+will HHS modify or rescind the guidance document(s). Temporarily 
+withdrawing, or holding in abeyance, guidance documents every time they 
+are the subject of a petition would be extraordinarily disruptive to 
+regulated parties and the Department.
+    Comment: Several commenters suggested that HHS shorten the time 
+period to respond to a petition to less than 90 business days. A couple 
+of commenters suggested a longer time period in which to respond. 
+Several commenters suggested that HHS place a time limit on the extent 
+to which the Department can suspend this 90-day clock when consulting 
+with stakeholders. A couple of commenters asked HHS to implement 
+consequences for failing to follow the procedures in
+
+[[Page 78784]]
+
+this rule, including the petition response time.
+    Response: HHS finalizes the 90-business-day time period. This 
+strikes the right balance between ensuring that HHS has sufficient time 
+to thoughtfully respond to petitions and seeking to issue petition 
+responses relatively promptly. HHS does not limit the time period 
+during which the Department can suspend the 90-day clock when 
+consulting with stakeholders or incorporating any specific penalty for 
+non-compliance with the procedures in this rule. However, HHS believes 
+that in these circumstances, regulated parties could have a cause of 
+action under the APA for delayed or withheld agency action.
+    Comment: One commenter stated that this Good Guidance Practices 
+rule is unnecessary, because regulated parties today can file APA 
+challenges if an agency purports to impose binding obligations through 
+guidance.
+    Response: HHS agrees that regulated parties currently may have a 
+cause of action under the APA if the Department were to purport to 
+impose binding obligations through guidance documents, unless 
+authorized by law. This Good Guidance Practices rule seeks to enhance 
+the Department's practices with respect to guidance, including by 
+creating a central guidance repository that will allow regulated 
+parties to search for potentially relevant guidance documents.
+    Comment: One commenter asked that HHS publish not just its 
+responses to petitions, but also the petitions themselves.
+    Response: HHS will publish in the guidance repository petition 
+requests alongside petition responses.
+    Comment: A few commenters asked HHS to clarify that the petition 
+process does not affect the availability of other legal causes of 
+action, including those under the APA, and in particular, that filing a 
+petition with HHS is not a threshold requirement for a judicial 
+challenge relating to a guidance document.
+    Response: HHS agrees that the petition process does not create an 
+administrative exhaustion requirement or affect the availability of 
+other legal causes of action. In some circumstances, Article III 
+jurisdiction may exist to challenge a guidance document or use of a 
+guidance document, even without a prior petition. The petition process 
+is available for those who would like to engage administratively with 
+the Department, and may provide an avenue to resolve issues without the 
+need for litigation.
+    Comment: One commenter asked HHS to accept petitions alleging that 
+the Department of Justice or a qui tam relator has used a guidance 
+document inappropriately.
+    Response: HHS declines to incorporate this proposal; HHS will only 
+accept petitions relating to its own conduct. HHS acknowledges that 
+some actors outside of HHS, such as qui tam relators, could use a 
+guidance document inappropriately, in a manner that attempts to impose 
+binding new obligations on regulated parties. However, HHS lacks the 
+authority to grant a remedy with respect to the conduct of the 
+Department of Justice or qui tam relators. HHS suggests that in these 
+circumstances, regulated parties file a petition with HHS seeking 
+clarification as to the appropriate scope of the guidance document at 
+issue. HHS also notes that such use of guidance documents by the 
+Department of Justice is inconsistent with the January 25, 2018 
+Memorandum from then-Associate Attorney General Rachel Brand, 
+``Limiting Use of Agency Guidance Documents In Affirmative Civil 
+Enforcement Cases,'' and should be brought to the attention of 
+Department of Justice leadership.
+    Comment: One commenter suggested that when HHS aggregates similar 
+petitions filed within a ``short'' time of one another, HHS should 
+define ``short'' as 14 calendar days and should require a reasoned 
+response to every substantive issue raised by each of the aggregated 
+petitions.
+    Response: HHS respectfully declines to adopt a rigid time period 
+for when HHS can aggregate responses to similar petitions filed within 
+a short time period. However, each response to a petition must satisfy 
+the 90-business-day time limit (subject to any permissible tolling); 
+this requirement will serve as a natural time limit on the extent to 
+which HHS can aggregate petition responses.
+    Comment: One commenter suggested that HHS incorporate an express 
+judicial reviewability clause in the final rule's regulation text.
+    Response: The regulation text governs HHS's own actions. HHS cannot 
+directly confer Article III jurisdiction through statements in 
+regulation text. Accordingly, HHS does not agree that adding such a 
+clause in the final rule's regulation text would alter the rule.
+    HHS finalizes the petition process in Sec.  1.5 as proposed, with 
+clarifying edits to Sec.  1.5(e).
+
+III. Required Rulemaking Analyses
+
+A. Executive Orders 12866 and 13563: Regulatory Planning and Review 
+Analysis
+
+    HHS examined the effects of this rule as required by E.O. 12866, 
+``Regulatory Planning and Review,'' 58 FR 51,735 (Oct. 4, 1993), E.O. 
+13563, ``Improving Regulation and Regulatory Review,'' 76 FR 3821, 
+(Jan. 21, 2011), and the Unfunded Mandates Reform Act of 1995 (Pub. L. 
+104-4).
+    Executive Order 12866, ``Regulatory Planning and Review,'' and 
+Executive Order 13563, ``Improving Regulation and Regulatory Review,'' 
+direct agencies to assess all costs and benefits of available 
+regulatory alternatives and, if the regulation is necessary, to select 
+regulatory approaches that maximize net benefits. A Regulatory Impact 
+Analysis must be prepared for major rules with economically significant 
+effects. The Department has determined that this rulemaking is not a 
+significant regulatory action under these Executive Orders. In 
+addition, the Department does not anticipate that this rulemaking will 
+impose measurable costs on regulated parties. This final rule describes 
+agency processes for issuing guidance and responding to petitions 
+regarding guidance that allegedly is inappropriate or is being used 
+inappropriately. Implementation of this final rule will require HHS 
+expenditures to create and maintain the guidance repository, along with 
+employing a new process for the review of significant guidance 
+documents and for the review of guidance documents which are the 
+subject of a petition for review. For 2020, HHS expended approximately 
+$2.4 million to develop the guidance repository. HHS expected annual 
+costs for 2021 and 2022 to be about $1 million. However, the Department 
+expects benefits to accrue as a result of the streamlined and clarified 
+process for issuing guidance documents. The Department anticipates that 
+the public, and, in particular, regulated parties, will benefit from 
+greater efficiencies and more transparency in how the Department 
+operates and regulates. The Office of Management and Budget (OMB) has 
+reviewed this rule.
+    Pursuant to the Congressional Review Act (5 U.S.C. 801 et seq.), 
+the Office of Information and Regulatory Affairs has determined that 
+this final rule is not a ``major rule'' as defined by 5 U.S.C. 804(2).
+    Section 202(a) of the Unfunded Mandates Reform Act of 1995, 2 
+U.S.C. 1532(a), requires that agencies prepare a written statement, 
+which includes an assessment of anticipated costs and
+
+[[Page 78785]]
+
+benefits, before proposing ``any rule that includes any federal mandate 
+that may result in the expenditure by state, local, and tribal 
+governments, in the aggregate, or by the private sector, of $100 
+million or more (adjusted annually for inflation) in any one year.'' In 
+2019, that threshold was $154 million. HHS does not expect this rule to 
+exceed the threshold.
+
+B. Executive Order 13771
+
+    This final rule is neither a regulatory nor a deregulatory action 
+under Executive Order 13771, ``Reducing Regulation and Controlling 
+Regulatory Costs,'' 82 FR 9339 (Feb. 3, 2017), because this rule is 
+estimated to impose no more than de minimis costs on regulated 
+entities.
+
+C. Regulatory Flexibility Act and Executive Order 13272
+
+    The Department has examined the economic implications of this final 
+rule as required by the Regulatory Flexibility Act (RFA), 5 U.S.C. 601 
+et seq. The RFA and the Small Business Regulatory Enforcement and 
+Fairness Act of 1996 (Pub. L. 104-121), which amended the RFA, require 
+HHS to analyze options for regulatory relief of small businesses. If a 
+rule has a significant economic effect on a substantial number of small 
+entities, the Secretary must specifically consider the economic effect 
+of the rule on small entities and analyze regulatory options that could 
+lessen the impact of the rule. The Department considers a rule to have 
+a significant impact on a substantial number of small entities if the 
+rule has at least a three percent impact on revenue on at least five 
+percent of small entities. The Department anticipates that this final 
+rule will allow small entities to operate more efficiently, by 
+increasing the transparency of government regulation. As a result, the 
+Department has determined, and the Secretary certifies, that this final 
+rule does not have a significant impact on a substantial number of 
+small entities.
+
+D. Executive Order 13132 (Federalism)
+
+    Executive Order 13132, ``Federalism,'' 64 FR 43255 (Aug. 10, 1999), 
+establishes certain requirements that an agency must meet when it 
+promulgates a rule that imposes substantial direct requirement costs on 
+State and local governments or has federalism implications. The 
+Department has determined that this final rule does not impose such 
+costs or have any federalism implications.
+
+E. Paperwork Reduction Act of 1995
+
+    In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3501 et seq.), the Department has reviewed this final rule and has 
+determined that it does not create new collections of information.
+
+List of Subjects in 45 CFR Part 1
+
+    Guidance, Reporting and recordkeeping requirements.
+
+
+0
+For the reasons set forth in the preamble, the Department of Health and 
+Human Services amends 45 CFR, subtitle A, subchapter A, by adding part 
+1 to read as follows:
+
+PART 1--GOOD GUIDANCE PRACTICES
+
+Sec.
+1.1 Scope.
+1.2 Definitions.
+1.3 Requirements for Department issuance and use of guidance 
+documents.
+1.4 Guidance repository.
+1.5 Procedure to petition for review of guidance.
+
+    Authority:  42 U.S.C. 1302; 5 U.S.C. 301, 551 et seq.
+
+
+Sec.  1.1   Scope.
+
+    This part shall apply to guidance documents issued by all 
+components of the Department, until the Secretary amends the Food and 
+Drug Administration's good guidance regulations at 21 CFR 10.115 to 
+bring them into conformance with the requirements of this part, at 
+which point, such amended regulations shall apply to the Food and Drug 
+Administration's issuance and use of guidance documents.
+
+
+Sec.  1.2   Definitions.
+
+    The following definitions apply to this part. Different definitions 
+may be found in Federal statutes or regulations that apply more 
+specifically to particular programs or activities.
+    Guidance document means any Department statement of general 
+applicability, intended to have future effect on the behavior of 
+regulated parties and which sets forth a policy on a statutory, 
+regulatory, or technical or scientific issue, or an interpretation of a 
+statute or regulation. The term ``guidance document'' does not include 
+rules promulgated pursuant to notice and comment under 5 U.S.C. 553, or 
+similar statutory provisions; rules exempt from rulemaking requirements 
+under 5 U.S.C. 553(a); rules of agency organization, procedure, or 
+practice; decisions of agency adjudications under 5 U.S.C. 554, or 
+similar statutory provisions; internal guidance directed to the 
+Department or other agencies that is not intended to have substantial 
+future effect on the behavior of regulated parties; internal executive 
+branch legal advice or legal opinions addressed to executive branch 
+officials; legal briefs and other court filings; grant solicitations 
+and awards; or contract solicitations and awards. Pre-enforcement 
+rulings, i.e., communications with a person that interpret or apply the 
+law to a specific set of facts, such as letter rulings, advisory 
+opinions, no-action letters, and notices of noncompliance, do not 
+constitute guidance documents. If, however, the Department issues such 
+a document that on its face is directed to a particular party, but the 
+content of the document is designed to guide the conduct of other 
+regulated parties, such a document would qualify as guidance.
+    Guidance repository means an online database containing or linking 
+to guidance documents.
+    Issued means the Department initiated or sponsored distribution of 
+information to the public. ``Issued'' does not include distribution 
+intended to be limited to government employees or agency contractors, 
+or distribution required under law or agency disclosure policies.
+    Significant guidance document means a guidance document that may 
+reasonably be anticipated to lead to an annual effect on the economy of 
+$100 million or more, or adversely affect in a material way the 
+economy, a sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, or tribal 
+governments or communities; create a serious inconsistency or otherwise 
+interfere with an action taken or planned by another agency; materially 
+alter the budgetary impact of entitlements, grants, user fees, or loan 
+programs or the rights or obligations of recipients thereof; or raise 
+novel legal or policy issues arising out of legal mandates, the 
+President's priorities, or the principles of Executive Order 12866. The 
+term ``significant guidance document'' does not include the categories 
+of documents exempted in writing by the Office of Management and 
+Budget's (``OMB'') Office of Information and Regulatory Affairs 
+(``OIRA'').
+
+
+Sec.  1.3   Requirements for Department issuance and use of guidance 
+documents.
+
+    (a) Guidance documents. (1) Under the Administrative Procedure Act, 
+the Department may not issue any guidance document that establishes a 
+legal obligation that is not reflected in a duly enacted statute or in 
+a regulation lawfully promulgated under a statute.
+    (2) The Department may not use any guidance document for purposes 
+of requiring a person or entity outside the
+
+[[Page 78786]]
+
+Department to take any action, or refrain from taking any action, 
+beyond what is required by the terms of an applicable statute or 
+regulation.
+    (3) Each guidance document issued by the Department must:
+    (i) Identify itself as ``guidance'' (by using the term 
+``guidance'') and include the following language, unless the guidance 
+is authorized by law to be binding: ``The contents of this document do 
+not have the force and effect of law and are not meant to bind the 
+public in any way, unless specifically incorporated into a contract. 
+This document is intended only to provide clarity to the public 
+regarding existing requirements under the law.'';
+    (ii) Not direct parties outside the Federal Government to take or 
+refrain from taking action, except when restating--with citations to 
+statutes, regulations, or binding judicial precedent--clear mandates 
+contained in a statute or regulation; and
+    (iii) Include the following information:
+    (A) The activities to which and the persons to whom the document 
+applies;
+    (B) The date of issuance;
+    (C) Unique agency identifier;
+    (D) Whether the guidance document replaces or revises a previously 
+issued guidance document and, if so, identify the guidance document 
+that it replaces or revises;
+    (E) Citation to the statutory provision(s) and/or regulation(s) (in 
+Code of Federal Regulations format) that the guidance document is 
+interpreting or applying; and
+    (F) A short summary of the subject matter covered in the guidance 
+document.
+    (4) The Secretary must approve, on a non-delegable basis, all non-
+significant guidance documents that the Secretary determines will 
+either
+    (i) Implicate, including potentially impede, any policy matter of 
+priority to the Secretary, or
+    (ii) Potentially create a serious inconsistency, or otherwise 
+interfere, with an action taken or planned by another operating 
+division or the Office of the Secretary.
+    (b) Significant guidance documents. (1) Before the Department 
+issues any significant guidance document, it must be approved, on a 
+non-delegable basis, by the Secretary.
+    (2) Before issuing any significant guidance document, the 
+Department must:
+    (i) Submit the significant guidance document to OIRA for review 
+under Executive Order 12866 prior to issuance.
+    (ii) Provide at least a 30-day public notice and comment period on 
+the proposed significant guidance document, unless the Department for 
+good cause finds (and incorporates such finding and a brief statement 
+of reasons therefor into the guidance document) that notice and public 
+comment are impracticable, unnecessary, or contrary to the public 
+interest. If no such good cause exists, the public notice (which must 
+be published in the Federal Register and posted in the guidance 
+repository) shall include all of the following information:
+    (A) Information as to where the public may access a copy of the 
+proposed significant guidance document;
+    (B) Information as to where written comments may be sent, and an 
+internet website where those comments may be reviewed by the public; 
+and
+    (C) The time period during which comments will be accepted.
+    (iii) Publish a public response to the major concerns raised during 
+the comment period.
+    (3) Significant guidance documents must comply with applicable 
+requirements for significant regulatory actions, as set forth in 
+Executive Orders, except that only economically significant guidance 
+documents require a separate Regulatory Impact Analysis.
+    (4) A significant guidance document may be exempted from any 
+requirement otherwise applicable to significant guidance documents if 
+the Secretary and the Administrator of OIRA agree that exigency, 
+safety, health, or other compelling cause warrants the exemption. The 
+Secretary must make this finding, and the significant guidance document 
+must incorporate the finding and a brief statement of reasons in 
+support.
+    (5) The Department shall seek from OIRA, as appropriate, 
+categorical determinations that classes of guidance presumptively do 
+not qualify as significant. Any guidance satisfying such a categorical 
+exemption presumptively need not comply with the requirements of this 
+paragraph (b) but must comply with all other requirements applicable to 
+guidance documents. OIRA may determine that a particular guidance 
+document within a categorical exemption is nonetheless significant.
+
+
+Sec.  1.4  Guidance repository.
+
+    (a) Existing guidance. By January 6, 2021, the Department shall 
+maintain a guidance repository on its website at <a href="http://www.hhs.gov/guidance">www.hhs.gov/guidance</a>.
+    (1) The guidance repository shall be fully text searchable and 
+contain or link to all guidance documents in effect that have been 
+issued by any component of the Department.
+    (2) If the Department does not include a guidance document in the 
+guidance repository by January 6, 2021, the guidance document shall be 
+considered rescinded.
+    (3) Any web page in the guidance repository that contains or links 
+to guidance documents must state:
+    (i) That the guidance documents contained therein:
+    (A) ``Lack the force and effect of law, except as authorized by law 
+or as specifically incorporated into a contract.''; and
+    (B) ``The Department may not cite, use, or rely on any guidance 
+that is not posted on the guidance repository, except to establish 
+historical facts.''
+    (ii) That any guidance document previously issued by the Department 
+is no longer in effect, and will be considered rescinded, if it is not 
+included in the guidance repository.
+    (4) If the Department wishes to reinstate a rescinded guidance 
+document, the Department may do so only by complying with all of the 
+requirements applicable to guidance documents issued after January 6, 
+2021.
+    (b) Guidance issued after January 6, 2021. (1) For all guidance 
+documents issued after January 6, 2021, the Department must post each 
+guidance document to the Department's guidance repository within three 
+business days of the date on which that guidance document was issued.
+    (2) For significant guidance documents issued after January 6, 
+2021, the Department shall post proposed new significant guidance to 
+the guidance repository as part of the notice-and-comment process.
+    (i) The posting shall clearly indicate the end of each significant 
+guidance document's comment period and provide a means for members of 
+the public to submit comments.
+    (ii) The Department shall also post online all responses to major 
+public comments.
+
+
+Sec.  1.5   Procedure to petition for review of guidance.
+
+    (a) Any interested party may petition the Department to withdraw or 
+modify any particular guidance document. Such petitions may include 
+requests to determine whether:
+    (1) A guidance document, no matter how styled, imposes binding 
+obligations on parties beyond what is required by the terms of 
+applicable statutes and/or regulations;
+    (2) A component of the Department is using a guidance document to 
+create additional legal obligations beyond what is required by the 
+terms of applicable statutes and/or regulations; or
+
+[[Page 78787]]
+
+    (3) The Department is improperly exempting a guidance document from 
+the requirements set forth in this part.
+    (b) As part of a petition under this section, an interested party 
+may ask that the Department modify or withdraw any guidance document in 
+effect at the time of the petition.
+    (c) Petitions under this section must be addressed to the 
+Department in writing. The Department's guidance repository must 
+include clear instructions to members of the public regarding how to 
+petition for review of guidance, including how such petition can be 
+submitted, and an office at the Department responsible for coordinating 
+such requests.
+    (d) The Department must respond to all petitions no later than 90 
+business days after receipt of the petition. The applicable time period 
+for responding is suspended from the time the Department:
+    (1) Requests additional information from the requestor, until the 
+Department receives the additional information; or
+    (2) Notifies the requestor of the need to consult with other 
+stakeholders, including but not limited to the Department of Justice or 
+the Department's Office of Inspector General, until the Department 
+completes consultation with other stakeholders.
+    (e) The Department's written response to petitions must state 
+whether the Department agrees or disagrees with the petition and the 
+Department's rationale. The Department must remedy the substance or use 
+of any guidance documents that it determines in a petition response to 
+be inconsistent with this part or otherwise unlawful. The Department 
+will post all responses to petitions under this section to a designated 
+web page on its guidance repository.
+
+Alex M. Azar II,
+Secretary, Department of Health and Human Services.
+[FR Doc. 2020-26832 Filed 12-3-20; 4:15 pm]
+BILLING CODE 4150-26-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 235 (Monday, December 7, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 235 (Monday, December 7, 2020)]
+[Notices]
+[Pages 78873-78874]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26769]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+NATIONAL CREDIT UNION ADMINISTRATION
+
+
+Agency Information Collection Activities: Proposed Collection; 
+Comment Request; Advertising of Excess Insurance
+
+AGENCY: National Credit Union Administration (NCUA).
+
+ACTION: Notice and request for comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The National Credit Union Administration (NCUA), as part of a 
+continuing effort to reduce paperwork and respondent burden, invites 
+the general public and other Federal agencies to comment on the 
+following extension of a currently approved collection, as required by 
+the Paperwork Reduction Act of 1995.
+
+DATES: Written comments should be received on or before February 5, 
+2021 to be assured consideration.
+
+ADDRESSES: Interested persons are invited to submit written comments on 
+the information collection to Mackie Malaka, National Credit Union 
+Administration, 1775 Duke Street, Suite 6018, Alexandria, Virginia 
+22314; Fax No. 703-519-8579; or email at [email redacted]. Given 
+the limited in-house staff because of the COVID-19 pandemic, email 
+comments are preferred.
+
+FOR FURTHER INFORMATION CONTACT: Address requests for additional 
+information to Mackie Malaka at the address above or telephone 703-548-
+2704.
+
+SUPPLEMENTARY INFORMATION: 
+    OMB Number: 3133-0180.
+    Title: Liquidity Contingency Funding Plans, 12 CFR 741.12.
+    Type of Review: Extension of a currently approved collection.
+    Abstract: The 2008 financial crisis demonstrated the importance of 
+good liquidity risk management to the safety and soundness of financial 
+institutions. In conjunction with the OCC, FRB, FDIC, and Conference of 
+State Bank Supervisors (CSBS), adopted the
+
+[[Page 78874]]
+
+Interagency Policy Statement on Funding and Liquidity Risk Management 
+in March of 2010.
+    In October 2013, to clarify NCUA's expectation on the Interagency 
+Policy Statement and to reduce the regulatory burden on small credit 
+unions, NCUA codified the requirements for Liquidity and Contingency 
+Funding Plans as Sec.  741.12. The rule establishes a three tier 
+framework for federally insured credit unions, based on asset size. 
+Federally insured credit union with assets under $50 million must 
+maintain a basic policy, federally insured credit unions with assets of 
+$50 million and over must maintain a contingency funding plan, and 
+federally insured credit unions with assets over $250 million must 
+maintain a contingency funding plan and establish a federal liquidity 
+contingency source.
+    Affected Public: Private Sector: Not-for-profit institutions.
+    Estimated No. of Respondents: 5,164.
+    Estimated No. of Responses per Respondent: 1.
+    Estimated Total Annual Responses: 5,164.
+    Estimated Burden Hours per Response: 0.82.
+    Estimated Total Annual Burden Hours: 4,247.
+    Reason for Change: Adjustments are attributed to current updated 
+data since the last previous submission.
+    Request for Comments: Comments submitted in response to this notice 
+will be summarized and included in the request for Office of Management 
+and Budget approval. All comments will become a matter of public 
+record. The public is invited to submit comments concerning: (a) 
+Whether the collection of information is necessary for the proper 
+execution of the function of the agency, including whether the 
+information will have practical utility; (b) the accuracy of the 
+agency's estimate of the burden of the collection of information, 
+including the validity of the methodology and assumptions used; (c) 
+ways to enhance the quality, utility, and clarity of the information to 
+be collected; and (d) ways to minimize the burden of the collection of 
+the information on the respondents, including the use of automated 
+collection techniques or other forms of information technology.
+
+    By Melane Conyers-Ausbrooks, Secretary of the Board, the 
+National Credit Union Administration, on December 1, 2020.
+    Dated: December 1, 2020.
+Mackie I. Malaka,
+NCUA PRA Clearance Officer.
+[FR Doc. 2020-26769 Filed 12-4-20; 8:45 am]
+BILLING CODE 7535-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

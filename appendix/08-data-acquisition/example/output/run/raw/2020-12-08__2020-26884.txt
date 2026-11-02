@@ -1,0 +1,182 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 236 (Tuesday, December 8, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 236 (Tuesday, December 8, 2020)]
+[Notices]
+[Pages 79005-79006]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-26884]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF ENERGY
+
+Energy Information Administration
+
+
+Agency Information Collection Extension
+
+AGENCY: U.S. Energy Information Administration (EIA), U.S. Department 
+of Energy (DOE).
+
+ACTION: Notice and request for OMB review and comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: EIA submitted an information collection request for extension 
+as required by the Paperwork Reduction Act of 1995. The information 
+collection requests a three-year extension of the Natural Gas Data 
+Collection Program, OMB Control Number 1905-0175. The surveys covered 
+by this request include; Form EIA-176 Annual Report of Natural and 
+Supplemental Gas Supply and Disposition; Form EIA-191 Monthly 
+Underground Natural Gas Storage Report; Form EIA-191L Monthly Liquefied 
+Natural Gas Storage Report; Form EIA-757 Natural Gas Processing Plant 
+Survey; Form EIA-857 Monthly Report of Natural Gas Purchases and 
+Deliveries to Consumers; Form EIA-910 Monthly Natural Gas Marketer 
+Survey; and Form EIA-912 Weekly Natural Gas Storage Report. The Natural 
+Gas Data Collection Program provides information on natural gas 
+production, underground storage, supply, processing, transmission, 
+distribution, and consumption by sector within the United States.
+
+DATES: Comments on this information collection must be received no 
+later than January 7, 2021. Written comments and recommendations for 
+the information collection should be sent within 30 days of publication 
+of this notice to <a href="https://www.reginfo.gov/public/do/PRAMain">https://www.reginfo.gov/public/do/PRAMain</a>. Find this 
+particular information collection by selecting ``Currently under 30-day 
+Review--Open for Public Comments'' or by using the search function.
+
+FOR FURTHER INFORMATION CONTACT: Michael Kopalek, U.S. Energy 
+Information Administration, telephone (202) 586-4001, or by email at 
+[email redacted]. The forms and instructions are available on 
+EIA's website at <a href="http://www.eia.gov/survey/">www.eia.gov/survey/</a>.
+
+SUPPLEMENTARY INFORMATION: This information collection request contains
+    (1) OMB No.: 1905-0175;
+    (2) Information Collection Request Title: Natural Gas Data 
+Collection Program;
+    (3) Type of Request: Three-year extension with changes;
+    (4) Purpose: The surveys included in the Natural Gas Data 
+Collection Program collect information on natural gas underground 
+storage, supply, processing, transmission, distribution, consumption by 
+sector, and consumer prices. The data collected supports public policy 
+analyses and produce estimates of the natural gas industry. The 
+statistics generated from these surveys are published on EIA's website, 
+<a href="http://www.eia.gov">http://www.eia.gov</a>, and are used in various EIA information products, 
+including the Weekly Natural Gas Storage Report (WNGSR), Natural Gas 
+Monthly (NGM), Natural Gas Annual (NGA), Monthly Energy Review (MER), 
+Short-Term Energy Outlook (STEO), Annual Energy Outlook (AEO), and 
+Annual Energy Review (AER).
+    (4a) Changes to Information Collection:
+
+Form EIA-176 Annual Report of Natural and Supplemental Gas Supply and 
+Disposition
+
+    Form EIA-176 collects data on natural, synthetic, and other 
+supplemental gas supplies, their disposition, and certain revenues by 
+state. EIA is modifying the survey instructions to include Renewable 
+Natural Gas (RNG) producers who inject high-Btu RNG into an interstate 
+pipeline, intra-state pipeline, or natural gas distribution company 
+system. This excludes on-site and local pipelines that deliver to a 
+nearby end-user, such as to a CNG fueling station or power plant. EIA 
+is adding this type of RNG producer because these facilities produce 
+the equivalent of pipeline-quality natural gas that is not captured 
+elsewhere in EIA's production statistics.
+
+Form EIA-191 Monthly Underground Natural Gas Storage Report
+
+    Form EIA-191 collects data on the operations of all active 
+underground storage facilities. The name of the survey is changing from 
+Monthly Underground Gas Storage Report to Monthly Underground Natural 
+Gas Storage Report.
+
+Form EIA-191L Monthly Liquefied Natural Gas Storage Report
+
+    EIA is adding a new survey, Form EIA-191L Monthly Liquefied Natural 
+Gas Storage Report to collect natural gas inventory storage data from 
+approximately 85 operators of Liquefied Natural Gas (LNG) facilities. 
+These facilities include LNG peakshavers and satellite LNG facilities. 
+EIA is specifically excluding marine terminals (due to their high 
+variability in stock levels), on-site power plant LNG storage tanks, 
+and LNG fueling tanks. Form EIA-191L is a shorter version of Form EIA-
+191 and will collect the same natural gas data as Form EIA-191 except 
+it will not collect information on base gas, working gas, field type, 
+and facility type.
+
+Form EIA-757 Natural Gas Processing Plant Survey
+
+    Form EIA-757 collects information on the capacity, status, and 
+operations of natural gas processing plants, and monitors their 
+constraints to natural gas supplies during catastrophic events, such as 
+hurricanes. Schedule A of Form EIA-757 collects baseline operating and 
+capacity information from all respondents on a triennial basis. 
+Schedule B is used on an emergency standby basis and is activated 
+during natural disasters or other energy disruptive events. Schedule B 
+collects data from a sample of respondents in the affected areas. There 
+are no changes to Form EIA-757.
+
+Form EIA-857 Monthly Report of Natural Gas Purchases and Deliveries to 
+Consumers
+
+    Form EIA-857 collects data on the quantity and cost of natural gas 
+delivered to distribution systems and the quantity and revenue of 
+natural gas delivered to consumers by end-use sector, on a monthly 
+basis by state. There are no changes to this survey.
+
+[[Page 79006]]
+
+Form EIA-910 Monthly Natural Gas Marketer
+
+    Form EIA-910 collects information on natural gas sales from 
+marketers in selected states that have active consumer choice programs. 
+EIA is increasing the number of respondents to this survey due to the 
+increased number of natural gas market participants.
+
+Form EIA-912 Weekly Underground Natural Gas Storage Report
+
+    Form EIA-912 collects information on weekly inventories of natural 
+gas in underground storage facilities. EIA is increasing the requested 
+burden by 5 additional respondents to accommodate future changes in 
+required reporting sample sizes.
+    (5) Annual Estimated Number of Respondents: 3,510.
+    Form EIA-176 consists of 2,070 respondents;
+    Form EIA-191 consists of 145 respondents;
+    Form EIA-191L consists of 85 respondents;
+    Form EIA-757 Schedule A consists of 600 respondents
+    Form EIA-757 Schedule B consists of 20 respondents;
+    Form EIA-857 consists of 330 respondents;
+    Form EIA-910 consists of 160 respondents;
+    Form EIA- 912 consists of 100 respondents.
+    (6) Annual Estimated Number of Total Responses: 16,297.
+    (7) Annual Estimated Number of Burden Hours: 55,296.
+    (8) Annual Estimated Reporting and Recordkeeping Cost Burden: 
+$4,431,421 (55,296 burden hours times $80.14 per hour). EIA estimates 
+that respondents will have no additional costs associated with the 
+survey other than the burden hours and the maintenance of the 
+information as part of the normal course of business.
+    Comments are invited on whether or not: (a) The proposed collection 
+of information is necessary for the proper performance of agency 
+functions, including whether the information will have a practical 
+utility; (b) EIA's estimate of the burden of the proposed collection of 
+information, including the validity of the methodology and assumptions 
+used, is accurate; (c) EIA can improve the quality, utility, and 
+clarity of the information it will collect; and (d) EIA can minimize 
+the burden of the collection of information on respondents, such as 
+automated collection techniques or other forms of information 
+technology.
+
+    Statutory Authority:  15 U.S.C. 772(b) and 42 U.S.C. 7101 et 
+seq.
+
+    Signed in Washington, DC, on December 2, 2020.
+Samson A. Adeshiyan,
+Office Director, Office of Statistical Methods & Research, U.S. Energy 
+Information Administration.
+[FR Doc. 2020-26884 Filed 12-7-20; 8:45 am]
+BILLING CODE 6450-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

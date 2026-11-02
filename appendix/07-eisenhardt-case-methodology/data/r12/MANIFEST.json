@@ -1,0 +1,80 @@
+{
+  "artifact_role": "Public metadata-only candidate-reference projection",
+  "claim_boundary": "High-coverage, effort-bounded evidence map; not a systematic census, exhaustive or comprehensive recall, proof of method adherence, or literal saturation.",
+  "counts": {
+    "doi_rows": 20732,
+    "evidence_tier_counts": {
+      "canonical-metadata-qualified": 15198,
+      "provisional-high-recall": 7658
+    },
+    "landing_url_source_counts": {
+      "doi": 20732,
+      "openalex": 1671,
+      "stable-url": 57,
+      "unavailable": 396
+    },
+    "rows": 22856,
+    "screening_label_counts": {
+      "confirmed-case-study": 12300,
+      "probable-case-study": 10556
+    },
+    "unique_dois": 20732,
+    "unique_public_ids": 22856
+  },
+  "files": {
+    "dois.txt": {
+      "bytes": 541155,
+      "sha256": "c01f6da6adf214a1cf3987ee36d8e52561923ce64d43db525a9b3ded8fea082a"
+    },
+    "references.csv": {
+      "bytes": 8889515,
+      "sha256": "13e8b8e28b6fff3df9542d64e5f138eeecb416b3cc3d4695ecd3bb134bda577e"
+    },
+    "references.jsonl": {
+      "bytes": 13958867,
+      "sha256": "4c6a676a5e133fec983a7c314268c8673eff0b03992d2843dafd15fd67ecb4d0"
+    }
+  },
+  "generator": {
+    "path": "scripts/export_public_references.py",
+    "sha256": "b47bb3e03c04f1e5b46494c99b03c9c5d18041ed089ce9e9edb0832948db9f1f"
+  },
+  "observed_through": "2026-08-26",
+  "projection": {
+    "excluded": [
+      "abstracts and article text",
+      "PDFs and provider payloads",
+      "email addresses and web routes embedded in author strings",
+      "search queries, logs, and screening implementation",
+      "runtime authorizations and local paths",
+      "internal campaign IDs and detailed review-status fields",
+      "signed, authenticated, session-bearing, and transient URLs"
+    ],
+    "fields": [
+      "source_release",
+      "public_id",
+      "evidence_tier",
+      "screening_label",
+      "title",
+      "publication_year",
+      "publication_date",
+      "authors",
+      "venue",
+      "doi",
+      "doi_url",
+      "urn",
+      "openalex_id",
+      "landing_url",
+      "landing_url_source"
+    ],
+    "landing_url_policy": "Prefer DOI, then OpenAlex, then a non-sensitive HTTPS stable public URL. Publish null when none is available; never publish raw reader fallbacks.",
+    "public_id_policy": "Release-local sequential ECS-R12 identifier assigned after a deterministic bibliographic sort whose final tie-break is derived only from public fields; internal campaign IDs, mappings, and source order are not published."
+  },
+  "release": "R12",
+  "schema_version": "1.0",
+  "source": {
+    "artifact": "EISENHARDT_CASE_STUDIES_READING_LEDGER.jsonl",
+    "rows": 22856,
+    "sha256": "5cee45c5e7bd5c3961a20d5b1707173c14838c3b27a379b70d4f02208ae0a1cf"
+  }
+}

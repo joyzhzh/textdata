@@ -1,0 +1,30 @@
+{
+  "identity": "2020-12-07|2020-26765",
+  "attempts": [
+    {
+      "site": "govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-07/html/2020-26765.htm",
+      "http_status": 200,
+      "bytes": 23798,
+      "checked_at": "2026-10-31T16:10:19Z",
+      "problems": []
+    }
+  ],
+  "site": "govinfo.gov",
+  "url": "https://www.govinfo.gov/content/pkg/FR-2020-12-07/html/2020-26765.htm",
+  "http_status": 200,
+  "bytes": 22911,
+  "sha256": "e95814342e4006998fcc5c3177f177462e33789e03a93f5e2b48428c8baf159a",
+  "fetched_at": "2026-10-31T16:10:19Z",
+  "original_retrieval": {
+    "bytes": 23798,
+    "sha256": "4cd42ee4234658bdda62f1a19fb91b6e36140642d23cb9b543987a8616369e29"
+  },
+  "release_copy": {
+    "edition": "email-redacted release",
+    "modified": true,
+    "email_elements_redacted": 5,
+    "note": "Top-level bytes and sha256 describe the released copy. Original retrieval details and attempt sizes describe the withheld source bytes. Malformed nested HTML also required removal of split plaintext address fragments.",
+    "split_email_fragments_removed": 2
+  }
+}

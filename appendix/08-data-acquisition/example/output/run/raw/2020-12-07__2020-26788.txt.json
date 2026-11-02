@@ -1,0 +1,29 @@
+{
+  "identity": "2020-12-07|2020-26788",
+  "attempts": [
+    {
+      "site": "federalregister.gov",
+      "url": "https://www.federalregister.gov/documents/full_text/text/2020/12/07/2020-26788.txt",
+      "http_status": 200,
+      "bytes": 3627,
+      "checked_at": "2026-10-31T16:04:23Z",
+      "problems": []
+    }
+  ],
+  "site": "federalregister.gov",
+  "url": "https://www.federalregister.gov/documents/full_text/text/2020/12/07/2020-26788.txt",
+  "http_status": 200,
+  "bytes": 3627,
+  "sha256": "df60c9c795f54797e09f49e41da58677482614e7a9c2a9456472310d80328828",
+  "fetched_at": "2026-10-31T16:04:23Z",
+  "original_retrieval": {
+    "bytes": 3627,
+    "sha256": "df60c9c795f54797e09f49e41da58677482614e7a9c2a9456472310d80328828"
+  },
+  "release_copy": {
+    "edition": "email-redacted release",
+    "modified": false,
+    "email_elements_redacted": 0,
+    "note": "Top-level bytes and sha256 describe the released copy. Original retrieval details and attempt sizes describe the withheld source bytes."
+  }
+}

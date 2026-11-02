@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-29",
+  "arenas": [
+    {
+      "id": "A01",
+      "name": "Regulation and public administration",
+      "group": "institutional",
+      "families": [
+        "D10"
+      ],
+      "concrete_sources": "Federal Register",
+      "fit_and_boundary": "Framing and stated obligations; text is not implementation or behavior."
+    },
+    {
+      "id": "A02",
+      "name": "Corporate disclosure",
+      "group": "institutional",
+      "families": [
+        "D09"
+      ],
+      "concrete_sources": "SEC EDGAR",
+      "fit_and_boundary": "Issuer claims and disclosed events; disclosure and decision dates differ."
+    },
+    {
+      "id": "A03",
+      "name": "Work and occupations",
+      "group": "institutional",
+      "families": [
+        "D22"
+      ],
+      "concrete_sources": "O*NET; job postings",
+      "fit_and_boundary": "Task descriptions and instrument design; no direct evidence of automation or authority."
+    },
+    {
+      "id": "A04",
+      "name": "Product launches and descriptions",
+      "group": "products",
+      "families": [],
+      "concrete_sources": "Product Hunt",
+      "fit_and_boundary": "Described functionality; posts, containers and companies are different units."
+    },
+    {
+      "id": "A05",
+      "name": "Patents",
+      "group": "products",
+      "families": [
+        "D08"
+      ],
+      "concrete_sources": "USPTO PatentsView",
+      "fit_and_boundary": "Technological comparison sets; patents do not cover all innovation."
+    },
+    {
+      "id": "A06",
+      "name": "Scientific text and knowledge links",
+      "group": "products",
+      "families": [
+        "D11",
+        "D16"
+      ],
+      "concrete_sources": "OpenAlex; QASPER",
+      "fit_and_boundary": "Abstract/reference analysis and evidence-grounding fixtures; incomplete fields and full-text rights."
+    },
+    {
+      "id": "A07",
+      "name": "Product composition and artifacts",
+      "group": "products",
+      "families": [
+        "D03",
+        "D04",
+        "D07"
+      ],
+      "concrete_sources": "Open Food Facts; Food.com; RecipePairs",
+      "fit_and_boundary": "Attribute/recombination comparisons; snapshot novelty is not historical firstness."
+    },
+    {
+      "id": "A08",
+      "name": "Reviews and responses",
+      "group": "products",
+      "families": [
+        "D01",
+        "D02",
+        "D05"
+      ],
+      "concrete_sources": "Amazon Reviews 2023; Google Local; Goodreads",
+      "fit_and_boundary": "Evaluative categories and response sequences; selection and reuse limits remain."
+    },
+    {
+      "id": "A09",
+      "name": "Meetings and interview accounts",
+      "group": "interaction",
+      "families": [
+        "D12"
+      ],
+      "concrete_sources": "AMI; publisher podcast transcripts",
+      "fit_and_boundary": "Situated discussion or mediated accounts; source types are not interchangeable."
+    },
+    {
+      "id": "A10",
+      "name": "Collaborative discussion and platforms",
+      "group": "interaction",
+      "families": [
+        "D13"
+      ],
+      "concrete_sources": "WikiConv; Hugging Face",
+      "fit_and_boundary": "Contribution and ecosystem histories; current observations are not complete history."
+    },
+    {
+      "id": "A11",
+      "name": "Human–AI writing and creative traces",
+      "group": "interaction",
+      "families": [
+        "D14",
+        "D19",
+        "D20",
+        "D25"
+      ],
+      "concrete_sources": "CoAuthor; Noy–Zhang; Doshi–Hauser; WildChat annotations",
+      "fit_and_boundary": "Writing/generation sequences and comparisons; private criteria and stopping reasons remain unobserved."
+    },
+    {
+      "id": "A12",
+      "name": "Text on four platforms",
+      "group": "interaction",
+      "families": [],
+      "concrete_sources": "",
+      "fit_and_boundary": "Descriptions, comments, captions and transcripts differ."
+    }
+  ]
+}
