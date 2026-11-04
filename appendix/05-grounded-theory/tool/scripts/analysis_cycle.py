@@ -11,7 +11,6 @@ import fcntl
 import hashlib
 import json
 from pathlib import Path
-import subprocess
 import sys
 
 from source_bound import TOOL, PROFILE, METHOD, DEFAULTS, check_input, digest, external_root, need, verify_seal
@@ -32,14 +31,13 @@ def create_file(path, data):
 
 
 def tool_identity():
-    # A deployed tree can be uncommitted. Bind its runtime files in addition to HEAD.
-    result = subprocess.run(["git", "-C", str(TOOL), "rev-parse", "HEAD"], text=True, capture_output=True)
-    need(result.returncode == 0, "use the durable tool checkout (Git HEAD is required)")
+    # Bind the supplied runtime bytes, including when no Git history is present.
     paths = [TOOL / "SKILL.md", TOOL / "PROTOCOL.lock.json"]
     for folder in ("scripts", "schemas", "references", "templates"):
         paths += [p for p in (TOOL / folder).rglob("*") if p.is_file() and "__pycache__" not in p.parts]
-    payload = "".join(f"{p.relative_to(TOOL)}\0{digest(p)}\n" for p in sorted(paths))
-    return result.stdout.strip(), hashlib.sha256(payload.encode()).hexdigest()
+    payload = "".join(f"{p.relative_to(TOOL).as_posix()}\0{digest(p)}\n" for p in sorted(paths))
+    tree = hashlib.sha256(payload.encode()).hexdigest()
+    return f"snapshot-sha256:{tree}", tree
 
 
 def prepare(study_root, config, cycle_id, question, producer, reviewer, previous=None):

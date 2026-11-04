@@ -1,9 +1,8 @@
 # Explore Eisenhardt Case Methodology with an AI assistant
 
-Help me explore this TextData component using its actual materials:
+Help me explore this TextData component using its actual materials.
 
-- Page: https://textdata.info/toolkit/eisenhardt-case-methodology/
-- Appendix: https://github.com/joyzhzh/textdata/tree/main/appendix/07-eisenhardt-case-methodology
+Use the supplied files in `appendix/07-eisenhardt-case-methodology/` (or the attached component folder). All paths below are relative to that folder; [README.md](README.md) is the starting point. If a needed file is unavailable, identify it and ask me to provide it; do not infer its contents.
 
 Read `README.md`, `docs/METHOD_MAP.md` and `tool/SKILL.md`. For the runnable example, inspect `example/run_example.py`, `example/output/SUMMARY.json` and `example/output/04-refusals.json`. For the reference collection, use `docs/data-fields.md`, `data/r12/references.csv` or `data/r12/references.jsonl`, and `NOTICE.md`. Cite the files or source notes you use; say when a file is unavailable.
 

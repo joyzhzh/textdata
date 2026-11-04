@@ -2,7 +2,7 @@
 
 Trace a proposed concept back to the words that prompted it. This working toolkit combines an agent skill, analytic templates and an exact-quotation checker. Its synthetic example shows why correct quotations can still support an incorrect interpretation.
 
-[Try the interactive example](https://textdata.info/toolkit/gioia-methodology/) · [Explore with your AI](AI-PROMPT.md) · [Usage guide](docs/USAGE.md) · [All components](../README.md)
+[Example results](example/output/SUMMARY.json) · [Explore with your AI](AI-PROMPT.md) · [Usage guide](docs/USAGE.md) · [All components](../README.md)
 
 ## Worked example
 

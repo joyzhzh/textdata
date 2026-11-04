@@ -4,13 +4,16 @@ import copy
 import hashlib
 import importlib.util
 import json
+import os
+import shutil
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
-from analysis_cycle import append, prepare, handoff
+from analysis_cycle import append, prepare, handoff, tool_identity
 from source_bound import external_root, verify_seal
 from validate_analysis_packet import validate_packet, current_rows, read_jsonl
 spec=importlib.util.spec_from_file_location('workflow_example', ROOT/'examples/synthetic/workflow.py')
@@ -26,6 +29,35 @@ class SourceBoundWorkflowTest(unittest.TestCase):
     def study(self):
         parent=Path(tempfile.mkdtemp(prefix='case-',dir=self.scratch))
         return demo.build_example(parent/'study',seal_final=False)
+
+    def test_new_cycles_use_content_snapshots_without_git(self):
+        with patch.dict(os.environ, {'PATH': ''}):
+            c = self.study()
+        m = json.loads((c / 'MANIFEST.json').read_text())
+        self.assertEqual(m['tool_revision'], 'snapshot-sha256:' + m['tool_tree_sha256'])
+        self.assertEqual(len(m['tool_tree_sha256']), 64)
+        validate_packet(c)
+
+    def test_tool_snapshot_survives_copy_and_tracks_runtime_changes(self):
+        expected = tool_identity()
+        copied = self.scratch / 'copied-tool'
+        shutil.copytree(ROOT, copied, ignore=shutil.ignore_patterns('__pycache__', '*.pyc'))
+        with patch('analysis_cycle.TOOL', copied):
+            self.assertEqual(tool_identity(), expected)
+            script = copied / 'scripts' / 'analysis_cycle.py'
+            script.write_bytes(script.read_bytes() + b'\n# runtime edit for identity test\n')
+            changed = tool_identity()
+        self.assertNotEqual(changed, expected)
+        self.assertEqual(changed[0], 'snapshot-sha256:' + changed[1])
+
+    def test_tool_snapshot_must_agree_with_runtime_hash(self):
+        c = self.study()
+        path = c / 'MANIFEST.json'
+        m = json.loads(path.read_text())
+        m['tool_revision'] = 'snapshot-sha256:' + '0' * 64
+        path.write_text(json.dumps(m))
+        with self.assertRaisesRegex(ValueError, 'snapshot and runtime-tree hash disagree'):
+            validate_packet(c)
 
     def test_contrasting_endings_and_changed_category_are_usable(self):
         c=self.study();validate_packet(c)

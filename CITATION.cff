@@ -4,7 +4,8 @@ type: software
 title: "TextData: Adaptive AI Infrastructure for Organizational Research"
 authors:
   - name: "Anonymous (under double-blind review)"
-url: "https://textdata.info/"
+version: "2026.11.04-anonymous-files"
+date-released: 2026-11-04
 license:
   - Apache-2.0
   - CC-BY-4.0

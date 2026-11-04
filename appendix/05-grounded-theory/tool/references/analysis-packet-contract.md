@@ -29,10 +29,14 @@ manifestations minted by the study vault. Timestamps are ISO-8601 UTC with a
 ## Manifest
 
 `schema_version` is `0.2-phase-a`. The manifest binds the frozen input
-manifest hash, the exact protocol revision, the exact `tool_revision` of this
-repository, the `producer_seat`, a `reviewer_seat` that must differ, and
+manifest hash, the exact protocol revision, the runtime `tool_revision`, the
+`producer_seat`, a `reviewer_seat` that must differ, and
 `model_processing` naming the processing-authority decision and the exact
 models used (an empty list means no model processed study data).
+New cycles use `snapshot-sha256:<hash>` for `tool_revision`, with the same hash
+in `tool_tree_sha256`; this is a content snapshot, not a Git commit. Legacy
+40-hex tool revisions remain valid historical provenance. The runtime file
+scope is described in [workflow.md](workflow.md).
 `analysis_status` is `WORKING` or `SUBMITTED_FOR_REVIEW`; `release_status` is
 always `NON_RELEASE`; `saturation_status` is `NOT_ASSESSED`, `NOT_REACHED`,
 or `PROVISIONAL_SUFFICIENCY_CANDIDATE`, never a saturation claim.

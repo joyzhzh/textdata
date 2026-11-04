@@ -3,7 +3,7 @@
   "folder": "06-gioia-methodology",
   "title": "Gioia Methodology",
   "skill_version": "0.1.1",
-  "website": "https://textdata.info/toolkit/gioia-methodology/",
+  "documentation": "README.md",
   "demonstration": "One synthetic analytic memo, with no researcher decisions. Empirical evaluation is proposed.",
   "source": "Project-authored skill and tests, bundled practice text, synthetic worked example and AI exploration prompt. See NOTICE.md for sources and licences.",
   "inventory_basis": "Whole-file SHA-256 of every release file except MANIFEST.json itself. Generated replay and test fixtures are outside the inventory.",
@@ -20,12 +20,12 @@
     "synthetic analytic memos": 1
   },
   "payload_files": 31,
-  "payload_bytes": 103351,
+  "payload_bytes": 103373,
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1855,
-      "sha256": "1ac600dbff05c1cbe2bba5614ded2a1f7cdebcfefbbc38dd632619303761a536"
+      "bytes": 2011,
+      "sha256": "c7ccd2213a41c54038c521af56d0b7960692b22a1f3b2368d3feceff2d0c02c6"
     },
     {
       "path": "NOTICE.md",
@@ -34,13 +34,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3774,
-      "sha256": "562a2e13bff038b4be6fe507df90e09490c266eae083d40bef788d8e27723f35"
+      "bytes": 3741,
+      "sha256": "aaa933400b9413d7e9983b3ab0b8e375304003c573e1ad72bf50442926d1b895"
     },
     {
       "path": "checks/verify.py",
-      "bytes": 8185,
-      "sha256": "c0703a0d9b6db0e940ba5e582c4aa0ccdfcf52f6741f77df15de74df59c23b0d"
+      "bytes": 8084,
+      "sha256": "f3416b5aea8dd67730194667614334325a571803deb11e79979cf953aa5307cd"
     },
     {
       "path": "docs/USAGE.md",

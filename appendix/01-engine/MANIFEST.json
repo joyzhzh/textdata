@@ -1,8 +1,8 @@
 {
   "component": 1,
   "title": "Deep-research engine",
-  "website": "https://textdata.info/engine/",
-  "repository": "https://github.com/joyzhzh/textdata/tree/main/appendix/01-engine",
+  "documentation": "README.md",
+  "component_path": "appendix/01-engine",
   "status": {
     "available": "Scout instructions, offline validator and worked evidence map",
     "proposed": "Shareable integrated engine and evaluation",
@@ -29,8 +29,8 @@
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1183,
-      "sha256": "ac446a4f220075b1fd104b100762750f9843c025519e10967ab38c4084ba0eb0"
+      "bytes": 1309,
+      "sha256": "db0fbcb38bc2075bdf321e9708b07888738c78099b669f09fa97e71032b91a9f"
     },
     {
       "path": "NOTICE.md",
@@ -39,8 +39,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3297,
-      "sha256": "429db76d044f65a25a74c34281829a4e7518257058d74118716b84a7b48256cd"
+      "bytes": 3216,
+      "sha256": "a57bce7c2f0251ab72b6be68ef3bf5620c9ff5648ce3fa6f47320c26c45406c8"
     },
     {
       "path": "checks/verify_campaign.py",
@@ -59,8 +59,8 @@
     },
     {
       "path": "example/README.md",
-      "bytes": 2453,
-      "sha256": "2c77cf7ab68e3582ad5bd8df6f4e52c03bb2c3774f96c76151408d5f3c5c48c8"
+      "bytes": 2364,
+      "sha256": "92487b6a9f485392e93d402b031d9c2c37fe3e7162c0cd2f9115d6eb88213f0e"
     },
     {
       "path": "example/campaign/EVIDENCE_LEDGER.jsonl",

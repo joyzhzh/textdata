@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Verify the Gioia toolkit folder: replay the example, run the checker's tests, check the
-manifest counts, and scan for identifying patterns. Python 3.9+, standard library,
+manifest counts, and scan UTF-8 component files for generic identifying patterns.
+This pattern scan is not an exhaustive author-identity audit. Python 3.9+, standard library,
 no network, no model.
 
     python3 checks/verify.py
@@ -39,10 +40,7 @@ COUNTS = {  # package quantities recorded in MANIFEST.json
     'synthetic texts': 2,
     'synthetic analytic memos': 1,
 }
-# The final proposal requires this public component destination.
-PUBLIC_COMPONENT_URL = 'https://github.com/joyzhzh/textdata/tree/main/appendix/06-gioia-methodology'
-
-PATTERNS = [  # the submission site's built-in identity patterns, spelled in pieces so that
+PATTERNS = [  # generic patterns, spelled in pieces so that
     # this file does not itself contain the literal strings it looks for
     (re.compile('/Us' + 'ers/'), 'home-folder path'),
     (re.compile('mail' + 'to:', re.I), 'mailto link'),
@@ -136,11 +134,11 @@ def scan_identity():
         except UnicodeDecodeError:
             continue
         for i, line in enumerate(text.splitlines(), 1):
-            line = line.replace(PUBLIC_COMPONENT_URL, '')
             for pattern, label in PATTERNS:
                 if pattern.search(line):
                     hits.append('%s:%d %s' % (path.relative_to(ROOT), i, label))
-    check('identity patterns: no hits', not hits, '; '.join(hits[:10]))
+    check('generic patterns in UTF-8 component files: no hits (test/cache folders excluded)',
+          not hits, '; '.join(hits[:10]))
 
 
 def verify_inventory():

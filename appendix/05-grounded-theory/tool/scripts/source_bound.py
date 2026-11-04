@@ -105,6 +105,9 @@ def verify_seal(cycle):
 
 
 def validate_bound_cycle(cycle, manifest, rows):
+    if manifest["tool_revision"].startswith("snapshot-sha256:"):
+        need(manifest["tool_revision"] == f"snapshot-sha256:{manifest['tool_tree_sha256']}",
+             "tool snapshot and runtime-tree hash disagree")
     root = external_root(manifest["study_root"])
     need(cycle.resolve().is_relative_to(root), "cycle must be inside study_root")
     need(manifest.get("method_profile") == METHOD and manifest.get("method_defaults") == DEFAULTS,

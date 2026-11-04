@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/comparison.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:comparison.schema.json",
   "title": "Grounded Theory constant-comparison record",
   "description": "One recorded comparison. Compared identities may be incidents (I), episodes (E), codes (CDE), or categories (CAT). Null possible_condition or rival_explanation means none identified, stated explicitly.",
   "type": "object",

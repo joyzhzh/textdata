@@ -1,6 +1,6 @@
 # Combining ML, NLP and LLMs
 
-[Interactive webpage](https://textdata.info/toolkit/combining-ml-nlp-llms/) · [Explore with your AI](AI-PROMPT.md) · [All components](../README.md)
+[Offline catalogue](docs/catalogue/index.html) · [Explore with your AI](AI-PROMPT.md) · [All components](../README.md)
 
 A working methods catalogue and measure-card validator help specify a measurement before scoring text. The catalogue connects 14 method families, 35 application settings and 61 research questions. Its 490 application–method pairs are unassessed: these are design options, not recommendations or literature-coverage claims.
 

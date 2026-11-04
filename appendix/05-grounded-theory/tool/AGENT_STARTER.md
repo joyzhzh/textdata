@@ -24,7 +24,8 @@ as the **Input path** in the prompt above.
 The text describes fictional attempts and decisions; it is not research evidence.
 No previous analytical answer is provided with it.
 
-Prerequisites: Python 3.9+, Git and the dependencies in [requirements.txt](requirements.txt).
+Prerequisites: Python 3.9+ and the dependencies in [requirements.txt](requirements.txt).
+The tool may be an ordinary copied folder; no Git history is required.
 The installed agent performs interpretation; the helpers check source bindings,
 declared structure and history. Those checks do not evaluate the truth of an
 interpretation. Obtain separate human/independent review before using a

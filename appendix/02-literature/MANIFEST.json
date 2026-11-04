@@ -1,7 +1,7 @@
 {
  "component": "02-literature",
  "title": "Textual-data literature reviews and database",
- "website": "https://textdata.info/foundation/literature-reviews/",
+ "documentation": "README.md",
  "schema": "textdata-literature/2",
  "entry_points": [
   "README.md",
@@ -26,8 +26,8 @@
  "files": [
   {
    "path": "AI-PROMPT.md",
-   "bytes": 1398,
-   "sha256": "106a96dfc8db4ee5c2236cf7f637caee2d9aa952c9df6792be093efde84d0e2e"
+   "bytes": 1524,
+   "sha256": "abcfe9ec11c7e349b7fa3b6ab43562acd60e81d62ec6972c4b5dcaadc489ef5b"
   },
   {
    "path": "NOTICE.md",
@@ -36,8 +36,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 3166,
-   "sha256": "8e261071d69e0e1a3dae113a3d7cb10a8f69adc141c82236fa36c0c1e795b342"
+   "bytes": 3178,
+   "sha256": "eb250f65ce66010eea4b6792e59960ef1caf7f611f7f3e122e80fa679db964bb"
   },
   {
    "path": "checks/verify_counts.py",

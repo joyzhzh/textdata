@@ -2,7 +2,7 @@
   "component": 10,
   "title": "LLM-annotation workflow",
   "folder": "appendix/10-annotation",
-  "website": "https://textdata.info/toolkit/llm-annotation-workflow/",
+  "documentation": "README.md",
   "edition": "Illustrative saved-output prototype",
   "release_derived_records": {
     "example/prepared/manifest.json": "checks/recorded-2026-10-29/manifest.json",
@@ -89,13 +89,13 @@
     "third_party": "Executive Order 13960: public domain, not relicensed"
   },
   "file_count": 40,
-  "total_bytes": 315523,
+  "total_bytes": 315605,
   "note": "MANIFEST.json does not list itself.",
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1703,
-      "sha256": "82f424a554a278f7cc9e8c2c45be12c6b7f5868ae4bada3fa43d1d21aed0f87d"
+      "bytes": 1833,
+      "sha256": "c0410f7ee5edb5c6bbfec6a58473cc9fc281f428d92a6a8a5cdd13e3772bda26"
     },
     {
       "path": "CHANGES.md",
@@ -109,8 +109,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3532,
-      "sha256": "4c1d8c5010ff5817bbcc07f90e8a2f2e39600fcc7a126e2e6913ae9425af244c"
+      "bytes": 3484,
+      "sha256": "88ec96cad677e4b45d9043e5656b0f317d24d5fdbe7dd4a490db338575b893a8"
     },
     {
       "path": "checks/recorded-2026-10-29/CHECK_RESULTS.json",

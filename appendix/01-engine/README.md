@@ -1,12 +1,12 @@
 # Deep-research engine
 
-[Working demonstration](https://textdata.info/engine/) · [AI prompt](AI-PROMPT.md) · [All components](../README.md)
+[Worked example](example/README.md) · [AI prompt](AI-PROMPT.md) · [All components](../README.md)
 
 The deep-research engine connects a researcher’s question to source-supported findings and decisions about research tools. The working prototype includes a reusable scout skill, an offline validator, and an evidence map whose claims can be followed back to the exact source passage.
 
 ## Try the prototype
 
-[Explore the evidence map](https://textdata.info/engine/), or follow [the worked example](example/README.md): Langley’s article on theorizing from process data → two claims bounded to the publisher abstract → their use in the synthesis.
+Follow [the worked example](example/README.md): Langley’s article on theorizing from process data → two claims bounded to the publisher abstract → their use in the synthesis.
 
 The example contains **77 works, 101 inspected versions and 141 located claims** about theory-building methods and software. Its [findings](example/campaign/FINDINGS.md) and [synthesis](example/campaign/SYNTHESIS.md) support a modular design: select the mode of theorizing first, preserve the sources of each claim, and treat theory quality as several criteria rather than one score.
 

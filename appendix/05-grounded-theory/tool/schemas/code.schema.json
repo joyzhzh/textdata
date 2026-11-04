@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/code.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:code.schema.json",
   "title": "Grounded Theory initial code",
   "type": "object",
   "required": ["code_id", "label", "level", "status", "incident_ids"],

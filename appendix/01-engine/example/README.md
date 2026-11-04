@@ -8,7 +8,7 @@ This evidence map examines published methods and reusable software for building 
 2. Read `clm-grf-005-01` and `clm-grf-005-02`. They concern the different kinds of theory yielded by analysis strategies, the value of combining strategies, and the continuing need for a creative leap. Each claim names its supporting passage and is limited to abstract-level evidence.
 3. In `campaign/SYNTHESIS.md`, open “Theory mode must be chosen before machinery.” Both claims support that design recommendation.
 
-The [web demonstration](https://textdata.info/engine/) makes the same links interactive. The evidence supports a design proposal; it does not validate an automated theory builder.
+The evidence supports a design proposal; it does not validate an automated theory builder.
 
 ## Run the checks
 

@@ -1,6 +1,6 @@
 # Eisenhardt Case Methodology
 
-[Explore the webpage](https://textdata.info/toolkit/eisenhardt-case-methodology/) · [Use with an AI assistant](AI-PROMPT.md) · [All components](../README.md)
+[Method map](docs/METHOD_MAP.md) · [Use with an AI assistant](AI-PROMPT.md) · [All components](../README.md)
 
 A method map, a reference collection and a working maintenance skill support preparation for case-based theory building. The software preserved research materials during a documented reorganization. Case analysis remains proposed.
 

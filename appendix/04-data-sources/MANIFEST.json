@@ -2,7 +2,7 @@
   "component": 4,
   "title": "Rich textual-data sources review",
   "folder": "appendix/04-data-sources",
-  "website": "https://textdata.info/foundation/textual-data-sources/",
+  "documentation": "README.md",
   "appendix_row": "A catalogue, dated profiles, comparative review and profile-rendering tool describe coverage and observability. A change in released fields altered a proposed source selection.",
   "status": {
     "built": true,
@@ -84,8 +84,8 @@
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1324,
-      "sha256": "9bf935a28747a7e31b73ef1643d1c92d8e1768950258847d1b4124ba58e7fa7b"
+      "bytes": 1433,
+      "sha256": "ff4dddf268f957fac5862058d2f0c2dca91a24c30ebf1395b41e2cbeb4aedaff"
     },
     {
       "path": "NOTICE.md",
@@ -94,8 +94,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2875,
-      "sha256": "1d73b0b626b5b60188ded78eb9e3fb9c9e7ea32708bf6140494d1b354ab5f614"
+      "bytes": 2767,
+      "sha256": "a3e58ae8492a41f6472ee9b023233f81988986b66df1de3ba79013d5808e845f"
     },
     {
       "path": "checks/verify_counts.py",
@@ -273,5 +273,5 @@
       "sha256": "a1caedb3d343fd292c09a6a675678c3b2d215ae2f57a85d50ac02ace59351db5"
     }
   ],
-  "size_bytes": 312434
+  "size_bytes": 312435
 }

@@ -3,7 +3,7 @@
   "folder": "appendix/09-measurement",
   "title": "Combining ML, NLP and LLMs",
   "appendix_item": 9,
-  "website": "https://textdata.info/toolkit/combining-ml-nlp-llms/",
+  "documentation": "README.md",
   "example": {
     "input": [
       "example/input/ASKIN_MEASURE_CARD.jsonl"
@@ -153,8 +153,8 @@
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1949,
-      "sha256": "15c5aff44bf7f56d54c2b2e6b9637957cad57adc028a16987dd5febb5882d9d8"
+      "bytes": 2045,
+      "sha256": "82ba577216fad87d8a9a11acaeb3a593d5c9b269bad12f09c7744c7fc19e7794"
     },
     {
       "path": "NOTICE.md",
@@ -163,8 +163,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4066,
-      "sha256": "1e44e8cea936b6bb63b8d8140ba934468276f76d1ca5bac3011c9b91c93cc7b7"
+      "bytes": 4037,
+      "sha256": "52bf09ab79194e459b7bbd643dfdd482bf11d6cd46687f321b17e82a84c788c0"
     },
     {
       "path": "checks/test_build_catalogue.py",
@@ -307,5 +307,5 @@
       "sha256": "3612ea2659454364fda0c2a6d33610849ae20084a905678886d79c2ed6bb61f5"
     }
   ],
-  "size_bytes": 1517045
+  "size_bytes": 1517112
 }

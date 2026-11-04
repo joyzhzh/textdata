@@ -3,7 +3,7 @@
   "slug": "eisenhardt-case-methodology",
   "title": "Eisenhardt Case Methodology",
   "appendix_item": 7,
-  "website": "https://textdata.info/toolkit/eisenhardt-case-methodology/",
+  "documentation": "README.md",
   "provenance": [
     {
       "what": "tool/ and data/r12/",
@@ -166,13 +166,13 @@
       "change": "Concise usage instructions and a tailored AI exploration prompt."
     }
   ],
-  "size_bytes": 23645253,
+  "size_bytes": 23633380,
   "file_count": 40,
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1698,
-      "sha256": "c8ffd0bab92d44e59cf516cf1e4798b10220dc5d927142516c85e790224f4584"
+      "bytes": 1827,
+      "sha256": "2822369218b418a0aab775bb6276dacf37016281eaa709d8aab61ed98e6a9754"
     },
     {
       "path": "NOTICE.md",
@@ -181,8 +181,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3496,
-      "sha256": "696817cf07dadf0e357e44bf92ac93726596d0c133a7e3de96572544bc4b2f63"
+      "bytes": 3447,
+      "sha256": "9560c7a1cbc7957b015e14f8ad0bc9046e672eaf55c10db2d85c415f691e4d6b"
     },
     {
       "path": "checks/render_method_map.py",

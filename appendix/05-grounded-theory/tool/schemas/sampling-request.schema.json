@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/sampling-request.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:sampling-request.schema.json",
   "title": "Grounded Theory theoretical-sampling request",
   "description": "The one request contract shared with a companion evidence-vault repository. A request proposes collection; it authorizes nothing. workflow_regimes uses the vault's TEMPORAL_REGIMES vocabulary verbatim.",
   "type": "object",

@@ -1,8 +1,8 @@
 # Explore large-scale data acquisition
 
-Read https://textdata.info/toolkit/large-scale-data-acquisition/ and its working files at https://github.com/joyzhzh/textdata/tree/main/appendix/08-data-acquisition.
+Use the supplied files in `appendix/08-data-acquisition/` (or the attached component folder). All paths below are relative to that folder; [README.md](README.md) is the starting point. If a needed file is unavailable, identify it and ask me to provide it; do not infer its contents.
 
-Start with README.md, tool/WORKFLOW.md and docs/PROCEDURE.md. Use example/run_example.py and the records under example/output/ to explain the 7–8 December 2020 example: define the document population, retain gaps, prepare reading copies, package files and compare fingerprints. Show how the webpage’s year/month explorer and data/MANIFEST_INDEX.tsv could help define a sampling frame for my question.
+Start with README.md, tool/WORKFLOW.md and docs/PROCEDURE.md. Use example/run_example.py and the records under example/output/ to explain the 7–8 December 2020 example: define the document population, retain gaps, prepare reading copies, package files and compare fingerprints. Show how data/MANIFEST_INDEX.tsv and the monthly inventories under data/inventories/ could help define a sampling frame for my question.
 
 If local files and Python are available, help me run the documented offline example and interpret its actual output. Otherwise explain the supplied example without claiming you ran it. Explain that the historical comparison found 191 identifiers, 169 raw matches and 22 unresolved differences; the supplied email-redacted copies produce a separate comparison. Distinguish byte integrity from content validity.
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/memo.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:memo.schema.json",
   "title": "Grounded Theory analytical memo",
   "description": "Descriptive, comparison, methodological, and theoretical memos are separate record types sharing one file. A memo is an argument, never evidence.",
   "type": "object",

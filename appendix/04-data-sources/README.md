@@ -2,7 +2,7 @@
 
 Choose a source by the observations it can support. This working prototype brings together **25 dated source profiles**, a searchable catalogue, a comparative review and an offline profile renderer. It makes coverage, linking fields, access and reuse limits visible before data acquisition.
 
-[Explore the catalogue](https://textdata.info/foundation/textual-data-sources/) · [Use the AI exploration prompt](AI-PROMPT.md)
+[Source profiles](data/profiles/README.md) · [Use the AI exploration prompt](AI-PROMPT.md)
 
 ## An illustrative selection decision
 
@@ -35,4 +35,4 @@ The renderer uses the included records, requires no network or model, and reprod
 
 Acquiring source datasets, running the suggested tasks and testing their fit in a study remain future work. The review is representative, not exhaustive. Source releases and terms can change; public access alone does not grant reuse rights. The [notice](NOTICE.md) credits providers and separates their terms from the licenses for this component’s text and code.
 
-[Repository folder](https://github.com/joyzhzh/textdata/tree/main/appendix/04-data-sources)
+[Component files](.)

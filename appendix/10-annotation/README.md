@@ -2,7 +2,7 @@
 
 A working prototype that turns passages into candidate actor–action records, checks their quotations and exports source-linked features.
 
-[Explore the interactive example](https://textdata.info/toolkit/llm-annotation-workflow/) · [Use with your AI assistant](AI-PROMPT.md)
+[Worked example](docs/WORKED_EXAMPLE.txt) · [Use with your AI assistant](AI-PROMPT.md)
 
 ## Start with the example
 

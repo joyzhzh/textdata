@@ -51,11 +51,11 @@ HEADER = {
     "slug": "grounded-theory",
     "title": "Grounded Theory",
     "appendix_item": 5,
-    "website": "https://textdata.info/toolkit/grounded-theory/",
+    "documentation": "README.md",
     "release": "Proposal prototype: see README.md for use and limits.",
     "status": {"built": True, "demonstrated": "empirical (22 interviews, three cycles) and synthetic", "validated": False},
     "contents": [
-        {"path": "tool/", "what": "the toolkit's agent skill: instructions, six references, eight schemas, three helpers, three templates, a synthetic fixture and input text, two test files (50 tests)", "edition": "release edition; modifications noted in CHANGES.md"},
+        {"path": "tool/", "what": "the toolkit's agent skill: instructions, six references, eight schemas, three helpers, three templates, a synthetic fixture and input text, two test files (53 tests)", "edition": "release edition; modifications noted in CHANGES.md"},
         {"path": "example/input/study/", "what": "the sealed third-cycle records of the 22-interview study, the two selection records, the analytical account, the review and the producers' dispositions", "edition": "release inspection edition: seven original analytical files unchanged; duplicate handoff omitted; INPUT_MANIFEST.json and MANIFEST.json are declared derivatives; original and release fingerprints are separate"},
         {"path": "example/trace_comparison.py, example/output/TRACE.md", "what": "the worked example: one analytical chain traced through the records", "edition": "written for this release"},
         {"path": "checks/", "what": "the verification a reviewer runs, and the script that regenerates this manifest", "edition": "written for this release"},
@@ -90,8 +90,8 @@ HEADER = {
     "checks": [
         {"command": "python3 checks/verify_counts.py", "needs": "Python 3.9+ standard library; offline; no model",
          "expects": "all checks passed"},
-        {"command": "python3 -B -m unittest discover -s tests (run in tool/)", "needs": "jsonschema; the folder inside a Git checkout (the helpers record the Git revision and refuse to run without one)",
-         "expects": "OK, 50 tests"},
+        {"command": "python3 -B -m unittest discover -s tests (run in tool/)", "needs": "jsonschema; macOS, Linux or WSL; ordinary copied tool files are supported without Git history",
+         "expects": "OK, 53 tests"},
     ],
     "data": [
         {"source": "22 interview transcripts of a published podcast (credited in NOTICE.md)", "rights": "copyright of their owners; licence unknown; referenced only by file name, line locators and SHA-256", "included": False},

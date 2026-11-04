@@ -1,14 +1,14 @@
 # Textual-data literature reviews and database
 
-[Explore the database](https://textdata.info/foundation/literature-reviews/) · [Use with an AI assistant](AI-PROMPT.md) · [All components](../README.md)
+[Database guide](docs/DATABASE_NOTES.md) · [Use with an AI assistant](AI-PROMPT.md) · [All components](../README.md)
 
 A searchable research foundation for choosing and evaluating textual methods. The finished collection separates bibliographic facts from reading notes and their limitations. It contains **10,732 entries from overlapping catalogues**, **8,236 substantive reading notes**, and **two of three methodological syntheses**.
 
 ## Try it
 
-Open the webpage to search by title, author or abstract word, filter the results, and read a note. “Open an example” shows Andrew Speer’s article on the reliability of AI scores: the note distinguishes correlational agreement from factor-model reliability, while its reading-depth qualification prevents treating the note as proof of full-paper reading.
+Read [the saved example](example/output/record-W026.json) for Andrew Speer’s article on the reliability of AI scores: the note distinguishes correlational agreement from factor-model reliability, while its reading-depth qualification prevents treating the note as proof of full-paper reading. Use the commands below to query the local metadata and notes.
 
-The webpage uses a separately labelled 10,731-entry edition with more abstracts available for word search. Both editions are downloadable; neither distributes abstract prose. Counts are entries, not distinct papers.
+The supplied 10,732-entry edition is distinct from the separately labelled 10,731-entry website edition, which has more abstracts available for word search and is not included here. Neither edition distributes abstract prose. Counts are entries, not distinct papers.
 
 For an offline example, use Python 3.9 or later; no additional packages, network or model service are needed:
 

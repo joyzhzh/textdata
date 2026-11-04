@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/manifest.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:manifest.schema.json",
   "title": "Grounded Theory cycle manifest",
   "type": "object",
   "additionalProperties": true,
@@ -45,8 +45,8 @@
     },
     "tool_revision": {
       "type": "string",
-      "pattern": "^[0-9a-f]{40}$",
-      "description": "exact commit of the grounded-theory tool repository that produced the cycle"
+      "pattern": "^([0-9a-f]{40}|snapshot-sha256:[0-9a-f]{64})$",
+      "description": "content-derived runtime snapshot for new cycles; legacy 40-hex Git revisions remain valid historical provenance"
     },
     "producer_seat": {
       "type": "string",

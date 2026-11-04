@@ -1,6 +1,6 @@
 # Large-scale data acquisition
 
-[Explore the prototype](https://textdata.info/toolkit/large-scale-data-acquisition/) · [Use with your AI](AI-PROMPT.md)
+[Example files](example/) · [Use with your AI](AI-PROMPT.md)
 
 A working Federal Register adapter turns a publication window into an inventory, reading copies and verified text packs. It retains a document’s identifier when text is missing, so a sampling frame does not silently exclude unreadable documents. The included monthly inventories cover 806,941 document records from January 2000 through 15 September 2026: 806,237 with text and 704 without.
 

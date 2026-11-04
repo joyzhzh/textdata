@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/category-memo.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:category-memo.schema.json",
   "title": "Grounded Theory category memo",
   "type": "object",
   "required": [

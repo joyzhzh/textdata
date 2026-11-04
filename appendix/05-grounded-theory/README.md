@@ -1,10 +1,10 @@
 # Grounded Theory
 
-[Webpage](https://textdata.info/toolkit/grounded-theory/) · [All components](../README.md)
+[Worked example](example/output/TRACE.md) · [All components](../README.md)
 
 A working agent toolkit for inductive process studies using grounded-theory techniques. It connects source passages, codes, comparisons and successive category definitions so a researcher can inspect why an interpretation changed. The researcher directs the inquiry and judges the explanations.
 
-The prototype includes an agent skill, templates, three Python helpers, 50 tests, a runnable synthetic example and analytical records from **22 interviews over three cycles (6, 14, 22)**.
+The prototype includes an agent skill, templates, three Python helpers, 53 tests, a runnable synthetic example and analytical records from **22 interviews over three cycles (6, 14, 22)**.
 
 ## What the demonstration shows
 
@@ -25,7 +25,7 @@ python3 example/trace_comparison.py
 
 These offline, standard-library commands check counts and file integrity, and reproduce `example/output/TRACE.md`. No model or network is needed. A successful check ends with `all checks passed`.
 
-To run the synthetic two-cycle example or tests, install the dependency in [tool/requirements.txt](tool/requirements.txt). The helpers require macOS, Linux or WSL and a Git checkout:
+To run the synthetic two-cycle example or tests, install the dependency in [tool/requirements.txt](tool/requirements.txt). The helpers require macOS, Linux or WSL. The tool files work from an ordinary copied folder without Git history; runtime identity is recorded as `snapshot-sha256:<runtime tree hash>`:
 
 ```bash
 cd tool
@@ -61,7 +61,7 @@ The example uses an invented nine-line text and calls no model. To work with an 
 | Account envelopes | 86 current | 89 episode versions; not independent events |
 | Unknown endings | 62 | Current envelopes with unknown outcome |
 | Initial codes | 234 current | 235 versions retained |
-| Tests | 50 | Released tests; the original 61 included 11 checks of private project files |
+| Tests | 53 | Released tests, including three copied-folder identity checks; the original 61 included 11 checks of private project files |
 
 ## Limits and next work
 

@@ -3,7 +3,7 @@
   "slug": "grounded-theory",
   "title": "Grounded Theory",
   "appendix_item": 5,
-  "website": "https://textdata.info/toolkit/grounded-theory/",
+  "documentation": "README.md",
   "release": "Proposal prototype: see README.md for use and limits.",
   "status": {
     "built": true,
@@ -13,7 +13,7 @@
   "contents": [
     {
       "path": "tool/",
-      "what": "the toolkit's agent skill: instructions, six references, eight schemas, three helpers, three templates, a synthetic fixture and input text, two test files (50 tests)",
+      "what": "the toolkit's agent skill: instructions, six references, eight schemas, three helpers, three templates, a synthetic fixture and input text, two test files (53 tests)",
       "edition": "release edition; modifications noted in CHANGES.md"
     },
     {
@@ -83,8 +83,8 @@
     },
     {
       "command": "python3 -B -m unittest discover -s tests (run in tool/)",
-      "needs": "jsonschema; the folder inside a Git checkout (the helpers record the Git revision and refuse to run without one)",
-      "expects": "OK, 50 tests"
+      "needs": "jsonschema; macOS, Linux or WSL; ordinary copied tool files are supported without Git history",
+      "expects": "OK, 53 tests"
     }
   ],
   "data": [
@@ -225,17 +225,17 @@
     }
   ],
   "file_count": 66,
-  "size_bytes": 797815,
+  "size_bytes": 800850,
   "files": [
     {
       "path": "AI-PROMPT.md",
-      "bytes": 1208,
-      "sha256": "534ad9b7b05389b0126a986ad175e4736beb2429d38254bff5b71689d68fa1b4"
+      "bytes": 1441,
+      "sha256": "95d72836e08d962ec80e54c01f28be1e2edd973cae4cb66c7f174f6278fac5ec"
     },
     {
       "path": "CHANGES.md",
-      "bytes": 1335,
-      "sha256": "7ab576e233ad1af9043b785181714c15f3e9ea672d84b5c1b242cc5488d2e3af"
+      "bytes": 1840,
+      "sha256": "a93e358b15ba5bdc4ba42558dfb9b75e19f7d50bf841e47bf7f5b7aea923c351"
     },
     {
       "path": "NOTICE.md",
@@ -244,13 +244,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 5285,
-      "sha256": "6ae3ca22ae8e08688016824b43e65b86e28ef432d5a8a579a78b1760ac4b4efb"
+      "bytes": 5440,
+      "sha256": "bd9bf8e8ed284664d46c8a9f15ee305185a38f921b653a06e656ffae32a1c80e"
     },
     {
       "path": "checks/build_manifest.py",
-      "bytes": 8822,
-      "sha256": "ab864a1dd1dc5ecc01b6a5c188770e41cddd265c6d4c86804a6b087e14b831d3"
+      "bytes": 8772,
+      "sha256": "e98392d51902b576ec8054f413cf8e0539d58653143d97d68288f48da801e521"
     },
     {
       "path": "checks/verify_counts.py",
@@ -369,8 +369,8 @@
     },
     {
       "path": "tool/AGENT_STARTER.md",
-      "bytes": 2745,
-      "sha256": "07dd534d82e92542b3aafdfee0e4b4c61872fc1478de06e1c6fb86fc25a0ceda"
+      "bytes": 2811,
+      "sha256": "140218b282054a1d0627b6a040ae331e26cd8b018fb84148b8076bd84ced6026"
     },
     {
       "path": "tool/PROTOCOL.lock.json",
@@ -384,8 +384,8 @@
     },
     {
       "path": "tool/STATUS.md",
-      "bytes": 660,
-      "sha256": "9af3e31520a7df71a33dc95f1ce1d423eebc343a3c38b3aae2f580b814743857"
+      "bytes": 710,
+      "sha256": "ef3b79b7b349162cd7bd7da984f3f0b8664ebb874bfebdfb442acf1bf5f9ac18"
     },
     {
       "path": "tool/examples/synthetic/C001/CATEGORY_MEMOS.jsonl",
@@ -444,8 +444,8 @@
     },
     {
       "path": "tool/references/analysis-packet-contract.md",
-      "bytes": 6179,
-      "sha256": "77af1c065b437305ffdcbff88a4bfd4660af2c503e461d2320a47235f213d57c"
+      "bytes": 6443,
+      "sha256": "bf0d5351aa17a5c933538e01ff1bb0925ca61d9f63f89c49bec5643a9753c258"
     },
     {
       "path": "tool/references/grounded-theory-contract.md",
@@ -469,8 +469,8 @@
     },
     {
       "path": "tool/references/workflow.md",
-      "bytes": 8870,
-      "sha256": "4cd5ccbf93d7ae962b45caa97dbb8fe0a81ae9af98d556fe04b299e6698648cb"
+      "bytes": 9226,
+      "sha256": "0289d3a7d5108d34c9f481f3e8cac254277dfd4e9ec5569ce8ebf279baa5a34d"
     },
     {
       "path": "tool/requirements.txt",
@@ -479,53 +479,53 @@
     },
     {
       "path": "tool/schemas/category-memo.schema.json",
-      "bytes": 3109,
-      "sha256": "a80589ed9d88714820110e876960a4e59a3893366ee27af6a60ff41c0be1234e"
+      "bytes": 3091,
+      "sha256": "5953b1aab4790b75915d47dd8fc5054d28a12d94d4177234a027b3f683a7bf4f"
     },
     {
       "path": "tool/schemas/code.schema.json",
-      "bytes": 1064,
-      "sha256": "b3a9f073446827738eddd258dad3c7a386f07a3f1c961ce632609904560b805d"
+      "bytes": 1046,
+      "sha256": "44509cc426947deb46639157c68f88ba2c270c8be95db9bc37f74c0519e6e707"
     },
     {
       "path": "tool/schemas/comparison.schema.json",
-      "bytes": 1658,
-      "sha256": "b95a42f25ef4d177c12a41dafa19f0dc9335c4baced6eacdca6aa871477417c0"
+      "bytes": 1640,
+      "sha256": "b4d9fe077be7a52e8ce9c4c1eaeade3adfd034edbb1ef3cdcfefab1d786be978"
     },
     {
       "path": "tool/schemas/episode.schema.json",
-      "bytes": 1740,
-      "sha256": "0c14b53e60d58fa929ce0313dab83c1448a9be55df3f42c525da9b857fb19232"
+      "bytes": 1722,
+      "sha256": "ffddef06cc9a86b05a69aa192f99e2ab25f97c47a78c50b3b52d697909929dfe"
     },
     {
       "path": "tool/schemas/incident.schema.json",
-      "bytes": 3685,
-      "sha256": "ac77c78a327666018e49e111ec4c0dd1e93cf75cea0a2ab57446c875e95e0c70"
+      "bytes": 3667,
+      "sha256": "3ae182d10c1f30db42a282ca5a3dbb2f7d0df480fe96ca4f0fb5811d09f1e659"
     },
     {
       "path": "tool/schemas/manifest.schema.json",
-      "bytes": 3548,
-      "sha256": "0f18eda4c94ced82b93fb84a0a21ecf25f1b411e04c683521cac6cd406d2a367"
+      "bytes": 3597,
+      "sha256": "437a0c2f380baec2a9ad5b9ee662b26a95965091c4464969f6fb6de64971e52d"
     },
     {
       "path": "tool/schemas/memo.schema.json",
-      "bytes": 1447,
-      "sha256": "218738902a10f384f77cc0db16fb88e9bde7f48b064059e330a9ae31e8537365"
+      "bytes": 1429,
+      "sha256": "3c89e3ba0f1f873860f31460fd37a82802349e8b17811572e442332fe9d33849"
     },
     {
       "path": "tool/schemas/sampling-request.schema.json",
-      "bytes": 3536,
-      "sha256": "9f285322e290af0f475636e040dbb1a116a7e8a7461b789dd95e2a878c17636d"
+      "bytes": 3518,
+      "sha256": "b69ccc78c5e72567c37ef7ff8095a87ed2233a16ef4b175db07974994ceb0d64"
     },
     {
       "path": "tool/scripts/analysis_cycle.py",
-      "bytes": 11727,
-      "sha256": "03720325cecb33ca051cb1761d231399cee39ae5df178a5b8939eff18cee23d4"
+      "bytes": 11539,
+      "sha256": "39e66ebf82a28ec6e38f6dc1b9831874c969c32a8b7c27d3f8427f8c934744fa"
     },
     {
       "path": "tool/scripts/source_bound.py",
-      "bytes": 10881,
-      "sha256": "b3df09910c2682c2b369e25f2f06c9cb32139b441a08067b0dce0c2dff4f5c10"
+      "bytes": 11100,
+      "sha256": "eca6e318008bc57ad1ce199e7cc95019fce193955735360d918657227e1a093c"
     },
     {
       "path": "tool/scripts/validate_analysis_packet.py",
@@ -549,8 +549,8 @@
     },
     {
       "path": "tool/tests/test_source_bound_workflow.py",
-      "bytes": 9445,
-      "sha256": "0235f4620bc274684cc2f89881a16ef0067f15267b4b00a282e0bb6a090813fa"
+      "bytes": 10947,
+      "sha256": "0fd493eb47d3a0069037561f87ac48b30ed391815929a89091345d6ada9e17f3"
     },
     {
       "path": "tool/tests/test_validate_analysis_packet.py",

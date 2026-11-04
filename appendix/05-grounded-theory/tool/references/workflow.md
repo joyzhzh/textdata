@@ -4,9 +4,13 @@ Use `scripts/analysis_cycle.py` from this skill directory. It invokes no model,
 network service, contact or source acquisition. Codex performs the interpretation
 and writes proposed rows; the helper preserves bytes and checks declared links.
 Use a Python 3.9+ interpreter with `jsonschema` (the existing validator dependency).
-The installed skill is a link to its durable Git checkout; source HEAD and a
-runtime-tree SHA-256 are recorded, so uncommitted implementation bytes are not
-misrepresented as the HEAD commit alone.
+The tool can run from an ordinary copied folder without Git. New cycles record
+`tool_revision: snapshot-sha256:<hash>` and the same `tool_tree_sha256`, computed
+from the relative paths and SHA-256 hashes of SKILL.md, PROTOCOL.lock.json and
+the files in scripts/, schemas/, references/ and templates/ (excluding Python
+bytecode caches). This identifies the supplied runtime bytes, not a Git commit.
+Moving an unchanged tool folder preserves its identity; editing a runtime file
+changes it. Legacy cycle manifests retain their historical revision values.
 
 ## Authorized input configuration
 

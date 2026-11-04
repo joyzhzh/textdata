@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://textdata.info/toolkit/grounded-theory/schemas/incident.schema.json",
+  "$id": "urn:textdata:grounded-theory:schema:incident.schema.json",
   "title": "Grounded Theory incident",
   "type": "object",
   "required": [

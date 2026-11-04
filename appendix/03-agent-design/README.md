@@ -1,6 +1,6 @@
 # AI research systems and agent design
 
-[Explore the databases](https://textdata.info/foundation/ai-research-systems/) · [All components](../README.md)
+[Agent-design browser](data/agent-design/index.html) · [All components](../README.md)
 
 Two searchable databases connect research requirements to technical design options, keeping mechanisms, evidence and limitations alongside proposed uses in TextData.
 

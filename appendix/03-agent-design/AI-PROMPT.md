@@ -2,10 +2,9 @@
 
 Help me use TextData's databases to examine technical options for my research.
 
-Page: https://textdata.info/foundation/ai-research-systems/
-Repository: https://github.com/joyzhzh/textdata/tree/main/appendix/03-agent-design
+Use the supplied files in `appendix/03-agent-design/` (or the attached component folder). All paths below are relative to that folder; [README.md](README.md) is the starting point. If a needed file is unavailable, identify it and ask me to provide it; do not infer its contents.
 
-Read the public page and the folder's README.md. Start with data/agent-design/index.html or data/agent-design/data/catalogue.json, then example/output/AD-014.md. Explain how the LangGraph persistence record separates a saved execution position from protection against repeated external actions. Connect its proposed restart test to the unconfirmed issue report, preserving that uncertainty.
+Read `README.md`. Start with data/agent-design/index.html or data/agent-design/data/catalogue.json, then example/output/AD-014.md. Explain how the LangGraph persistence record separates a saved execution position from protection against repeated external actions. Connect its proposed restart test to the unconfirmed issue report, preserving that uncertainty.
 
 Help me browse or compare relevant design records and explore data/systems-survey/survey-index.csv. If local execution is available, use the existing Python helper, for example:
 
